@@ -16,11 +16,9 @@
 <icon BUILTIN="bookmark"/>
 <node COLOR="#111111" CREATED="1426048760790" ID="ID_75891991" MODIFIED="1426051961208" TEXT="A partir de diez d&#xed;gitos:0,1,2,3,4,5,6,7,8 y 9">
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#111111" CREATED="1426048797278" ID="ID_1060078702" MODIFIED="1426051982023" TEXT="de acuerdo a su posici&#xf3;n">
+<node COLOR="#111111" CREATED="1426048797278" ID="ID_1060078702" MODIFIED="1426385648179" TEXT="de acuerdo con su posici&#xf3;n">
 <icon BUILTIN="bookmark"/>
-<node COLOR="#111111" CREATED="1426048820718" ID="ID_1783405394" MODIFIED="1426051982578" TEXT="Un grupo de diez elementos forma una unidad de orden o posici&#xf3;n mayor">
-<node COLOR="#111111" CREATED="1426048847608" ID="ID_1846447602" MODIFIED="1426051223977" TEXT="*10u=1d  *10d=1c *10c=1um *10um=1dm * 10dm=1cm *10dm=1uM *10uM=1dM *10dM=1cM"/>
-</node>
+<node COLOR="#111111" CREATED="1426048820718" ID="ID_1783405394" MODIFIED="1426051982578" TEXT="Un grupo de diez elementos forma una unidad de orden o posici&#xf3;n mayor"/>
 </node>
 </node>
 </node>
@@ -154,16 +152,10 @@
 <node COLOR="#00b439" CREATED="1426051263828" ID="ID_774074413" MODIFIED="1426051651602" TEXT="Sistema de numeraci&#xf3;n egipcio">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1426052184021" ID="ID_1325301337" MODIFIED="1426052204301" TEXT="(Quiero poner la imagen de los s&#xed;mbolos de los egipcio)">
-<font NAME="SansSerif" SIZE="14"/>
-</node>
 </node>
 <node COLOR="#00b439" CREATED="1426051634983" ID="ID_749903695" MODIFIED="1426051643936" TEXT="Sistema de numeraci&#xf3;n romano">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1426052210794" ID="ID_681060548" MODIFIED="1426052227010" TEXT="(Quiero poner la imagen de los n&#xfa;meros romanos)">
-<font NAME="SansSerif" SIZE="14"/>
-</node>
 </node>
 </node>
 </node>
