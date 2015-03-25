@@ -5,46 +5,27 @@
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node">
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right">
-<stylenode LOCALIZED_TEXT="default" MAX_WIDTH="600" COLOR="#000000" STYLE="as_parent">
-<font NAME="SansSerif" SIZE="10" BOLD="false" ITALIC="false"/>
-</stylenode>
+<stylenode LOCALIZED_TEXT="default" COLOR="#000000" STYLE="as_parent" MAX_WIDTH="600"/>
 <stylenode LOCALIZED_TEXT="defaultstyle.details"/>
 <stylenode LOCALIZED_TEXT="defaultstyle.note"/>
 <stylenode LOCALIZED_TEXT="defaultstyle.floating">
-<edge STYLE="hide_edge"/>
-<cloud COLOR="#f0f0f0" SHAPE="ROUND_RECT"/>
+<cloud COLOR="#f0f0f0" SHAPE="ARC"/>
 </stylenode>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.user-defined" POSITION="right">
-<stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork">
-<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
-</stylenode>
-<stylenode LOCALIZED_TEXT="styles.subtopic" COLOR="#cc3300" STYLE="fork">
-<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
-</stylenode>
-<stylenode LOCALIZED_TEXT="styles.subsubtopic" COLOR="#669900">
-<font NAME="Liberation Sans" SIZE="10" BOLD="true"/>
-</stylenode>
+<stylenode LOCALIZED_TEXT="styles.topic" COLOR="#18898b" STYLE="fork"/>
+<stylenode LOCALIZED_TEXT="styles.subtopic" COLOR="#cc3300" STYLE="fork"/>
+<stylenode LOCALIZED_TEXT="styles.subsubtopic" COLOR="#669900"/>
 <stylenode LOCALIZED_TEXT="styles.important">
-<icon BUILTIN="yes"/>
+<icon BUILTIN="icon_not_found"/>
 </stylenode>
 </stylenode>
 <stylenode LOCALIZED_TEXT="styles.AutomaticLayout" POSITION="right">
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000">
-<font SIZE="18"/>
-</stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff">
-<font SIZE="16"/>
-</stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439">
-<font SIZE="14"/>
-</stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#990000">
-<font SIZE="12"/>
-</stylenode>
-<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111">
-<font SIZE="10"/>
-</stylenode>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level.root" COLOR="#000000"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,1" COLOR="#0033ff"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,2" COLOR="#00b439"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,3" COLOR="#990000"/>
+<stylenode LOCALIZED_TEXT="AutomaticLayout.level,4" COLOR="#111111"/>
 </stylenode>
 </stylenode>
 </map_styles>
@@ -55,9 +36,9 @@
 <node TEXT="El cero" ID="ID_1840039198" CREATED="1425683715359" MODIFIED="1425683720316"/>
 <node TEXT="Los opuestos de los naturales" ID="ID_1786017701" CREATED="1424249645758" MODIFIED="1425683714123" HGAP="38" VSHIFT="15"/>
 </node>
-<node TEXT="Se emplean en" POSITION="right" ID="ID_772991031" CREATED="1424249678581" MODIFIED="1425684150577" HGAP="29" VSHIFT="-18">
+<node TEXT="Se emplean en" POSITION="right" ID="ID_772991031" CREATED="1424249678581" MODIFIED="1426984820959" HGAP="29" VSHIFT="-18">
 <icon BUILTIN="wizard"/>
-<node TEXT="Las matem&#xe1;ticas" ID="ID_1558331898" CREATED="1425683907084" MODIFIED="1425684144270" HGAP="10" VSHIFT="-10">
+<node TEXT="Las matem&#xe1;ticas" ID="ID_1558331898" CREATED="1425683907084" MODIFIED="1426984784492" HGAP="10" VSHIFT="-10">
 <node TEXT="El plano cartesiano" ID="ID_305472905" CREATED="1424249709394" MODIFIED="1425684144268" HGAP="55" VSHIFT="-21"/>
 <node TEXT="La recta num&#xe9;rica" ID="ID_1472455925" CREATED="1424249698664" MODIFIED="1424249775180" HGAP="52" VSHIFT="-16"/>
 <node TEXT="Valor absoluto" ID="ID_1748418924" CREATED="1424249524005" MODIFIED="1425684137659" HGAP="57" VSHIFT="11"/>
