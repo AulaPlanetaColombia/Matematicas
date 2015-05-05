@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="MA_08_01_CO">
+<libroTitulo>Los Números reales propiedades y operaciones</libroTitulo>
+<seccion1 id="S1_MA_08_01_CO_F108E992D5654721A0A9E2322AD382DF">
+<seccion1Titulo>Los números racionales</seccion1Titulo>
+<seccion1Texto>
+<p>La idea de número racional surge de dividir un todo en partes iguales,
+como por ejemplo un cuarto de hora, media naranja, tres cuartos de
+mantequilla.</p>
+<p>El conjunto de los números racionales se simboliza con la letra <formula
+src="MA_08_01_001.gif"></formula>y se define como el cociente entre
+dos números enteros, es decir: <formula src="MA_08_01_002.gif">
+</formula></p>
+<recuerda><recuerdaTexto>
+<p>Cuando un número racional se expresa como una fracción, el dividendo
+se denomina numerador y el divisor se llama denominador. Los números
+racionales contienen a los números enteros, debido a que cada entero
+se puede escribir como una fracción. <formula src="MA_08_01_003.gif">
+</formula></p>
+</recuerdaTexto></recuerda>
+<p>Todo número racional se puede expresar como una fracción, o como
+un decimal, esto depende de la utilidad y de la necesidad en cada
+caso. Por ejemplo, para decir que una chocolatina se ha dividido en
+partes iguales y se han tomado algunas de ellas, conviene escribir
+esa cantidad como una fracción, pero si se quiere medir el tiempo
+que tarda un atleta en recorrer 100 metros, es más útil escribir la
+cantidad de tiempo como un decimal. </p>
+<imagen src="MA_08_01_CO_img_01_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<seccion2 id="S2_MA_08_01_CO_499B3B15AAC245DF9E3B25A375AFA02F">
+<seccion2Titulo>Los números racionales como una fracción</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso010&amp;IdRecurso=RES-C4E082E4B786453B837084DF3D275B02"
+>Refuerza tu aprendizaje: tipos de fracciones</enlace>
+</practica><seccion3
+id="S3_MA_08_01_CO_E91691ED8DDD4A12A49F3A15501BA186">
+<seccion3Titulo>¿Cómo se convierte una fracción en un decimal?</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_02_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_D3399D1BF4F14E538713C0924CFFE87B">
+<seccion3Titulo>Los números racionales como un decimal</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso020&amp;IdRecurso=RES-756C0FDED12C4D3EB8F576876E6D8325"
+>Identifica la forma decimal de un número</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_2501B59884E8436CB9CFCF53E9C73913">
+<seccion3Titulo>¿Cómo se convierte un decimal en una fracción?</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso030&amp;IdRecurso=RES-40EBA04568484668B7912EA2DE8158C3"
+>Los números racionales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso040&amp;IdRecurso=RES-9C9F5D1A2D25405E909BFE3AC3C6AE5C"
+>Expresión decimal y fraccionaria de los números racionales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_19FDFEB2F8684C808C783D46446E6BBF">
+<seccion2Titulo>La representación de los números racionales sobre
+la recta numérica</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_03_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<seccion3 id="S3_MA_08_01_CO_2113B5E0BF51426F9F7748DDD62B4D32">
+<seccion3Titulo>Las fracciones en la recta numérica</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_04_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_05_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_047BF14C96C74C1098CFC9D63CBFF26E">
+<seccion3Titulo>Los decimales en la recta numérica</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_06_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso050&amp;IdRecurso=RES-80E47F72E3BC44079052825DCD0BD311"
+>Los números racionales en la recta numérica</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso060&amp;IdRecurso=RES-5F8067EED90342D58360183125D9D606"
+>Practica la representación de números racionales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_A3CB94128EE745D4BBE15E962FCBF04B">
+<seccion2Titulo>El orden en los números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_07_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<imagen src="MA_08_01_CO_img_08_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<imagen src="MA_08_01_CO_img_09_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_MA_08_01_CO_6256BE44A3444D708028B8FCC57E69C9">
+<seccion3Titulo>¿Cómo ordenar números en la recta numérica?</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso070&amp;IdRecurso=RES-5D5DE7D2CC0140FAA0C2097DB0A11CA3"
+>Orden en el conjunto de los números racionales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_1EEB207628E24071A76FE406670A7C25">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso080&amp;IdRecurso=RES-97589D37D86842BAB7A71B5E86788573"
+>Refuerza tu aprendizaje: Los números racionales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_B0E3054C727D48FFBE7D0F19DD3147EC">
+<seccion1Titulo>Operaciones en el conjunto de los números racionales</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_MA_08_01_CO_D81E7A53014644E392E5C5D55BA3D390">
+<seccion2Titulo>La adición y sustracción de números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso090&amp;IdRecurso=RES-55ABB444E1BE4438802991C005F33730"
+>La adición con números racionales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_2B8349E089B141E4BC758A15A31B4D3D">
+<seccion2Titulo>La multiplicación de números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_F24443F1D6104F999AFD76B458F97D49">
+<seccion2Titulo>División de números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_10_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso100&amp;IdRecurso=RES-D6C1F5B4150944B5B2B6E7F9D6B44022"
+>La multiplicación y la división con números racionales</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso110&amp;IdRecurso=RES-D6511E6077744E6897C4B84F853438EE"
+>Las operaciones con números racionales y su jerarquía</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso120&amp;IdRecurso=RES-350BB5CD6507435A8AAEDE588296268B"
+>Refuerza tu aprendizaje: operaciones con números racionales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_65FF102B262F467DA9EE68C5F55597AD">
+<seccion1Titulo>El conjunto de los números irracionales</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_11_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_MA_08_01_CO_9CF5416A0473466CA72C6DEDBC11EF6A">
+<seccion2Titulo>Algunos números irracionales importantes</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_B282B5683AFD4A99B6FF164582033D00">
+<seccion2Titulo>Clasificación de los números irracionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_165F070A211D4592A1DBCA8C2D6E7402">
+<seccion2Titulo>Aproximación de los números irracionales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_74DE20E79BE143C680286D43CEDED0B4">
+<seccion2Titulo>Los números irracionales en la recta numérica</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_12_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso130&amp;IdRecurso=RES-5CA1C734C29846D9A5E908A3C9E7BF0A"
+>Los números irracionales. El número áureo</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso140&amp;IdRecurso=RES-BC9332EA921C48DB8C05452BDBF1C53B"
+>Refuerza tu aprendizaje: Números irracionales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_885EDCC408694F8A8DD1D7BC5A5C7F88">
+<seccion1Titulo>Los números reales</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_13_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<seccion2 id="S2_MA_08_01_CO_D9A8BF97D7414F68B9378D2D5D017215">
+<seccion2Titulo>La representación de los números reales en la recta
+numérica</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_08_01_CO_img_14_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_3F28B0E7E4734E6F9C0C3EB52BFB5F45">
+<seccion2Titulo>Orden en los números reales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_MA_08_01_CO_7A1E55DBA38D4D5FB3B64BB9E621537B">
+<seccion3Titulo>Propiedades del orden en los números reales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso150&amp;IdRecurso=RES-B99482DEBA2F4160B122B7554938042F"
+>Orden en los números reales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_C716BBD943D94E4484D65D88B3D2D54B">
+<seccion2Titulo>Operaciones con números reales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_MA_08_01_CO_A1F89FC846964C8CA436747FB7023487">
+<seccion3Titulo>La adición de números reales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_C9659102EE3B486BAAF3CD3925F11497">
+<seccion3Titulo>Multiplicación de números reales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso160&amp;IdRecurso=RES-93945EA60FFC495BAA73AFBE0FA39411"
+>Refuerza tu aprendizaje: Operaciones combinadas con números reale</enlace>
+</practica></seccion3Texto></seccion3>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso170&amp;IdRecurso=RES-2995130AE5C6467F9A324DC3F40D63C3"
+>Refuerza tu aprendizaje: Operaciones con números reales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_A8E6C1630F614A76BBC3383271C0365D">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso180&amp;IdRecurso=RES-1812FEE1AB5D41CBA62C53088C38123F"
+>Competencias: Los números reales</enlace>
+</practica></seccion1Texto></seccion1><seccion1
+id="S1_MA_08_01_CO_6972770732B34C3298ED4EE4FA05CF36">
+<seccion1Titulo>Fin de tema</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+</seccion1Texto><mapaconceptual><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso190&amp;IdRecurso=RES-E4537E2846E348CCA8C38EFB4A476557"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso200&amp;IdRecurso=RES-DC1570C7ADF54EDB82AB3EA3554F22E9"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></seccion1></libro>

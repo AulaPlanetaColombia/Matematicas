@@ -30,8 +30,6 @@ se dice que no pertenece el conjunto y se utiliza el símbolo ∉.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso010&amp;IdRecurso=RES-029C92C07DA44B979E4087131B23F786"
 >Practica la relación de pertenencia y de no pertenencia</enlace>
-<p>Actividad que sirve para determinar cuándo un elemento pertenece
-o no a un conjunto </p>
 </practica>
 <imagen src="MA_05_01_CO_IMG02.jpg">
 <p>El lápiz y las tijeras pertenecen al conjunto de útiles de escritorio.</p>
@@ -44,8 +42,6 @@ símbolo ∈ y para indicar que un elemento no pertenece se usa el símbolo
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso020&amp;IdRecurso=RES-57900A134BF249DD955600BB90868B28"
 >Escribe los elementos que pertenecen a un conjunto</enlace>
-<p>Actividad que permite practicar la relación de pertenencia entre
-un elemento y un conjunto</p>
 </practica><seccion2
 id="S2_MA_05_01_CO_FFCA2C53B9CA4E2797EEB30515E20F66">
 <seccion2Titulo>Determinación de conjuntos</seccion2Titulo>
@@ -61,8 +57,6 @@ uno a uno. Por ejemplo:</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso030&amp;IdRecurso=RES-4CF8BE67D0C14CC194B4321E24498E95"
 >Practica la determinación de conjuntos por extensión</enlace>
-<p>Actividad que para practicar la determinación de un conjunto por
-extensión</p>
 </practica></seccion3Texto></seccion3><seccion3
 id="S3_MA_05_01_CO_B3977C31D0364AF3BB1AFC87FB7B4756">
 <seccion3Titulo>Determinación de un conjunto por comprensión</seccion3Titulo>
@@ -74,7 +68,6 @@ característica común a todos los elementos del conjunto. Por ejemplo:</p>
 número dígito; <cursiva>x</cursiva> representa cualquiera de los elementos
 que pertenecen al conjunto <cursiva>A</cursiva>.</p>
 <imagen src="MA_05_01_CO_IMG03.jpg">
-<p>Ave “Gallito de roca”</p>
 <p>Un pájaro puede agruparse con otros animales de su misma especie
 para formar un conjunto de aves.</p>
 </imagen>
@@ -84,8 +77,6 @@ para formar un conjunto de aves.</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso040&amp;IdRecurso=RES-6000F9C0902B466EA9869C1D30860EC3"
 >¿Cómo se determina un conjunto por extensión y por comprensión?</enlace>
-<p>Interactivo que explica la determinación de conjuntos por extensión
-y por comprensión</p>
 </profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_MA_05_01_CO_7E7F4AC4704C464EA17D6E3ED98BD65B">
 <seccion2Titulo>Representación de conjuntos</seccion2Titulo>
@@ -93,7 +84,6 @@ y por comprensión</p>
 <p>Los <negrita>conjuntos</negrita> se pueden representar gráficamente
 mediante <negrita>diagramas de Venn</negrita>. Estos diagramas encierran
 con una línea los elementos del conjunto.</p>
-<p>Representación gráfica de un conjunto mediante un diagrama de Venn.</p>
 <imagen src="MA_05_01_CO_IMG04.jpg">
 <p>Representación gráfica de los números dígitos.</p>
 </imagen>
@@ -106,23 +96,21 @@ id="S2_MA_05_01_CO_FCBC745B66AB4EEB96B02D5B060BA84D">
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso050&amp;IdRecurso=RES-C6D85D47DB7E40A8ACD9D2E85BC7B048"
 >Ejemplos de determinación de conjuntos</enlace>
-<p>Interactivo que explica con ejemplos la determinación de un conjunto
-por comprensión y por extensión </p>
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso060&amp;IdRecurso=RES-6F9C12C2F6DF41D4A271CB20AB0585E2"
 >Refuerza tu aprendizaje: Determinación de conjuntos por comprensión
 y por extensión</enlace>
-<p>Actividades que sirven para practicar la determinación de un conjunto
-por comprensión y por extensión </p>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_05_01_CO_976A55B778654A8296F9409FCB34A854">
 <seccion1Titulo>Tipos de conjuntos</seccion1Titulo>
 <seccion1Texto>
-<p>Según la cantidad de elementos, un conjunto puede ser:  </p>
-<listaSinNumerar>•	Conjunto infinito •	Conjunto finito •	Conjunto
-vacío •	Conjunto unitario •	Conjunto universal o referencial
-</listaSinNumerar>
+<p>Según la cantidad de elementos, un conjunto puede ser: </p>
+<p>Conjunto infinito</p>
+<p> Conjunto finito </p>
+<p>Conjunto vacío  </p>
+<p>Conjunto unitario </p>
+<p>Conjunto universal o referencial</p>
 <seccion2 id="S2_MA_05_01_CO_0D193A2125814B0D90AC65172F6BD6DC">
 <seccion2Titulo>Conjunto infinito</seccion2Titulo>
 <seccion2Texto>
@@ -141,7 +129,6 @@ id="S2_MA_05_01_CO_A293B837A7444262A784EB7985A9688A">
 <seccion2Titulo>Conjunto finito</seccion2Titulo>
 <seccion2Texto>
 <p>Un conjunto finito es un conjunto que no es infinito.</p>
-<p>Manos de niños.</p>
 <imagen src="MA_05_01_CO_IMG05.jpg">
 <p>De acuerdo con la cantidad de elementos un conjunto puede ser finito
 y, por lo tanto, sus elementos se pueden contar.</p>
@@ -149,7 +136,6 @@ y, por lo tanto, sus elementos se pueden contar.</p>
 <p>Los conjuntos son <negrita>finitos</negrita> cuando se pueden contar
 todos sus elementos y al determinarlos por extensión se pueden escribir
 todos los elementos que lo conforman.</p>
-<p>Conjunto finito </p>
 <imagen src="MA_05_01_CO_IMG06.jpg">
 <p>Conjunto de las vocales. </p>
 </imagen>
@@ -167,11 +153,10 @@ pares e impares al mismo tiempo, es decir, </p>
 <p><cursiva>H</cursiva> = {<cursiva>x/x</cursiva> es un número par
 e impar}</p>
 <p>Los conjuntos vacíos se pueden representar así:</p>
-<listaSinNumerar>Con corchetes, sin colocar elementos en su interior.
- H = {    }
-<br/> 	Con la letra griega phi.  H = { Φ }	
-<br/>En un diagrama de Venn dejando el conjunto sin elementos.
-</listaSinNumerar>
+<p>Con corchetes, sin colocar elementos en su interior.  H = {   
+} </p>
+<p>	Con la letra griega phi.  H = { Φ }	 </p>
+<p>En un diagrama de Venn dejando el conjunto sin elementos. </p>
 <imagen src="MA_05_01_CO_IMG07.jpg">
 <p>El conjunto H es un conjunto vacío.</p>
 </imagen>
@@ -204,7 +189,7 @@ una letra del alfabeto}</p>
 <p>Un conjunto referencial o universal es el conjunto que se usa como
 referencia para otros conjuntos.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso080&amp;IdRecurso=RES-F70C7E003CC144239574D35CD3809C12"
@@ -421,17 +406,20 @@ son disjuntos porque <cursiva>A</cursiva> ∩ <cursiva>B</cursiva> =
 id="S3_MA_05_01_CO_11E396358903484BACE7FA0142027BA7">
 <seccion3Titulo>Conjuntos intersecantes</seccion3Titulo>
 <seccion3Texto>
-<p>Por ejemplo, los conjuntos P = {x/x es un múltiplo de 2 menor que
-13} y Q = {x/x es un múltiplo de 3 menor que 13} son intersecantes
-porque tienen en común los elementos 6 y 12. Es decir, P ∩ Q = {6,
-12}. </p><?Pub Caret 191?>
-</seccion3Texto></seccion3><seccion3
-id="S3_MA_05_01_CO_1F9DC14FAE134184B7F308870844B8DD">
-<seccion3Titulo>Practica</seccion3Titulo>
-<seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-</seccion3Texto></seccion3>
-<p>Aquí va un PÁRRAFO</p>
+<p>Por ejemplo, los conjuntos <cursiva>P</cursiva> = {<cursiva>x/x</cursiva
+> es un múltiplo de 2 menor que 13} y <cursiva>Q</cursiva> = {<cursiva
+>x/x</cursiva> es un múltiplo de 3 menor que 13} son intersecantes
+porque tienen en común los elementos 6 y 12. Es decir, <cursiva>P</cursiva
+> ∩ <cursiva>Q</cursiva> = {6, 12}. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso190&amp;IdRecurso=RES-80E0106097CE4DBAA89856CB60CBE3F0"
+>Practica las relaciones que se dan entre conjuntos</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_05_01_CO_1F9DC14FAE134184B7F308870844B8DD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección. </p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso200&amp;IdRecurso=RES-2A86E7C1D5CC49838AA9FDD3E7C51D9D"
@@ -440,8 +428,7 @@ destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso200&amp;IdRecurso=RES-2A86E7C
 <seccion1 id="S1_MA_05_01_CO_3A28D386885B43A793494160042EB7E8">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso210&amp;IdRecurso=RES-5A080A0F9B644ADF9337031C45A68D14"
@@ -455,15 +442,21 @@ destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso220&amp;IdRecurso=RES-8F3E83D
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso230&amp;IdRecurso=RES-C952298B21534A8C94746579D811D8EE"
 >Competencias: aplicación de tipos de conjuntos y operaciones y relaciones
 entre conjuntos</enlace>
-</practica></seccion1Texto></seccion1><seccion1
-id="S1_MA_05_01_CO_AEC573E75DFE43B9ADBC6A984333673C">
-<seccion1Titulo>Fin de tema</seccion1Titulo>
-<seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-</seccion1Texto><mapaconceptual><enlace
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_MA_05_01_CO_AEC573E75DFE43B9ADBC6A984333673C"><mapaconceptual>
+<enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso240&amp;IdRecurso=RES-F3F156CCF24D4352A5688418078CE9E8"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><?Pub Dtl?>
+<enlace
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso250&amp;IdRecurso=RES-C7B4ED503FCA4A0BBFA896115B50EAC2"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
+>Evaluación</enlace></autoevaluate><enlacesreferencia><?Pub Dtl?>
 <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-</enlacesreferencia></seccion1></libro>
+<enlace destino="http://zunal.com/webquest.php?w=23443">Clases de
+conjuntos</enlace>
+<enlace
+destino="http://www.gcfaprendelibre.org/matematicas/curso/los_conjuntos/entender_los_conjuntos/1.do"
+>Los conjuntos</enlace>
+<enlace
+destino="http://www.gcfaprendelibre.org/matematicas/curso/los_conjuntos/entender_los_conjuntos/1.do"
+>Teoría de conjuntos</enlace>
+</enlacesreferencia></masinformacion></libro>
