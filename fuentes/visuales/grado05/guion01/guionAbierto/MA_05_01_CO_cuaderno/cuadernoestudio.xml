@@ -11,7 +11,7 @@
 tienen una característica en común. Los elementos pueden ser números,
 personas, animales, ciudades, entre otros. Los conjuntos se pueden
 nombrar con letras mayúsculas y sus elementos  con letras minúsculas.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG01.jpg">
+<imagen src="MA_05_01_CO_IMG01.jpg">
 <p>En Matemáticas se habla de conjunto cuando se agrupan elementos
 u objetos que comparten características similares.</p>
 </imagen>
@@ -31,7 +31,7 @@ se dice que no pertenece el conjunto y se utiliza el símbolo ∉.</p>
 destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso010&amp;IdRecurso=RES-029C92C07DA44B979E4087131B23F786"
 >Practica la relación de pertenencia y de no pertenencia</enlace>
 </practica>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG02.jpg">
+<imagen src="MA_05_01_CO_IMG02.jpg">
 <p>El lápiz y las tijeras pertenecen al conjunto de útiles de escritorio.</p>
 </imagen>
 <recuerda><recuerdaTexto>
@@ -67,7 +67,7 @@ característica común a todos los elementos del conjunto. Por ejemplo:</p>
 <p>Se lee <cursiva>x</cursiva> tal que <cursiva>x</cursiva> es un
 número dígito; <cursiva>x</cursiva> representa cualquiera de los elementos
 que pertenecen al conjunto <cursiva>A</cursiva>.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG03.jpg">
+<imagen src="MA_05_01_CO_IMG03.jpg">
 <p>Un pájaro puede agruparse con otros animales de su misma especie
 para formar un conjunto de aves.</p>
 </imagen>
@@ -84,7 +84,7 @@ destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso040&amp;IdRecurso=RES-6000F9C
 <p>Los <negrita>conjuntos</negrita> se pueden representar gráficamente
 mediante <negrita>diagramas de Venn</negrita>. Estos diagramas encierran
 con una línea los elementos del conjunto.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG04.jpg">
+<imagen src="MA_05_01_CO_IMG04.jpg">
 <p>Representación gráfica de los números dígitos.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
@@ -129,14 +129,14 @@ id="S2_MA_05_01_CO_A293B837A7444262A784EB7985A9688A">
 <seccion2Titulo>Conjunto finito</seccion2Titulo>
 <seccion2Texto>
 <p>Un conjunto finito es un conjunto que no es infinito.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG05.jpg">
+<imagen src="MA_05_01_CO_IMG05.jpg">
 <p>De acuerdo con la cantidad de elementos un conjunto puede ser finito
 y, por lo tanto, sus elementos se pueden contar.</p>
 </imagen>
 <p>Los conjuntos son <negrita>finitos</negrita> cuando se pueden contar
 todos sus elementos y al determinarlos por extensión se pueden escribir
 todos los elementos que lo conforman.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG06.jpg">
+<imagen src="MA_05_01_CO_IMG06.jpg">
 <p>Conjunto de las vocales. </p>
 </imagen>
 <practica>
@@ -157,7 +157,7 @@ e impar}</p>
 } </p>
 <p>	Con la letra griega phi.  H = { Φ }	 </p>
 <p>En un diagrama de Venn dejando el conjunto sin elementos. </p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG07.jpg">
+<imagen src="MA_05_01_CO_IMG07.jpg">
 <p>El conjunto H es un conjunto vacío.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
@@ -169,7 +169,7 @@ el conjunto <cursiva>C</cursiva> es un conjunto unitario.</p>
 <p><cursiva>C</cursiva> = {<cursiva>x/x</cursiva> es un país llamado
 Colombia}</p>
 <p> <cursiva>C</cursiva> = {Colombia}</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG08.jpg">
+<imagen src="MA_05_01_CO_IMG08.jpg">
 <p>Un globo aerostático es un elemento que pertenece al conjunto de
 medios de transporte aéreo. </p>
 </imagen>
@@ -185,7 +185,7 @@ el alfabeto. Por lo general, este conjunto se simboliza con la letra <cursiva
 >U</cursiva>. </p>
 <p>En este caso, <cursiva>U</cursiva> = {<cursiva>x/x</cursiva> es
 una letra del alfabeto}</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG09.jpg">
+<imagen src="MA_05_01_CO_IMG09.jpg">
 <p>Un conjunto referencial o universal es el conjunto que se usa como
 referencia para otros conjuntos.</p>
 </imagen>
@@ -219,7 +219,7 @@ elementos que pertenecen a <cursiva>B</cursiva>. </p>
 > = {1, 2, 3, 4, 5}  </p>
 <p>Entonces, <cursiva>A</cursiva> ∪<cursiva> B</cursiva> = {a, r,
 o, 1, 2, 3, 4, 5}</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG10.jpg">
+<imagen src="MA_05_01_CO_IMG10.jpg">
 <p>El conjunto formado tanto por el conjunto de niñas como por el
 conjunto de niños se denomina conjunto unión.  </p>
 </imagen>
@@ -266,7 +266,7 @@ id="S2_MA_05_01_CO_A97F46BD15864A02B210CA363E502D0F">
 a <cursiva>A</cursiva> y no pertenecen a <cursiva>B</cursiva>.</p>
 <p>La diferencia entre los conjuntos <cursiva>A</cursiva> y<cursiva
 > B</cursiva> se nota <cursiva>A</cursiva> - <cursiva>B</cursiva>.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG11.jpg">
+<imagen src="MA_05_01_CO_IMG11.jpg">
 <p>Diferencia entre los conjuntos <cursiva>A</cursiva> y<cursiva> B</cursiva
 >.</p>
 </imagen>
@@ -288,7 +288,7 @@ los elementos comunes a ambos conjuntos.</p>
 los dos conjuntos menos la intersección de los mismos.  </p>
 <p>La diferencia simétrica entre los conjuntos A y B se nota A Δ B.</p>
 </destacadoTexto></destacado>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG12.jpg">
+<imagen src="MA_05_01_CO_IMG12.jpg">
 <p>Diferencia simétrica entre los conjuntos C y D.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
@@ -311,7 +311,7 @@ nota:<cursiva> A</cursiva><superindice>C</superindice> o <cursiva
 24, 32, 40}  Entonces,   <cursiva>A</cursiva><superindice>C</superindice
 > = {4, 12, 20, 28, 36}</p>
 </destacadoTexto></destacado>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG13.jpg">
+<imagen src="MA_05_01_CO_IMG13.jpg">
 <p>Complemento del conjunto Q.</p>
 </imagen>
 <practica>
@@ -346,7 +346,7 @@ intersecantes</seccion1Titulo>
 <seccion1Texto>
 <p>Entre dos conjuntos se pueden establecer <negrita>relaciones</negrita
 > de contenencia y de igualdad.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG14.jpg">
+<imagen src="MA_05_01_CO_IMG14.jpg">
 <p>El conjunto de peces está contenido en el conjunto de especies
 marinas. </p>
 </imagen>
@@ -367,7 +367,7 @@ se simboliza S ⊂ M. Por ejemplo, si   M = {10, 20, 30 40, 50, 60,
 = {2, 3, 5, 7, 11} se dice que T no es subconjunto de M porque no
 tienen elementos comunes. Se simboliza  T ⊄ M.	</p>
 </destacadoTexto></destacado>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG15.jpg">
+<imagen src="MA_05_01_CO_IMG15.jpg">
 <p>El conjunto E es subconjunto del conjunto F.</p>
 </imagen>
 <profundiza>
@@ -380,7 +380,7 @@ id="S2_MA_05_01_CO_C5A4271E67EC4364894C206AA264A1E3">
 <seccion2Texto>
 <p>Dos conjuntos son iguales cuando tienen exactamente los mismos
 elementos.</p>
-<imagen src="cuadernoestudio/images_xml/MA_05_01_CO_IMG16.jpg">
+<imagen src="MA_05_01_CO_IMG16.jpg">
 <p>El conjunto <cursiva>R</cursiva> es igual al conjunto <cursiva
 >S</cursiva>.</p><?Pub Caret -2?>
 </imagen>
