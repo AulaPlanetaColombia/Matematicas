@@ -65,7 +65,7 @@ altitud, aumento, ingresos, etc.  </p>
 cero se representan con números positivos: + $3 000 000 y + 19 °C,
 mientras las pérdidas y la temperatura por debajo de cero se indican
 con número negativos: – $5 000 000 y – 10 °C.</p>
-<imagen ampliable="no" src="MA_07_01_CO_IMG01.jpg">
+<imagen ampliable="no" src="MA_07_01_CO_IMG01.png"><?Pub Dtl?>
 <p>La temperatura que marca el termómetro es – 10 °C, es decir, es
 de 10 grados bajo cero.</p>
 </imagen>
@@ -110,7 +110,7 @@ de – 71 es + 71.</listaElemento>
 <p>Los números opuestos se pueden ubicar en la <negrita>recta numérica</negrita
 > de modo que la distancia desde cero (el punto de referencia) a un
 número positivo o negativo y su opuesto sea la misma.</p>
-<imagen src="MA_07_01_CO_IMG02.jpg">
+<imagen src="MA_07_01_CO_IMG02.png">
 <p>Los números 3 y – 3 son opuestos por estar a la misma distancia
 de cero y se caracterizan porque uno se ubica a su derecha y el otro
 a su izquierda.</p>
@@ -161,7 +161,7 @@ será el 0.</listaElemento>
 naturales (los <negrita>enteros negativos</negrita>), comenzando por
 – 1. La distancia de separación de un número a otro debe ser la misma.</listaElemento>
 </listaSinNumerar>
-<imagen src="MA_07_01_CO_IMG03.jpg">
+<imagen src="MA_07_01_CO_IMG03.png">
 <p>Observa cómo se representan los números enteros, positivos y negativos,
 sobre la <negrita>recta numérica.</negrita></p>
 </imagen>
@@ -188,7 +188,7 @@ destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso010&amp;IdRecurso=RES-72C4603
 de los números enteros en la recta numérica; en ellos aparece un registro
 de temperatura con valor <negrita>positivo</negrita> (imagen izquierda)
 y uno con valor <negrita>negativo</negrita> (imagen derecha).</p>
-<imagen src="MA_07_01_CO_IMG04.jpg">
+<imagen src="MA_07_01_CO_IMG04.png">
 <p>Los termómetros son un ejemplo del uso de la recta de números enteros.
 Observa que en ellos está el <negrita>cero</negrita>, el punto de
 referencia, los números<negrita> naturales</negrita> (a la derecha
@@ -230,7 +230,7 @@ opciones: </p>
 <listaElemento>– 4 está a la izquierda de – 1 y por ello – 4 es menor
 que – 1, lo que se escribe: – 4 &lt; – 1.</listaElemento>
 </listaSinNumerar>
-<imagen ampliable="no" src="MA_07_01_CO_IMG05.jpg">
+<imagen ampliable="no" src="MA_07_01_CO_IMG05.png">
 <p>Observa la imagen e identifica las relaciones de orden que hay
 entre los números, dos de ellas se indicaron en el párrafo anterior
 pero puedes establecer más.</p>
@@ -364,7 +364,7 @@ eje Y.</p>
 encuentra a una unidad del cero hacia la derecha en el eje X, pero
 a una altura de cuatro unidades hacia abajo desde el cero del eje
 Y. Observa la siguiente figura.</p>
-<imagen ampliable="no" src="MA_07_01_CO_IMG06.jpg">
+<imagen ampliable="no" src="MA_07_01_CO_IMG06.png">
 <p>Observa cómo se ubican las coordenadas "(5,3)"  y (1,-4) en el
 plano cartesiano.</p>
 </imagen>
@@ -387,10 +387,10 @@ negativa, el punto se ubica en el <negrita>cuarto cuadrante</negrita
 >. </listaElemento>
 </listaSinNumerar>
 </destacadoTexto></destacado>
-<imagen ampliable="no" src="MA_07_01_CO_IMG07.jpg">
+<imagen ampliable="no" src="MA_07_01_CO_IMG07.png">
 <p>Un sistema de coordenadas divide el plano cartesiano en 4 cuadrantes.
 Los puntos se ubican en cada cuadrante, según los valores numéricos
-de la abscisa y la ordenada.</p>
+de la abscisa y la ordenada.</p><?Pub Caret -2?>
 </imagen>
 <p>Haz clic en ver para afianzar el proceso de ubicar puntos en el
 plano cartesiano <enlace
