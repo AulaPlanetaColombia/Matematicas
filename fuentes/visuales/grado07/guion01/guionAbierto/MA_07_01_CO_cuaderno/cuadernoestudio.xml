@@ -1,247 +1,536 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="MA_07_01_CO">
-  <libroTitulo>Números enteros</libroTitulo>
-  <seccion1 id="S1_MA_07_01_CO_E9F459DE87F54A48820CFD9D9F05DC35">
-    <seccion1Titulo>El conjunto de los números enteros</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <seccion2 id="S2_MA_07_01_CO_B01C33F23D5E43AE989BCFD312CAFE77">
-        <seccion2Titulo>¿Cómo aparecen los números negativos?</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="MA_07_01_CO_img_01_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_MA_07_01_CO_6E80E12A203A4479BF74E291D615014A">
-        <seccion2Titulo>Los números opuestos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="MA_07_01_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_MA_07_01_CO_5A80120D3BE24D41A6C73076F8EFA771">
-        <seccion2Titulo>La definición de los números enteros</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_MA_07_01_CO_6FEA15050A54428C9B5D0891E7501168">
-        <seccion2Titulo>La representación de los números enteros en la recta numérica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="MA_07_01_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso010&amp;IdRecurso=RES-72C46031EDC44FF59E0260661E50D96D">Construcción de una recta numérica</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="MA_07_01_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso020&amp;IdRecurso=RES-6731291F539F4EAAA823E9B84A6DEB27">¿Cómo hacer una recta numérica?</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_MA_07_01_CO_87099232F59D405397CDA00FA3DA1337">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso030&amp;IdRecurso=RES-60F8F4E89DFE46F293C46B97D4046914">Refuerza tu aprendizaje: ubicación de números enteros y situaciones en las que se usan</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso070&amp;IdRecurso=RES-688790C8734641F6B24F7D1837734B7C">Refuerza tu aprendizaje: orden en el conjunto de los números enteros</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_MA_07_01_CO_40924B39357A437685B5FAC4D2FC5EB5">
-    <seccion1Titulo>Las relaciones de orden en los números enteros</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="MA_07_01_CO_img_05_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso040&amp;IdRecurso=RES-57176EAD243949A2BD32F063E6F72693">¿Mayor o menor en la recta?</enlace>
-      </practica>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso050&amp;IdRecurso=RES-A7C37FCAD0AD4436B0B2B78D77EA2358">Ordena números enteros</enlace>
-      </practica>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso060&amp;IdRecurso=RES-0BA712CC218642BEA89B02E751EA7238">Ordena de menor a mayor números enteros</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_MA_07_01_CO_DC0A7EAB433B463789A5D20216BEBC2D">
-    <seccion1Titulo>¿Para qué sirven los números enteros?</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso080&amp;IdRecurso=RES-9FC517970FFD474EB8BBB2B769065B70">Lo esencial de los números enteros</enlace>
-      </profundiza>
-      <seccion2 id="S2_MA_07_01_CO_3BCB983D347446D39DB3C6C6D915AD4C">
-        <seccion2Titulo>La aplicación de los números enteros en las matemáticas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso090&amp;IdRecurso=RES-4D433EEEBC7B491281037AE5FA21AD53">Completa la serie de números de enteros</enlace>
-          </practica>
-          <seccion3 id="S3_MA_07_01_CO_6BD088448EEA43B4AA92194CE76EE4F0">
-            <seccion3Titulo>La representación de puntos en el plano cartesiano</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="MA_07_01_CO_img_06_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <imagen src="MA_07_01_CO_img_07_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <p>Aquí va un PÁRRAFO</p>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso100&amp;IdRecurso=RES-3C983B51FE1F4E7AA99115A11EA2DF5A">Parejas ordenadas</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_MA_07_01_CO_F97D26F84BBB4B9882CE5A4124D7608E">
-            <seccion3Titulo>El valor absoluto</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="MA_07_01_CO_img_08_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso110&amp;IdRecurso=RES-713973B94E644638B8D73DEE9BED89B8">¿Qué sabes de valores absolutos y opuestos?</enlace>
-              </practica>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso120&amp;IdRecurso=RES-12137047A9914039938C0C6E2CD169F7">Encuentra la pareja de números enteros</enlace>
-              </practica>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso130&amp;IdRecurso=RES-2029782AF9AC49509A6145175CA55964">El valor absoluto y opuesto de un número entero</enlace>
-              </profundiza>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_MA_07_01_CO_A0FC0DD5F9AF42C0845C8F4852661046">
-        <seccion2Titulo>La aplicación de los números enteros en la vida cotidiana</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso140&amp;IdRecurso=RES-D8D00E8ABF9E488681427A2BF60C669D">Piensa en relación a los números enteros</enlace>
-          </practica>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso150&amp;IdRecurso=RES-80B163AB9111497CB16F0D253ECBC353">¿Qué sabes de los números enteros?</enlace>
-          </practica>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso160&amp;IdRecurso=RES-6B5C7E693F434A93A7FD5A14B9111981">¿Restas con resultado natural o entero?</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso170&amp;IdRecurso=RES-A0D9900BD54347E7860274D396975853">Refuerza tu aprendizaje: aplicación de los números enteros</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_MA_07_01_CO_A604B4E086094EBF82E6ADEA6FADE04D">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso180&amp;IdRecurso=RES-87756FC790924485B29C82D76559286D">Competencias: identifica frases con valores numéricos</enlace>
-      </profundiza>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso190&amp;IdRecurso=RES-0A88E550FB844989AA4D107A3AF642B6">Competencias: identifica fechas históricas</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_MA_07_01_CO_E70E8B7330194A888A89F04DADBCBE0A">
-    <seccion1Titulo>Fin de tema</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso200&amp;IdRecurso=RES-5EE0F2C77D15430FA5567440AE199652">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso210&amp;IdRecurso=RES-AE7F25740FC44408B8F431862EB0D964">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </seccion1>
-</libro>
+<libroTitulo>Números enteros</libroTitulo>
+<seccion1 id="S1_MA_07_01_CO_E9F459DE87F54A48820CFD9D9F05DC35">
+<seccion1Titulo>El conjunto de los números enteros</seccion1Titulo>
+<seccion1Texto>
+<p>Cuando se desea hablar de la existencia de una cantidad se emplean
+los números naturales: hay dos gallinas en el corral, llegaron tres
+ciudadanos españoles a Colombia, tengo 320 amigos en Facebook, etc.
+Sin embargo, al hablar de una deuda, de la cantidad de metros de altura
+que tiene una montaña o de la profundidad del mar, ¿qué números se
+podrían usar?</p>
+<p>Cada una de las situaciones anteriores, que no representan un conteo,
+se caracteriza por tener un punto de referencia que clasifica la información
+en dos sentidos:</p>
+<listaSinNumerar>
+<listaElemento>Tener dinero – deber dinero.</listaElemento>
+<listaElemento>Altura – profundidad.</listaElemento>
+</listaSinNumerar>
+<p>En el caso de la deuda, por ejemplo, el punto de referencia corresponde
+a no tener ni deber dinero, mientras en el caso de la altitud de una
+montaña y la profundidad del mar, el punto de referencia es el nivel
+del mar.  </p>
+<p> De este tipo de contextos surgen los<negrita> números relativos</negrita
+>, que son usados para representar toda situación que hace referencia
+a:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Posiciones</negrita> o <negrita>estados</negrita
+> como<br/><listaSinNumerar>
+<listaElemento>Deber – tener.</listaElemento>
+<listaElemento>Temperatura.</listaElemento>
+<listaElemento>Profundidad – altura.</listaElemento>
+<listaElemento>Antes – después.</listaElemento>
+</listaSinNumerar>:</listaElemento>
+<listaElemento><negrita>Variaciones</negrita> como:<br/><listaSinNumerar>
+<listaElemento>Disminución – aumento.</listaElemento>
+<listaElemento>Desplazamientos como subir – bajar, entre otros.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<seccion2 id="S2_MA_07_01_CO_B01C33F23D5E43AE989BCFD312CAFE77">
+<seccion2Titulo>¿Cómo aparecen los números negativos?</seccion2Titulo>
+<seccion2Texto>
+<p>Al considerar las siguientes situaciones se aprecia el punto de
+referencia que enmarcan los sentidos ganar – perder y temperatura:</p>
+<listaSinNumerar>
+<listaElemento>La empresa ganó $3 000 000 la semana pasada, pero esta
+semana obtuvo pérdidas por $5 000 000.</listaElemento>
+<listaElemento>En Berlín, Alemania, el 12 de enero la temperatura
+fue de 10 grados centígrados bajo cero, pero el 20 de mayo fue de
+19 grados centígrados.</listaElemento>
+</listaSinNumerar>
+<p>Sin embargo, para representar estas cantidades los números naturales
+no son suficientes porque con ellos no se logra identificar la diferencia
+entre pérdida y ganancia, ni de grados por encima y debajo de cero.
+Es en este tipo de situaciones que surgen los números negativos o
+cantidades negativas, las cuales se escriben precedidas del signo
+menos (–) y se usan al hablar de pérdidas, disminución, profundidad,
+deuda, entre otras, y los números positivos o cantidades positivas,
+precedidas del signo más (+), empleadas para hablar de ganancias,
+altitud, aumento, ingresos, etc.  </p>
+<p>Con base en esto, las ganancias y la temperatura por encima de
+cero se representan con números positivos: + $3 000 000 y + 19 °C,
+mientras las pérdidas y la temperatura por debajo de cero se indican
+con número negativos: – $5 000 000 y – 10 °C.</p>
+<imagen ampliable="no" src="MA_07_01_CO_IMG01.jpg">
+<p>La temperatura que marca el termómetro es – 10 °C, es decir, es
+de 10 grados bajo cero.</p>
+</imagen>
+<p>Estas ideas fueron abordadas en los siguientes momentos de la historia:</p>
+<listaSinNumerar>
+<listaElemento>En Oriente, en el siglo <negrita>V</negrita> se usaba
+el concepto de <negrita>cantidad negativa</negrita> para expresar
+aumentos y disminuciones de magnitudes, así como para expresar distancias
+recorridas en sentidos opuestos.</listaElemento>
+<listaElemento>En el siglo <negrita>VI</negrita>, los hindúes interpretaban <negrita
+>los números positivos</negrita> y <negrita>negativos</negrita> como <negrita
+>débitos</negrita> y <negrita>créditos</negrita>, respectivamente.</listaElemento>
+<listaElemento>En el siglo <negrita>XV</negrita>, en Alemania se empezaron
+a usar los símbolos (+) para las cantidades positivas y (–) para las
+cantidades negativas.</listaElemento>
+<listaElemento>En el siglo<negrita> XVIII</negrita>, los números negativos
+se definieron como los opuestos de los positivos.</listaElemento>
+</listaSinNumerar>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_07_01_CO_6E80E12A203A4479BF74E291D615014A">
+<seccion2Titulo>Los números opuestos</seccion2Titulo>
+<seccion2Texto>
+<p>Los números opuestos se usan para indicar el opuesto de una cantidad
+positiva o negativa.</p>
+<destacado><destacadoTitulo>Números opuestos</destacadoTitulo>
+<destacadoTexto>
+<p>Si a es una cantidad positiva + a, <negrita>su opuesto</negrita
+> es – a. Si la cantidad es negativa – a, <negrita>su opuesto</negrita
+> se escribe – (– a) y es igual a + a.</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>Cuando <negrita>un número no</negrita> está <negrita>precedido
+de un signo</negrita>, se entiende que<negrita> es positivo</negrita
+>. </p>
+<p> Por ejemplo, 5 es lo mismo que + 5 y 23 es lo mismo que + 23.</p>
+</recuerdaTexto></recuerda>
+<listaSinNumerar>
+<listaElemento>El opuesto de un número positivo es negativo: el opuesto
+de + 34 es – 34.</listaElemento>
+<listaElemento>El opuesto de un número negativo positivo: el opuesto
+de – 71 es + 71.</listaElemento>
+</listaSinNumerar>
+<p>Los números opuestos se pueden ubicar en la <negrita>recta numérica</negrita
+> de modo que la distancia desde cero (el punto de referencia) a un
+número positivo o negativo y su opuesto sea la misma.</p>
+<imagen src="MA_07_01_CO_IMG02.jpg">
+<p>Los números 3 y – 3 son opuestos por estar a la misma distancia
+de cero y se caracterizan porque uno se ubica a su derecha y el otro
+a su izquierda.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Los<negrita> números opuestos</negrita> tienen <negrita>signos
+contrarios</negrita>.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_MA_07_01_CO_5A80120D3BE24D41A6C73076F8EFA771">
+<seccion2Titulo>La definición de los números enteros</seccion2Titulo>
+<seccion2Texto>
+<p>El conjunto de los<negrita> números enteros</negrita> es la unión
+de los números naturales, llamados enteros <negrita>positivos</negrita
+> que están precedidos del signo más (+), sus opuestos que son los
+naturales precedidos del signo menos (–), llamados enteros <negrita
+>negativos</negrita>, y el cero, denominado elemento <negrita>neutro</negrita
+> por no ser positivo ni negativo.</p>
+<destacado><destacadoTitulo>La recta numérica</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>conjunto de los números enteros</negrita> se identifica
+con la letra ℤ y se escribe por extensión como:</p>
+<formula alineacion="centrada" src="MA_07_01_001.gif"></formula>
+<p>Al conjunto de los enteros se le asigna la letra</p>
+<formula src="MA_07_01_002.gif"></formula>
+<p> porque números en alemán es zahlen.</p>
+</destacadoTexto></destacado>
+<p>Los <negrita>números enteros</negrita> permiten ampliar y detallar
+la forma como se representa la realidad en términos matemáticos. Cada
+número entero <negrita>positivo</negrita> o <negrita>negativo</negrita
+>, excepto el cero, tiene signo + o − y cada signo cambia el significado
+de lo que se expresa. </p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_07_01_CO_6FEA15050A54428C9B5D0891E7501168">
+<seccion2Titulo>La representación de los números enteros en la recta
+numérica</seccion2Titulo>
+<seccion2Texto>
+<p>La<negrita> representación</negrita> de los números enteros sobre
+la<negrita> recta numérica</negrita> consiste en situar en una línea
+recta graduada, con una misma unidad de separación de un número a
+otro, todos los números enteros. Para construirla se debe:</p>
+<listaSinNumerar>
+<listaElemento>Ubicar un <negrita>punto de referencia</negrita>, que
+será el 0.</listaElemento>
+<listaElemento>Ubicar hacia la derecha de cero los números naturales
+(los<negrita> enteros positivos</negrita>), comenzando por el número
+1. La distancia de separación de un número a otro debe ser la misma.</listaElemento>
+<listaElemento>Ubicar hacia la izquierda de cero los opuestos de los
+naturales (los <negrita>enteros negativos</negrita>), comenzando por
+– 1. La distancia de separación de un número a otro debe ser la misma.</listaElemento>
+</listaSinNumerar>
+<imagen src="MA_07_01_CO_IMG03.jpg">
+<p>Observa cómo se representan los números enteros, positivos y negativos,
+sobre la <negrita>recta numérica.</negrita></p>
+</imagen>
+<destacado><destacadoTitulo>La recta numérica de números enteros</destacadoTitulo>
+<destacadoTexto>
+<p>La recta de números enteros tiene las siguientes características:</p>
+<listaSinNumerar>
+<listaElemento>Es una<negrita> línea recta</negrita> con una punta
+de flecha a la derecha y otra a la izquierda, que indica la continuidad
+de la secuencia numérica.</listaElemento>
+<listaElemento>Contiene al 0 en el centro de la línea, que corresponde
+al<negrita> punto de referencia.</negrita></listaElemento>
+<listaElemento>Los <negrita>números positivos</negrita> se ubican
+a la derecha de cero y los <negrita>negativos</negrita> a la izquierda.</listaElemento>
+<listaElemento>Los números están ubicados a<negrita> igual distancia</negrita
+> uno de otro.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso010&amp;IdRecurso=RES-72C46031EDC44FF59E0260661E50D96D"
+>Construcción de una recta numérica</enlace>
+</profundiza>
+<p>En los termómetros de la imagen se observa el uso de la representación
+de los números enteros en la recta numérica; en ellos aparece un registro
+de temperatura con valor <negrita>positivo</negrita> (imagen izquierda)
+y uno con valor <negrita>negativo</negrita> (imagen derecha).</p>
+<imagen src="MA_07_01_CO_IMG04.jpg">
+<p>Los termómetros son un ejemplo del uso de la recta de números enteros.
+Observa que en ellos está el <negrita>cero</negrita>, el punto de
+referencia, los números<negrita> naturales</negrita> (a la derecha
+de cero) y los <negrita>opuestos de los naturales</negrita> (a la
+izquierda de cero).</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso020&amp;IdRecurso=RES-6731291F539F4EAAA823E9B84A6DEB27"
+>Ubicación de números enteros en la recta numérica</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_07_01_CO_87099232F59D405397CDA00FA3DA1337">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso030&amp;IdRecurso=RES-60F8F4E89DFE46F293C46B97D4046914"
+>Refuerza tu aprendizaje: ubicación de números enteros y situaciones
+en las que se usan</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_01_CO_40924B39357A437685B5FAC4D2FC5EB5">
+<seccion1Titulo>Las relaciones de orden en los números enteros</seccion1Titulo>
+<seccion1Texto>
+<p>Para saber si un número es <negrita>mayor</negrita> o <negrita
+>menor que</negrita> otro, es útil ubicarlos sobre la <negrita>recta
+numérica</negrita> y comparar sus posiciones de acuerdo con las siguientes
+opciones: </p>
+<listaSinNumerar>
+<listaElemento>El número que esté <negrita>más a la derecha</negrita
+> será el <negrita>número mayor</negrita>.</listaElemento>
+<listaElemento>El número que esté <negrita>más a la izquierda</negrita
+> será el <negrita>número menor</negrita>.</listaElemento>
+</listaSinNumerar>
+<p>En la recta numérica se observa que:</p>
+<listaSinNumerar>
+<listaElemento>6 está a la derecha de – 5 y por ende 6 es mayor que
+– 5, lo que se escribe: 6 > – 5.</listaElemento>
+<listaElemento>– 4 está a la izquierda de – 1 y por ello – 4 es menor
+que – 1, lo que se escribe: – 4 &lt; – 1.</listaElemento>
+</listaSinNumerar>
+<imagen ampliable="no" src="MA_07_01_CO_IMG05.jpg">
+<p>Observa la imagen e identifica las relaciones de orden que hay
+entre los números, dos de ellas se indicaron en el párrafo anterior
+pero puedes establecer más.</p>
+</imagen>
+<destacado><destacadoTitulo>Orden en los números enteros</destacadoTitulo>
+<destacadoTexto>
+<p>Para identificar relaciones de orden entre números ten en cuenta
+que:</p>
+<listaSinNumerar>
+<listaElemento>Los números enteros positivos son mayores que los enteros
+negativos.</listaElemento>
+<listaElemento>Al comparar dos números enteros positivos es mayor
+el que está más lejos de 0 en la recta numérica.</listaElemento>
+<listaElemento>Entre dos números enteros negativos es mayor el que
+está más cerca de cero en la recta numérica.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso040&amp;IdRecurso=RES-57176EAD243949A2BD32F063E6F72693"
+>¿Mayor o menor?</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso050&amp;IdRecurso=RES-A7C37FCAD0AD4436B0B2B78D77EA2358"
+>Ordena números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso060&amp;IdRecurso=RES-0BA712CC218642BEA89B02E751EA7238"
+>Ordena de menor a mayor números enteros</enlace>
+</practica><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso070&amp;IdRecurso=RES-0BA712CC218642BEA89B02E751EA8349"
+>Refuerza tu aprendizaje: orden en el conjunto de los números enteros </enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_01_CO_DC0A7EAB433B463789A5D20216BEBC2D">
+<seccion1Titulo>¿Para qué sirven los números enteros?</seccion1Titulo>
+<seccion1Texto>
+<p>Los números enteros se usan para diferentes propósitos entre los
+cuales se pueden mencionar:</p>
+<listaSinNumerar>
+<listaElemento>Expresar <negrita>cantidades</negrita> o <negrita>posiciones
+fijas</negrita>, como:<listaSinNumerar>
+<listaElemento>Los pisos de un edificio se representan en el ascensor
+con números enteros: la segunda planta con 2 o + 2 y el segundo sótano
+con – 2 (números opuestos).</listaElemento>
+<listaElemento>Las temperaturas que están por debajo del punto de
+congelación del agua se representan con números negativos y las que
+están por encima con números positivos: la temperatura del refrigerador
+marca – 17 °C.</listaElemento>
+<listaElemento>En el comercio, los egresos se representan con cifras
+negativas y los ingresos con positivas. Recibir cinco mil pesos se
+indica $5 000 o + $5 000 y un egreso de setenta mil pesos con – $70
+000.</listaElemento>
+</listaSinNumerar></listaElemento>
+<listaElemento>Expresar <negrita>variaciones</negrita>, como:<listaSinNumerar>
+<listaElemento>Del piso 10 bajó al piso 3, la variación de desplazamiento
+de los pisos es – 7, lo que indica que la persona se desplazó 7 pisos
+hacia abajo.</listaElemento>
+<listaElemento>En la madrugada la temperatura fue de – 5 °C centígrados
+y en la mañana de 8 °C, que corresponden a una variación de 13 °C.
+Esto indica que hubo un aumento de temperatura de 13 °C.</listaElemento>
+<listaElemento>El viernes, el número de personas que se movilizó por
+uno de los portales de Transmilenio fue de 150 000 pero el sábado
+fue de 87 000. La variación del número de personas movilizadas el
+día sábado respecto al viernes fue de – 63 000, lo que indica que
+se dejaron de movilizar 63 000 personas el sábado.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso080&amp;IdRecurso=RES-9FC517970FFD474EB8BBB2B769065B70"
+>¿Para qué se usan los números enteros?</enlace>
+</profundiza><seccion2
+id="S2_MA_07_01_CO_3BCB983D347446D39DB3C6C6D915AD4C">
+<seccion2Titulo>La aplicación de los números enteros en las matemáticas</seccion2Titulo>
+<seccion2Texto>
+<p>Los usos de los números enteros en la matemática son varios y tres
+de los más empleados en este nivel académico son:</p>
+<listaSinNumerar>
+<listaElemento>La posibilidad de realizar <negrita>sustracciones</negrita
+> en las que el minuendo es menor que el sustraendo:<br/>  Hasta antes
+de la aparición de los números enteros, sustracciones como 94 – 98
+y 356 – 500 no se podían resolver porque el resultado no era un número
+natural; sin embargo, cuando se define la sustracción con los números
+enteros la operación se vuelve realizable.</listaElemento>
+<listaElemento>La representación de parejas de números en un sistema
+de coordenadas a través del <negrita>plano cartesiano</negrita>:<br
+/>  Con la representación de los números enteros sobre una línea recta,
+en el siglo XVII René Descartes, matemático francés, creó el plano
+cartesiano que es un elemento importante de la <negrita>geometría</negrita
+> y corresponde a un sistema de coordenadas constituido por parejas
+de números, llamadas puntos, determinados por su ubicación en dos <negrita
+>rectas</negrita> numéricas <negrita>perpendiculares</negrita>, cuyo
+punto de intercepto es el 0 de cada recta.</listaElemento>
+<listaElemento>La identificación de la<negrita> magnitud</negrita
+> de una cantidad o distancia desde un número a cero:<br/>  Con la
+representación de los números enteros en la recta numérica surge el
+interés de determinar la distancia que hay de un número a cero, dando
+origen a lo que hoy se conoce como el <negrita>valor absoluto</negrita
+> de un número o una cantidad.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso090&amp;IdRecurso=RES-4D433EEEBC7B491281037AE5FA21AD53"
+>Sucesiones de números enteros</enlace>
+</practica><seccion3
+id="S3_MA_07_01_CO_6BD088448EEA43B4AA92194CE76EE4F0">
+<seccion3Titulo>La representación de puntos en el plano cartesiano</seccion3Titulo>
+<seccion3Texto>
+<p>Un <negrita>sistema de coordenadas</negrita> está formado por dos
+rectas numéricas perpendiculares denominadas <negrita>eje horizontal</negrita
+>, llamado <negrita>eje X</negrita> o <negrita>eje de las abscisas</negrita
+>, y <negrita>eje vertical</negrita>, llamado <negrita>eje Y</negrita
+> o <negrita>eje de las ordenadas</negrita>. Estas rectas se cortan
+en las posiciones del 0.</p>
+<p>En el plano cartesiano se localizan parejas de números, llamadas <negrita
+>puntos del plano</negrita>, que usan como referencia el sistema de <negrita
+>coordenadas</negrita> y establecen dos valores: uno en el eje X y
+otro en el eje Y. Esa pareja de valores representa las coordenadas
+del punto; el primer número siempre corresponde al eje X y el segundo
+al eje Y. Dicha pareja se escribe (x, y) y recibe el nombre de <negrita
+>pareja ordenada</negrita>.</p>
+<p>  Las coordenadas (5, 3) corresponden al punto del plano que se
+encuentra a cinco unidades del cero hacia la derecha en el eje X,
+pero a una altura de tres unidades hacia arriba desde el cero del
+eje Y.</p>
+<p>  Las coordenadas (1, –4) corresponden al punto del plano que se
+encuentra a una unidad del cero hacia la derecha en el eje X, pero
+a una altura de cuatro unidades hacia abajo desde el cero del eje
+Y. Observa la siguiente figura.</p>
+<imagen ampliable="no" src="MA_07_01_CO_IMG06.jpg">
+<p>Observa cómo se ubican las coordenadas "(5,3)"  y (1,-4) en el
+plano cartesiano.</p>
+</imagen>
+<destacado><destacadoTitulo>El plano cartesiano</destacadoTitulo>
+<destacadoTexto>
+<p>Un plano cartesiano está dividido en 4 <negrita>cuadrantes</negrita
+>, que forman las rectas perpendiculares del sistema de coordenadas.
+El punto definido por una pareja ordenada (x,y) posee las siguientes
+características según los valores de las coordenadas:</p>
+<listaSinNumerar>
+<listaElemento>Si tanto la abscisa (x) como la ordenada (y) son positivas,
+el punto se ubica en el <negrita>primer cuadrante</negrita>.</listaElemento>
+<listaElemento>Si la abscisa (x) es negativa y la ordenada (y) es
+positiva, el punto se ubica en el <negrita>segundo cuadrante</negrita
+>.</listaElemento>
+<listaElemento>Si tanto la abscisa (x) como la ordenada (y) son negativas,
+el punto se ubica en el <negrita>tercer cuadrante</negrita>.</listaElemento>
+<listaElemento>Si la abscisa (x) es positiva y la ordenada (y) es
+negativa, el punto se ubica en el <negrita>cuarto cuadrante</negrita
+>. </listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<imagen ampliable="no" src="MA_07_01_CO_IMG07.jpg">
+<p>Un sistema de coordenadas divide el plano cartesiano en 4 cuadrantes.
+Los puntos se ubican en cada cuadrante, según los valores numéricos
+de la abscisa y la ordenada.</p>
+</imagen>
+<p>Haz clic en ver para afianzar el proceso de ubicar puntos en el
+plano cartesiano <enlace
+destino="https://www.youtube.com/watch?v=v1_fJoy8oZU">[VER]</enlace
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso100&amp;IdRecurso=RES-3C983B51FE1F4E7AA99115A11EA2DF5A"
+>Parejas ordenadas</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_MA_07_01_CO_F97D26F84BBB4B9882CE5A4124D7608E">
+<seccion3Titulo>El valor absoluto</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>valor absoluto</negrita> de un número entero es la <negrita
+>distancia que lo separa del 0</negrita> sobre la recta numérica.
+Por ejemplo, el valor absoluto de – 5 y + 5 es 5, el valor absoluto
+de – 34 es 34 y el valor absoluto de + 72 es 72. También se puede
+decir que el valor absoluto de un número es el valor que éste tiene <negrita
+>con independencia del signo</negrita>. Observa la imagen presentada
+a continuación.</p>
+<imagen ampliable="no" src="MA_07_01_CO_IMG08.jpg">
+<p>El valor absoluto de un número entero es la distancia que lo separa
+del 0 en la recta numérica. Desde 0 hasta – 5 hay 5 unidades y desde
+0 hasta + 5 hay 5 unidades.</p>
+</imagen>
+<destacado><destacadoTitulo>Valor absoluto</destacadoTitulo>
+<destacadoTexto>
+<p>El valor absoluto de un número entero se representa escribiendo
+el número entre dos líneas verticales; su resultado es la distancia
+a la que se encuentra de cero. Por ejemplo:  </p>
+<p>"|+8| = 8"  y se lee “ el valor absoluto de + 8 es 8”. "|–13| =
+13"  y se lee “el valor absoluto de – 13 es 13”.</p>
+<p>Cuanto más lejos está un número del 0, en la recta numérica, mayor
+será su valor absoluto. </p>
+<p> El valor absoluto de un número entero es un número natural.</p>
+</destacadoTexto></destacado>
+<p>Para comprender mejor los conceptos de número opuesto y valor absoluto
+lee la información del siguiente enlace<enlace
+destino="https://sites.google.com/site/260numerosenteros/home/operaciones"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso110&amp;IdRecurso=RES-713973B94E644638B8D73DEE9BED89B8"
+>¿Qué sabes de valores absolutos y opuestos?</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso120&amp;IdRecurso=RES-12137047A9914039938C0C6E2CD169F7"
+>Valor absoluto y números opuestos</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso130&amp;IdRecurso=RES-2029782AF9AC49509A6145175CA55964"
+>El valor absoluto y el opuesto de un número entero</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_07_01_CO_A0FC0DD5F9AF42C0845C8F4852661046">
+<seccion2Titulo>La aplicación de los números enteros en la vida cotidiana</seccion2Titulo>
+<seccion2Texto>
+<p>Algunos contextos de la vida cotidiana en los cuales se usan los <negrita
+>números enteros</negrita> son:</p>
+<listaSinNumerar>
+<listaElemento>En los ascensores de algunos edificios las plantas
+superiores desde el primer piso se indican con números positivos (1,
+2, 3,…) mientras que los sótanos se indican con números negativos
+(– 1, – 2 o hasta donde corresponda).</listaElemento>
+<listaElemento>En noticieros, periódicos y revistas, los registros
+de temperatura superiores e inferiores a 0 ºC se informan con números
+positivos y negativos, respectivamente. Por ejemplo: 14 °C y – 2 °C.</listaElemento>
+<listaElemento>En la aeronáutica se emplean expresiones como “un avión
+que volaba a 11 000 m de altitud acaba de descender a 10 500 m, presentando
+un desplazamiento de – 500 m”.</listaElemento>
+<listaElemento>En los laboratorios, cuando se usan sustancias para
+los reactivos, al escribir los números de oxidación de los elementos
+químicos aparecen cantidades positivas o negativas, por ejemplo, cuando
+el flúor (F) está solo, es decir no se ha mezclado con otro químico,
+presenta un número de oxidación de – 1.</listaElemento>
+<listaElemento>A una empresa le cuesta $12 500 producir una camiseta
+y vende a $25 000 cada una:<listaSinNumerar>
+<listaElemento>o	Si hace un préstamo para elaborar 100 camisetas,
+el balance económico de la empresa es de − $1 250 000 (valor negativo).</listaElemento>
+<listaElemento>o	Si de las 100 camisetas elaboradas vende 50, el estado
+contable será de $0 porque recibe $1 250 000 (50  25 000 = 1 250
+000) por la venta, pero con ese dinero paga el préstamo.</listaElemento>
+<listaElemento>o	Después del pago del préstamo, si la empresa vende
+las otras 50 camisetas obtiene $1 250 000 de ganancia (valor positivo)
+porque no tuvo gastos de producción ni de préstamos.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso140&amp;IdRecurso=RES-D8D00E8ABF9E488681427A2BF60C669D"
+>Analiza situaciones que requieren del uso de los números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso150&amp;IdRecurso=RES-80B163AB9111497CB16F0D253ECBC353"
+>¿Qué sabes de los números enteros?</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso160&amp;IdRecurso=RES-6B5C7E693F434A93A7FD5A14B9111981"
+> ¿Números naturales o enteros?</enlace>
+</practica></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso170&amp;IdRecurso=RES-A0D9900BD54347E7860274D396975853"
+>Refuerza tu aprendizaje: aplicación de los números enteros</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_01_CO_A604B4E086094EBF82E6ADEA6FADE04D">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso180&amp;IdRecurso=RES-87756FC790924485B29C82D76559286D"
+>Competencias: utiliza los números positivos y negativos para representar
+información en contextos de medida</enlace>
+</profundiza><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso190&amp;IdRecurso=RES-0A88E550FB844989AA4D107A3AF642B6"
+>Competencias: establece conjeturas sobre los números enteros y su
+ubicación en la recta numérica</enlace>
+</profundiza></seccion1Texto></seccion1><masinformacion
+id="MI_MA_07_01_CO_E70E8B7330194A888A89F04DADBCBE0A"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso200&amp;IdRecurso=RES-5EE0F2C77D15430FA5567440AE199652"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso210&amp;IdRecurso=RES-AE7F25740FC44408B8F431862EB0D964"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+<enlace
+destino="URhttp://ntic.educacion.es/w3/eos/MaterialesEducativos/primaria/matematicas/conmates/unid-3/representacion.htmL"
+>Ejercicios para practicar la ubicación de números enteros en la recta
+numérica.</enlace>
+<enlace
+destino="http://ntic.educacion.es/w3//recursos/primaria/matematicas/conmates/unid-3/numeros_negativos.htmURL"
+>Lectura y ejercicios sobre el concepto y los usos de los números
+enteros.</enlace>
+<enlace
+destino="http://recursostic.educacion.es/secundaria/edad/1esomatematicas/1quincena3/index1_3.htmURL"
+>Actividades para practicar las relaciones de orden en el conjunto
+de los números enteros.</enlace>
+<enlace
+destino="http://www.librosvivos.net/smtc/homeTC.asp?TemaClave=1025"
+>Teoría, ejemplos y actividades relacionadas con los números enteros.</enlace>
+</enlacesreferencia></masinformacion></libro>
