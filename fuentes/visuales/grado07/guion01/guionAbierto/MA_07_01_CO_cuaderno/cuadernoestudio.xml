@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="MA_07_01_CO">
+  <libroTitulo>Números enteros</libroTitulo>
+  <seccion1 id="S1_MA_07_01_CO_E9F459DE87F54A48820CFD9D9F05DC35">
+    <seccion1Titulo>El conjunto de los números enteros</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <seccion2 id="S2_MA_07_01_CO_B01C33F23D5E43AE989BCFD312CAFE77">
+        <seccion2Titulo>¿Cómo aparecen los números negativos?</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_07_01_CO_img_01_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <p>Aquí va un PÁRRAFO</p>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_07_01_CO_6E80E12A203A4479BF74E291D615014A">
+        <seccion2Titulo>Los números opuestos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_07_01_CO_img_02_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_07_01_CO_5A80120D3BE24D41A6C73076F8EFA771">
+        <seccion2Titulo>La definición de los números enteros</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Aquí va un PÁRRAFO</p>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_07_01_CO_6FEA15050A54428C9B5D0891E7501168">
+        <seccion2Titulo>La representación de los números enteros en la recta numérica</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_07_01_CO_img_03_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso010&amp;IdRecurso=RES-72C46031EDC44FF59E0260661E50D96D">Construcción de una recta numérica</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_07_01_CO_img_04_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso020&amp;IdRecurso=RES-6731291F539F4EAAA823E9B84A6DEB27">¿Cómo hacer una recta numérica?</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_07_01_CO_87099232F59D405397CDA00FA3DA1337">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso030&amp;IdRecurso=RES-60F8F4E89DFE46F293C46B97D4046914">Refuerza tu aprendizaje: ubicación de números enteros y situaciones en las que se usan</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso070&amp;IdRecurso=RES-688790C8734641F6B24F7D1837734B7C">Refuerza tu aprendizaje: orden en el conjunto de los números enteros</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_07_01_CO_40924B39357A437685B5FAC4D2FC5EB5">
+    <seccion1Titulo>Las relaciones de orden en los números enteros</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_07_01_CO_img_05_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso040&amp;IdRecurso=RES-57176EAD243949A2BD32F063E6F72693">¿Mayor o menor en la recta?</enlace>
+      </practica>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso050&amp;IdRecurso=RES-A7C37FCAD0AD4436B0B2B78D77EA2358">Ordena números enteros</enlace>
+      </practica>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso060&amp;IdRecurso=RES-0BA712CC218642BEA89B02E751EA7238">Ordena de menor a mayor números enteros</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_07_01_CO_DC0A7EAB433B463789A5D20216BEBC2D">
+    <seccion1Titulo>¿Para qué sirven los números enteros?</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso080&amp;IdRecurso=RES-9FC517970FFD474EB8BBB2B769065B70">Lo esencial de los números enteros</enlace>
+      </profundiza>
+      <seccion2 id="S2_MA_07_01_CO_3BCB983D347446D39DB3C6C6D915AD4C">
+        <seccion2Titulo>La aplicación de los números enteros en las matemáticas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso090&amp;IdRecurso=RES-4D433EEEBC7B491281037AE5FA21AD53">Completa la serie de números de enteros</enlace>
+          </practica>
+          <seccion3 id="S3_MA_07_01_CO_6BD088448EEA43B4AA92194CE76EE4F0">
+            <seccion3Titulo>La representación de puntos en el plano cartesiano</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="MA_07_01_CO_img_06_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <imagen src="MA_07_01_CO_img_07_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <p>Aquí va un PÁRRAFO</p>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso100&amp;IdRecurso=RES-3C983B51FE1F4E7AA99115A11EA2DF5A">Parejas ordenadas</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_MA_07_01_CO_F97D26F84BBB4B9882CE5A4124D7608E">
+            <seccion3Titulo>El valor absoluto</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="MA_07_01_CO_img_08_small.jpg">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso110&amp;IdRecurso=RES-713973B94E644638B8D73DEE9BED89B8">¿Qué sabes de valores absolutos y opuestos?</enlace>
+              </practica>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso120&amp;IdRecurso=RES-12137047A9914039938C0C6E2CD169F7">Encuentra la pareja de números enteros</enlace>
+              </practica>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso130&amp;IdRecurso=RES-2029782AF9AC49509A6145175CA55964">El valor absoluto y opuesto de un número entero</enlace>
+              </profundiza>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_07_01_CO_A0FC0DD5F9AF42C0845C8F4852661046">
+        <seccion2Titulo>La aplicación de los números enteros en la vida cotidiana</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso140&amp;IdRecurso=RES-D8D00E8ABF9E488681427A2BF60C669D">Piensa en relación a los números enteros</enlace>
+          </practica>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso150&amp;IdRecurso=RES-80B163AB9111497CB16F0D253ECBC353">¿Qué sabes de los números enteros?</enlace>
+          </practica>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso160&amp;IdRecurso=RES-6B5C7E693F434A93A7FD5A14B9111981">¿Restas con resultado natural o entero?</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso170&amp;IdRecurso=RES-A0D9900BD54347E7860274D396975853">Refuerza tu aprendizaje: aplicación de los números enteros</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_07_01_CO_A604B4E086094EBF82E6ADEA6FADE04D">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso180&amp;IdRecurso=RES-87756FC790924485B29C82D76559286D">Competencias: identifica frases con valores numéricos</enlace>
+      </profundiza>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso190&amp;IdRecurso=RES-0A88E550FB844989AA4D107A3AF642B6">Competencias: identifica fechas históricas</enlace>
+      </profundiza>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_07_01_CO_E70E8B7330194A888A89F04DADBCBE0A">
+    <seccion1Titulo>Fin de tema</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+    </seccion1Texto>
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso200&amp;IdRecurso=RES-5EE0F2C77D15430FA5567440AE199652">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=MA_07_01_CORecurso210&amp;IdRecurso=RES-AE7F25740FC44408B8F431862EB0D964">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </seccion1>
+</libro>
