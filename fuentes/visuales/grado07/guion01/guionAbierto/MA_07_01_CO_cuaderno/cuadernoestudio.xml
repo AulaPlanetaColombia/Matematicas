@@ -355,7 +355,7 @@ en las posiciones del 0.</p>
 otro en el eje Y. Esa pareja de valores representa las coordenadas
 del punto; el primer número siempre corresponde al eje X y el segundo
 al eje Y. Dicha pareja se escribe (x, y) y recibe el nombre de <negrita
->pareja ordenada</negrita>.</p>
+>pareja ordenada</negrita>.</p><?Pub Caret 50?>
 <p>  Las coordenadas (5, 3) corresponden al punto del plano que se
 encuentra a cinco unidades del cero hacia la derecha en el eje X,
 pero a una altura de tres unidades hacia arriba desde el cero del
@@ -390,7 +390,7 @@ negativa, el punto se ubica en el <negrita>cuarto cuadrante</negrita
 <imagen ampliable="no" src="MA_07_01_CO_IMG07.png">
 <p>Un sistema de coordenadas divide el plano cartesiano en 4 cuadrantes.
 Los puntos se ubican en cada cuadrante, según los valores numéricos
-de la abscisa y la ordenada.</p><?Pub Caret -2?>
+de la abscisa y la ordenada.</p>
 </imagen>
 <p>Haz clic en ver para afianzar el proceso de ubicar puntos en el
 plano cartesiano <enlace
