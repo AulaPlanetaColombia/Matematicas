@@ -28,7 +28,7 @@ partes iguales y se han tomado algunas de ellas, conviene escribir
 esa cantidad como una fracción, pero si se quiere medir el tiempo
 que tarda un atleta en recorrer 100 metros, es más útil escribir la
 cantidad de tiempo como un decimal. </p>
-<imagen src="MA_08_01_CO_IMG_01_small.jpg">
+<imagen src="MA_08_01_CO_IMG01_small.jpg">
 <p>Cada fracción de la manzana representa 1/4</p>
 <p>. Las cuatro partes representan la fracción 4/4</p>
 </imagen>
@@ -96,7 +96,7 @@ desarrollar esa división.  Ejemplos:</p>
 </tr>
 </tbody>
 </table>
-<imagen src="MA_08_01_CO_IMG_02_small.jpg">
+<imagen src="MA_08_01_CO_IMG02_small.jpg">
 <p>Para determinar la medida de los objetos se utilizan, por lo general,
 números decimales.</p>
 </imagen>
@@ -177,7 +177,7 @@ la recta numérica</seccion2Titulo>
 <seccion2Texto>
 <p>Todo número racional se puede representar por un punto en la recta
 numérica; para ubicarlos en ella se debe tener en cuenta su representación.</p>
-<imagen src="MA_08_01_CO_IMG_03_small.jpg">
+<imagen src="MA_08_01_CO_IMG03_small.jpg">
 <p>Para representar los números racionales en la recta numérica debemos
 recordar los números que componen al conjunto de los números racionales.</p>
 </imagen>
@@ -192,7 +192,7 @@ y allí ubicamos el punto.</p>
 dividimos en cuatro partes iguales la unidad comprendida entre 0 y
 –1. Y a partir del cero, tomamos tres partes hacia la izquierda para
 indicar el punto que le corresponde a —3/4.</p>
-<imagen src="MA_08_01_CO_IMG_04_small.jpg">
+<imagen src="MA_08_01_CO_IMG04_small.jpg">
 <p>Ubicación de —3/4 en la recta numérica.</p>
 </imagen>
 <p>Si la fracción que representa al número racional es impropia, conviene
@@ -202,7 +202,7 @@ caso. </p>
 <p>Por ejemplo, para ubicar el número 7/3, lo convertimos en número
 mixto, y este quedará de la forma: 2 1/3; posteriormente, situamos
 la parte entera que es 2, y graficamos la fracción 1/3 entre 2 y 3.</p>
-<imagen src="MA_08_01_CO_IMG_05_small.jpg">
+<imagen src="MA_08_01_CO_IMG05_small.jpg">
 <p>Ubicación de la fracción 7/3 en la recta numérica.</p>
 </imagen>
 </seccion3Texto></seccion3><seccion3
@@ -217,7 +217,7 @@ decimales son muchas o es periódico.</p>
 <p>Por ejemplo, al ubicar el racional –0,7 en la recta, se toma la
 unidad entre 0 y –1, se divide en 10 partes iguales y, comenzando
 en cero, se cuentan siete de ellas. </p>
-<imagen src="MA_08_01_CO_IMG_06_small.jpg">
+<imagen src="MA_08_01_CO_IMG06_small.jpg">
 <p>Ubicación del número –0,7 en la recta numérica.</p>
 </imagen>
 <practica>
@@ -234,19 +234,19 @@ destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso060&amp;IdRecurso=RES-5F8067E
 <seccion2Texto>
 <p>Para cualquier par de números racionales se puede establecer uno
 y solo una de las siguientes relaciones de orden:</p>
-<imagen src="MA_08_01_CO_IMG_07_small.jpg"></imagen>
+<imagen src="MA_08_01_CO_IMG07_small.jpg"></imagen>
 <formula src="MA_08_01_027.gif"></formula>
 <p>Si representados en la recta numérica </p>
 <formula src="MA_08_01_028.gif"></formula>
 <p>se encuentra a la izquierda de </p>
 <formula src="MA_08_01_029.gif"></formula>
-<imagen src="MA_08_01_CO_IMG_08_small.jpg"></imagen>
+<imagen src="MA_08_01_CO_IMG08_small.jpg"></imagen>
 <formula src="MA_08_01_030.gif"></formula>
 <p>Si representados en la recta numérica</p>
 <formula src="MA_08_01_031.gif"></formula>
 <p> se encuentra a la derecha de </p>
 <formula src="MA_08_01_032.gif"></formula>
-<imagen src="MA_08_01_CO_IMG_09_small.jpg"></imagen>
+<imagen src="MA_08_01_CO_IMG09_small.jpg"></imagen>
 <formula src="MA_08_01_033.gif"></formula>
 <p>Si representados en la recta numérica</p>
 <formula src="MA_08_01_034.gif"></formula>
@@ -475,7 +475,7 @@ con la letra <negrita>I</negrita>.</p>
 <formula src="MA_08_01_057.gif"></formula>
 <p>La definición como conjunto de los números irracionales significa
 que son todos aquellos números reales que no son racionales.</p>
-<imagen src="MA_08_01_CO_IMG_11_small.jpg">
+<imagen src="MA_08_01_CO_IMG11_small.jpg">
 <p>Algunos números irracionales son de gran importancia en la ingeniería
 el cálculo las artes y la economía.</p>
 </imagen>
@@ -622,7 +622,7 @@ Pitágoras se tiene:</p>
 un arco de circunferencia  la longitud de <cursiva>h</cursiva> a la
 recta numérica. El punto de corte entre la recta y el arco es</p>
 <formula src="MA_08_01_081.gif"></formula>
-<imagen src="MA_08_01_CO_IMG_12_small.jpg"></imagen>
+<imagen src="MA_08_01_CO_IMG12_small.jpg"></imagen>
 <p>Observa cómo se representa</p>
 <formula src="MA_08_01_082.gif"></formula>
 <p> sobre la recta numérica.</p>
@@ -678,7 +678,7 @@ src="MA_08_01_092.gif"></formula></listaElemento>
 <listaElemento>Es totalmente ordenado.</listaElemento>
 <listaElemento>Es un conjunto denso.</listaElemento>
 </listaSinNumerar>
-<imagen src="MA_08_01_CO_IMG_13_small.jpg">
+<imagen src="MA_08_01_CO_IMG13_small.jpg">
 <p>Los números reales se construyen a partir de los otros conjuntos
 numéricos.</p>
 </imagen>
@@ -692,9 +692,9 @@ le corresponde un número real, aunque usualmente solo se marcan los
 enteros sobre la recta numérica; se sobreentiende entonces que los
 espacios que hay entre cada número entero están ocupados por los demás
 números reales.</p>
-<imagen src="MA_08_01_CO_IMG_14_small.jpg">
+<imagen src="MA_08_01_CO_IMG14_small.jpg">
 <p>Los espacios entres los números enteros están ocupados por los
-demás números reales.</p><?Pub Caret 28?>
+demás números reales.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_MA_08_01_CO_3F28B0E7E4734E6F9C0C3EB52BFB5F45">
