@@ -47,7 +47,7 @@ como el conjunto de todos los números de la forma </p>
 <p>con a, </p>
 <formula src="MA_09_01_004.gif"></formula>
 <p>, b ≠ 0 y máximo común divisor entre a y b  igual a 1. Este conjunto
-se denota con la letra </p>
+se denota con la letra </p><?Pub Caret 6?>
 <formula src="MA_09_01_005.gif"></formula>
 <formula alineacion="centrada" src="MA_09_01_006.gif"></formula>
 <recuerda><recuerdaTexto>
@@ -105,7 +105,7 @@ la parte decimal que se repite, así:   <br/></p>
 <formula alineacion="centrada" src="MA_09_01_019.gif"></formula>
 <formula alineacion="centrada" src="MA_09_01_020.gif"></formula>
 <formula alineacion="centrada" src="MA_09_01_021.gif"></formula>
-<imagen src="MA_09_01_CO_img_03_small.jpg">
+<imagen src="MA_09_01_CO_IMG03.jpg">
 <p>Una representación de los números racionales.</p>
 </imagen>
 <practica>
@@ -335,7 +335,7 @@ la forma <negrita><cursiva>(a,b)</cursiva></negrita> e indica que
 el intervalo está formado por todos los números reales que se encuentran
 entre a y b  sin incluir en el intervalo los puntos <cursiva>a y b</cursiva
 >. </p>
-<imagen src="MA_09_01_CO_img_07_small.jpg">
+<imagen src="MA_09_01_CO_IMG07.jpg">
 <p>Observa la representación en conjuntos y en la recta real del 
 intervalo <cursiva>(a,b)</cursiva>.</p>
 </imagen>
@@ -527,10 +527,9 @@ src="MA_09_01_077.gif"></formula>,<cursiva> b</cursiva> ≠  0</td>
 <seccion2Titulo>La adición y la sustracción de números reales</seccion2Titulo>
 <seccion2Texto>
 <p>La adición y sustracción se pueden definir como la misma operación.
-En el caso de la adición, si a y</p>
+En el caso de la adición, si a y </p>
 <formula alineacion="izquierda" src="MA_09_01_078.gif"></formula>
 <p>, entonces a + b = a + b. En el caso de la sustracción, si a y</p>
-<p>Aquí va un PÁRRAFO</p>
 <formula alineacion="izquierda" src="MA_09_01_079.gif"></formula>
 <p>, entonces <cursiva>a</cursiva> - <cursiva>b</cursiva> = <cursiva
 >a</cursiva> + (-<cursiva>b</cursiva>); (-<cursiva>b</cursiva>) es
