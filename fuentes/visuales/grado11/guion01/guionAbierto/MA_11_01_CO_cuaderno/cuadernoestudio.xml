@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
+<libro id="MA_11_01_CO">
+<libroTitulo>Números Reales</libroTitulo>
+<seccion1 id="S1_MA_11_01_CO_D3291134AE5140C2B19545078624CA9A">
+<seccion1Titulo>El sistema de los números reales</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_01_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_MA_11_01_CO_E01EA8FB45A342CE926BE20739AEEF4F">
+<seccion2Titulo>Las expansiones decimales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso010&amp;IdRecurso=RES-251E24A3F00D4FAFBB8FDFB139F4E086"
+>Una aproximación a los números reales</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_MA_11_01_CO_5C6AB20E06504A43B81002E9EAC1890C">
+<seccion3Titulo>Los números racionales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso020&amp;IdRecurso=RES-4A03B7B76A19440FB327331C6922B610"
+>El número racional como fracción de enteros</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_MA_11_01_CO_0FFD507B07FF4DC48C3524FACB0AE090">
+<seccion3Titulo>Los números irracionales</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso030&amp;IdRecurso=RES-D40193F747C342F59CA72A485287B7A5"
+>Importancia de los números irracionales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso040&amp;IdRecurso=RES-A1AB7EB0D1F0496E9E6330025BFB3250"
+>Polinomios algebraicos de números con radicales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_11_01_CO_C2231758FCFF45829956509F7AC254ED">
+<seccion2Titulo>La recta real</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_02_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_03_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_04_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_05_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_06_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_07_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_08_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_299BD2D39E114773A50209D5C168209B">
+<seccion2Titulo>Operaciones de los números reales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso050&amp;IdRecurso=RES-48A2965E380547C3917F3A6289202353"
+>Propiedades de la adición y la multiplicación de los números reales</enlace>
+</profundiza><recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso060&amp;IdRecurso=RES-164F698B87454043AA986595E3CAB637"
+>Las propiedades de las operaciones de los  números reales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_446486A5BA8E445BA48EF36C8609485F">
+<seccion2Titulo>Orden de los números reales</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso070&amp;IdRecurso=RES-B81D513C0865485BAFB3F37FF47CDA01"
+>Propiedades del orden de los números reales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso080&amp;IdRecurso=RES-731900CD47FE4686A196CD9AC8F506A6"
+>Las propiedades de orden de los números reales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_E6B8E3997C5F4D22B786597A614CFC73">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso090&amp;IdRecurso=RES-11E67C5E07D844178313B4E6B7BE65A6"
+>Refuerza tu aprendizaje: La estructura algebraica y el orden de los
+números reales</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso100&amp;IdRecurso=RES-2C89BDAF359F4EF6AA416D0CCF3730F7"
+>Refuerza tu aprendizaje: Números reales equivalentes</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_11_01_CO_E81A2B30F9AC467CA9AFF3E9DE981BEE">
+<seccion1Titulo>Intervalos</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_MA_11_01_CO_648646AA2697432E88683A7F87F14DDD">
+<seccion2Titulo>Intervalos abiertos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_09_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_10_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_11_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_903E5246BA6C49C1ADE3C2FED28F0A82">
+<seccion2Titulo>Intervalos cerrados</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_12_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_C612D2B6963B422DA3BFE0C7A1402FA9">
+<seccion2Titulo>Intervalos semiabiertos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_13_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_14_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_15_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_16_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_7F0EAA395015481CB711FCF48CEC95FD">
+<seccion2Titulo>Operaciones con intervalos</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_MA_11_01_CO_119262F5495B4DFB912FEF19EB29CB63">
+<seccion3Titulo>Unión de intervalos</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_17_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_18_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_11_01_CO_AE0A3BEC20544A1AA77AAC906B395A26">
+<seccion3Titulo>Intersección de intervalos</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_19_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_20_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_11_01_CO_10022B77C9FA44B6B6DDF0C169E305CA">
+<seccion3Titulo>Complemento de un intervalo</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_21_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_22_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+</seccion3Texto></seccion3>
+<p>Aquí va un PÁRRAFO</p><?Pub Caret -3?>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso110&amp;IdRecurso=RES-C511BCD9EBD141F6851C7DB79887B558"
+>Los intervalos y sus operaciones</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_11_01_CO_1B0DCEA5256141CB9B817AC25DBA76A0">
+<seccion1Titulo>Valor absoluto</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<seccion2 id="S2_MA_11_01_CO_F8A392F51915402798D954AAC9BDBF07">
+<seccion2Titulo>Propiedades del valor absoluto</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_23_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_DBF5DD8B789244B2A7AC9B6BC9EA03D6">
+<seccion2Titulo>Ecuaciones de una variable con valor absoluto</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso120&amp;IdRecurso=RES-4AD9B939B067417B943064C469818013"
+>Ecuaciones con valor absoluto</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso130&amp;IdRecurso=RES-3B229336F39F47C7BE91FFAF0EBCA9CA"
+>Resolución de ecuaciones con valor absoluto</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_11_01_CO_827612AF756942DA915D28B49B20FD47">
+<seccion2Titulo>Inecuaciones de una variable con valor absoluto</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><seccion3
+id="S3_MA_11_01_CO_20FCB3EA4A4B46D58F4906B157C9F6A7">
+<seccion3Titulo>Inecuaciones donde la expresión en valor absoluto
+es menor que un número real positivo.</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_24_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_25_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso140&amp;IdRecurso=RES-D6636382282D4AD18119A373F177A3C5"
+>Inecuaciones con valor absoluto</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_MA_11_01_CO_5EF6E51EC34344BFA73C49BA304FFC01">
+<seccion3Titulo>Inecuaciones donde la expresión en valor absoluto
+es mayor que un real positivo</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_11_01_CO_img_26_small.jpg">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso150&amp;IdRecurso=RES-A84DD52ADF104D14A472794572DDBC4A"
+>Resolución  de inecuaciones con valor absoluto</enlace>
+</practica></seccion3Texto></seccion3>
+<p>Aquí va un PÁRRAFO</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso160&amp;IdRecurso=RES-84BB5E6765844DEBB8A03ACDA8369585"
+>Refuerza tu aprendizaje: Las soluciones de ecuaciones con valor absoluto</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso170&amp;IdRecurso=RES-EC6CE871E3474B3F9A915D00A5034BBE"
+>Refuerza tu aprendizaje: Solución de  ecuaciones e inecuaciones con
+valor absoluto</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_11_01_CO_2BDDCA5A57964C7C9D9AB4E46E086053">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso180&amp;IdRecurso=RES-029E44997F7540BDA144C2AE3A1A61F4"
+>Competencias: Pon a prueba  tu conocimiento sobre números reales</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_MA_11_01_CO_DA9A9D6D614C4A8DB567D3CC63F55ED6"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso190&amp;IdRecurso=RES-7E4859B7218F476BAC8070DA9D7AAA5C"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso200&amp;IdRecurso=RES-91EAEB004A6B46FC9E6BE133E173F163"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
