@@ -2,47 +2,225 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="MA_11_01_CO">
 <libroTitulo>Números Reales</libroTitulo>
 <seccion1 id="S1_MA_11_01_CO_D3291134AE5140C2B19545078624CA9A">
 <seccion1Titulo>El sistema de los números reales</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_01_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>El conjunto de los números reales que se representa por el símbolo
+ℝ, está conformado por los números racionales e irracionales, como
+se muestra en la siguiente tabla:</p>
+<table border="1" cellpadding="5" cellspacing="0"><colgroup><col/><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td rowspan="2"><negrita>Números reales </negrita><formula
+src="MA_11_01_002.gif"></formula></td>
+<td><negrita> Los números racionales ℚ: </negrita>Son aquellos números
+que se pueden expresar como una fracción de enteros, tienen la forma <formula
+src="MA_11_01_004.gif"></formula>,  donde a y b son números enteros.
+Por ejemplo, los siguientes son números racionales: <formula
+src="MA_11_01_005.gif"></formula>,<formula src="MA_11_01_006.gif">
+</formula>, 7.</td>
+<td><negrita>Los números naturales ℕ</negrita> Son aquellos números
+que se utilizan para contar, por ejemplo: 1, 2, 3, 30, 108…  <negrita
+>Los números enteros</negrita> ℤ: Es la unión del conjunto de los
+números naturales, {0} y el conjunto de los opuestos aditivos de los
+números naturales, por ejemplo:        …–3, –2, 1, 0, 1, 2, 3…</td>
+</tr>
+<tr>
+<td colspan="2"><negrita>Los números irracionales:</negrita> Son aquellos
+números que no se pueden expresar  como una fracción de enteros, por
+ejemplo: π, e, <formula src="MA_11_01_009.gif"></formula>, <formula
+src="MA_11_01_010.gif"></formula>.</td>
+</tr>
+</tbody>
+</table>
+<p>En ocasiones, algunos conjuntos numéricos como los números enteros
+o los números racionales no permiten medir con exactitud algunas longitudes,
+áreas o volúmenes, por lo que es necesario recurrir al conjunto de
+los números reales. Este conjunto está dotado de una estructura algebraica
+(operaciones y orden) que ha sido tema de interés para la humanidad
+por sus diferentes aplicaciones en las ciencias.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG01a.png">
+<p>Los números reales: un sistema numérico para medir.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
+<p>Para comprender con mayor profundidad el conjunto de los números
+reales y los conjuntos numéricos que lo componen, a continuación se
+estudia su forma de escritura decimal denominada: expansión decimal.</p>
 <seccion2 id="S2_MA_11_01_CO_E01EA8FB45A342CE926BE20739AEEF4F">
 <seccion2Titulo>Las expansiones decimales</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<p>Una expansión decimal es una expresión de la forma akak-1…a1a0,b0b1b2…
+donde ak, ak – 1,…, a1, a0, b0, b1, b2,… son dígitos, es decir, pertenecen
+al conjunto {0, 1, 2, 3, 4, 5, 6 7, 8, 9}, por ejemplo:</p>
+<table cellspacing="0"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>0,1234567891011121314…</td>
+<td>–2,899999999999999999…</td>
+</tr>
+<tr>
+<td>3,1415926535879328462…</td>
+<td>11,000000000000000000…</td>
+</tr>
+<tr>
+<td>122,61616161616161616…</td>
+<td>–1,414135623730950488…</td>
+</tr>
+<tr>
+<td>–22,12334134134134134…</td>
+<td>235,01001000100001000…</td>
+</tr>
+</tbody>
+</table>
+<destacado><destacadoTitulo>El conjunto de números reales </destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p><negrita>El conjunto de los números reales ℝ</negrita> es el conjunto
+de todas las expansiones decimales.  Las cifras después del punto
+decimal, es decir, b0b1b2… se llaman cifras decimales del número real.
+ </p>
 </destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<p>Los números reales se clasifican en aquellos que tienen expansión
+decimal periódica y los que no la tienen. </p>
+<p>Un número tiene<negrita> expansión decimal periódica</negrita>,
+si en sus cifras decimales se identifica una secuencia de cifras que
+se repiten infinitamente. Esta secuencia recibe el nombre de <negrita
+>periodo</negrita>. En estos casos, se escribe la expansión decimal
+hasta que la cifra o cifras que forman el periodo, aparezcan por primera
+vez. Para identificar esas cifras se coloca una barra horizontal encima.
+Por ejemplo:  </p>
+<table border="1" cellspacing="0"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><formula src="MA_11_01_013.gif"></formula></td>
+<td>La barra horizontal indica que 9 es el periodo del Número Real. </td>
+</tr>
+<tr>
+<td><formula src="MA_11_01_014.gif"></formula></td>
+<td>La barra horizontal indica que el periodo del Número Real es 0.</td>
+</tr>
+<tr>
+<td><formula src="MA_11_01_015.gif"></formula></td>
+<td>La barra horizontal indica que 341 es el periodo del Número Real.</td>
+</tr>
+</tbody>
+</table>
+<p>Un Número Real tiene <negrita>expansión decimal finita</negrita
+> si es periódico y su periodo está conformado solo por el cero o
+solo por nueve, por ejemplo:</p>
+<listaSinNumerar>
+<listaElemento><formula src="MA_11_01_016.gif"></formula></listaElemento>
+<listaElemento><formula src="MA_11_01_017.gif"></formula></listaElemento>
+<listaElemento><formula src="MA_11_01_018.gif"></formula></listaElemento>
+<listaElemento><formula src="MA_11_01_019.gif"></formula></listaElemento>
+<listaElemento><formula src="MA_11_01_020.gif"></formula></listaElemento>
+</listaSinNumerar>
+<p><negrita>Si su periodo está formado únicamente por ceros (0)</negrita
+>, se eliminan los ceros y se deja la parte no periódica; por ejemplo,
+la expansión decimal de 1 es </p>
+<formula src="MA_11_01_021.gif"></formula>
+<p><negrita>Si su periodo está conformado únicamente por nueves (9)</negrita
+>, se eliminan los nueves y a la cifra anterior al periodo se le agrega
+una unidad. Por ejemplo: Consideremos la diferencia entre 0,999999…
+y 1, si aumentamos en uno, cualquiera de las cifras decimales de 0,9999999…,
+tendríamos una expansión decimal mayor que uno de la forma 1,000000…000009999999…,
+luego la diferencia de</p>
+<formula src="MA_11_01_025.gif"></formula>
+<p>, debe ser cero, es decir, que</p>
+<formula src="MA_11_01_026.gif"></formula>
+<p>.</p>
+<p>Lo mismo para el caso </p>
+<formula src="MA_11_01_027.gif"></formula>
+<destacado><destacadoTitulo>Números reales con expansión decimal finita </destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>Los números reales con expansión decimal finita se pueden expresar
+con expansión decimal periódica con periodo 9 y con periodo 0, como
+se muestra en los siguientes ejemplos: </p>
+<formula alineacion="centrada" src="MA_11_01_028.gif"></formula>
+<formula alineacion="centrada" src="MA_11_01_029.gif"></formula>
+<formula alineacion="centrada" src="MA_11_01_030.gif"></formula>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso010&amp;IdRecurso=RES-251E24A3F00D4FAFBB8FDFB139F4E086"
 >Una aproximación a los números reales</enlace>
 </profundiza>
-<p>Aquí va un PÁRRAFO</p>
+<p>Otros números reales tienen una expansión decimal finita no periódica,
+por ejemplo: </p>
+<listaSinNumerar>
+<listaElemento>0,12345678910111213…</listaElemento>
+<listaElemento>3,14159265358793284…</listaElemento>
+<listaElemento>1,4141356237309504…</listaElemento>
+</listaSinNumerar>
+<p>Esta clasificación de los números reales en su expansión decimal
+periódica o no periódica es la que permite estudiar los distintos
+subconjuntos del conjunto de los números reales, conocidos como números
+racionales y números irracionales. </p>
 <seccion3 id="S3_MA_11_01_CO_5C6AB20E06504A43B81002E9EAC1890C">
 <seccion3Titulo>Los números racionales</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-<destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>El conjunto de los <negrita>números racionales</negrita> está conformado
+por todos los números reales que tienen expansión decimal periódica,
+por ejemplo:</p>
+<listaSinNumerar>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_031.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_032.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_033.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_034.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_035.gif">
+</formula></listaElemento>
+</listaSinNumerar>
+<p>Como un subconjunto del conjunto de los números racionales se encuentra
+el conjunto de los <negrita>números enteros</negrita>, que son aquellos
+números cuyas cifras decimales son solo ceros o solo nueves, por ejemplo:</p>
+<listaSinNumerar>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_036.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_037.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_038.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_039.gif">
+</formula></listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Representación de racionales como fracción
+de números enteros </destacadoTitulo><destacadoTexto>
+<p>Todo número racional puede ser expresado de la forma </p>
+<formula alineacion="centrada" src="MA_11_01_040.gif"></formula>
+<p>con a y b números enteros. </p>
+<p>El numerador de la fracción está dado por la diferencia entre el
+número entero que se obtiene al escribir sin el punto decimal las
+cifras del número, incluyendo una sola vez el periodo y el número
+entero que se obtiene al escribir las cifras del número sin el periodo
+y sin el punto decimal.</p>
+<p>El denominador de la fracción se obtiene al escribir un nueve por
+cada una de las cifras del periodo, seguido de un cero por cada cifra
+decimal que no pertenezca al periodo.</p>
 </destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
+<p>Por ejemplo, observa cómo escribir los números racionales </p>
+<listaSinNumerar>
+<listaElemento>–6.231,</listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_041.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_042.gif">
+</formula></listaElemento>
+<listaElemento>–0,26. </listaElemento>
+</listaSinNumerar>
+<p>como fracción de números enteros.</p>
+<listaSinNumerar>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_043.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_044.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_045.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_046.gif">
+</formula></listaElemento>
+</listaSinNumerar>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso020&amp;IdRecurso=RES-4A03B7B76A19440FB327331C6922B610"
@@ -51,16 +229,73 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso020&amp;IdRecurso=RES-4A03B7
 id="S3_MA_11_01_CO_0FFD507B07FF4DC48C3524FACB0AE090">
 <seccion3Titulo>Los números irracionales</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-<destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>El conjunto de los números irracionales está conformado por todos
+los números reales que tienen expansión decimal no periódica. Por
+ejemplo:</p>
+<listaSinNumerar>
+<listaElemento>0,1234567891011121314…</listaElemento>
+<listaElemento>3,1415926535879328462…</listaElemento>
+<listaElemento>–1,414135623730950488…	</listaElemento>
+<listaElemento>235,01001000100001000…</listaElemento>
+</listaSinNumerar>
+<p>Entre los números irracionales se destacan aquellos que son solución
+de una ecuación polinómica con coeficientes enteros, estos son conocidos
+como <negrita>números irracionales algebraicos</negrita> y pueden
+ser expresados por medio de radicales, por ejemplo:</p>
+<listaSinNumerar>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_047.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_048.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_049.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_050.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_051.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="centrada" src="MA_11_01_052.gif">
+</formula></listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Polinomio asociado a un irracional expresado
+con radicales </destacadoTitulo><destacadoTexto>
+<p>Para encontrar un polinomio asociado a un número real expresado
+con radicales, se establece una equivalencia entre el número y una
+variable. Luego, se elevan ambos lados de la igualdad al número que
+indique la raíz del número real para suprimir los radicales y obtener
+una ecuación. Finalmente, se iguala la ecuación a cero.</p>
 </destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
+<p><negrita>Ejemplo 1.</negrita> Encontremos la ecuación polinómica
+para</p>
+<formula alineacion="centrada" src="MA_11_01_053.gif">
+<p>:</p>
+</formula>
+<p>Sea</p>
+<formula alineacion="centrada" src="MA_11_01_054.gif"></formula>
+<p>La ecuación asociada es x2 – 2 = 0</p>
+<p><negrita>Ejemplo 2.</negrita> Encontremos el polinomio del cual
+es raíz</p>
+<formula alineacion="centrada" src="MA_11_01_055.gif">
+<p>:</p>
+</formula>
+<p>Sea</p>
+<formula alineacion="centrada" src="MA_11_01_056.gif"></formula>
+<formula alineacion="centrada" src="MA_11_01_057.gif"></formula>
+<p>La ecuación asociada es 4x2 – 56x6 + 16 = 0</p>
 <recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><profundiza>
+<p>Con el proceso anterior, es posible encontrar una ecuación polinómica
+de la cual el número irracional es solución; no obstante, existe más
+de una ecuación polinómica asociada al mismo número irracional.</p>
+</recuerdaTexto></recuerda>
+<p>Los números irracionales que no son algebraicos, no pueden ser
+expresados como resultado de operaciones con números racionales, por
+ejemplo:</p>
+<listaSinNumerar>
+<listaElemento>π = 3,1415926535879…</listaElemento>
+<listaElemento>e = 2,71828184590452…</listaElemento>
+<listaElemento>0,123456789101112…</listaElemento>
+<listaElemento>235,0100100010000100…</listaElemento>
+</listaSinNumerar>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso030&amp;IdRecurso=RES-D40193F747C342F59CA72A485287B7A5"
 >Importancia de los números irracionales</enlace>
@@ -72,55 +307,169 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso040&amp;IdRecurso=RES-A1AB7E
 <seccion2 id="S2_MA_11_01_CO_C2231758FCFF45829956509F7AC254ED">
 <seccion2Titulo>La recta real</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_02_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Es posible establecer una correspondencia entre los números reales
+y la recta numérica, de tal manera que a cada punto de la recta le
+corresponda un único número Real y a cada número Real le corresponda
+un único punto de la recta (esto es lo que se conoce como una relación
+biunívoca). A la representación gráfica de esta recta se denomina <negrita
+>recta real</negrita>.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG02n.png">
+<p><negrita>Representación gráfica de números reales.</negrita> El
+número π puede ser representado en la recta real con diferentes aproximaciones
+que pueden tener un error de una unidad, una décima o una centésima
+según se tomen los segmentos entre 3 y 4, entre 3,1 y 3,2 o entre
+3,14 y 3,15, respectivamente.</p>
 </imagen>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<destacado><destacadoTitulo>Reglas para ubicar los Reales en la recta</destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>Todo Número Real puede ser ubicado en la recta numérica a través
+de su expansión decimal.</p>
 </destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_03_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Para ubicar los números en la recta de manera usual, se escoge
+arbitrariamente un punto de la recta y a ese punto de le asigna el
+número cero (0), se verifica que los puntos correspondientes a números
+negativos siempre estén al lado izquierdo de 0 y los que corresponden
+a números positivos estén ubicados a la derecha.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG03n.png">
+<p>Números reales negativos y números reales positivos.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_04_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Si hay dos números positivos, se ubica a la derecha el número cuya
+parte entera es mayor.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG04n.png">
+<p>Ubicación en la recta numérica de números reales positivos con
+distinta parte entera.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_05_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Si hay dos números positivos, cuya parte entera es igual, se comparan
+una a una las cifras decimales de izquierda a derecha, se ubica a
+la derecha el número cuya primera cifra decimal sea mayor.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG05n.png">
+<p>Ubicación en la recta numérica de números reales positivos con
+cifras no decimales iguales.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_06_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>•	Si dos números son Reales negativos, el número cuyo valor absoluto
+de sus cifras no decimales sea mayor se ubica a la izquierda del otro
+Número Real.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG06n.png">
+<p>Ubicación en la recta numérica de números reales con cifras no
+decimales iguales.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_07_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Si hay dos números negativos, cuya parte entera es igual, se compara
+una a una las cifras decimales de izquierda a derecha, y se ubica
+a la izquierda el número cuya primera cifra decimal sea mayor.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG07n.png">
+<p>Ubicación en la recta numérica de números reales con cifras no
+decimales iguales.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_08_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>No siempre es posible ubicar exactamente un número real, generalmente
+se ubica una aproximación del número, ya sea por truncamiento o redondeo<enlace
+destino="http://aulaplaneta.planetasaber.com/encyclopedia/default.asp?idreg=8630&amp;ruta=Buscador"
+> [VER]</enlace>; es posible ubicar con precisión los números racionales
+y algunos números irracionales realizando algunas construcciones geométricas.
+ </p>
+<p>Para realizar este proceso, en el caso de los números racionales
+se ubican los números enteros, esto se hace escogiendo una unidad
+de medida y a partir del cero se hacen mediciones de una unidad tanto
+a la derecha como a la izquierda; para ubicar los racionales no enteros,
+se encuentra la expresión como fracción de sus cifras decimales, se
+divide la unidad como indique el denominador y se toman tantas como
+indique el numerador <enlace
+destino="http://tube.geogebra.org/student/b161352#material/161346"
+>[VER]</enlace>.  Para ubicar los números irracionales se realizan
+algunas construcciones geométricas usando las propiedades de la media
+geométrica que se presentan en la circunferencia. <enlace
+destino="http://tube.geogebra.org/student/b161352#material/161362"
+>[VER]</enlace> O a través de la construcción de la diagonal de un
+rectángulo sobre la recta numérica.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG08n.png">
+<p>Representación gráfica de números irracionales algebraicos.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_MA_11_01_CO_299BD2D39E114773A50209D5C168209B">
 <seccion2Titulo>Operaciones de los números reales</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>En cursos anteriores ya se han estudiado las operaciones de los
+números reales y cómo se efectúan. Algunas veces simplemente se aproximan
+las cantidades para operar y otras se dejan indicadas las operaciones.
+  </p>
+<p>En este conjunto numérico se realizan las operaciones de estructura
+aditiva (adición y sustracción) y de estructura multiplicativa (multiplicación
+y división). Además de la potenciación, radicación y logaritmación. </p>
+<p> A continuación recordaremos las propiedades más importantes de
+estas operaciones:</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso050&amp;IdRecurso=RES-48A2965E380547C3917F3A6289202353"
 >Propiedades de la adición y la multiplicación de los números reales</enlace>
 </profundiza><recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
+<listaSinNumerar>
+<listaElemento>Si se suma dos números racionales el resultado es un
+número racional.</listaElemento>
+<listaElemento>Si se suma un irracional con un racional el resultado
+es un número irracional.</listaElemento>
+<listaElemento>Si se suma dos números irracionales, el resultado puede
+ser un número irracional o racional. </listaElemento>
+</listaSinNumerar>
 </recuerdaTexto></recuerda><recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
+<listaSinNumerar>
+<listaElemento>Si se multiplica dos números racionales el resultado
+es un número racional.</listaElemento>
+<listaElemento>Si se multiplica un irracional con un racional distinto
+de cero el resultado es un número irracional.</listaElemento>
+<listaElemento>Si se multiplica dos números irracionales, el resultado
+puede ser un número irracional o racional. </listaElemento>
+</listaSinNumerar>
 </recuerdaTexto></recuerda>
-<p>Aquí va un PÁRRAFO</p>
+<p>En el siguiente ejemplo se muestra el uso de las propiedades de
+las operaciones de los números reales, para la resolución de ecuaciones. </p>
+<p> Hallar el conjunto solución de la ecuación 4x2 + 4x –5 = 19</p>
+<table border="1" cellspacing="0"><colgroup><col span="2"/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2">4x<superindice>2</superindice> + 4x – 5 = 19</td>
+<td>Ecuación dada.</td>
+</tr>
+<tr>
+<td colspan="2">(4x<superindice>2</superindice> + 4x – 5) + (–19)
+= 19 + (–19)</td>
+<td>Existencia de opuestos aditivos.</td>
+</tr>
+<tr>
+<td colspan="2">4x<superindice>2</superindice> + 4x – 24 = 0</td>
+<td>Propiedad asociativa de la adición.</td>
+</tr>
+<tr>
+<td colspan="2">4(x<superindice>2</superindice> + x – 6) = 0</td>
+<td>Propiedad distributiva de la multiplicación con respecto a la
+suma (factor común).</td>
+</tr>
+<tr>
+<td colspan="2"><formula alineacion="izquierda" src="MA_11_01_058.gif">
+</formula></td>
+<td>Existencia de elementos inversos para la multiplicación.</td>
+</tr>
+<tr>
+<td colspan="2">x<superindice>2</superindice> + x – 6= 0</td>
+<td>Propiedad asociativa de la multiplicación.</td>
+</tr>
+<tr>
+<td colspan="2">(x + 3)(x – 2) = 0</td>
+<td>Propiedad distributiva de la multiplicación con respecto a la
+suma (factorización).</td>
+</tr>
+<tr>
+<td>x + 3 = 0</td>
+<td>x – 2 = 0</td>
+<td>Inexistencia de divisores de cero.</td>
+</tr>
+<tr>
+<td>x = –3</td>
+<td>x = 2</td>
+<td>Existencia de opuestos aditivos y propiedad asociativa de la adición.</td>
+</tr>
+</tbody>
+</table>
+<p>El conjunto solución de la ecuación es {–3, 2}.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso060&amp;IdRecurso=RES-164F698B87454043AA986595E3CAB637"
@@ -129,11 +478,20 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso060&amp;IdRecurso=RES-164F69
 id="S2_MA_11_01_CO_446486A5BA8E445BA48EF36C8609485F">
 <seccion2Titulo>Orden de los números reales</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<p>Aunque la forma en que se ubican los números reales en la recta
+real nos presentan un orden para el conjunto, es necesario formalizar
+el concepto de orden de los números reales a partir de la adición
+definida en el conjunto de números reales positivos.</p>
+<destacado><destacadoTitulo>Definición de orden en los números reales</destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<listaSinNumerar>
+<listaElemento>Para cualquier par de números reales x y y, x es menor
+que y (x &lt; y) o y es mayor que x (y > x) si y solo si y – x es
+un número real positivo.</listaElemento>
+<listaElemento>Para los números reales x y y, x es menor o igual a
+y (x ≤ y) o y mayor o igual a x (y ≥ x), si y solo si x &lt; y  o
+x = y.</listaElemento>
+</listaSinNumerar>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso070&amp;IdRecurso=RES-B81D513C0865485BAFB3F37FF47CDA01"
@@ -146,8 +504,8 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso080&amp;IdRecurso=RES-731900
 id="S2_MA_11_01_CO_E6B8E3997C5F4D22B786597A614CFC73">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Estas actividades te permitirán reforzar los conocimientos adquiridos
+en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso090&amp;IdRecurso=RES-11E67C5E07D844178313B4E6B7BE65A6"
@@ -161,124 +519,224 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso100&amp;IdRecurso=RES-2C89BD
 <seccion1 id="S1_MA_11_01_CO_E81A2B30F9AC467CA9AFF3E9DE981BEE">
 <seccion1Titulo>Intervalos</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Se denomina<negrita> intervalo</negrita> al conjunto de puntos
+de la recta real correspondientes a una semirrecta o a un segmento. </p>
+<p>Un intervalo es <negrita>acotado superiormente</negrita> si es
+posible encontrar por lo menos un punto a su derecha que no pertenezca
+al intervalo; de la misma forma, un intervalo es <negrita>acotado
+inferiormente</negrita> si a su izquierda existen puntos que no pertenecen
+al intervalo. Un intervalo es <negrita>acotado</negrita>, si es acotado
+superior e inferiormente. Claramente, los segmentos son acotados mientras
+que las semirrectas solamente son acotadas superior o inferiormente.</p>
 <seccion2 id="S2_MA_11_01_CO_648646AA2697432E88683A7F87F14DDD">
 <seccion2Titulo>Intervalos abiertos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_09_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Sean<cursiva> a</cursiva>, <cursiva>b</cursiva> ∈ ℝ, con <cursiva
+>a</cursiva> &lt; <cursiva>b</cursiva> entonces: </p>
+<p>Se define el intervalo abierto de extremos<cursiva> a</cursiva
+> y <cursiva>b</cursiva> como el conjunto de todos los números reales
+mayores que<cursiva> a</cursiva> y menores que <cursiva>b</cursiva
+>, así:</p>
+<formula alineacion="izquierda" src="MA_11_01_060.gif"></formula>
+<p>Es decir, el intervalo abierto (<cursiva>a</cursiva>, <cursiva
+>b</cursiva>) no incluye a los números reales <cursiva>a</cursiva
+> y<cursiva> b</cursiva> como se muestra en la imagen.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG9n.png">
+<p>Representación del intervalo abierto (<cursiva>a</cursiva>, <cursiva
+>b</cursiva>).</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_10_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Se define, el intervalo abierto con extremos a y ∞ como el conjunto
+de los números reales mayores que a:</p>
+<formula alineacion="izquierda" src="MA_11_01_061.gif"></formula>
+<imagen ampliable="no" src="MA_11_01_CO_IMG10n.png">
+<p>Representación del intervalo abierto (<cursiva>a</cursiva>, ∞).</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_11_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Asimismo, el intervalo abierto con extremos –∞ y b es el conjunto
+de los números reales menores que <cursiva>b</cursiva>:</p>
+<formula alineacion="izquierda" src="MA_11_01_062.gif"></formula>
+<imagen src="MA_11_01_CO_IMG11n.png">
+<p>Representación del intervalo (–∞, <cursiva>b</cursiva>).</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_MA_11_01_CO_903E5246BA6C49C1ADE3C2FED28F0A82">
 <seccion2Titulo>Intervalos cerrados</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_12_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Sean <cursiva>a</cursiva>, <cursiva>b</cursiva> ∈ ℝ, con <cursiva
+>a</cursiva> &lt; <cursiva>b</cursiva> entonces: </p>
+<p>El intervalo cerrado de extremos <cursiva>a</cursiva> y <cursiva
+>b</cursiva> se define como el conjunto de todos los números reales
+mayores o iguales que <cursiva>a</cursiva> y menores o iguales que <cursiva
+>b</cursiva>:</p>
+<formula alineacion="izquierda" src="MA_11_01_064.gif"></formula>
+<p>Es decir, en el intervalo cerrado [<cursiva>a</cursiva>, <cursiva
+>b</cursiva>] los números reales<cursiva> a</cursiva> y <cursiva>b</cursiva
+> son elementos del intervalo.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG12n.png">
+<p>Representación del intervalo [<cursiva>a</cursiva>, <cursiva>b</cursiva
+>].</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_MA_11_01_CO_C612D2B6963B422DA3BFE0C7A1402FA9">
 <seccion2Titulo>Intervalos semiabiertos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_13_small.jpg">
+<p>Sean a, b ∈ ℝ, con a &lt; b entonces: </p>
+<p>El intervalo semiabierto [<cursiva>a</cursiva>, <cursiva>b</cursiva
+>) (de extremo cerrado en <cursiva>a</cursiva> y abierto en <cursiva
+>b</cursiva>) es el conjunto de todos los números reales mayores o
+iguales que<cursiva> a</cursiva> y menores que <cursiva>b</cursiva
+>:</p>
+<formula alineacion="izquierda" src="MA_11_01_066.gif"></formula>
+<p>Es decir, se cumple que</p>
+<formula alineacion="izquierda" src="MA_11_01_067.gif"></formula>
+<p>;  sin embargo,</p>
+<formula alineacion="izquierda" src="MA_11_01_068.gif"></formula>
+<imagen ampliable="no" src="MA_11_01_CO_IMG13n.png">
+<p>Representación del intervalo [<cursiva>a</cursiva>,<cursiva> b</cursiva
+>).</p>
+</imagen>
+<p>•	El intervalo semiabierto (<cursiva>a</cursiva>, <cursiva>b</cursiva
+>] como el conjunto de todos los números reales mayores que <cursiva
+>a</cursiva> y menores o iguales que <cursiva>b</cursiva>:</p>
+<formula alineacion="izquierda" src="MA_11_01_069.gif">
+<p>es decir, se cumple que<cursiva> a</cursiva> ∉ (<cursiva>a</cursiva
+>, <cursiva>b</cursiva>], pero <cursiva>b</cursiva> ∈ (<cursiva>a</cursiva
+>, <cursiva>b</cursiva>] </p>
+</formula>
+<imagen ampliable="no" src="MA_11_01_CO_IMG14n.png">
+<p>Segmento semiabierto</p>
+<p>Representación del intervalo (<cursiva>a</cursiva>, <cursiva>b</cursiva
+>].</p>
+</imagen>
+<p>•	El intervalo semiabierto [<cursiva>a</cursiva>, ∞) como el conjunto
+de los números reales mayores o iguales que <cursiva>a</cursiva>:</p>
+<formula alineacion="izquierda" src="MA_11_01_072.gif"></formula>
+<imagen ampliable="no" src="MA_11_01_CO_IMG15n.png">
+<p>Semirrecta cerrada</p>
+<p>Representación del intervalo [<cursiva>a</cursiva>, ∞).</p>
+</imagen>
+<p>•	El intervalo semiabierto (– ∞, <cursiva>b</cursiva>] como el
+conjunto de los números reales menores o iguales que b:</p>
+<formula alineacion="izquierda" src="MA_11_01_073.gif"></formula>
+<imagen ampliable="no" src="MA_11_01_CO_IMG16n.png">
+<p>Semirrecta cerrada</p>
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_14_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_15_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_16_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<p>Representación del intervalo (– ∞, <cursiva>b</cursiva>].</p>
+<destacado><destacadoTitulo>Intervalos Acotados y no acotados </destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>Observa que:</p>
+<listaSinNumerar>
+<listaElemento>(<cursiva>a</cursiva>, <cursiva>b</cursiva>) es acotado.</listaElemento>
+<listaElemento>[<cursiva>a</cursiva>, <cursiva>b</cursiva>) es acotado.</listaElemento>
+<listaElemento>(<cursiva>a</cursiva>, <cursiva>b</cursiva>] es acotado.</listaElemento>
+<listaElemento>(–∞, <cursiva>b</cursiva>) es acotado superiormente.</listaElemento>
+<listaElemento>(<cursiva>a</cursiva>, ∞) es acotado inferiormente.</listaElemento>
+<listaElemento>(–∞, <cursiva>b</cursiva>] es acotado superiormente.</listaElemento>
+<listaElemento>[<cursiva>a</cursiva>, ∞) es acotado inferiormente.</listaElemento>
+</listaSinNumerar>
 </destacadoTexto></destacado><recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
+<p>Al conjunto de los números reales lo podemos expresar como el intervalo
+(–∞,∞)</p>
 </recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
 id="S2_MA_11_01_CO_7F0EAA395015481CB711FCF48CEC95FD">
 <seccion2Titulo>Operaciones con intervalos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Como los intervalos son conjuntos de números reales es posible
+realizar entre ellos las operaciones básicas de conjuntos: unión,
+intersección y complemento. El resultado de realizar una operación
+conjuntista entre intervalos se puede escribir como un intervalo o
+como la unión de intervalos, además la representación gráfica ayuda
+a determinarlo.</p>
 <seccion3 id="S3_MA_11_01_CO_119262F5495B4DFB912FEF19EB29CB63">
 <seccion3Titulo>Unión de intervalos</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<p>La unión de intervalos es un caso específico de la unión de conjuntos
+y se presenta a continuación: </p>
+<destacado><destacadoTitulo>Unión de intervalos </destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>La unión de dos intervalos es el conjunto de números reales que
+pertenece a un intervalo o al otro. </p>
 </destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_17_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Sean los intervalos (–∞, 4) y (–3, 15], encontrar: </p>
+<formula alineacion="izquierda" src="MA_11_01_074.gif"></formula>
+<p>Solución.  </p>
+<p>Al representar los intervalos en la recta numérica se obtiene:</p>
+<imagen src="MA_11_01_CO_IMG17n.png">
+<p> (–∞, 4) ∪ (–3, 15]</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_18_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Luego</p>
+<formula alineacion="izquierda" src="MA_11_01_074.gif"></formula>
+<p>Ejemplo 2. Determinar (-∞, 4) ∪ (9, ∞), a través de su representación
+gráfica.  </p>
+<p>Solución.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG18n.png">
+<p> (–∞, 4) ∪ (9, ∞]</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
+<p>En este caso se obtiene (- ∞, 4) ∪ (9,  ∞); por lo tanto, simplemente
+se deja la operación indicada.</p>
 </seccion3Texto></seccion3><seccion3
 id="S3_MA_11_01_CO_AE0A3BEC20544A1AA77AAC906B395A26">
 <seccion3Titulo>Intersección de intervalos</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<p>La intersección de intervalos es un caso específico de la intersección
+de conjuntos y se presenta a continuación:</p>
+<destacado><destacadoTitulo>Intersección de intervalos</destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>La intersección de dos intervalos es el conjunto de números reales
+que pertenece a ambos intervalos.</p>
 </destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_19_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Ejemplo 1. Determinar (- ∞, 4) ∩ (-3,15], a través de su representación
+en la recta numérica.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG19n.png">
+<p>(- ∞, 4) ∩ (-3,15]</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_20_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Luego</p>
+<formula alineacion="izquierda" src="MA_11_01_082.gif"></formula>
+<p>Ejemplo 2. Hallar un intervalo equivalente a (- ∞, 4) ∩ (9,  ∞) </p>
+<p>La representación gráfica de (- ∞, 4) ∩ (9,  ∞) se muestra en la
+imagen.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG20n.png">
+<p>(- ∞, 4) ∩ (9,  ∞) </p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
+<p>Puesto que no hay un número real que pertenezca a ambos intervalos
+se puede concluir que:</p>
+<formula alineacion="izquierda" src="MA_11_01_086.gif"></formula>
 </seccion3Texto></seccion3><seccion3
 id="S3_MA_11_01_CO_10022B77C9FA44B6B6DDF0C169E305CA">
 <seccion3Titulo>Complemento de un intervalo</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+<p>El complemento de un intervalo es un caso específico del complemento
+de un  conjunto y se presenta a continuación:</p>
+<destacado><destacadoTitulo>Complemento de un intervalo</destacadoTitulo>
 <destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>El complemento de un intervalo está conformado por todos los números
+reales que no pertenecen al intervalo.</p>
 </destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_21_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Para encontrar [<cursiva>a</cursiva>, <cursiva>b</cursiva>)<superindice
+>c</superindice> se representa gráficamente [<cursiva>a</cursiva>, <cursiva
+>b</cursiva>)</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG21n.png">
+<p>[<cursiva>a</cursiva>, <cursiva>b</cursiva>)<superindice>c</superindice
+>.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_22_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Por lo tanto, los números reales que NO pertenecen a [<cursiva
+>a</cursiva>, <cursiva>b</cursiva>), son los elementos del conjunto
+([<cursiva>a</cursiva>, <cursiva>b</cursiva>))<superindice>c</superindice
+> </p>
+<p>Luego,</p>
+<formula alineacion="izquierda" src="MA_11_01_087.gif"></formula>
+<p>Para determinar (–∞, <cursiva>a</cursiva>]<superindice>c</superindice
+> se representa gráficamente (–∞, <cursiva>a</cursiva>]</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG22n.png">
+<p>(–∞, <cursiva>a</cursiva>]<superindice>c</superindice>.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-</seccion3Texto></seccion3>
-<p>Aquí va un PÁRRAFO</p><?Pub Caret -3?>
+<p>Luego, (–∞, <cursiva>a</cursiva>]<superindice>c</superindice> =
+(<cursiva>a</cursiva>, ∞).</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades que te permitirán reforzar los conocimientos adquiridos
+en esta sección. </p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso110&amp;IdRecurso=RES-C511BCD9EBD141F6851C7DB79887B558"
@@ -287,27 +745,242 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso110&amp;IdRecurso=RES-C511BC
 <seccion1 id="S1_MA_11_01_CO_1B0DCEA5256141CB9B817AC25DBA76A0">
 <seccion1Titulo>Valor absoluto</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-<destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado>
-<p>Aquí va un PÁRRAFO</p>
+<p>El valor absoluto de un número real se define mediante las siguientes
+dos condiciones:</p>
+<listaSinNumerar>
+<listaElemento>Si el número real es positivo, su valor absoluto es
+el mismo número real.</listaElemento>
+<listaElemento>Si el número real  es negativo,  su valor absoluto
+es su opuesto aditivo.</listaElemento>
+</listaSinNumerar>
+<p>Matemáticamente, esta definición se presenta de la siguiente manera:</p>
+<formula alineacion="izquierda" src="MA_11_01_088.gif"></formula>
+<p>Observa que el valor absoluto de un número es siempre un número
+real no negativo.  </p>
+<p>Ten en cuenta que, si x es un número real, –x  puede ser un número
+real negativo o positivo, puesto que –x representa el opuesto de x;
+por lo tanto, si x es negativo –x es positivo. Luego:</p>
+<formula alineacion="izquierda" src="MA_11_01_089.gif"></formula>
 <seccion2 id="S2_MA_11_01_CO_F8A392F51915402798D954AAC9BDBF07">
 <seccion2Titulo>Propiedades del valor absoluto</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_23_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Las principales propiedades del valor absoluto son: </p>
+<listaSinNumerar>
+<listaElemento><formula alineacion="izquierda" src="MA_11_01_090.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="izquierda" src="MA_11_01_091.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="izquierda" src="MA_11_01_092.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="izquierda" src="MA_11_01_093.gif">
+</formula></listaElemento>
+<listaElemento>|x| = 0, si y solo si x = 0</listaElemento>
+<listaElemento>|x| &lt; y, si y solo si –y &lt; x &lt; y</listaElemento>
+<listaElemento>|x| > y, si y solo si –y > x ó x > y</listaElemento>
+</listaSinNumerar>
+<p>Debido a que la distancia entre dos puntos es un número real no
+negativo, la distancia entre dos números x y y en la recta real se
+puede escribir mediante el valor absoluto como |x – y|.  </p>
+<p>Por ejemplo, la distancia entre –2 y 5 está dado por |-2 – 5| =
+7  y la distancia entre –7 y –4 está dada por |-7 – (-4)| = |-7 +
+4| =3.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG23n.png">
+<p>Distancia en la recta</p>
+<p>La primera recta real muestra la distancia entre –2 y 5 y la segunda
+recta real muestra la distancia entre –7 y –4.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_MA_11_01_CO_DBF5DD8B789244B2A7AC9B6BC9EA03D6">
 <seccion2Titulo>Ecuaciones de una variable con valor absoluto</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Ecuaciones de una variable con valor absoluto son aquellas ecuaciones
+en la que la variable aparece una o más veces dentro de un valor absoluto,
+por ejemplo:</p>
+<table border="1" cellspacing="0"><colgroup><col/><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_100.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_101.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_102.gif"></formula
+></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_103.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_104.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_105.gif"></formula
+></td>
+</tr>
+</tbody>
+</table>
+<p>Para resolver una ecuación con valor absoluto es necesario plantear
+la definición del valor absoluto en términos de la ecuación que se
+requiere resolver. Por ejemplo, respecto a la ecuación |x – 3| = 4,
+el valor absoluto se define como:</p>
+<p>En la ecuación </p>
+<formula alineacion="izquierda" src="MA_11_01_108.gif"></formula>
+<p>se tiene que:</p>
+<formula alineacion="izquierda" src="MA_11_01_109.gif"></formula>
+<p>En los siguientes ejemplos se muestra cómo resolver una ecuación
+que contiene un valor absoluto: </p>
+<p><negrita>Ejemplo 1.</negrita> Encuentra el conjunto solución de
+la ecuación |2x + 6| = 3  De acuerdo con la definición de valor absoluto
+se tiene que:</p>
+<formula alineacion="izquierda" src="MA_11_01_111.gif"></formula>
+<p>Por lo tanto, se deben considerar los valores de x para los cuales
+2x + 6 ≥ 0 y los valores de x para los cuales 2x + 6 &lt; 0. Por eso,
+se presentan las ecuaciones       2x + 6 = 3 y – (2x + 6) = 3. Finalmente,
+se procede a averiguar el valor de x en cada una de ellas como se
+muestra a continuación:</p>
+<table border="1" cellspacing="0"><colgroup><col width="50*"/><col
+width="49*"/></colgroup>
+<tbody>
+<tr>
+<td>2x + 6 = 3</td>
+<td>–(2x + 6) = 3</td>
+</tr>
+<tr>
+<td>2x + 6 + (–6) = 3 + (–6)</td>
+<td>–(2x + 6)(–1) = 3(–1)</td>
+</tr>
+<tr>
+<td>2x = –3</td>
+<td>2x + 6 = –3</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_112.gif"></formula
+></td>
+<td>2x + 6 + (–6) = –3 + (–6)</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_113.gif"></formula
+></td>
+<td>2x = –9</td>
+</tr>
+<tr>
+<td></td>
+<td><formula alineacion="izquierda" src="MA_11_01_114.gif"></formula
+></td>
+</tr>
+<tr>
+<td></td>
+<td><formula alineacion="izquierda" src="MA_11_01_115.gif"></formula
+></td>
+</tr>
+</tbody>
+</table>
+<p>El conjunto solución de la ecuación |2x + 6| = 3 es </p>
+<formula alineacion="izquierda" src="MA_11_01_117.gif"></formula>
+<p>Ejemplo 2. Halla el conjunto solución de la ecuación 4|2x + 6|
++ 5 = 13  </p>
+<p>Primero, se despeja la expresión con valor absoluto:</p>
+<formula alineacion="izquierda" src="MA_11_01_119.gif"></formula>
+<formula alineacion="izquierda" src="MA_11_01_120.gif"></formula>
+<formula alineacion="izquierda" src="MA_11_01_121.gif"></formula>
+<formula alineacion="izquierda" src="MA_11_01_122.gif"></formula>
+<p>Con el fin de sintetizar algunos pasos en el procedimiento del
+ejemplo anterior, se consideran los valores de x para los cuales el
+valor absoluto de 2x + 6 es 2, estos casos son:</p>
+<p>2x + 6 = 2 y 2x + 6 = –2. Resolviendo cada uno:</p>
+<table border="1" cellspacing="0"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>2x + 6 = 2</td>
+<td>2x + 6 = –2</td>
+</tr>
+<tr>
+<td>2x + 6 + (–6) = 2 +(–6)</td>
+<td>2x + 6 + (–6) = –2 + (–6)</td>
+</tr>
+<tr>
+<td>2x = –4</td>
+<td>2x = –8</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_123.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_124.gif"></formula
+></td>
+</tr>
+<tr>
+<td>x = –2</td>
+<td>x = –4</td>
+</tr>
+</tbody>
+</table>
+<p>Luego, el conjunto solución de la ecuación 4|2x + 6| + 5 = 13 es
+{–2, –4}.  </p>
+<p><negrita>Ejemplo 3.</negrita> Determina el conjunto solución de
+la ecuación |x2 + 4x – 21| = 9   </p>
+<p>Para dar solución a esta ecuación, se consideran los dos casos:
+x2 + 4x – 21 = 9 y x2 + 4x – 21 = –9. Resolviendo cada uno:</p>
+<table border="1" cellspacing="0"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>x<superindice>2</superindice> + 4x – 21 = 9</td>
+<td>x<superindice>2</superindice> + 4x – 21 = –9</td>
+</tr>
+<tr>
+<td>x<superindice>2</superindice> + 4x – 21 + (–9) = 9 + (–9)</td>
+<td>x<superindice>2</superindice> + 4x – 21 + (9) = –9 + (9)</td>
+</tr>
+<tr>
+<td>x<superindice>2</superindice> + 4x – 30 = 0</td>
+<td>x<superindice>2</superindice> + 4x – 12 = 0</td>
+</tr>
+<tr>
+<td>Con el uso de formula cuadrática, se obtiene:</td>
+<td>con factorización, se obtiene:</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_127.gif"></formula
+></td>
+<td>(x – 2)(x + 6) = 0</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_128.gif"></formula
+></td>
+<td>Luego,</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_129.gif"></formula
+>ó</td>
+<td>x – 2 = 0 ó x + 6 = 0</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_130.gif"></formula
+></td>
+<td>x – 2 + 2 = 0 + 2  ó x + 6 – 6 = 0 – 6</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_131.gif"></formula
+>ó</td>
+<td>x = 2 ó x = –6</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_132.gif"></formula
+></td>
+<td></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_133.gif"></formula
+>ó</td>
+<td></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_134.gif"></formula
+></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Posterior, el conjunto solución de la ecuación |x<superindice>2</superindice
+> + 4x – 21| = 9,  es</p>
+<formula alineacion="izquierda" src="MA_11_01_136.gif"></formula>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso120&amp;IdRecurso=RES-4AD9B939B067417B943064C469818013"
@@ -320,26 +993,282 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso130&amp;IdRecurso=RES-3B2293
 id="S2_MA_11_01_CO_827612AF756942DA915D28B49B20FD47">
 <seccion2Titulo>Inecuaciones de una variable con valor absoluto</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<destacado><destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-<destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>Una inecuación con valor absoluto es una inecuación en que la variable
+aparece una o más veces al interior de un valor absoluto, por ejemplo:</p>
+<table cellspacing="0"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_137.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_138.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_139.gif"></formula
+></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_140.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_141.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_142.gif"></formula
+></td>
+</tr>
+</tbody>
+</table>
+<p>Antes de estudiar los procesos de solución de algunas inecuaciones
+lineales es necesario resaltar los siguientes casos:</p>
+<destacado><destacadoTitulo>Inecuaciones con valor absoluto con respuesta
+trivial</destacadoTitulo><destacadoTexto>
+<p>Sea <cursiva>d</cursiva> ∈ ℝ+,  x ∈ ℝ y <cursiva>p</cursiva>(x)
+una expresión algebraica que contiene a x como variable entonces la
+inecuación:</p>
+<listaSinNumerar>
+<listaElemento><cursiva>|p</cursiva>(x)| &lt; -<cursiva>d </cursiva
+>tiene por conjunto solución todos los reales donde<cursiva> p</cursiva
+>(x) tiene sentido.</listaElemento>
+<listaElemento>|<cursiva>p</cursiva>(x)| ≥ 0 tiene por conjunto solución
+todos los reales donde  <cursiva>p</cursiva>(x) tiene sentido.</listaElemento>
+<listaElemento>|<cursiva>p</cursiva>(x)| > 0 tiene por conjunto solución
+todos los reales donde<cursiva> p</cursiva>(x) tiene sentido y |<cursiva
+>p</cursiva>(x)| ≠ 0.</listaElemento>
+<listaElemento>|<cursiva>p</cursiva>(x)| ≤ -<cursiva>d</cursiva> tiene
+por conjunto solución el conjunto vacío.</listaElemento>
+<listaElemento>|<cursiva>p</cursiva>(x)| &lt; 0 tiene por conjunto
+solución el conjunto vacío. </listaElemento>
+<listaElemento>|<cursiva>p</cursiva>(x)| ≤ 0 tiene por conjunto solución
+el mismo que la ecuación |<cursiva>p</cursiva>(x)| = 0.</listaElemento>
+</listaSinNumerar>
 </destacadoTexto></destacado><seccion3
 id="S3_MA_11_01_CO_20FCB3EA4A4B46D58F4906B157C9F6A7">
 <seccion3Titulo>Inecuaciones donde la expresión en valor absoluto
 es menor que un número real positivo.</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_24_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>La inecuación |x| &lt; <cursiva>d</cursiva> donde <cursiva>d</cursiva
+> es un número real positivo, equivale a la inecuación |x – 0| &lt; <cursiva
+>d</cursiva>, esta inecuación se interpreta gráficamente como los
+números reales cuya distancia a cero es menor que <cursiva>d</cursiva
+>.</p>
+<p>Por ejemplo: |x – 0| &lt; 2</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG24n.png">
+<p>Interpretación de la inecuación |x| &lt; 2 como un problema de
+distancia.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_25_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>Tiene solución (–2, 2)  </p>
+<p>Se concluye que el conjunto solución de la inecuación |x| &lt; <cursiva
+>d</cursiva> está dado por el intervalo (–<cursiva>d</cursiva>, <cursiva
+>d</cursiva>) que son los números reales <cursiva>x</cursiva> tales
+que –<cursiva>d</cursiva> &lt; <cursiva>x</cursiva> &lt; <cursiva
+>d</cursiva>, luego tal y como se expresa en la propiedad 4 de valor
+absoluto, el conjunto solución es la intersección entre los valores
+reales que satisfacen las inecuaciones –<cursiva>d</cursiva> &lt; <cursiva
+>x</cursiva> y         <cursiva>x</cursiva> &lt; <cursiva>d</cursiva
+>.  </p>
+<p>Entonces, cuando se tiene una expresión del tipo </p>
+<formula alineacion="izquierda" src="MA_11_01_158.gif"></formula>
+<p>Donde <cursiva>p</cursiva>(x) es una expresión que contiene únicamente
+la variable <cursiva>x</cursiva>, entonces el conjunto solución se
+obtiene hallando la intersección de los conjuntos solución de las
+inecuaciones <cursiva>p</cursiva>(x) > –<cursiva>d</cursiva> y <cursiva
+>p</cursiva>(x) &lt; <cursiva>d</cursiva>.  </p>
+<p><negrita>Ejemplo 1.</negrita> Halla el conjunto solución de la
+inecuación |4 – 3x| ≤ 8   </p>
+<p>De la inecuación |4 – 3x| ≤ 8 se obtienen las desigualdades 4 –
+3x ≥ –8 y  4 – 3x ≤ 8 que se pueden escribir como –8 ≤ 4 – 3x ≤ 8.
+Esta inecuación se resuelve al despejar <cursiva>x</cursiva> en la
+expresión central, así:</p>
+<listaSinNumerar>
+<listaElemento>–8 ≤ 4 – 3x ≤ 8</listaElemento>
+<listaElemento>–8 + (–4) ≤ 4 – 3x + (–4) ≤ 8 + (–4)</listaElemento>
+<listaElemento>–12 ≤ –3x ≤ 4</listaElemento>
+<listaElemento><formula alineacion="izquierda" src="MA_11_01_161.gif">
+</formula></listaElemento>
+<listaElemento><formula alineacion="izquierda" src="MA_11_01_162.gif">
+</formula></listaElemento>
+</listaSinNumerar>
+<p>En conclusión, el conjunto solución de la inecuación es el intervalo
+cerrado </p>
+<formula alineacion="izquierda" src="MA_11_01_163.gif"></formula>
+<p><negrita>Ejemplo 2.</negrita> Encuentra el conjunto solución de
+la inecuación |x<superindice>2</superindice> – 10| &lt; 8.  </p>
+<p>La inecuación |x<superindice>2</superindice> – 10| &lt; 8 debe
+cumplir las desigualdades x<superindice>2</superindice> – 10 &lt;
+8 y x<superindice>2</superindice> – 10 > –8, que se pueden escribir
+simultáneamente mediante la expresión  –8 &lt; x<superindice>2</superindice
+> – 10 &lt; 8.  </p>
+<p>Sin embargo, las inecuaciones cuadráticas se resuelven comparando
+el polinomio de segundo grado con cero (0); por lo tanto, no conviene
+resolverlas simultáneamente, de esta forma se aconseja resolver las
+dos inecuaciones e intersecar las soluciones.</p>
+<table cellspacing="0"><colgroup><col/></colgroup>
+<tbody>
+<tr>
+<td>–8 &lt; x<superindice>2</superindice> – 10</td>
+</tr>
+<tr>
+<td>–8 + (8) &lt; x<superindice>2</superindice> – 10 + (8)</td>
+</tr>
+<tr>
+<td>0 &lt; x<superindice>2</superindice> – 2</td>
+</tr>
+</tbody>
+</table>
+<p>Se factoriza para hallar los ceros de la inecuación: </p>
+<formula alineacion="izquierda" src="MA_11_01_166.gif"></formula>
+<p>Como el producto de dos números es mayor que cero, si y solo si,
+ambos números son mayores que cero o ambos números son menores que
+cero, se determinan los números reales que son solución de las ecuaciones</p>
+<table cellspacing="0"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_167.gif"></formula
+></td>
+<td align="center">y</td>
+<td><formula alineacion="izquierda" src="MA_11_01_168.gif"></formula
+>,</td>
+</tr>
+<tr>
+<td> que son </td>
+<td align="center"></td>
+<td></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_169.gif"></formula
+></td>
+<td align="center">y</td>
+<td><formula alineacion="izquierda" src="MA_11_01_170.gif"></formula
+></td>
+</tr>
+<tr>
+<td>respectivamente. </td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Estos números particionan al conjunto de los números reales en
+los intervalos</p>
+<formula alineacion="izquierda" src="MA_11_01_171.gif"></formula>
+<formula alineacion="izquierda" src="MA_11_01_172.gif"></formula>
+<formula alineacion="izquierda" src="MA_11_01_173.gif"></formula>
+<p>Se determina el valor relativo del número real, que obtienen los
+factores</p>
+<table cellspacing="0"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_174.gif"></formula
+></td>
+<td align="center">y</td>
+<td><formula alineacion="izquierda" src="MA_11_01_175.gif"></formula
+></td>
+</tr>
+</tbody>
+</table>
+<p>al ser remplazado <cursiva>x</cursiva> por un número real de cada
+intervalo, como se muestra en la siguiente tabla:</p>
+<table border="1" cellspacing="0"><colgroup><col/><col/><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td>Factores</td>
+<td><formula alineacion="izquierda" src="MA_11_01_176.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_177.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_178.gif"></formula
+></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_179.gif"></formula
+></td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">+</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_180.gif"></formula
+></td>
+<td align="center">-</td>
+<td align="center">+</td>
+<td align="center">+</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_181.gif"></formula
+></td>
+<td align="center">+</td>
+<td align="center">-</td>
+<td align="center">+</td>
+</tr>
+</tbody>
+</table>
+<p>La inecuación –8 &lt; x2 – 10 tiene conjunto solución en el conjunto</p>
+<formula alineacion="izquierda" src="MA_11_01_182.gif"></formula>
+<p>Se resuelve la segunda inecuación:</p>
+<table cellspacing="0"><colgroup><col/></colgroup>
+<tbody>
+<tr>
+<td>8x<superindice>2</superindice> – 10 &lt; 8</td>
+</tr>
+<tr>
+<td>x<superindice>2</superindice> – 10 + (–8) &lt; 8 + (–8)</td>
+</tr>
+<tr>
+<td>x<superindice>2</superindice> – 10 &lt; 0</td>
+</tr>
+</tbody>
+</table>
+<p>Se aplica la factorización:</p>
+<formula alineacion="izquierda" src="MA_11_01_183.gif"></formula>
+<formula alineacion="izquierda" src="MA_11_01_184.gif"></formula>
+<p>Como el producto de dos números reales es menor que cero, si y
+solo si, uno de los factores es positivo y el otro factor es negativo;
+se compara el valor relativo de los factores en cada intervalo, como
+se muestra en la siguiente tabla:</p>
+<table border="1" cellspacing="0"><colgroup><col/><col/><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td>Factores</td>
+<td><formula alineacion="izquierda" src="MA_11_01_185.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_186.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_187.gif"></formula
+></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_188.gif"></formula
+></td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">+</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_189.gif"></formula
+></td>
+<td align="center">-</td>
+<td align="center">+</td>
+<td align="center">+</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_190.gif"></formula
+></td>
+<td align="center">+</td>
+<td align="center">-</td>
+<td align="center">+</td>
+</tr>
+</tbody>
+</table>
+<p>Luego, la inecuación x<superindice>2</superindice> – 10 &lt; 8
+tiene conjunto solución</p>
+<formula alineacion="izquierda" src="MA_11_01_191.gif"></formula>
+<p>En ocasiones, la representación de estos intervalos en la recta
+real permite interpretar la solución de una inecuación, así:</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG25n.png">
+<p> Representación gráfica en la recta real de la solución de la inecuación. </p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
+<p>Concluimos que la inecuación con valor absoluto |x2 – 10| &lt;
+8 tiene por conjunto solución:</p>
+<formula alineacion="izquierda" src="MA_11_01_193.gif"></formula>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso140&amp;IdRecurso=RES-D6636382282D4AD18119A373F177A3C5"
@@ -349,18 +1278,84 @@ id="S3_MA_11_01_CO_5EF6E51EC34344BFA73C49BA304FFC01">
 <seccion3Titulo>Inecuaciones donde la expresión en valor absoluto
 es mayor que un real positivo</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="MA_11_01_CO_img_26_small.jpg">
-<p>Aquí escribiré el pie de foto</p>
+<p>La inecuación |x| > <cursiva>d</cursiva> donde <cursiva>d</cursiva
+> es un número real positivo; es equivalente a la desigualdad |x –
+0| > <cursiva>d</cursiva> que se puede interpretar gráficamente el
+conjunto de números reales cuya distancia a cero es mayor que <cursiva
+>d</cursiva>.  </p>
+<p>Por ejemplo |x – 0| > 2.</p>
+<imagen ampliable="no" src="MA_11_01_CO_IMG26n.png">
+<p>Interpretación de la inecuación como un problema de distancia.</p>
 </imagen>
-<p>Aquí va un PÁRRAFO</p>
+<p>Tiene solución (-∞, -2) ∪ (2, ∞). </p>
+<p> Por lo tanto, el conjunto solución de la inecuación |x| > <cursiva
+>d</cursiva> está dado por (-∞, -<cursiva>d</cursiva>) ∪ (<cursiva
+>d</cursiva>, ∞) que son los números reales x tales que –<cursiva
+>d</cursiva> > x ó x > <cursiva>d</cursiva>, como se expresa en la
+propiedad 5 de valor absoluto. A diferencia del caso anterior estas
+inecuaciones no pueden resolverse simultáneamente y el conjunto solución
+es la unión entre los valores reales que satisfacen las inecuaciones
+–<cursiva>d</cursiva> > x y x > <cursiva>d</cursiva>.  </p>
+<p>Así, las inecuaciones de la forma |<cursiva>p</cursiva>(x)| = <cursiva
+>d</cursiva>, donde <cursiva>p</cursiva>(x) es una expresión que contiene
+únicamente la variable <cursiva>x</cursiva>, el conjunto solución
+de la inecuación se obtiene al hallar la unión de los conjuntos solución
+de las inecuaciones –<cursiva>d</cursiva> > <cursiva>p</cursiva>(x)
+y <cursiva>p</cursiva>(x) > <cursiva>d</cursiva>.  </p>
+<p><negrita>Ejemplo 1.</negrita> Determina el conjunto solución de
+la inecuación |3 – 5x| ≥ 8.  </p>
+<p>El conjunto solución de la desigualdad |3 – 5x| ≥ 8 debe cumplir
+la condición –8 ≥ 3 – 5x o la condición 3 – 5x ≥ 8. Al resolver cada
+una de las inecuaciones se obtiene:</p>
+<table cellspacing="0"><colgroup align="center"><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>           –8 ≥ 3 – 5x</td>
+<td>8 ≤ 3 – 5x</td>
+</tr>
+<tr>
+<td>–8 + (–3) ≥ 3 – 5x + (–3)</td>
+<td>8 + (–3) ≤ 3 – 5x + (–3)</td>
+</tr>
+<tr>
+<td>         –11 ≥ –5x</td>
+<td>5 ≤ –5x</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_204.gif"></formula
+></td>
+<td><formula alineacion="izquierda" src="MA_11_01_207.gif"></formula
+></td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_205.gif"></formula
+></td>
+<td>           1 ≥ x</td>
+</tr>
+<tr>
+<td>Conjunto solución </td>
+<td>Conjunto solución</td>
+</tr>
+<tr>
+<td><formula alineacion="izquierda" src="MA_11_01_206.gif"></formula
+></td>
+<td> (–∞, 1]</td>
+</tr>
+</tbody>
+</table>
+<p>En conclusión, el conjunto solución de la inecuación |3 – 5x| ≥
+8 es el intervalo abierto</p>
+<formula alineacion="izquierda" src="MA_11_01_209.gif"></formula>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso150&amp;IdRecurso=RES-A84DD52ADF104D14A472794572DDBC4A"
 >Resolución  de inecuaciones con valor absoluto</enlace>
-</practica></seccion3Texto></seccion3>
-<p>Aquí va un PÁRRAFO</p>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Estas actividades te permitirán reforzar los conocimientos adquiridos
+en esta sección</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso160&amp;IdRecurso=RES-84BB5E6765844DEBB8A03ACDA8369585"
@@ -372,10 +1367,8 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso170&amp;IdRecurso=RES-EC6CE8
 valor absoluto</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_11_01_CO_2BDDCA5A57964C7C9D9AB4E46E086053">
-<seccion1Titulo>Competencias</seccion1Titulo>
-<seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<practica>
+<seccion1Titulo>Ejercitación y competencias </seccion1Titulo>
+<seccion1Texto><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso180&amp;IdRecurso=RES-029E44997F7540BDA144C2AE3A1A61F4"
 >Competencias: Pon a prueba  tu conocimiento sobre números reales</enlace>
@@ -385,6 +1378,17 @@ id="MI_MA_11_01_CO_DA9A9D6D614C4A8DB567D3CC63F55ED6"><mapaconceptual>
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso190&amp;IdRecurso=RES-7E4859B7218F476BAC8070DA9D7AAA5C"
 >Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_01_CO_Recurso200&amp;IdRecurso=RES-91EAEB004A6B46FC9E6BE133E173F163"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Pon a prueba tu conocimiento sobre las propiedades de los números
+reales</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://tube.geogebra.org/student/b161352# ">Representación
+de números en la recta real.</enlace>
+<enlace
+destino="http://dme.ufro.cl/clinicamatematica/images/ejercicios_resueltos/ecuaciones_inecuaciones/Inecuaciones–con–valor–absoluto.pdf "
+>Inecuaciones con Valor Absoluto</enlace>
+<enlace
+destino="http://www.anpebadajoz.es/autodidacta/autodidacta_archivos/numero_1_archivos/r_m_hernandez_feb10.pdf "
+>Evolución Histórica del Concepto de Número</enlace>
+<enlace
+destino="https://lacasadegauss.files.wordpress.com/2010/10/desigualdades–e–intervalos.pdf "
+>Desigualdades e Intervalos</enlace><?Pub Caret -1?>
 </enlacesreferencia></masinformacion></libro>
