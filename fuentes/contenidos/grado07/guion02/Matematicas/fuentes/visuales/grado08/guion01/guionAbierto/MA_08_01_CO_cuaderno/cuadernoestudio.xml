@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="MA_08_01_CO">
+<libroTitulo>Los Números reales propiedades y operaciones</libroTitulo>
+<seccion1 id="S1_MA_08_01_CO_F108E992D5654721A0A9E2322AD382DF">
+<seccion1Titulo>Los números racionales</seccion1Titulo>
+<seccion1Texto>
+<p>La idea de número racional surge de dividir un todo en partes iguales,
+como por ejemplo un cuarto de hora, media naranja, tres cuartos de
+mantequilla.</p>
+<p>El conjunto de los números racionales se simboliza con la letra</p>
+<formula src="MA_08_01_001.gif"></formula>
+<p> y se define como el cociente entre dos números enteros, es decir: </p>
+<formula src="MA_08_01_002.gif"></formula>
+<recuerda><recuerdaTexto>
+<p>Cuando un número racional se expresa como una fracción, el dividendo
+se denomina numerador y el divisor se llama denominador. Los números
+racionales contienen a los números enteros, debido a que cada entero
+se puede escribir como una fracción. </p>
+<formula src="MA_08_01_003.gif"></formula>
+</recuerdaTexto></recuerda>
+<p>Todo número racional se puede expresar como una fracción, o como
+un decimal, esto depende de la utilidad y de la necesidad en cada
+caso. Por ejemplo, para decir que una chocolatina se ha dividido en
+partes iguales y se han tomado algunas de ellas, conviene escribir
+esa cantidad como una fracción, pero si se quiere medir el tiempo
+que tarda un atleta en recorrer 100 metros, es más útil escribir la
+cantidad de tiempo como un decimal. </p>
+<imagen src="MA_08_01_CO_IMG01_small.jpg">
+<p>Cada fracción de la manzana representa 1/4</p>
+<p>. Las cuatro partes representan la fracción 4/4</p>
+</imagen>
+<seccion2 id="S2_MA_08_01_CO_499B3B15AAC245DF9E3B25A375AFA02F">
+<seccion2Titulo>Los números racionales como una fracción</seccion2Titulo>
+<seccion2Texto>
+<p>Cuando escribimos un número racional en forma de fracción lo dejamos
+como el cociente entre dos números enteros, teniendo en cuenta que
+el denominador sea diferente de cero; podemos encontrar dos tipos
+de fracciones:</p>
+<table border="1"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Fracciones propias</negrita></td>
+<td><negrita>Fracciones impropias</negrita></td>
+</tr>
+<tr>
+<td>Son aquellas en las que el numerador es menor que el denominador.</td>
+<td>Son aquellas en las que el numerador es mayor que el denominador.
+Este tipo de fracciones también se pueden escribir como un número
+mixto. </td>
+</tr>
+<tr>
+<td>2/3, se cumple que 2 &lt; 3</td>
+<td>-7/4, se cumple que 7 > 4 . <formula src="MA_08_01_008.gif">
+</formula></td>
+</tr>
+</tbody>
+</table>
+<recuerda><recuerdaTexto>
+<p>Para convertir una fracción impropia en número mixto, se desarrolla
+el algoritmo de la división, donde el cociente es la parte entera,
+el divisor es el denominador y el residuo es el numerador.</p>
+<formula src="MA_08_01_009.gif"></formula>
+<p>Denominador                                Parte entera       
+                                    Numerador Esto significa que:</p>
+<formula src="MA_08_01_010.gif"></formula>
+<p>Para convertir un número mixto en una fracción impropia, se adiciona
+la parte entera con la fracción.</p>
+<formula src="MA_08_01_011.gif"></formula>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso010&amp;IdRecurso=RES-C4E082E4B786453B837084DF3D275B02"
+>Refuerza tu aprendizaje: tipos de fracciones</enlace>
+</practica><seccion3
+id="S3_MA_08_01_CO_E91691ED8DDD4A12A49F3A15501BA186">
+<seccion3Titulo>¿Cómo se convierte una fracción en un decimal?</seccion3Titulo>
+<seccion3Texto>
+<p>Como todo número racional escrito en forma de fracción es una división
+indicada, para escribirlo como decimal lo único que debe hacerse es
+desarrollar esa división.  Ejemplos:</p>
+<table cellpadding="1" cellspacing="0"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><formula src="MA_08_01_012.gif"></formula></td>
+<td></td>
+</tr>
+<tr>
+<td><formula src="MA_08_01_013.gif"></formula></td>
+<td></td>
+</tr>
+<tr>
+<td><formula src="MA_08_01_014.gif"></formula></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<imagen src="MA_08_01_CO_IMG02_small.jpg">
+<p>Para determinar la medida de los objetos se utilizan, por lo general,
+números decimales.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_D3399D1BF4F14E538713C0924CFFE87B">
+<seccion3Titulo>Los números racionales como un decimal</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando escribimos un número racional como un decimal tenemos en
+cuenta que se forma de dos partes, una entera y otra decimal separadas
+por una coma. Existen dos clases de decimales: </p>
+<table cellpadding="0" cellspacing="0"><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Decimales finitos</negrita></td>
+<td><negrita>Decimales infinitos</negrita></td>
+</tr>
+<tr>
+<td>Son aquellos en los que su parte decimal tiene un número finito
+de cifras; estos se pueden escribir como fracción.</td>
+<td>Son aquellos en los que su parte decimal tiene un número infinito
+de cifras, y pueden ser periódicos puros o periódicos mixtos.</td>
+</tr>
+<tr>
+<td>0,75</td>
+<td>0,3333… Periódico puro</td>
+</tr>
+<tr>
+<td>3,14</td>
+<td>2,256666… Periódico mixto</td>
+</tr>
+<tr>
+<td>–1,25</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso020&amp;IdRecurso=RES-756C0FDED12C4D3EB8F576876E6D8325"
+>Identifica la forma decimal de un número racional</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_2501B59884E8436CB9CFCF53E9C73913">
+<seccion3Titulo>¿Cómo se convierte un decimal en una fracción?</seccion3Titulo>
+<seccion3Texto>
+<p>Para pasar de la <negrita>forma decimal</negrita> de un número
+racional a la <negrita>fracción</negrita> equivalente, se debe tener
+en cuenta si se trata de una forma decimal finita o infinita periódica.</p>
+<listaSinNumerar>
+<listaElemento>Si es un decimal finito se usarán las potencias de
+diez ya que nuestro sistema de numeración es en base 10.</listaElemento>
+<listaElemento>Se debe multiplicar y dividir el número por la potencia
+de diez, según la cantidad de decimales que posea el decimal.</listaElemento>
+<listaElemento><formula src="MA_08_01_015.gif"></formula></listaElemento>
+<listaElemento><formula src="MA_08_01_016.gif"></formula></listaElemento>
+<listaElemento><formula src="MA_08_01_017.gif"></formula></listaElemento>
+</listaSinNumerar>
+<listaSinNumerar>
+<listaElemento>Si es un decimal periódico, en el numerador ponemos
+el número sin coma, menos la parte que está fuera del periodo, y en
+el denominador, tantos nueves como cifras tenga el periodo, seguidos
+de tantos ceros como cifras tenga la parte decimal que no forma parte
+del periodo.</listaElemento>
+<listaElemento><formula src="MA_08_01_018.gif"></formula></listaElemento>
+<listaElemento><formula src="MA_08_01_019.gif"></formula></listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso030&amp;IdRecurso=RES-40EBA04568484668B7912EA2DE8158C3"
+>Los números racionales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso040&amp;IdRecurso=RES-9C9F5D1A2D25405E909BFE3AC3C6AE5C"
+>Expresión decimal y fraccionaria de los números racionales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_19FDFEB2F8684C808C783D46446E6BBF">
+<seccion2Titulo>La representación de los números racionales sobre
+la recta numérica</seccion2Titulo>
+<seccion2Texto>
+<p>Todo número racional se puede representar por un punto en la recta
+numérica; para ubicarlos en ella se debe tener en cuenta su representación.</p>
+<imagen src="MA_08_01_CO_IMG03_small.jpg">
+<p>Para representar los números racionales en la recta numérica debemos
+recordar los números que componen al conjunto de los números racionales.</p>
+</imagen>
+<seccion3 id="S3_MA_08_01_CO_2113B5E0BF51426F9F7748DDD62B4D32">
+<seccion3Titulo>Las fracciones en la recta numérica</seccion3Titulo>
+<seccion3Texto>
+<p>Si la fracción que representa al número racional es propia, dividimos
+la unidad (es decir, entre cero y uno) en tantas partes iguales como
+lo indique el denominador y tomamos tantas como lo diga el numerador,
+y allí ubicamos el punto.</p>
+<p>Por ejemplo, si vamos a ubicar el racional —3/4 en la recta numérica,
+dividimos en cuatro partes iguales la unidad comprendida entre 0 y
+–1. Y a partir del cero, tomamos tres partes hacia la izquierda para
+indicar el punto que le corresponde a —3/4.</p>
+<imagen src="MA_08_01_CO_IMG04_small.jpg">
+<p>Ubicación de —3/4 en la recta numérica.</p>
+</imagen>
+<p>Si la fracción que representa al número racional es impropia, conviene
+convertir el número en mixto y ubicar primero la parte entera; luego,
+la parte fraccionaria se sitúa a partir de ese punto como en el primer
+caso. </p>
+<p>Por ejemplo, para ubicar el número 7/3, lo convertimos en número
+mixto, y este quedará de la forma: 2 1/3; posteriormente, situamos
+la parte entera que es 2, y graficamos la fracción 1/3 entre 2 y 3.</p>
+<imagen src="MA_08_01_CO_IMG05_small.jpg">
+<p>Ubicación de la fracción 7/3 en la recta numérica.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_047BF14C96C74C1098CFC9D63CBFF26E">
+<seccion3Titulo>Los decimales en la recta numérica</seccion3Titulo>
+<seccion3Texto>
+<p>Si el número está representado como un decimal, se ubica la parte
+entera y, a partir de allí, se divide la unidad en diez partes iguales
+y se toman tantas como indique el primer decimal; para este caso,
+es conveniente aproximar el número a uno o dos decimales si sus cifras
+decimales son muchas o es periódico.</p>
+<p>Por ejemplo, al ubicar el racional –0,7 en la recta, se toma la
+unidad entre 0 y –1, se divide en 10 partes iguales y, comenzando
+en cero, se cuentan siete de ellas. </p>
+<imagen src="MA_08_01_CO_IMG06_small.jpg">
+<p>Ubicación del número –0,7 en la recta numérica.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso050&amp;IdRecurso=RES-80E47F72E3BC44079052825DCD0BD311"
+>Los números racionales en la recta numérica</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso060&amp;IdRecurso=RES-5F8067EED90342D58360183125D9D606"
+>La representación de los números racionales en la recta numérica</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_A3CB94128EE745D4BBE15E962FCBF04B">
+<seccion2Titulo>El orden en los números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Para cualquier par de números racionales se puede establecer uno
+y solo una de las siguientes relaciones de orden:</p>
+<imagen src="MA_08_01_CO_IMG07_small.jpg"></imagen>
+<formula src="MA_08_01_027.gif"></formula>
+<p>Si representados en la recta numérica </p>
+<formula src="MA_08_01_028.gif"></formula>
+<p>se encuentra a la izquierda de </p>
+<formula src="MA_08_01_029.gif"></formula>
+<imagen src="MA_08_01_CO_IMG08_small.jpg"></imagen>
+<formula src="MA_08_01_030.gif"></formula>
+<p>Si representados en la recta numérica</p>
+<formula src="MA_08_01_031.gif"></formula>
+<p> se encuentra a la derecha de </p>
+<formula src="MA_08_01_032.gif"></formula>
+<imagen src="MA_08_01_CO_IMG09_small.jpg"></imagen>
+<formula src="MA_08_01_033.gif"></formula>
+<p>Si representados en la recta numérica</p>
+<formula src="MA_08_01_034.gif"></formula>
+<p> se ubica en el mismo punto </p>
+<formula src="MA_08_01_035.gif"></formula>
+<p>En este último caso se dice que los racionales</p>
+<formula src="MA_08_01_036.gif"></formula>
+<p> y </p>
+<formula src="MA_08_01_037.gif"></formula>
+<p>son equivalentes. Además dos o más racionales forman una familia
+de fracciones equivalentes si para cualquier par de racionales se
+cumple que:<br/></p>
+<formula src="MA_08_01_038.gif"></formula>
+<p>Por ejemplo:<br/></p>
+<formula src="MA_08_01_039.gif"></formula>
+<p>Porque:<br/></p>
+<formula src="MA_08_01_030.gif"></formula>
+<formula src="MA_08_01_041.gif"></formula>
+<p>Como los resultados son iguales se cumple que los racionales son
+equivalentes.</p>
+<seccion3 id="S3_MA_08_01_CO_6256BE44A3444D708028B8FCC57E69C9">
+<seccion3Titulo>¿Cómo ordenar números en la recta numérica?</seccion3Titulo>
+<seccion3Texto>
+<p>Para ordenar dos o varios números de  mayor a menor o de menor
+a mayor conviene convertir todos los racionales a fracciones con igual
+denominador para comparar únicamente los numeradores y así determinar
+su orden.</p>
+<recuerda><recuerdaTexto>
+<listaSinNumerar>
+<listaElemento>A las fracciones que tienen igual denominador se les
+llama fracciones homogéneas.<br/><formula src="MA_08_01_042.gif">
+</formula><p>Estas tienen igual denominador por tanto, son fracciones
+homogéneas.</p></listaElemento>
+<listaElemento>Las fracciones que tienen diferente denominador se
+denominan fracciones heterogéneas.<br/><formula src="MA_08_01_043.gif">
+</formula><p>Estas tienen diferente denominador, por ende, son fracciones
+heterogéneas.</p></listaElemento>
+<listaElemento>Para convertir dos fracciones heterogéneas en homogéneas
+se halla el mínimo común múltiplo (m–c.m.) de los denominadores y
+se amplifica cada fracción, para que tengan al mínimo común múltiplo
+como igual denominador; por ejemplo:<br/><formula src="MA_08_01_044.gif">
+</formula></listaElemento>
+</listaSinNumerar>
+<p>Primero se halla el m.c.m. (2, 4, 6) = 12.</p>
+<p>Segundo, se multiplica cada racional, así:<br/></p>
+<formula src="MA_08_01_045.gif"></formula>
+<formula src="MA_08_01_046.gif"></formula>
+<formula src="MA_08_01_047.gif"></formula>
+<p>Así se tiene que:<br/></p>
+<formula src="MA_08_01_048.gif"></formula>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso070&amp;IdRecurso=RES-5D5DE7D2CC0140FAA0C2097DB0A11CA3"
+>Orden en el conjunto de los números racionales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_1EEB207628E24071A76FE406670A7C25">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso080&amp;IdRecurso=RES-97589D37D86842BAB7A71B5E86788573"
+>Refuerza tu aprendizaje: Los números racionales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_B0E3054C727D48FFBE7D0F19DD3147EC">
+<seccion1Titulo>Operaciones en el conjunto de los números racionales</seccion1Titulo>
+<seccion1Texto>
+<p>En el conjunto de los números racionales se realizan operaciones
+básicas de adición, sustracción, multiplicación y división.</p>
+<seccion2 id="S2_MA_08_01_CO_D81E7A53014644E392E5C5D55BA3D390">
+<seccion2Titulo>La adición y sustracción de números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Si los números racionales están escritos como una fracción se deben
+considerar dos casos:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Racionales con igual denominador</negrita
+><br/> En el caso para la adición de los números racionales se adicionan
+los numeradores y se deja el mismo denominador, en el caso de la sustracción
+se restan los numeradores y se deja el mismo denominador.<br/><formula
+src="MA_08_01_049.gif"></formula><br/><formula src="MA_08_01_050.gif">
+</formula></listaElemento>
+<listaElemento><negrita>Racionales con diferente denominador</negrita
+><br/> En la adición o sustracción de racionales con distinto denominador
+se debe hallar el m.c.m. de los denominadores y después amplificar
+cada fracción al m.c.m., para que tengan el mismo denominador; luego,
+se adicionan  o restan como se hizo en el caso de racionales con igual
+denominador. Por ejemplo:<br/><formula src="MA_08_01_051.gif"></formula
+></listaElemento>
+</listaSinNumerar>
+<p>Si los números están escritos  en notación decimal, se escriben
+uno debajo del otro ubicando la coma en la misma posición y se procede
+a sumar o restar como en los naturales, al resultado se le ubica la
+coma en la misma posición que se encuentra en los sumandos.</p>
+<table border="1" cellspacing="0" width="210"><colgroup><col width="16*"/>
+<col width="16*"/><col width="17*"/><col width="15*"/><col width="14*"/>
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>1</td>
+<td>3,</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2,</td>
+<td>1</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td>4</td>
+<td>5,</td>
+<td>6</td>
+<td></td>
+</tr>
+<tr>
+<td>+</td>
+<td></td>
+<td>0,</td>
+<td>1</td>
+<td>7</td>
+</tr>
+<tr>
+<td></td>
+<td>5</td>
+<td>1,</td>
+<td>12</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso090&amp;IdRecurso=RES-55ABB444E1BE4438802991C005F33730"
+>La adición con números racionales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_2B8349E089B141E4BC758A15A31B4D3D">
+<seccion2Titulo>La multiplicación de números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Si los racionales están escritos como fracción, se multiplican
+los numeradores entre sí y los denominadores entre sí, teniendo en
+cuenta la ley de los signos definida para los números enteros.</p>
+<formula src="MA_08_01_052.gif"></formula>
+<p>Si los racionales están escritos como un decimal se procede del
+siguiente modo. Primero, se multiplican como si fueran números enteros;
+después, en el resultado, se separan con una coma tantas cifras como
+decimales hay en ambos factores de la multiplicación. Por ejemplo,
+al multiplicar 3,24 por 2,8 tendremos:</p>
+<table width="229"><colgroup><col width="23*"/><col width="24*"/><col
+width="24*"/><col width="23*"/></colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>3,</td>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>x</td>
+<td></td>
+<td>2,</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2</td>
+<td>5</td>
+<td>9</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>4</td>
+<td>8</td>
+<td></td>
+</tr>
+<tr>
+<td>9,</td>
+<td>0</td>
+<td>7</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<p>La coma se ubicó detrás del nueve porque en los factores hay en
+total, tres cifras decimales.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_F24443F1D6104F999AFD76B458F97D49">
+<seccion2Titulo>División de números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>Para dividir números racionales se multiplica el dividendo por
+el inverso multiplicativo del divisor, por ejemplo:</p>
+<formula src="MA_08_01_053.gif"></formula>
+<p>Observa que el inverso multiplicativo de</p>
+<formula src="MA_08_01_054.gif"></formula>
+<p> es </p>
+<formula src="MA_08_01_055.gif"></formula>
+<imagen ampliable="no" src="MA_08_01_056.gif">
+<p>Otra forma de encontrar una división de racionales colocar una
+fracción sobre otra, evento en el cual se aplica la ley de la oreja.
+En este caso, se hace el producto de extremos sobre el producto de
+medios.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso100&amp;IdRecurso=RES-D6C1F5B4150944B5B2B6E7F9D6B44022"
+>La multiplicación y la división con números racionales</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso110&amp;IdRecurso=RES-D6511E6077744E6897C4B84F853438EE"
+>Las operaciones con los números racionales</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo> Consolidación</seccion2Titulo>
+<seccion2Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso120&amp;IdRecurso=RES-350BB5CD6507435A8AAEDE588296268B"
+>Refuerza tu aprendizaje: operaciones con números racionales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_65FF102B262F467DA9EE68C5F55597AD">
+<seccion1Titulo>El conjunto de los números irracionales</seccion1Titulo>
+<seccion1Texto>
+<p>El conjunto de los números irracionales está compuesto por todos
+ aquellos decimales infinitos que no son periódicos y, por tanto no
+se pueden representar como un cociente entre dos enteros. Se representan
+con la letra <negrita>I</negrita>.</p>
+<formula src="MA_08_01_057.gif"></formula>
+<p>La definición como conjunto de los números irracionales significa
+que son todos aquellos números reales que no son racionales.</p>
+<imagen src="MA_08_01_CO_IMG11_small.jpg">
+<p>Algunos números irracionales son de gran importancia en la ingeniería
+el cálculo las artes y la economía.</p>
+</imagen>
+<destacado><destacadoTitulo>Los números irracionales</destacadoTitulo>
+<destacadoTexto>
+<p>Los números irracionales se pueden componer de una parte entera
+y una racional.  Por ejemplo:</p>
+<formula src="MA_08_01_058.gif"></formula>
+<p>En este caso el cinco es la parte entera y la raíz cúbica de siete
+la parte irracional. </p>
+<p>Se lee cinco raíz cúbica de siete y significa que la raíz cúbica
+de siete se repite cinco veces.</p>
+</destacadoTexto></destacado>
+<p>El origen de los números irracionales  o inconmensurables (que
+no se pueden medir) se da en la antigua Grecia, en la escuela Pitagórica,
+y su aparición fue un suceso debido a que los pitagóricos consideraban
+que todo en la naturaleza estaba regido por números, ya sea como unidad
+o partes exactas de la unidad, es decir, todo podía ser representado
+y medido con un número. </p>
+<p>Estos números aparecieron al querer medir la diagonal de un cuadrado
+de lado la unidad; para ello, el teorema de Pitágoras y lo que descubrieron
+era que la longitud de dicho cuadrado no era una medida conmensurable
+o que no se podía comparar con la unidad o con partes de ella, como
+este hecho ponía en serio peligro la filosofía pitagórica y dado que
+escapaba a su razón, decidieron darle el nombre de irracional, además
+de ocultar este descubrimiento a la comunidad filosófico–científica
+de la época. Sin embargo, parece ser que Hipaso no cumplió el voto
+de silencio que pesaba sobre la irracionalidad de</p>
+<formula src="MA_08_01_059.gif"></formula>
+<p> , por lo que la hermandad pitagórica lo habría expulsado de la
+escuela y habrían erigido una tumba con su nombre, mostrando así que,
+para ellos, él estaba muerto. </p>
+<seccion2 id="S2_MA_08_01_CO_9CF5416A0473466CA72C6DEDBC11EF6A">
+<seccion2Titulo>Algunos números irracionales importantes</seccion2Titulo>
+<seccion2Texto>
+<p>El número irracional más conocido es π (pi); su aproximación decimal
+se define como la relación entre el perímetro de una circunferencia
+y su diámetro. Sus aplicaciones se ven en el diseño industrial, en
+la ingeniería, la probabilidad y muchas otras cosas.</p>
+<formula src="MA_08_01_060.gif"></formula>
+<p>El número e (o número de Euler) fue reconocido y utilizado, por
+primera vez, por el matemático escocés John Napier, quien introdujo
+el concepto de logaritmo en el cálculo matemático y tiene aplicaciones
+muy importantes en economía, en el crecimiento de la población, en
+ingeniería, en el movimiento del sistema de amortiguación de un automóvil
+y muchas más.</p>
+<p>e ͌ 2,71828 18284 59045</p>
+<p>El número ɸ (phi), más conocido como “razón áurea”, está íntimamente
+ligado al campo del arte y la arquitectura, pues su valor es sinónimo
+de belleza y expresa lo que se considera puramente bello; fue usado
+por los griegos en sus construcciones y por grandes artistas como
+Leonardo Da Vinci.</p>
+<formula src="MA_08_01_061.gif"></formula>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_B282B5683AFD4A99B6FF164582033D00">
+<seccion2Titulo>Clasificación de los números irracionales</seccion2Titulo>
+<seccion2Texto>
+<p>Los números irracionales se clasifican en dos grupos:</p>
+<listaSinNumerar>
+<listaElemento>Algebraicos: son aquellos que se obtienen al solucionar
+una ecuación algebraica, por ejemplo:<br/> x2 – 2 = 0 <br/>x2 = 2<br
+/><formula src="MA_08_01_062.gif"></formula><p>En esta ecuación se
+pide buscar un número que elevado a la segunda potencia dé como resultado
+2. Te darás cuenta que no hay ningún número ni entero ni racional
+que cumpla esta condición. Por tanto, su solución es</p><formula
+src="MA_08_01_063.gif"></formula><p> , que es un número irracional.</p
+></listaElemento>
+<listaElemento>Trascendentes: son aquellos que no se obtienen al resolver
+una ecuación algebraica, por ejemploπ ͌ 3,1416…<p> El número π, que
+muestra la relación entre el perímetro de una circunferencia y su
+diámetro no se puede obtener de ninguna ecuación algebraica.</p></listaElemento>
+</listaSinNumerar>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_165F070A211D4592A1DBCA8C2D6E7402">
+<seccion2Titulo>Aproximación de los números irracionales</seccion2Titulo>
+<seccion2Texto>
+<p>Debido a que los números irracionales tienen infinitas cifras decimales
+no periódicas, se hace imposible trabajar con ellos en toda su extensión
+decimal, por tanto, se debe usar su representación o aproximar la
+cifra decimal a una cantidad cercana.</p>
+<p>Por ejemplo, sabiendo que</p>
+<formula src="MA_08_01_064.gif"></formula>
+<p> es un número irracional y que</p>
+<formula src="MA_08_01_065.gif"></formula>
+<p> es equivalente a a2 &lt; b2, una forma de encontrar una aproximación
+de</p>
+<formula src="MA_08_01_066.gif"></formula>
+<p> es la siguiente: como </p>
+<formula src="MA_08_01_067.gif"></formula>
+<p>es un número tal que su cuadrado es 2, y 12 &lt; 22 = 4 entonces:</p>
+<formula src="MA_08_01_068.gif"></formula>
+<p>Para calcular una aproximación de </p>
+<formula src="MA_08_01_069.gif"></formula>
+<p> con un decimal se procede a evaluar los cuadrados de todos los
+números entre 1 y 2 con un decimal, hasta encontrar un valor menor
+y uno mayor que </p>
+<formula src="MA_08_01_070.gif"></formula>
+<p>(1,1)<superindice>2</superindice> = 1,21 </p>
+<p>(1,2)<superindice>2</superindice> = 1,44</p>
+<p> (1,3)<superindice>2</superindice> = 1,69 </p>
+<p>(1,4)<superindice>2</superindice> = 1,96</p>
+<p> (1,5)<superindice>2</superindice> = 2,25</p>
+<p>Estos cálculos nos indican que</p>
+<formula src="MA_08_01_071.gif"></formula>
+<p> está entre 1,4 y 1,5. Así, podemos afirmar que:</p>
+<formula src="MA_08_01_072.gif"></formula>
+<p>En esta caso tenemos que 1,4 es una<negrita> aproximación por defecto</negrita
+> de</p>
+<formula src="MA_08_01_073.gif"></formula>
+<p> y 1,5 es una <negrita>aproximación por exceso</negrita></p>
+<formula src="MA_08_01_074.gif"></formula>
+<p> . El error que se comete al aproximar</p>
+<formula src="MA_08_01_075.gif"></formula>
+<p> por 1,4 o por 1,5 es menor que una décima.</p>
+<p>Este mismo procedimiento puede hacerse con la ayuda de una calculadora
+y tomando un decimal de dos o más cifras entre 1 y 2, para obtener
+una aproximación de </p>
+<formula src="MA_08_01_076.gif"></formula>
+<p> con el número de decimales que queramos. Para el número π ͌ 3,141592653589…
+una aproximación se puede hacer por <negrita>truncamiento</negrita
+>, es decir, cortar el número a cierta cantidad de decimales. Por
+ejemplo: truncar π a cuatro cifras decimales seria π = 3,1415 truncar
+π a dos cifras decimales seria π = 3,14</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_74DE20E79BE143C680286D43CEDED0B4">
+<seccion2Titulo>Los números irracionales en la recta numérica</seccion2Titulo>
+<seccion2Texto>
+<p>Como los números irracionales son decimales infinitos no periódicos,
+su ubicación en la recta no es fácil de determinar, sin embargo, para
+raíces cuadradas no exactas existe un método muy sencillo basado en
+el teorema de Pitágoras.</p>
+<p>¿Cuál es la ubicación en la recta de</p>
+<formula src="MA_08_01_077.gif"></formula>
+<p> ? Para determinar su ubicación vamos a trazar una recta perpendicular
+a la recta numérica, que pase por el punto 1, y con las dos rectas
+construimos un triángulo rectángulo de catetos 1. Por el teorema de
+Pitágoras se tiene:</p>
+<formula src="MA_08_01_078.gif"></formula>
+<p><br/></p>
+<formula src="MA_08_01_079.gif"></formula>
+<p>Como la hipotenusa del triángulo mide</p>
+<formula src="MA_08_01_080.gif"></formula>
+<p> con un compás y haciendo centro en cero, trasladamos mediante
+un arco de circunferencia  la longitud de <cursiva>h</cursiva> a la
+recta numérica. El punto de corte entre la recta y el arco es</p>
+<formula src="MA_08_01_081.gif"></formula>
+<imagen src="MA_08_01_CO_IMG12_small.jpg"></imagen>
+<p>Observa cómo se representa</p>
+<formula src="MA_08_01_082.gif"></formula>
+<p> sobre la recta numérica.</p>
+<p>Con este procedimiento podemos ubicar cualquier raíz cuadrada.</p>
+<destacado><destacadoTitulo>Operaciones con los números irracionales</destacadoTitulo>
+<destacadoTexto>
+<p>Al igual que con los números racionales, en los números irracionales
+se pueden hacer operaciones como adición y multiplicación manteniendo
+las mismas propiedades.</p>
+<p>Para la<negrita> adición</negrita> se agrupan los términos que
+sean semejantes y se adicionan entre sí las partes enteras (es decir
+que tengan la misma representación numérica)</p>
+<formula src="MA_08_01_083.gif"></formula>
+<formula src="MA_08_01_084.gif"></formula>
+<formula src="MA_08_01_085.gif"></formula>
+<p> .</p>
+<p>En este caso, la  adición se deja expresada, ya que no se puede
+simplificar más debido a que los sumandos no son semejantes.</p>
+<p>Para la <negrita>multiplicación</negrita>, si los términos son
+semejantes, se aplican las propiedades de la potenciación y la radicación,
+y se multiplican las partes enteras.<br/></p>
+<formula src="MA_08_01_086.gif"></formula>
+<p>= 12π<superindice>2</superindice><br/></p>
+<formula src="MA_08_01_087.gif"></formula>
+<formula src="MA_08_01_088.gif"></formula>
+<formula src="MA_08_01_089.gif"></formula>
+<p> = –60</p>
+<p>Si los factores no son semejantes, se multiplican las partes enteras
+y las partes irracionales se dejan expresadas.</p>
+<formula src="MA_08_01_090.gif"></formula>
+<formula src="MA_08_01_091.gif"></formula>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso130&amp;IdRecurso=RES-5CA1C734C29846D9A5E908A3C9E7BF0A"
+>Conoce más sobre los números irracionales</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso140&amp;IdRecurso=RES-BC9332EA921C48DB8C05452BDBF1C53B"
+>Refuerza tu aprendizaje: Números irracionales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_885EDCC408694F8A8DD1D7BC5A5C7F88">
+<seccion1Titulo>Los números reales</seccion1Titulo>
+<seccion1Texto>
+<p>El conjunto de los números reales está constituido por los números
+naturales, los enteros, los racionales y los irracionales; se caracteriza
+porque:</p>
+<listaSinNumerar>
+<listaElemento>Se representa con la letra <formula
+src="MA_08_01_092.gif"></formula></listaElemento>
+<listaElemento>Es un conjunto infinito.</listaElemento>
+<listaElemento>Es totalmente ordenado.</listaElemento>
+<listaElemento>Es un conjunto denso.</listaElemento>
+</listaSinNumerar>
+<imagen src="MA_08_01_CO_IMG13_small.jpg">
+<p>Los números reales se construyen a partir de los otros conjuntos
+numéricos.</p>
+</imagen>
+<seccion2 id="S2_MA_08_01_CO_D9A8BF97D7414F68B9378D2D5D017215">
+<seccion2Titulo>La representación de los números reales en la recta
+numérica</seccion2Titulo>
+<seccion2Texto>
+<p>Como los números reales se construyen a partir de los racionales
+y los irracionales, es preciso decir que a cada punto de la recta
+le corresponde un número real, aunque usualmente solo se marcan los
+enteros sobre la recta numérica; se sobreentiende entonces que los
+espacios que hay entre cada número entero están ocupados por los demás
+números reales.</p>
+<imagen src="MA_08_01_CO_IMG14_small.jpg">
+<p>Los espacios entres los números enteros están ocupados por los
+demás números reales.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_08_01_CO_3F28B0E7E4734E6F9C0C3EB52BFB5F45">
+<seccion2Titulo>Orden en los números reales</seccion2Titulo>
+<seccion2Texto>
+<p>Para cualquier par de números</p>
+<formula src="MA_08_01_093.gif"></formula>
+<p> se cumple una y solo una de las siguientes condiciones:</p>
+<p><negrita><cursiva>x </cursiva>&lt;<cursiva> y</cursiva></negrita
+> si <cursiva>x</cursiva> está a la izquierda de <cursiva>y</cursiva
+> en la recta numérica. </p>
+<p><cursiva>x</cursiva> > <cursiva>y</cursiva> si <cursiva>x</cursiva
+> está a la derecha de y en la recta numérica. </p>
+<p><cursiva>x</cursiva> =<cursiva> y</cursiva> si <cursiva>x</cursiva
+> está en el mismo punto que <cursiva>y</cursiva>.</p>
+<seccion3 id="S3_MA_08_01_CO_7A1E55DBA38D4D5FB3B64BB9E621537B">
+<seccion3Titulo>Propiedades del orden en los números reales</seccion3Titulo>
+<seccion3Texto>
+<p>Si se le adiciona o sustrae un mismo número a una desigualdad,
+el sentido de esta se mantiene.</p>
+<listaSinNumerar>
+<listaElemento>Si<cursiva> x</cursiva> &lt; <cursiva>y</cursiva>,
+entonces<cursiva> x</cursiva> +<cursiva> a</cursiva> &lt; y<cursiva
+></cursiva> +<cursiva>a</cursiva> </listaElemento>
+<listaElemento>Si<cursiva> x</cursiva> &lt;<cursiva> y</cursiva>,
+entonces <cursiva>x</cursiva> – <cursiva>a</cursiva> &lt; <cursiva
+>y</cursiva> –<cursiva> a</cursiva></listaElemento>
+<listaElemento>Si <cursiva>x</cursiva> > <cursiva>y</cursiva>, entonces <cursiva
+>x</cursiva> + <cursiva>a</cursiva> > <cursiva>y</cursiva> + <cursiva
+>a</cursiva></listaElemento>
+<listaElemento>Si <cursiva>x</cursiva> ><cursiva> y</cursiva>, entonces <cursiva
+>x</cursiva> – <cursiva>a</cursiva> ><cursiva> y</cursiva> –<cursiva
+> a</cursiva></listaElemento>
+</listaSinNumerar>
+<p>Por ejemplo, si a –8 &lt; 10 se la adiciona 4 a cada lado de la
+desigualad, se tiene:</p>
+<p>–8 + 4 &lt; 10 + 4</p>
+<p>–4 &lt; 12 </p>
+<p>En este caso la desigualdad persiste.  </p>
+<p>Si se multiplica una desigualdad por un mismo número positivo,
+el sentido de la desigualdad se mantiene.</p>
+<listaSinNumerar>
+<listaElemento>Si x &lt; y, entonces <formula src="MA_08_01_094.gif">
+</formula></listaElemento>
+</listaSinNumerar>
+<p>Por ejemplo, si –8 &lt; 10 y se multiplica</p>
+<formula src="MA_08_01_095.gif"></formula>
+<p> a cada lado de la desigualad se tiene: </p>
+<formula src="MA_08_01_096.gif"></formula>
+<p><br/></p>
+<formula src="MA_08_01_097.gif"></formula>
+<p><br/>–12 &lt; 15</p>
+<p>En este caso la desigualdad continúa. </p>
+<p>Si una desigualdad se multiplica por un número negativo, el sentido
+de la desigualdad cambia, por ejemplo si –4 > –13 se multiplica por
+–3 a cada lado de la desigualdad se tiene:<br/></p>
+<formula src="MA_08_01_098.gif"></formula>
+<p><br/>12 &lt; 39</p>
+<p>En este caso se cambió el sentido de la desigualdad porque, como
+sabemos, 12 está a la izquierda de 39 en la recta numérica.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso150&amp;IdRecurso=RES-B99482DEBA2F4160B122B7554938042F"
+>Orden en los números reales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_08_01_CO_C716BBD943D94E4484D65D88B3D2D54B">
+<seccion2Titulo>Operaciones con números reales</seccion2Titulo>
+<seccion2Texto>
+<p>Como los números reales se han definido a partir de los números
+racionales y los irracionales, loa reales conservan también las mismas
+operaciones con idénticas propiedades.</p>
+<p>Aquí va un PÁRRAFO</p>
+<seccion3 id="S3_MA_08_01_CO_A1F89FC846964C8CA436747FB7023487">
+<seccion3Titulo>La adición de números reales</seccion3Titulo>
+<seccion3Texto>
+<p>¿Cuánto es la suma de</p>
+<formula src="MA_08_01_099.gif"></formula>
+<p> ? En este caso si no se pide una aproximación decimal, el resultado
+se deja expresado como la adición de dos racionales, debido a que
+estos dos números, a partir de sus representaciones, no se pueden
+operar entre sí, salvo que se reescriban y se aproximen como dos números
+decimales.</p>
+<formula src="MA_08_01_100.gif"></formula>
+<p>Por ejemplo:</p>
+<formula src="MA_08_01_101.gif"></formula>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_08_01_CO_C9659102EE3B486BAAF3CD3925F11497">
+<seccion3Titulo>Multiplicación de números reales</seccion3Titulo>
+<seccion3Texto>
+<p>Para multiplicar número reales se tienen en cuenta la ley de los
+signos, las propiedades de la radicación y la multiplicación de números
+racionales.</p>
+<p>Por ejemplo:</p>
+<formula src="MA_08_01_102.gif"></formula>
+<formula src="MA_08_01_103.gif"></formula>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso160&amp;IdRecurso=RES-93945EA60FFC495BAA73AFBE0FA39411"
+>Operaciones combinadas con números reales</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso170&amp;IdRecurso=RES-2995130AE5C6467F9A324DC3F40D63C3"
+>Refuerza tu aprendizaje: Operaciones con números reales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_08_01_CO_A8E6C1630F614A76BBC3383271C0365D">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso180&amp;IdRecurso=RES-1812FEE1AB5D41CBA62C53088C38123F"
+>Competencias: Los números reales</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_MA_08_01_CO_6972770732B34C3298ED4EE4FA05CF36"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso190&amp;IdRecurso=RES-E4537E2846E348CCA8C38EFB4A476557"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CORecurso200&amp;IdRecurso=RES-DC1570C7ADF54EDB82AB3EA3554F22E9"
+>Los números reales </enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+<enlace
+destino="https://www.youtube.com/watch?v=EHv3fJ6k6Xwwww.elespanol.org.com"
+>Video de la historia de las matemáticas que muestra la construcción
+de los conjuntos numéricos 	</enlace>
+<enlace destino="http://numerosracionales.com/">Web que hace una instrucción
+a los números racionales con sus operaciones</enlace>
+<enlace
+destino="http://www.disfrutalasmatematicas.com/numeros/numeros–irracionales.html"
+>Breve introducción al concepto número irracional con apuntes históricos</enlace>
+</enlacesreferencia></masinformacion></libro>
