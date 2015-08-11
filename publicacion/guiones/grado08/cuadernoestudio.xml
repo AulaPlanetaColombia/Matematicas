@@ -2,7 +2,6 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
-<?Pub Inc?>
 <libro id="MA_08_01_CO">
 <libroTitulo>Los conjuntos numéricos. Operaciones y propiedades</libroTitulo>
 <seccion1 id="S1_MA_08_01_CO_F108E992D5654721A0A9E2322AD382DF">
@@ -93,7 +92,7 @@ desarrollar esa división.  Ejemplos:</p>
 <formula alineacion="centrada" src="MA_08_01_012.gif"></formula>
 <formula alineacion="centrada" src="MA_08_01_013.gif"></formula>
 <formula alineacion="centrada" src="MA_08_01_014.gif"></formula>
-<imagen src="MA_08_01_CO_IMG02_small.jpg">
+<imagen src="MA_08_01_CO_IMG02_zoom.jpg">
 <p>Para determinar la medida de los objetos se utilizan, por lo general,
 números decimales.</p>
 </imagen>
@@ -179,7 +178,7 @@ la recta numérica</seccion2Titulo>
 <seccion2Texto>
 <p>Todo número racional se puede representar por un punto en la recta
 numérica; para ubicarlos en ella se debe tener en cuenta su representación.</p>
-<imagen src="MA_08_01_CO_IMG03_small.jpg">
+<imagen src="MA_08_01_CO_IMG03_zoom.jpg">
 <p>En el diagrama de observan los conjuntos numéricos que componen
 al conjunto de los números racionales.</p>
 </imagen>
@@ -195,7 +194,7 @@ dividimos en cuatro partes iguales la unidad comprendida entre 0 y
 –1. Y a partir del cero, tomamos tres partes hacia la izquierda para
 indicar el punto que le corresponde a ese racional. Observemos la
 imagen.</p>
-<imagen src="MA_08_01_CO_IMG04_small.jpg">
+<imagen src="MA_08_01_CO_IMG04_zoom.jpg">
 <p>Ubicación del número racional –3/4 en la recta numérica.</p>
 </imagen>
 <p>Si la fracción que representa al número racional es impropia, conviene
@@ -222,7 +221,7 @@ decimales son muchas o es periódico.</p>
 <p>Por ejemplo, al ubicar el racional –0,7 en la recta, se toma la
 unidad entre 0 y –1, se divide en 10 partes iguales y, comenzando
 en cero, se cuentan siete de ellas. </p>
-<imagen src="MA_08_01_CO_IMG06_small.jpg">
+<imagen src="MA_08_01_CO_IMG06_zoom.jpg">
 <p>Ubicación del número –0,7 en la recta numérica.</p>
 </imagen>
 <practica>
@@ -240,15 +239,15 @@ destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso060&amp;IdRecurso=RES-5F8067
 <p>Para cualquier par de números racionales se puede establecer uno
 y solo una de las siguientes relaciones de orden:</p>
 <formula alineacion="centrada" src="MA_08_01_354.gif"></formula>
-<imagen src="MA_08_01_CO_IMG07_small.jpg">
+<imagen src="MA_08_01_CO_IMG07_zoom.jpg">
 <p>La fracción a/b es menor que la fracción c/d, si en la recta numérica
 la fracción a/b se ubica a la izquierda de la fracción c/d.</p>
 </imagen>
-<imagen src="MA_08_01_CO_IMG08_small.jpg">
+<imagen src="MA_08_01_CO_IMG08_zoom.jpg">
 <p>La fracción a/b es mayor que la fracción c/d, si en la recta numérica
 fracción a/b se ubica a la derecha de la fracción c/d.</p>
 </imagen>
-<imagen src="MA_08_01_CO_IMG09_small.jpg">
+<imagen src="MA_08_01_CO_IMG09_zoom.jpg">
 <p>a/b es igual a c/d, si en la recta numérica representan el mismo
 punto.</p>
 </imagen>
@@ -426,7 +425,7 @@ Por ejemplo,  0,101001000100001… es un número irracional.</p>
 </destacadoTexto></destacado>
 <p>A Pitágoras se debe el origen de los números irracionales con el
 descubrimiento del teorema que lleva su nombre. </p>
-<imagen src="MA_08_01_CO_IMG20_small.jpg">
+<imagen src="MA_08_01_CO_IMG20_zoom.jpg">
 <p>Algunos números irracionales son de gran importancia en la ingeniería
 el cálculo las artes y la economía. </p>
 <p>Pitágoras de Samos (585 a.C.- 500 a.C.) </p>
@@ -464,7 +463,7 @@ irracionales en la recta numérica. Veamos</p>
 a la recta numérica, que pase por el punto 1, y con las dos rectas
 construimos un triángulo rectángulo cuyos catetos tengan una longitud
 de 1. </p>
-<imagen src="MA_08_01_CO_IMG12_small.jpg">
+<imagen src="MA_08_01_CO_IMG12_zoom.jpg">
 <p>Observa cómo se representa √2 sobre la recta numérica.</p>
 </imagen>
 <p>Por el teorema de Pitágoras se tiene:</p>
@@ -479,7 +478,7 @@ la recta y el arco corresponde al número irracional: </p>
 <p>Con este procedimiento podemos ubicar cualquier raíz cuadrada.</p>
 <p>Por ejemplo, consideremos el cuadrado de lado 1 y su diagonal de
 longitud √2. Construyamos el número irracional √3.</p>
-<imagen src="MA_08_01_CO_IMG21_small.jpg">
+<imagen src="MA_08_01_CO_IMG21_zoom.jpg">
 <p>En la construcción geométrica se observa que los rectángulos tienen
 un ancho de 1 y su altura es la longitud de rectángulo anterior. </p>
 </imagen>
@@ -603,7 +602,7 @@ porque:</p>
 <listaElemento>Es totalmente ordenado.</listaElemento>
 <listaElemento>Es un conjunto denso.</listaElemento>
 </listaSinNumerar>
-<imagen src="MA_08_01_CO_IMG13_small.jpg">
+<imagen src="MA_08_01_CO_IMG13_zoom.jpg">
 <p>El conjunto de los números reales se construyen a partir de los
 subconjuntos numéricos: naturales, enteros, racionales e irracionales.</p>
 </imagen>
@@ -617,7 +616,7 @@ le corresponde un número real, aunque usualmente solo se marcan los
 enteros sobre la recta numérica; se sobreentiende entonces que los
 espacios que hay entre cada par de números enteros están ocupados
 por infinitos números reales.</p>
-<imagen src="MA_08_01_CO_IMG14_small.jpg">
+<imagen src="MA_08_01_CO_IMG14_zoom.jpg">
 <p>En la recta numérica en los espacios entre dos números enteros,
 se ubican otros números reales.</p>
 </imagen>
@@ -720,7 +719,7 @@ destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso160&amp;IdRecurso=RES-93945E
 <seccion3Texto>
 <p>Para hallar la <negrita>potencia de un número real</negrita> se
 multiplica tantas veces la base como lo indique el exponente.</p>
-<imagen src="MA_08_01_CO_IMG358_small.jpg"></imagen>
+<imagen src="MA_08_01_CO_IMG358.gif"></imagen>
 <destacado><destacadoTitulo>Potenciación de números reales</destacadoTitulo>
 <destacadoTexto>
 <p>La potenciación es el proceso mediante el cual un número real se
@@ -736,8 +735,8 @@ multiplica por sí mismo cierta cantidad de veces. </p>
 </destacadoTexto></destacado>
 <p>En los siguientes ejemplos se muestra cómo se aplica esta operación
 definida en el conjunto de los números reales.</p>
-<imagen src="MA_08_01_CO_IMG359_small.jpg"></imagen>
-<imagen src="MA_08_01_CO_IMG360_small.jpg"></imagen>
+<imagen src="MA_08_01_CO_IMG359.gif"></imagen>
+<imagen src="MA_08_01_CO_IMG360.gif"></imagen><?Pub Caret -1?>
 <p><negrita>Las propiedades de la potenciación</negrita></p>
 <table border="1" cellspacing="0"><colgroup><col/><col/></colgroup>
 <tbody>
