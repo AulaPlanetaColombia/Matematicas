@@ -36,9 +36,13 @@ cantidad de tiempo como un decimal. </p>
 <p>Cada fracción de la torta representa un número racional.</p>
 </imagen>
 <profundiza>
-<enlace destino="/">Los números racionales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso210&amp;IdRecurso=RES-5E4BCF4A31A745979E7FE5D7A24161E5"
+>Los números racionales</enlace>
 </profundiza><practica>
-<enlace destino="/">La clasificación de los números racionales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso220&amp;IdRecurso=RES-8D6855698553430ABF296190AA39DF5A"
+>La clasificación de los números racionales</enlace>
 </practica><seccion2
 id="S2_MA_08_01_CO_499B3B15AAC245DF9E3B25A375AFA02F">
 <seccion2Titulo>Las expresiones de los  números racionales</seccion2Titulo>
@@ -139,7 +143,9 @@ y en este caso su periodo es 67, y el número   –l34,2579999999999…
 es un decimal periódico mixto porque después de la coma se observan
 las cifras 2, 5 y 7 y luego se repite el periodo que es 9.</p>
 </destacadoTexto></destacado><profundiza>
-<enlace destino="/">Los números racionales en situaciones cotidianas</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso230&amp;IdRecurso=RES-67D0E150640644C6820E15A1FF95EB93"
+>Los números racionales en situaciones cotidianas</enlace>
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso020&amp;IdRecurso=RES-756C0FDED12C4D3EB8F576876E6D8325"
@@ -169,7 +175,7 @@ del periodo.</listaElemento>
 <formula alineacion="centrada" src="MA_08_01_019.gif"></formula>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso040&amp;IdRecurso=RES-9C9F5D1A2D25405E909BFE3AC3C6AE5C"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso030&amp;IdRecurso=RES-40EBA04568484668B7912EA2DE8158C3"
 >Expresión decimal y fraccionaria de los números racionales</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_MA_08_01_CO_19FDFEB2F8684C808C783D46446E6BBF">
@@ -226,12 +232,12 @@ en cero, se cuentan siete de ellas. </p>
 </imagen>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso050&amp;IdRecurso=RES-80E47F72E3BC44079052825DCD0BD311"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso240&amp;IdRecurso=RES-B4ACB8C779AC4FE4A974EADDFD100796"
 >Los números racionales en la recta numérica</enlace>
 </practica><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso060&amp;IdRecurso=RES-5F8067EED90342D58360183125D9D606"
->La representación de los números racionales en la recta numérica</enlace>
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso050&amp;IdRecurso=RES-80E47F72E3BC44079052825DCD0BD311"
+>Ubicación de números racionales en la recta</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_MA_08_01_CO_A3CB94128EE745D4BBE15E962FCBF04B">
 <seccion2Titulo>El orden en los números racionales</seccion2Titulo>
@@ -294,7 +300,7 @@ alineacion="centrada" src="MA_08_01_044.gif"></formula></listaElemento>
 <formula alineacion="centrada" src="MA_08_01_048.gif"></formula>
 </recuerdaTexto></recuerda><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso070&amp;IdRecurso=RES-5D5DE7D2CC0140FAA0C2097DB0A11CA3"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso060&amp;IdRecurso=RES-5F8067EED90342D58360183125D9D606"
 >Orden en el conjunto de los números racionales</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_08_01_CO_1EEB207628E24071A76FE406670A7C25">
@@ -304,7 +310,7 @@ id="S2_MA_08_01_CO_1EEB207628E24071A76FE406670A7C25">
 este apartado.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso080&amp;IdRecurso=RES-97589D37D86842BAB7A71B5E86788573"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso070&amp;IdRecurso=RES-5D5DE7D2CC0140FAA0C2097DB0A11CA3"
 >Refuerza tu aprendizaje: Los números racionales</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_08_01_CO_B0E3054C727D48FFBE7D0F19DD3147EC">
@@ -380,28 +386,33 @@ fracción sobre otra, evento en el cual se aplica la ley de la oreja.</p>
 <p> En este caso, se hace el producto de extremos sobre el producto
 de medios.</p>
 <profundiza>
-<enlace destino="/">Las operaciones en el conjunto de los números
-racionales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso080&amp;IdRecurso=RES-97589D37D86842BAB7A71B5E86788573"
+>Las operaciones en el conjunto de los números racionales</enlace>
 </profundiza><practica>
-<enlace destino="/">La adición y la sustracción de números racionales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso090&amp;IdRecurso=RES-55ABB444E1BE4438802991C005F33730"
+>La adición y la sustracción de números racionales</enlace>
 </practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso100&amp;IdRecurso=RES-D6C1F5B4150944B5B2B6E7F9D6B44022"
 >La multiplicación y la división con números racionales</enlace>
 </practica><profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso110&amp;IdRecurso=RES-D6511E6077744E6897C4B84F853438EE"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso250&amp;IdRecurso=RES-9BB0F8E0593B437288C9C12B78619E38"
 >Las operaciones combinadas con los números racionales y su jerarquía</enlace>
 </profundiza><practica>
 <enlace destino="/">Operaciones combinadas</enlace>
 </practica><practica>
-<enlace destino="/">Problemas con números racionales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso120&amp;IdRecurso=RES-350BB5CD6507435A8AAEDE588296268B"
+>Problemas con números racionales</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_08_01_CO_499B3B15AAC245DF9E3B25A375AFB13G">
 <seccion2Titulo> Consolidación</seccion2Titulo>
 <seccion2Texto><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso120&amp;IdRecurso=RES-350BB5CD6507435A8AAEDE588296268B"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso150&amp;IdRecurso=RES-B99482DEBA2F4160B122B7554938042F"
 >Refuerza tu aprendizaje: operaciones con números racionales</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_08_01_CO_65FF102B262F467DA9EE68C5F55597AD">
@@ -526,8 +537,8 @@ y las partes irracionales se dejan expresadas.</p>
 <formula src="MA_08_01_091.gif"></formula>
 </destacadoTexto></destacado><profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso130&amp;IdRecurso=RES-5CA1C734C29846D9A5E908A3C9E7BF0A"
->Los números irracionales. El número áureo</enlace>
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso270&amp;IdRecurso=RES-749E6650AD13450CB4D2836588B2B92E"
+>Los números irracionales. El número áureo</enlace><?Pub Caret -3?>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_MA_08_01_CO_165F070A211D4592A1DBCA8C2D6E7402">
 <seccion2Titulo>Aproximación de los números irracionales</seccion2Titulo>
@@ -581,7 +592,9 @@ para el número π ͌ 3,141592653589… una aproximación por <negrita>truncamie
 >, con cuatro cifras decimales es   π = 3,1415, Las cifras decimales
 de la derecha del 5, simplemente se eliminan.</p>
 </destacadoTexto></destacado><practica>
-<enlace destino="/">Aproximación de números irracionales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso260&amp;IdRecurso=RES-870CC764D93F49AAABB6668C5A3C5581"
+>Aproximación de números irracionales</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_08_01_CO_499B3B15AAC245DF9E3B25A375AFC23H">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -678,7 +691,7 @@ de la desigualdad cambia, por ejemplo si –4 > –13 se multiplica por
 sabemos, 12 está a la izquierda de 39 en la recta numérica.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso150&amp;IdRecurso=RES-B99482DEBA2F4160B122B7554938042F"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso280&amp;IdRecurso=RES-A2A96ACE0DEE44509B3FAE4AAA9E9316"
 >Orden en los números reales</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_MA_08_01_CO_C716BBD943D94E4484D65D88B3D2D54B">
@@ -712,7 +725,7 @@ racionales.</p>
 <formula src="MA_08_01_103.gif"></formula>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso160&amp;IdRecurso=RES-93945EA60FFC495BAA73AFBE0FA39411"
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso290&amp;IdRecurso=RES-6F1ADDECCD734480894B61F687AF8842"
 >Operaciones combinadas con números reales</enlace>
 </practica></seccion3Texto></seccion3><seccion3>
 <seccion3Titulo>Potenciación de números reales</seccion3Titulo>
@@ -736,7 +749,7 @@ multiplica por sí mismo cierta cantidad de veces. </p>
 <p>En los siguientes ejemplos se muestra cómo se aplica esta operación
 definida en el conjunto de los números reales.</p>
 <imagen src="MA_08_01_CO_IMG359.gif"></imagen>
-<imagen src="MA_08_01_CO_IMG360.gif"></imagen><?Pub Caret -1?>
+<imagen src="MA_08_01_CO_IMG360.gif"></imagen>
 <p><negrita>Las propiedades de la potenciación</negrita></p>
 <table border="1" cellspacing="0"><colgroup><col/><col/></colgroup>
 <tbody>
@@ -789,7 +802,9 @@ y se eleva al mismo exponente con signo positivo. </td>
 </tbody>
 </table>
 <practica>
-<enlace destino="/">Practica las potencias de un exponente entero.</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso300&amp;IdRecurso=RES-36B10B6DD0A844B0864447B89861EF1C"
+>Practica las potencias de un exponente entero.</enlace>
 </practica>
 <p><negrita>Notación científica</negrita> </p>
 <p>Un número está expresado en <negrita>notación científica</negrita
@@ -849,7 +864,9 @@ de 10, entonces expresamos 0,00000002 = 2 · 10<superindice>-8</superindice
 <p>La diferencia en los tamaños del microbio y del virus es 2 · 10<superindice
 >-6</superindice>.</p>
 </destacadoTexto></destacado><practica>
-<enlace destino="/">Notación científica</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso310&amp;IdRecurso=RES-DC8EF694DAD34159A2F6A5206647E8DB"
+>Notación científica</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_MA_08_01_CO_499B3B15AAC245DF9E3B25A375AFD36I">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -862,8 +879,8 @@ destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso170&amp;IdRecurso=RES-299513
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso180&amp;IdRecurso=RES-1812FEE1AB5D41CBA62C53088C38123F"
->Competencias: Los números reales</enlace>
+destino="/LoIdRedirect.aspx?LoId=MA_08_01_CO_Recurso320&amp;IdRecurso=RES-E58200F1C236431486896E4E96B71056"
+>Competencias: Las mediciones del pie de rey</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_MA_08_01_CO_6972770732B34C3298ED4EE4FA05CF36"><mapaconceptual>
 <enlace
