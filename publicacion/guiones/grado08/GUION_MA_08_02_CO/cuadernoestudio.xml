@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="MA_08_02_CO">
+  <libroTitulo>Expresiones y operaciones algebraicas</libroTitulo>
+  <seccion1 id="S1_MA_08_02_CO_540E376C23084D6A91CCA16BC6EB374B">
+    <seccion1Titulo>Expresiones algebraicas</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_MA_08_02_CO_9A52BD4A23564CEA8F86A8FC4AA89636">
+        <seccion2Titulo>Expresiones algebraicas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_01_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso010&amp;IdRecurso=RES-51C2185A682A40A382F2AD95B9EC55E3">Recurso F8-01</enlace>
+          </profundiza>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_08_02_CO_4CD7B9C6F4C2476485DA57A353CB5AA9">
+        <seccion2Titulo>Términos algebraicos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_02_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso020&amp;IdRecurso=RES-D40F6957DDD340D08F6B7D0A3854743B">Recurso M1B-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_03_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso030&amp;IdRecurso=RES-811E6A4F59AF4C4ABFB5DC5187432A42">Recurso M5A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_08_02_CO_D6DE7277B2124BD18F5554531ED4EEB5">
+        <seccion2Titulo>Polinomios</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_04_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_05_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso050&amp;IdRecurso=RES-9C32252C98B74F2586BBAEF201FD84F6">Recurso M10A-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_06_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso060&amp;IdRecurso=RES-A6F648834F7F4EC5A4B7ACBA42C6BEBB">Recurso M2A-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_07_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso070&amp;IdRecurso=RES-40F761E2837443CCA10027E6F84C75B3">Calcula el valor numérico de una expresión algebraica</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_08_02_CO_img_08_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso080&amp;IdRecurso=RES-FDF0CAC5AE2D41B78DAE0615514AF57F">¿Qué sabes de las expresiones algebraicas?</enlace>
+      </profundiza>
+      <seccion2 id="S2_MA_08_02_CO_156FD161A342416882556FBDF1B600E8">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_09_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso090&amp;IdRecurso=RES-AEC8A79EE3F24F069248C84F718BF6FD">Recurso M101A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_08_02_CO_6C40C4E056FA4973B67EDBEA52A8BE59">
+    <seccion1Titulo>Operaciones aditivas entre polinomios</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_MA_08_02_CO_9F8F84AFE5524A59B6F70FA4F2A1DE14">
+        <seccion2Titulo>Adición y sustracción de expresiones algebraicas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_10_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso100&amp;IdRecurso=RES-A52D7DBA5BB845B3845332A3C1067B58">Recurso M1C-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_11_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_12_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso120&amp;IdRecurso=RES-41FAAD404CB447B4AB5C70CC14B87895">Recurso M101A-02</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_08_02_CO_5C056200123548D894366C1FFF7BF100">
+    <seccion1Titulo>Operaciones multiplicativas entre polinomios</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_MA_08_02_CO_2BEC16E7A7854A3785AB13FC33C9BF23">
+        <seccion2Titulo>Propiedades de los exponentes</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_13_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso130&amp;IdRecurso=RES-9E1D3EBFA1624128A3553C4B2113FD18">Recurso M9B-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_08_02_CO_E9A1E7AF98EF47F6A825D7041D4D1938">
+        <seccion2Titulo>Multiplicación de expresiones algebraicas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_14_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso140&amp;IdRecurso=RES-D0C7A1E5A8CE48249B7918E1D45D4CE0">Recurso M2A-02</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_MA_08_02_CO_BBF15ABCF43C40B493A2EB6BB1A47E94">
+        <seccion2Titulo>División de expresiones algebraicas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_15_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_16_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso160&amp;IdRecurso=RES-B03F18B9E47744F99434DCED68070615">Recurso M7A-02</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_20_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso200&amp;IdRecurso=RES-6B1FE7ED8F7543F58BB5C173676984A1">Refuerza tu aprendizaje: El teorema del resto</enlace>
+          </profundiza>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_21_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso210&amp;IdRecurso=RES-6DEFFB6145234F7EAAF0D1DD716D9E01">Practica el teorema del resto</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_22_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso220&amp;IdRecurso=RES-F687916E5CD5409B8A586532D94D61C6">Recurso M101A-03</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_23_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="MA_08_02_CO_img_24_small.jpg">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_08_02_CO_img_17_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso170&amp;IdRecurso=RES-54510C7FB4D048228B6A4B6218BFFE54">Practica la división de polinomios</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_08_02_CO_img_18_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso180&amp;IdRecurso=RES-960748B00D864761AE28C50A03B42049">Diaporama F1-01</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_08_02_CO_img_19_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso030&amp;IdRecurso=RES-811E6A4F59AF4C4ABFB5DC5187432A42">Recurso M5A-01</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_08_02_CO_838DD0FB7AFD448C80E91366EF509906">
+    <seccion1Titulo>Operaciones combinadas entre polinomios</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_08_02_CO_E307CD05DAC0472F860BB962CFD24922">
+    <seccion1Titulo>Resolución de problemas aplicando expresiones algebraicas</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_MA_08_02_CO_4BF416A1FC504427ACFD2B573F4AAC30">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_08_02_CO_img_25_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso250&amp;IdRecurso=RES-325B760CAD9B4A30ABAB78E35E7107DF">Recurso F13-01</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_08_02_CO_img_26_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso110&amp;IdRecurso=RES-16C5E56B0C524DB3904DF1D6DD936404">Practica operaciones con polinomios</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="MA_08_02_CO_img_27_small.jpg">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso270&amp;IdRecurso=RES-640FA2B3DAE74AC0A1D5CCAC1B208A5A">Recurso M2A-03</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_MA_08_02_CO_F4D4B41A39A648BDA00713B45E9E93A1">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso290&amp;IdRecurso=RES-5B6FF6FC9C724A9FA430FA3AC2C151AD">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=MA_08_02_CO_Recurso300&amp;IdRecurso=RES-6ABA9E9F5E75401782D61C6CF57AA914">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>
