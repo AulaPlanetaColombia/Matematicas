@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="MA_09_01_CO">
+<libroTitulo>Los números reales</libroTitulo>
+<seccion1 id="S1_MA_09_01_CO_9C6D6DE1240948389A950ECD93CEB32C">
+<seccion1Titulo>Los conjuntos numéricos</seccion1Titulo>
+<seccion1Texto>
+<p>Los <negrita>conjuntos numéricos</negrita> son agrupaciones o colecciones
+de números que cumplen propiedades similares. </p>
+<recuerda><recuerdaTexto>
+<p>Los conjuntos numéricos surgen de la necesidad que tenía el hombre
+de representar y dar sentido a algunas situaciones y fenómenos que
+se le presentaban en su vida cotidiana y en el desarrollo de las diferentes
+ciencias. </p>
+</recuerdaTexto></recuerda>
+<imagen ampliable="no" src="MA_09_01_CO_IMG01.jpg">
+<p>Hacia 1700 a. C., en la antigua Mesopotamia, los signos numerales
+se grababan sobre una tablilla de arcilla húmeda, con un punzón. Esta
+escritura fue llamada <cursiva>cuneiforme</cursiva> porque los signos
+estaban compuestos por trazos simples semejantes a cuñas.</p>
+</imagen>
+<p>Dentro de estos conjuntos se definen <negrita>operaciones</negrita
+> y <negrita>relaciones</negrita>. Dos ejemplos de conjuntos numéricos
+son el de los números racionales, el conjunto de los irracionales
+y el conjunto de los números reales.</p>
+<seccion2 id="S2_MA_09_01_CO_5CC02B4467DD405D92399A0676786DDF">
+<seccion2Titulo>El conjunto de los números racionales</seccion2Titulo>
+<seccion2Texto>
+<p>El conjunto de los<negrita> números racionales</negrita> se define
+como el conjunto de todos los números de la forma <cursiva>a</cursiva
+>/<cursiva>b</cursiva> con  <cursiva>a</cursiva> y <cursiva>b</cursiva
+> números enteros, <cursiva>b</cursiva> ≠ 0, y máximo común divisor
+entre <cursiva>a</cursiva> y <cursiva>b</cursiva> igual <cursiva>a</cursiva
+> 1. Este conjunto se denota con la letra ℚ.</p>
+<formula alineacion="centrada" src="MA_09_01_A.gif"></formula>
+<p>El símbolo <cursiva>a</cursiva>/<cursiva>b</cursiva> se utiliza
+con frecuencia en lugar de <cursiva>a</cursiva> ÷ <cursiva>b</cursiva
+> y se define como el cociente entre <cursiva>a</cursiva> y <cursiva
+>b</cursiva> o la fracción de a sobre <cursiva>b</cursiva>. </p>
+<formula alineacion="centrada" src="MA_09_01_B.gif"></formula>
+<imagen src="MA_09_01_CO_IMG03.jpg">
+<p>Una representación de los números racionales.</p>
+</imagen>
+<destacado><destacadoTitulo>Formas de representar un número racional </destacadoTitulo>
+<destacadoTexto>
+<p>Un número racional se puede expresar en forma de fracción o de
+número decimal.</p>
+<p>Los siguientes números racionales están expresados en forma de
+fracción. </p>
+<formula alineacion="centrada" src="MA_09_01_C.gif"></formula>
+<p>Para expresar una fracción como un número decimal se divide el
+numerador entre el denominador. Por ejemplo, </p>
+<formula alineacion="centrada" src="MA_09_01_D.gif"></formula>
+<p>Por lo tanto,</p>
+<formula alineacion="centrada" src="MA_09_01_E.gif"></formula>
+<p>donde -4 es la parte entera y <negrita>0,75 </negrita>la parte
+decimal. </p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>Los  números racionales se pueden representar de infinitas formas
+porque una fracción <negrita>siempre se puede amplificar</negrita
+> tantas veces como se quiera, mientras que se puede simplificar solo
+en algunas ocasiones. Por ejemplo, 10/3 no se puede simplificar pero
+sí se puede amplificar todas las veces que se quiera. Observa:  </p>
+<formula alineacion="centrada" src="MA_09_01_F.gif"></formula>
+<p>La expresión decimal de un número racional es única, por ejemplo,
+0,2 siempre será 0,2. </p>
+</recuerdaTexto></recuerda>
+<p>Un número racional en su expresión decimal puede ser <negrita>decimal
+finito</negrita> y  <negrita>decimal infinito periódico</negrita>.
+Los decimales finitos son aquellos cuya parte decimal es finita, por
+ejemplo, 0,0003 y 123,5666; en los decimales infinitos periódicos
+su parte decimal es infinita con decimales que se repiten cumpliendo
+una secuencia o un periodo.   </p>
+<p>Para indicar que los números decimales son infinitos y periódicos
+se coloca una línea sobre el periodo o la parte decimal que se repite.
+Por ejemplo:  </p>
+<formula alineacion="centrada" src="MA_09_01_G.gif"></formula>
+<p>Cuando el periodo de un número decimal inicia inmediatamente después
+de la coma se dice que es <negrita>periódico puro</negrita>, y cuando
+el periodo no inicia inmediatamente después de la coma, se denomina <negrita
+>periódico mixto</negrita>. Por ejemplo,</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Número decimal periódico puro</negrita></td>
+<td><negrita>Número decimal periódico mixto</negrita></td>
+</tr>
+<tr>
+<td><formula alineacion="centrada" src="MA_09_01_H.gif"></formula
+></td>
+<td><formula alineacion="centrada" src="MA_09_01_I.gif"></formula
+></td>
+</tr>
+</tbody>
+</table>
+<destacado><destacadoTitulo>Fracción generatriz de un número decimal</destacadoTitulo>
+<destacadoTexto>
+<p>Un número decimal periódico puro o periódico mixto se puede expresar
+como una fracción llamada  <negrita>fracción generatriz</negrita>,
+la cual tiene como máximo común divisor entre el numerador y el denominador
+a 1.</p>
+</destacadoTexto></destacado>
+<p>La <negrita>fracción generatriz</negrita> que representa un <negrita
+>número decimal puro </negrita>es la fracción cuyo numerador es igual
+al número decimal sin la coma menos la parte entera, y por denominador,
+un número formado por <negrita>tantos nueves </negrita>como cifras
+decimales tenga el número decimal. Por ejemplo,</p>
+<formula alineacion="centrada" src="MA_09_01_J.gif"></formula>
+<p>Por lo tanto,</p>
+<formula alineacion="centrada" src="MA_09_01_K.gif"></formula>
+<p>Cuando el <negrita>número decimal</negrita> es <negrita>periódico
+mixto</negrita> la <negrita>fracción generatriz</negrita> que lo representa
+es la fracción cuyo numerador es igual al número decimal sin la coma
+menos la parte entera seguida de las cifras decimales no periódicas,
+y por denominador, un número formado por <negrita>tantos nueves</negrita
+> como cifras tenga el periodo, y <negrita>tantos ceros</negrita> como
+cifras tenga la parte decimal no periódica. Por ejemplo, </p>
+<formula alineacion="centrada" src="MA_09_01_L.gif"></formula>
+<p>Luego, </p>
+<formula alineacion="centrada" src="MA_09_01_M.gif"></formula>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso260&amp;IdRecurso=RES-6C58CDB7B9424EC087903B83FF289BAA"
+>Los números racionales como fracciones y como decimales</enlace><?Pub
+Caret 47?>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso020&amp;IdRecurso=RES-A222622F98B0478F826627D866A43293
+">Practica la conversión de una fracción a número decimal</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso030&amp;IdRecurso=RES-A2A92402091549539073544179CDFA55
+">Practica la conversión de un número decimal a fracción</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso040&amp;IdRecurso=RES-F7A746E7105F4AE5B0EBC56BE75B740D
+">Resuelve situaciones que involucran números racionales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_09_01_CO_624B26C4D1B24538B6D45BF84430EE89">
+<seccion2Titulo>El conjunto de los números irracionales</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>números irracionales</negrita> son aquellos números
+que no se pueden expresar en forma de fracción. </p>
+<p>El conjunto de los números irracionales se nota con la letra 𝕀.
+La expresión decimal de un número irracional es infinita no periódica.
+Algunos ejemplos de números irracionales son:</p>
+<formula alineacion="centrada" src="MA_09_01_N.gif"></formula>
+<imagen ampliable="no" src="MA_09_01_CO_IMG04.jpg">
+<p>El valor de la constante π, llamada pi, es un número irracional
+porque corresponde a un decimal infinito no periódico: π ≈ 3,1415926535897932….</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso050&amp;IdRecurso=RES-C2E164C4320946E88680C98E850B62CB"
+>Una noción de número irracional</enlace>
+</profundiza><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso070&amp;IdRecurso=RES-B2DD18CCEBE24BFAAFC368FB4C6226C6
+">Los números reales</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_MA_09_01_CO_0456D0BDE4CD45EA9613431F41327A8D">
+<seccion2Titulo>Los números reales</seccion2Titulo>
+<seccion2Texto>
+<p>El conjunto de los<negrita> números reales</negrita> se puede definir
+como la unión del <negrita>conjunto de los números racionales</negrita
+> con el <negrita>conjunto de los números irracionales</negrita>.
+El conjunto de los números reales se nota con la letra ℝ.</p>
+<p centrado="si">ℝ = ℚ ⋃ 𝕀</p>
+<p>En general, las letras minúsculas <cursiva>a</cursiva>, <cursiva
+>b</cursiva>, <cursiva>c</cursiva>, <cursiva>x</cursiva>, <cursiva
+>y</cursiva>,… representan números reales arbitrarios. </p>
+<imagen ampliable="no" src="MA_09_01_CO_IMG05.jpg">
+<p>El conjunto de los <negrita>números reales</negrita> contiene el
+conjunto de los números <negrita>racionales</negrita> y el conjunto
+de los números <negrita>irracionales</negrita></p>
+</imagen>
+<destacado><destacadoTitulo>Los números reales  </destacadoTitulo>
+<destacadoTexto>
+<p>Teniendo en cuenta que el conjunto de los  <negrita>números reales</negrita
+> se define como  la unión entre el conjunto de los <negrita>números
+racionales</negrita> con el conjunto de los<negrita> números irracionales</negrita
+>, es posible establecer las siguientes equivalencias:</p>
+<listaSinNumerar>
+<listaElemento>•	ℕ ⊆ ℤ ⊆ ℚ</listaElemento>
+<listaElemento>•	𝕀 ⊆ ℝ</listaElemento>
+<listaElemento>•	𝕀 ⋃ ℚ = ℝ</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso080&amp;IdRecurso=RES-B2DD18CCEBE24BFAAFC368FB4C6226C6"
+>Practica con los números reales y sus subconjuntos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso270&amp;IdRecurso=RES-04B4A1772A204E9C803D94823CF6F338
+">Clasifica números reales</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso090&amp;IdRecurso=RES-4BEE5D205FD9441982EB3A10836B8EDB
+">Prueba tus conocimientos del conjunto de los números reales </enlace>
+</practica><seccion3
+id="S3_MA_09_01_CO_52C2BA6C5CE2460480D4E79D33A5D177">
+<seccion3Titulo>Las aproximaciones de un número real</seccion3Titulo>
+<seccion3Texto>
+<p>En el <negrita>conjunto de los números reales</negrita> existen
+tres formas de expresión de los números decimales.   </p>
+<table align="center" border="1" cellspacing="0" width="559">
+<tbody>
+<tr>
+<td align="center"><negrita>Número decimal</negrita></td>
+<td align="center"><negrita>Ejemplos</negrita></td>
+</tr>
+<tr>
+<td>Decimal finito</td>
+<td align="center">2,<negrita>0</negrita> ;     3,<negrita>2</negrita
+>;     0,<negrita>002</negrita></td>
+</tr>
+<tr>
+<td>Decimal infinito periódico</td>
+<td><formula alineacion="centrada" src="MA_09_01_0.gif"></formula
+></td>
+</tr>
+<tr>
+<td>Decimal infinito no periódico</td>
+<td> 2,<negrita>12345...</negrita>; 1,<negrita>23456784...</negrita
+>;  3,<negrita>142537…</negrita></td>
+</tr>
+</tbody>
+</table>
+<p>Cuando el número real es un decimal finito se facilita efectuar
+cálculos siempre y cuando la parte decimal no tenga muchos dígitos.
+Cuando se requiere trabajar con números decimales infinitos periódicos
+y no periódicos se presentan cálculos muy extensos debido a los decimales
+infinitos. En este caso se deben efectuar aproximaciones; pero, ¿qué
+es aproximar un número real?  </p>
+<p> Aproximar un número real se define como tomar solo una parte de
+los decimales cuando son muchos o infinitos,  ya que no es posible
+trabajar con todos los decimales. A continuación se presentan dos
+métodos para aproximar un número real. </p>
+<p> <negrita>Aproximación por truncamiento:</negrita> consiste en
+eliminar cierta cantidad de cifras decimales posteriores a un orden
+dado, de un número decimal infinito periódico o infinito no periódico.
+Por ejemplo:</p>
+<formula alineacion="centrada" src="MA_09_01_P.gif"></formula>
+<p>La anterior expresión se lee raíz cuadrada de 2 es aproximadamente
+igual a 1,41421356237309…</p>
+<p>Aproximando 1,41421356237309… por truncamiento hasta cinco cifras
+decimales se obtiene 1,<negrita>41421</negrita>; y por truncamiento
+hasta tres cifras, 1,<negrita>414</negrita>. </p>
+<p><negrita>Aproximación por redondeo:</negrita> consiste en suprimir
+las cifras decimales posteriores a un orden dado, de un número decimal
+infinito periódico o infinito no periódico, teniendo en cuenta estos
+criterios:</p>
+<listaSinNumerar>
+<listaElemento>•	Si la primera cifra eliminada es mayor o igual que
+5, se suma una unidad a la cifra anterior. Por ejemplo, si 1,41421356237309…
+se aproxima por redondeo hasta seis cifras se obtiene: 1,414214  ya
+que 1,41421<negrita>35</negrita>6237309….</listaElemento>
+<listaElemento>•	Si la primera cifra eliminada es menor que 5, la
+cifra anterior se deja igual. Por ejemplo, al aproximar 1,41421356237309…
+por redondeo hasta tres cifras se obtiene: 1,414  ya que 1,41<negrita
+>42</negrita>1356237309….</listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso100&amp;IdRecurso=RES-C69449850E064222A686CD0F159016B1
+">Aproximación de números reales; el precio por aproximarlos es el
+error </enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso110&amp;IdRecurso=RES-DF02736A50E249D9B7DA6EEE61F0BC70"
+>Calcula el error absoluto y el error relativo </enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_09_01_CO_2B9630FA7C8B47C08E07EB5346D7F549">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso280&amp;IdRecurso=RES-E547C60DECDB4E9594DD603DA11CADB0
+">Refuerza tu aprendizaje: Los conjuntos numéricos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1>
+<seccion1Titulo>Los intervalos en la recta numérica</seccion1Titulo>
+<seccion1Texto>
+<p>De acuerdo con el axioma de completitud de los números reales se
+puede establecer una correspondencia entre cada punto de la recta
+con cada número real, es decir, que a cada punto de la recta le corresponde
+un único número real y a cada número real le corresponde un único
+punto de la recta.  </p>
+<p>Para ubicar un número real en la recta numérica se escoge un punto
+arbitrario en la recta, el cual se denominará “origen” y se definirá
+como cero. Luego se escoge una unidad de medida <cursiva>u</cursiva
+> = 1 que será la utilizada para medir. El lado derecho del 0 será
+el lado positivo y el lado izquierdo del 0 será el negativo. En la
+recta numérica se puede evidenciar que entre dos números reales se
+encuentran infinitos números reales, y entre ellos hay infinitos números
+racionales e infinitos irracionales.</p>
+<destacado><destacadoTitulo>Otra forma de representar la recta real </destacadoTitulo>
+<destacadoTexto>
+<p>Otra forma en la cual se puede representar la recta real es  por
+medio del intervalo (-∞,∞),  el cual indica que los números reales
+van desde menos infinito hasta más infinito.</p>
+</destacadoTexto></destacado><seccion2
+id="S2_MA_09_01_CO_84586692CE7B4DC9A6A3AF3B13153E30">
+<seccion2Titulo>Los intervalos de números reales</seccion2Titulo>
+<seccion2Texto>
+<p>Los<negrita> intervalos</negrita> en la <negrita>recta real</negrita
+> se pueden definir como el conjunto de números reales que se encuentran
+entre dos números reales, un número real y una cantidad sin límite
+o sin final, positiva, notada +∞, o, menos infinito, notado -∞, y
+un número real. </p>
+<p><negrita>Los tipos de intervalos</negrita></p>
+<p><negrita>Intervalo acotado</negrita>: se representa por medio de
+un  segmento; puede incluir sus extremos o no. </p>
+<p><negrita>Intervalo acotado cerrado:</negrita> se representa de
+la forma [<cursiva>a</cursiva>, <cursiva>b</cursiva>] e indica que
+el intervalo está formado por todos los números reales que se encuentran
+entre <cursiva>a</cursiva> y <cursiva>b</cursiva> incluyendo los puntos <cursiva
+>a</cursiva> y <cursiva>b</cursiva>.</p>
+<imagen ampliable="no" src="MA_09_01_CO_IMG06.jpg">
+<p>Representación del intervalo [a,b]  en notación de conjuntos y
+en la recta real.</p>
+</imagen>
+<p><negrita>	Intervalo acotado  abierto:</negrita> se representa de
+la forma <negrita><cursiva>(a,b)</cursiva></negrita> e indica que
+el intervalo está formado por todos los números reales que se encuentran
+entre a y b  sin incluir en el intervalo los puntos <cursiva>a y b</cursiva
+>. </p>
+<imagen src="MA_09_01_CO_IMG07.jpg">
+<p>Observa la representación en conjuntos y en la recta real del 
+intervalo <cursiva>(a,b)</cursiva>.</p>
+</imagen>
+<p><negrita>Intervalo acotado semiabierto por la derecha:</negrita
+> se nota [<cursiva>a</cursiva>, <cursiva>b</cursiva>) e indica que
+el intervalo está formado por todos los números reales que están entre <cursiva
+>a</cursiva> y <cursiva>b</cursiva> incluyendo en el intervalo al
+punto <cursiva>a</cursiva> y dejando por fuera del intervalo al <cursiva
+>b</cursiva>. </p>
+<imagen ampliable="no" src="MA_09_01_CO_IMG08.jpg">
+<p>Observa la representación en conjuntos y en la recta real del 
+intervalo  [<cursiva>a,b</cursiva>).</p>
+</imagen>
+<p>El intervalo (<cursiva>a</cursiva>, <cursiva>b</cursiva>] se denomina <negrita
+>intervalo acotado semiabierto por la izquierda</negrita> e indica
+que el intervalo está formado por todos los números reales que están
+entre <cursiva>a</cursiva> y <cursiva>b</cursiva> sin incluir en el
+intervalo el punto <cursiva>a</cursiva>, pero sí el <cursiva>b</cursiva
+>. </p>
+<p><negrita>Intervalo no acotado</negrita>: se representa por medio
+de una  semirrecta;  puede incluir su extremo o no. </p>
+<p><negrita>Intervalo no acotado abierto</negrita>: se representa
+de dos  formas dependiendo si el intervalo tiende a más infinito o
+a menos infinito. </p>
+<p>Si el intervalo tiende a más infinito se representa (<cursiva>a</cursiva
+>, +∞) y son todos los números reales que se encuentran entre el número
+a  y va hasta +∞ <cursiva>sin incluir el punto a en el intervalo</cursiva
+>. </p>
+<imagen ampliable="no" src="MA_09_01_CO_IMG09.jpg">
+<p>Observa la representación en conjuntos y en la recta  real del
+ intervalo  (<cursiva>a</cursiva>,∞).  </p>
+</imagen>
+<p>Si el intervalo tiende a menos infinito se representa (-∞, <cursiva
+>b</cursiva>) y son todos los números reales que van desde -∞ hasta <cursiva
+>b sin incluir en el intervalo a b</cursiva>. </p>
+<p><negrita>Intervalo no acotado cerrado</negrita>: se representa
+de dos formas dependiendo si el intervalo  tiende a más infinito o
+a menos infinito.   </p>
+<p>Si el intervalo tiende a más infinito se representa [<cursiva>a</cursiva
+>, ∞) y son todos los números reales que se encuentran entre el número <cursiva
+>a y va hasta más infinito incluyendo en el intervalo el punto a</cursiva
+>. </p>
+<imagen ampliable="no" src="MA_09_01_CO_IMG10.jpg">
+<p>Observa la representación en conjuntos y en la recta real del intervalo
+ [a,∞) </p>
+</imagen>
+<p>Si el intervalo tiende a menos infinito se representa (-∞, <cursiva
+>b</cursiva>] y son todos los números reales que van desde -∞ hasta
+el punto <cursiva>b incluyendo en el intervalo al punto b</cursiva
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso300&amp;IdRecurso=RES-E4A359C486944E36B520394430841EAD
+">La recta real y el axioma de completitud</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso130&amp;IdRecurso=RES-2B5A88F66968493E8525EECACC5B0993"
+>Practica la representación de intervalos en la recta real</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso140&amp;IdRecurso=RES-2CAFE8CAD80E4108AF0483A1F50F71D0
+">Practica la representación de intervalos</enlace>
+</practica></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso170&amp;IdRecurso=RES-83FE82A8D08A406B9F8EB2382BE3EB18
+">Refuerza tu aprendizaje: Los intervalos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_09_01_CO_93A8E365070141EDADCB38268606FB36">
+<seccion1Titulo>Las operaciones con números reales</seccion1Titulo>
+<seccion1Texto>
+<p>En el conjunto de los números reales se definen las operaciones <negrita
+>adición</negrita>, <negrita>resta</negrita> o <negrita>sustracción</negrita
+>, <negrita>multiplicación</negrita> y <negrita>división</negrita
+>.</p>
+<recuerda><recuerdaTexto>
+<p>Si la operación que se realiza con los elementos de un conjunto
+da como resultado elementos del mismo conjunto se dice que la operación
+es <negrita>cerrada</negrita>; pero si la operación que se efectúa
+con los elementos de un conjunto da como resultado elementos de otro
+conjunto la operación es <negrita>abierta</negrita>. </p>
+</recuerdaTexto></recuerda>
+<imagen ampliable="no" src="MA_09_01_CO_IMG11.jpg">
+<p>Observa cómo a dos elementos del conjunto de los números reales
+operados mediante la adición y la división se les asigna otro elemento
+del conjunto de los números reales.</p>
+</imagen>
+<seccion2 id="S2_MA_09_01_CO_C6C9E392D0874DD39D4BB231380446C3">
+<seccion2Titulo>La adición y la sustracción de números reales</seccion2Titulo>
+<seccion2Texto>
+<p>La adición y sustracción se pueden definir como la misma operación. </p>
+<p>En el caso de la adición, si <cursiva>a</cursiva> y <cursiva>b</cursiva
+> pertenecen al conjunto de los números reales, entonces <cursiva
+>a</cursiva> + <cursiva>b</cursiva> = <cursiva>b</cursiva> + <cursiva
+>a</cursiva>.  En el caso de la sustracción <cursiva>a</cursiva> - <cursiva
+>b</cursiva> = <cursiva>a</cursiva> + (-<cursiva>b</cursiva>); siendo
+(-<cursiva>b</cursiva>) el inverso aditivo de <cursiva>b</cursiva
+>. Esto quiere decir que la sustracción es una operación cerrada ya
+que la adición de dos números reales da como resultado un número real. </p>
+<recuerda><recuerdaTexto>
+<p>Algunas operaciones entre números reales dan como resultado números
+ exactos, aproximados, y otros quedan indicados; todo depende de la
+representación o del tipo de números que se estén operando. </p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso330&amp;IdRecurso=RES-F0D6D7E4E677440187BDCF387462B21B
+">¿Qué propiedad de la multiplicación de números reales se aplica?</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_09_01_CO_9B097ED03A1947339D85AE4FA91F7565">
+<seccion2Titulo>Las propiedades de la adición de números reales</seccion2Titulo>
+<seccion2Texto>
+<p>En el conjunto de los números reales, la adición cumple las propiedades
+interna, conmutativa, asociativa, y también con la existencia del
+elemento neutro y del elemento inverso. </p>
+<imagen ampliable="no" src="MA_09_01_CO_IMG12.jpg">
+<p>Las propiedades de los números reales se aplican en situaciones
+relacionadas con tasas de crecimiento, longitud, velocidad, temperatura,
+entre otras.</p>
+</imagen>
+<p><negrita>Propiedad interna o clausurativa:</negrita> si <cursiva
+>a</cursiva> y <cursiva>b</cursiva> son números reales, entonces <cursiva
+>a</cursiva> + <cursiva>b</cursiva> también pertenece al conjunto
+de los números reales. Esto es, la suma de dos números reales es igual
+a otro número real. Por ejemplo, </p>
+<p centrado="si">345,1234 + 25 = 370,1234</p>
+<p><negrita>Propiedad conmutativa:</negrita> si <cursiva>a</cursiva
+> y <cursiva>b</cursiva> son números reales, entonces <cursiva>a</cursiva
+> + <cursiva>b</cursiva> = <cursiva>b</cursiva> + <cursiva>a</cursiva
+>, es decir, el orden como se ubiquen los sumandos no altera la suma.
+Por ejemplo, </p>
+<p centrado="si">23,45+12=12+23,45</p>
+<p centrado="si">35,45=35,45</p>
+<p><negrita>Propiedad asociativa:</negrita> si <cursiva>a</cursiva
+>, <cursiva>b</cursiva> y <cursiva>c</cursiva> son números reales,
+entonces: (<cursiva>a</cursiva> + <cursiva>b</cursiva>) + <cursiva
+>c</cursiva> = (<cursiva>a</cursiva> + <cursiva>b</cursiva>) + <cursiva
+>c</cursiva>. Luego, la forma como se agrupen los números no cambia
+la suma. Por ejemplo,</p>
+<p centrado="si">(24,2 + 3,4) + (-5) = 24,2 + (3,4 + (-5)</p>
+<p centrado="si">    27,6 + (-5) = 24,2 + (-1,6)</p>
+<p centrado="si">22,6 = 22,6</p>
+<p><negrita>Propiedad del elemento neutro o módulo de la adición:</negrita
+> 	para todo número real <cursiva>a</cursiva>, 0 + <cursiva>a</cursiva
+> = <cursiva>a</cursiva>. Todo número sumado con 0 da como resultado
+el mismo número. Por ejemplo,</p>
+<formula alineacion="centrada" src="MA_09_01_Q.gif"></formula>
+<p><negrita>Propiedad del elemento inverso aditivo:</negrita> para
+todo número real <cursiva>a</cursiva> existe otro número real –<cursiva
+>a</cursiva>, tal que <cursiva>a</cursiva> + (-<cursiva>a</cursiva
+>) = 0, tal que 0 es el elemento neutro de la adición.</p>
+<p centrado="si">2345,1234567 + (-2345,1234567) = 0</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso320&amp;IdRecurso=RES-49E6F1A78BEE4C7294C16C35025A9619
+">Practica las propiedades de la adición de números reales </enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_09_01_CO_694074B78A5142F8A0CD764C3CB2C3FA">
+<seccion2Titulo>La multiplicación y la división de números reales</seccion2Titulo>
+<seccion2Texto>
+<p>La multiplicación y la división se pueden representar como la misma
+operación  debido a que el conjunto de los números reales contiene
+inversos multiplicativos. </p>
+<p>Para el caso de la división, si <cursiva>a</cursiva>, <cursiva
+>b</cursiva> y <cursiva>b</cursiva><superindice>-1</superindice> son
+números reales, entonces</p>
+<formula alineacion="centrada" src="MA_09_01_R.gif"></formula>
+<p>Si <cursiva>b</cursiva> es un número real diferente de cero, entonces <cursiva
+>b</cursiva><superindice>-1</superindice> se define como:</p>
+<formula alineacion="centrada" src="MA_09_01_S.gif"></formula>
+<p>La división de números reales se define como la multiplicación
+de <cursiva>a</cursiva> por el inverso multiplicativo de <cursiva
+>b</cursiva>, que se representa como <cursiva>b</cursiva><superindice
+>-1</superindice>. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso200&amp;IdRecurso=RES-2CD78951B7C44F5FB23000F25950CFA3"
+>Practica las propiedades de la adición y la multiplicación de números
+reales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_09_01_CO_CB19402AD8574DA1A620BD811CD95B17">
+<seccion2Titulo>Las propiedades de la multiplicación de números reales</seccion2Titulo>
+<seccion2Texto>
+<p>La multiplicación en el conjunto de los números reales. Cumple
+las siguientes propiedades.</p>
+<p><negrita>Propiedad interna o clausurativa</negrita>: si se multiplican
+dos números reales el producto también será un número real. Por ejemplo, </p>
+<formula alineacion="centrada" src="MA_09_01_T.gif"></formula>
+<p><negrita>Propiedad conmutativa</negrita>: si <cursiva>a</cursiva
+> y <cursiva>b</cursiva> son números reales, entonces <cursiva>a</cursiva
+> · <cursiva>b</cursiva> = <cursiva>b</cursiva> · <cursiva>a</cursiva
+>, es decir, que el orden en que se ubiquen los factores no altera
+el producto. Por ejemplo, </p>
+<p centrado="si">(-23,12) · 2 = 2 · (-23,12)</p>
+<p centrado="si">-46,24 = -46,24</p>
+<p><negrita>Propiedad asociativa</negrita>: si <cursiva>a</cursiva
+>, <cursiva>b</cursiva> y <cursiva>c</cursiva> son números reales,
+entonces (<cursiva>a</cursiva> · <cursiva>b</cursiva>) · <cursiva
+>c</cursiva> = <cursiva>a</cursiva> · (<cursiva>b</cursiva> · <cursiva
+>c</cursiva>). La forma como se agrupen los números no altera el producto.
+Por ejemplo,</p>
+<p centrado="si">(24,2 · 3,4) · -5 = 24,2 · (3,4 · -5)</p>
+<p centrado="si">(82,28) · -5 = 24,2 · (-17)</p>
+<p centrado="si">–411,4 = –411,4</p>
+<p><negrita>Propiedad del elemento neutro</negrita>: para todo número
+real <cursiva>a</cursiva>, <cursiva>a</cursiva> · 1 = <cursiva>a</cursiva
+>. Todo número multiplicado por 1, que es el elemento neutro de la
+multiplicación, es igual al mismo número. Por ejemplo,</p>
+<p centrado="si">∛33 · 1 = ∛33</p>
+<p><negrita>Propiedad del elemento inverso</negrita>: para todo número
+real <cursiva>a</cursiva> diferente de cero, existe <cursiva>a</cursiva
+><superindice>-1</superindice>, tal que <cursiva>a</cursiva> · <cursiva
+>a</cursiva><superindice>-1</superindice> = 1; <cursiva>a</cursiva
+><superindice>-1</superindice> es el inverso multiplicativo de <cursiva
+>a</cursiva>. Por ejemplo,</p>
+<formula alineacion="centrada" src="MA_09_01_U.gif"></formula>
+<p>Existe una propiedad que relaciona a la multiplicación con la adición.</p>
+<p><negrita>Propiedad distributiva</negrita>: si <cursiva>a</cursiva
+>, <cursiva>b</cursiva> y <cursiva>c</cursiva> son números reales,
+entonces <cursiva>a</cursiva> · (<cursiva>b</cursiva> + <cursiva>c</cursiva
+>) = (<cursiva>a</cursiva> · <cursiva>b</cursiva>) + (<cursiva>a</cursiva
+> · <cursiva>c</cursiva>). Un número real multiplicado por la suma
+de dos números reales es igual a la suma de los productos de cada
+sumando por ese número. Por ejemplo,</p>
+<formula alineacion="centrada" src="MA_09_01_V.gif"></formula>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso170&amp;IdRecurso=RES-83FE82A8D08A406B9F8EB2382BE3EB18"
+>Refuerza tu aprendizaje: Las operaciones con números reales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_09_01_CO_2B9630FA7C8B47C08E07EB5346D7E438">
+<seccion2Titulo>Consolidación </seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso350&amp;IdRecurso=RES-A6026C62327842B3B64F78F7FFD0B8C2
+">Competencias: estudio del número áureo</enlace>
+</practica><profundiza>
+<enlace destino="27">Proyecto: estudio del número π</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_09_01_CO_12D9D4475486469F81ECD62909CDEF11">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con este recurso.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso350&amp;IdRecurso=RES-A6026C62327842B3B64F78F7FFD0B8C2
+">Competencias: estudio del número áureo</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso360&amp;IdRecurso=RES-85C6CCA0769247BCAE931BDE0F7BDBFC"
+>Proyecto: estudio del número π</enlace>
+</profundiza></seccion1Texto></seccion1><masinformacion
+id="MI_MA_09_01_CO_79A5F1B58FAA469DA7C331FAC5A61C61"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso230&amp;IdRecurso=RES-B9B549AF45F84ADCBABEAADCF8BFE7B3"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_01_CO_Recurso240&amp;IdRecurso=RES-FCF28EEEC02A444DB57C34C365FB3E3F"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://es.wikipedia.org/wiki/N%C3%BAmero_real">Números
+reales 	</enlace>
+<enlace
+destino="http://www.amolasmates.es/cuarto_eso/apuntes/Reales_intervalos.pdf"
+>Números reales e intervalos</enlace>
+<enlace
+destino="http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/1750/1973/html/2_el_conjunto_de_los_nmeros_reales.html"
+>El conjunto de los números reales </enlace>
+</enlacesreferencia></masinformacion></libro>
