@@ -37,7 +37,7 @@ canicas debe Pedro en total?</listaElemento>
 <listaElemento>Pedro debe a Luis 13 canicas pero ganó 12 jugando con
 Sergio, ¿cuántas canicas debe o tiene Pedro en total?</listaElemento>
 </listaSinNumerar>
-<imagen src="MA_07_02_CO_IMG01_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG01_small.jpg">
 <p>Al ubicar cantidades en la recta numérica es importante reconocer
 el punto de referencia.</p>
 </imagen>
@@ -176,7 +176,7 @@ la adición de números enteros de diferente signo en la recta numérica.</p>
 <listaElemento>Se ubican las cantidades en la recta numérica como
 se aprecia en la imagen.</listaElemento>
 </listaSinNumerar>
-<imagen src="MA_07_02_CO_IMG02_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG02_small.jpg">
 <p>Al representar adiciones de números enteros de diferente signo
 en la recta numérica, el segundo sumando se ubica a partir de donde
 termina el primero. En caso de haber un tercer sumando, éste se ubica
@@ -356,7 +356,7 @@ se anunció que en los primeros días del mes de enero del año en mención,
 en el municipio de Belén (Boyacá), se alcanzaron temperaturas de hasta
 7 grados bajo de cero, provocando con ello la destrucción de los pastos
 y cultivos de la zona. </p>
-<imagen src="MA_07_02_CO_IMG03_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG03_small.jpg">
 <p>Las temperaturas por debajo de cero provocan que los cultivos con
 los que se provee de alimentos a las personas y el pasto del que se
 alimentan los animales se dañen.</p>
@@ -438,7 +438,7 @@ de la temperatura fue de 19 °C.</p></listaElemento>
 <p>Variaciones de temperatura tan altas como las presentadas en la
 anterior situación hacen que el pasto se queme y los animales no tengan
 de qué alimentarse.</p>
-<imagen src="MA_07_02_CO_IMG04_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG04_small.jpg">
 <p>Las variaciones de temperatura pueden provocar la pérdida del pasto
 dejando sin alimento a los animales.</p>
 </imagen>
@@ -651,7 +651,7 @@ en lugar del signo por (×).</p>
 (‒4) = ‒3 · 2 · (‒4).</listaElemento>
 </listaSinNumerar>
 </destacadoTexto></destacado>
-<imagen src="MA_07_02_CO_IMG05_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG05_small.jpg">
 <p>Es usual usar “·” en lugar del “×” de multiplicar.</p>
 </imagen>
 <p>Al multiplicar dos números enteros se tienen las siguientes opciones:</p>
@@ -766,7 +766,7 @@ es negativo.</listaElemento>
 El signo negativo del resultado indica que esa cantidad se retiró
 de la cuenta.</p></listaElemento>
 </listaSinNumerar>
-<imagen src="MA_07_02_CO_IMG06_zoom">
+<imagen src="MA_07_02_CO_IMG06_small.jpg">
 <p>En los recibos de caja y estados de cuenta, los débitos están representados
 con números negativos.</p>
 </imagen>
@@ -903,9 +903,7 @@ dividir.</p>
 <p>La división permite encontrar uno de los factores desconocidos
 de la multiplicación cuando se conoce el producto y el otro factor.</p>
 <p>Ejemplo: 15 ÷ 3 implica buscar el número que multiplicado por 3
-da 15: </p>
-<formula src="MA_07_02_082.gif"></formula>
-<p>, entonces 15 ÷ 3 = 5.</p>
+da 15: 5 · 3 = 15, entonces 15 ÷ 3 = 5.</p>
 <p>En una división, el <negrita>dividendo</negrita> es la cantidad
 que va a ser dividida, el <negrita>divisor</negrita> es la cantidad
 que divide y el<negrita> cociente</negrita> es el <negrita>resultado</negrita
@@ -948,7 +946,7 @@ absoluto se realiza el siguiente proceso:</p>
 división es la usual, sin embargo, se puede emplear el concepto de
 valor absoluto.</p>
 </destacadoTexto></destacado>
-<imagen src="MA_07_02_CO_IMG07_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG07_small.jpg">
 <p>Las reglas de los signos para la multiplicación y la división de
 números enteros son iguales.</p>
 </imagen>
@@ -1129,9 +1127,8 @@ destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso240&amp;IdRecurso=RES-15FF58
 ">Refuerza tu aprendizaje: la división de números enteros</enlace>
 </practica><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso200&amp;IdRecurso=RES-DD47BA0C44A2424D9571D2689F0CE1B2"
->?????????????????????WTF_Refuerza tu aprendizaje: divisiones y multiplicaciones</enlace><?Pub
-Caret 39?>
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso000&amp;IdRecurso=RES-"
+>Refuerza tu aprendizaje: divisiones y multiplicaciones</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_07_02_CO_B288E3C980874B6E90779166507325C8">
 <seccion1Titulo>La jerarquía de las operaciones</seccion1Titulo>
@@ -1148,7 +1145,7 @@ serie de elementos en grados sucesivos que pueden ser ascendentes
 o descendentes y jerarquizar es determinar la organización de unas
 categorías siguiendo un orden de importancia o una secuencia.</p>
 </recuerdaTexto></recuerda>
-<imagen src="MA_07_02_CO_IMG08_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG08_small.jpg">
 <p>La clave para resolver un polinomio es pensar y operar según el
 orden de las operaciones.</p>
 </imagen>
@@ -1174,29 +1171,30 @@ orden de las operaciones.</p>
 <td><negrita>Proceso</negrita></td>
 </tr>
 <tr>
-<td><formula src="MA_07_02_116.gif"></formula></td>
+<td>(2 ‒ 6) · [3 ‒ 5 · (8 ‒ 4)] ‒ (2 + 10) ÷ 3 =</td>
 <td>De izquierda a derecha se hacen las operaciones de los paréntesis:
 2 ‒ 6 = <negrita>‒4</negrita><br/> 8 ‒ 4 = <negrita>4</negrita> <br
 />2 + 10 = <negrita>12</negrita></td>
 </tr>
 <tr>
-<td><formula src="MA_07_02_117.gif"></formula></td>
+<td><negrita>‒4</negrita> · [3 ‒ 5 · <negrita>4</negrita>] ‒ <negrita
+>12</negrita> ÷ 3 =</td>
 <td>Se ubican los resultados en el lugar correspondiente.</td>
 </tr>
 <tr>
-<td><formula src="MA_07_02_118.gif"></formula></td>
+<td>‒4 · [<negrita>3 ‒ 20</negrita>] ‒ 12 ÷ 3 =</td>
 <td>De izquierda a derecha se hacen las operaciones de los corchetes:
  3 ‒ 20 = <negrita>‒17</negrita></td>
 </tr>
 <tr>
-<td><formula src="MA_07_02_119.gif"></formula></td>
+<td>‒4 · (<negrita>‒17</negrita>) ‒ 12 ÷ 3 =</td>
 <td>Se ubica el resultado de la operación en el lugar correspondiente.</td>
 </tr>
 <tr>
-<td><negrita>68 ‒ 4 =</negrita></td>
+<td><negrita>68</negrita> ‒ <negrita>4 </negrita>=</td>
 <td>Se efectúan las multiplicaciones y divisiones en orden de aparición
-de izquierda a derecha y se escriben los resultados: <formula
-src="MA_07_02_120.gif"></formula> 12 ÷ 3 = <negrita>4</negrita></td>
+de izquierda a derecha y se escriben los resultados:<br/> ‒4 · (‒17)
+= <negrita>68</negrita> <br/>12 ÷ 3 = <negrita>4</negrita></td>
 </tr>
 <tr>
 <td><negrita>64</negrita></td>
@@ -1222,10 +1220,10 @@ src="MA_07_02_120.gif"></formula> 12 ÷ 3 = <negrita>4</negrita></td>
 <td><negrita>Proceso</negrita></td>
 </tr>
 <tr>
-<td><formula src="MA_07_02_121.gif"></formula></td>
-<td>De izquierda a derecha se hacen las multiplicaciones y divisiones:<formula
-src="MA_07_02_122.gif"></formula><formula src="MA_07_02_123.gif">
-</formula>45 ÷ (‒9) = <negrita>‒5</negrita></td>
+<td>8 · (‒6) + 21 ‒ (‒7) · (‒3) ‒ 45 ÷ (‒9) = </td>
+<td>De izquierda a derecha se hacen las multiplicaciones y divisiones: <br
+/>8 · (‒6) =<negrita> ‒48</negrita><br/> (‒7) · (‒3) = <negrita>21</negrita
+> <br/>45 ÷ (‒9) = <negrita>‒5</negrita></td>
 </tr>
 <tr>
 <td><negrita>‒48</negrita> + 21 – <negrita>21</negrita> ‒ (<negrita
@@ -1251,11 +1249,11 @@ src="MA_07_02_122.gif"></formula><formula src="MA_07_02_123.gif">
 </table>
 <profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso210&amp;IdRecurso=RES-BF7D48473916496D8C78D386DA506870"
->Polinomios aritméticos</enlace>
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso250&amp;IdRecurso=RES-C068C315040346E3A77CC171A4B6396F
+">Polinomios aritméticos</enlace>
 </profundiza><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso220&amp;IdRecurso=RES-16223D37ACD648E6A38864A4B7A71C1A
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso260&amp;IdRecurso=RES-6DEADDE4BB0844AFB7C8C90642D25D3B
 ">Operaciones combinadas con números enteros</enlace>
 </practica>
 <p>Puedes reforzar el proceso de resolución de polinomios aritméticos
@@ -1263,23 +1261,22 @@ y revisar algunos ejemplos resueltos haciendo clic en el siguiente
 enlace<enlace
 destino="http://www.vadenumeros.es/tercero/ejercicios-con-parentesis.htm"
 > [VER]</enlace>.</p>
-<imagen src="MA_07_02_CO_IMG09_zoom.jpg">
+<imagen src="MA_07_02_CO_IMG09_small.jpg">
 <p>Al resolver un polinomio aritmético aplica la jerarquización de
-las operaciones.</p>
+las operaciones.</p><?Pub Caret -2?>
 </imagen>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso230&amp;IdRecurso=RES-3EEE6CBD535A4AF5808AB7E8342A56DC"
->Refuerza tu aprendizaje: reglas de los signos y jerarquía de las
-operaciones </enlace>
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso280&amp;IdRecurso=RES-B35DE3EBDEE643C98222639C8B9AE826
+">Reglas de los signos y jerarquía de las operaciones </enlace>
 </practica><seccion2>
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso240&amp;IdRecurso=RES-15FF58AF76134D5C81E65E2EB6C4DF11"
->Refuerza tu aprendizaje: jerarquía de las operaciones </enlace>
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso280&amp;IdRecurso=RES-B35DE3EBDEE643C98222639C8B9AE826
+">Refuerza tu aprendizaje: La jerarquía de las operaciones </enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_07_02_CO_A083C428CA414BFFBC91291DFDA79743">
 <seccion1Titulo>Competencias</seccion1Titulo>
@@ -1289,29 +1286,28 @@ en situaciones aditivas y multiplicativas a través de los siguientes
 recursos.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso250&amp;IdRecurso=RES-C068C315040346E3A77CC171A4B6396F
-">Competencias: resuelve ejercicios utilizando la definición de adición
-y sustracción de números enteros</enlace>
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso000&amp;IdRecurso=RES-"
+>Competencias: resuelve ejercicios de adición y sustracción de enteros</enlace>
 </practica><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso260&amp;IdRecurso=RES-6DEADDE4BB0844AFB7C8C90642D25D3B"
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso000&amp;IdRecurso=RES-"
 >Competencias: resuelve problemas de situaciones aditivas, en diferentes
 contextos y dominios numéricos</enlace>
 </practica><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso270&amp;IdRecurso=RES-D1D03681534444FD8E15FE1FA39FCECF"
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso000&amp;IdRecurso=RES-"
 >Competencias: justifica la pertinencia de un cálculo exacto o aproximado
 en el desarrollo de un polinomio</enlace>
 </practica><profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso280&amp;IdRecurso=RES-B35DE3EBDEE643C98222639C8B9AE826"
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso000&amp;IdRecurso=RES-"
 >Competencias: justifica procedimientos aritméticos utilizando las
 relaciones y propiedades de las operaciones</enlace>
 </profundiza><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso290&amp;IdRecurso=RES-43AA7D4F058F44059AEF96C31B044A78"
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso000&amp;IdRecurso=RES-"
 >Competencias: realiza razonamientos lógicos para identificar y encontrar
-información que permita resolver un problema </enlace>
+información que permita resolver un problema</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_MA_07_02_CO_2A844C81EA4C48398F3DD1BBBB103333"><mapaconceptual>
 <enlace
@@ -1335,4 +1331,8 @@ y la sustracción de números enteros.</enlace>
 destino="http://web.educastur.princast.es/ies/pravia/carpetas/recursos/mates/Descartes/1y2_eso/enteros2/index.htm"
 >Teoría, ejemplos y actividades relacionadas con la multiplicación
 y la división de números enteros.</enlace>
+<enlace
+destino="http://matematizate.com/edicion.php?selecc=aritmetica&amp;edicion=a010_jerarquia&amp;pag=1"
+>Teoría, ejemplos y video sobre la jerarquización de las operaciones
+con números enteros y el uso correcto de signos de agrupación.</enlace>
 </enlacesreferencia></masinformacion></libro>
