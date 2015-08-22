@@ -1,0 +1,1338 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="MA_07_02_CO">
+<libroTitulo>Operaciones con números enteros</libroTitulo>
+<seccion1 id="S1_MA_07_02_CO_A884F43816E54D528F29D57A0725FF44">
+<seccion1Titulo>La adición de números enteros</seccion1Titulo>
+<seccion1Texto>
+<p>Al igual que en el conjunto de los números naturales, en el conjunto
+de los números enteros se realiza la operación adición, con la diferencia
+de que los sumandos y los resultados obtenidos pueden ser números
+negativos.•	Que los números adicionados tengan el mismo signo (los
+sumandos son ambos positivos o ambos negativos), es decir, que se
+encuentren a la derecha de cero en la recta numérica, o se encuentren
+a la izquierda de cero. Por ejemplo: 2 + 34, ambos sumandos se ubican
+a la derecha de cero, y ‒3 + (‒8), ambos sumandos se ubican a la izquierda
+de cero. Estas son:</p>
+<listaSinNumerar>
+<listaElemento>Que los números adicionados tengan el <negrita>mismo
+signo</negrita> (los sumandos son ambos <negrita>positivos</negrita
+> o ambos <negrita>negativos</negrita>), es decir, que se encuentren
+a la derecha de cero en la recta numérica, o se encuentren a la izquierda
+de cero. Por ejemplo: 2 + 34, ambos sumandos se ubican a la derecha
+de cero, y ‒3 + (‒8), ambos sumandos se ubican a la izquierda de cero.</listaElemento>
+<listaElemento>Que los números adicionados tengan <negrita>diferente
+signo</negrita>, es decir, que algunos de los sumandos estén a la
+derecha de cero y otros a la izquierda (en la recta numérica), como:
+‒13 + 12, el primero está a la izquierda de cero mientras el segundo
+está a la derecha y 2 + (‒34), que presenta el caso contrario.</listaElemento>
+</listaSinNumerar>
+<p>La necesidad de reconocer la representación gráfica de la adición
+de números enteros se puede apreciar en las siguientes situaciones:</p>
+<listaSinNumerar>
+<listaElemento>Pedro debe 3 canicas a Luis y 8 a Sebastián, ¿cuántas
+canicas debe Pedro en total?</listaElemento>
+<listaElemento>Pedro debe a Luis 13 canicas pero ganó 12 jugando con
+Sergio, ¿cuántas canicas debe o tiene Pedro en total?</listaElemento>
+</listaSinNumerar>
+<imagen src="MA_07_02_CO_IMG01_zoom.jpg">
+<p>Al ubicar cantidades en la recta numérica es importante reconocer
+el punto de referencia.</p>
+</imagen>
+<p>Con esta idea se puede identificar que en la primera situación
+Pedro está debiendo canicas, mientras que en la segunda ha ganado
+algunas pero debe otras, lo que hace que los resultados en cada situación
+representen ideas diferentes: deber o tener (ganar).</p>
+<seccion2 id="S2_MA_07_02_CO_5EC336FDED18407F9CDE8CEBC8E795F5">
+<seccion2Titulo>La adición de números enteros del mismo signo</seccion2Titulo>
+<seccion2Texto>
+<p>Para comprender el proceso de adicionar números enteros del mismo
+signo se considerarán las siguientes situaciones:</p>
+<listaSinNumerar>
+<listaElemento>Pedro debe a Luis 3 canicas, adicionalmente le debe
+8 a Sebastián, ¿cuántas canicas debe Pedro en total?<p>En este caso,
+Pedro está debiendo 3 y 8 canicas por lo que los números que representan
+dichas cantidades están a la izquierda de cero, es decir, los números
+son negativos (están precedidos del signo menos): ‒3 y (‒8).  </p
+><p>Como ambas cantidades se están debiendo, el resultado de adicionar
+las canicas también está precedido del signo menos. Si se deben 3
+y 8 canicas, en total se deben 11 canicas: ‒11.</p></listaElemento>
+</listaSinNumerar>
+<listaSinNumerar>
+<listaElemento>Si en otro juego, Pedro gana 1 canica a Rodrigo y 8
+canicas a Nicolás, ¿cuántas canicas tiene en total? <p>En este caso,
+Pedro gana 1 y 8 canicas por lo que los números que representan dichas
+cantidades están a la derecha de cero, es decir, los números son positivos
+(están precedidos del signo más): +1 y +8.  </p><p>Como ambas cantidades
+se ganaron, el resultado de adicionar las canicas será el número de
+canicas que ganó y estará precedido del signo más. Si se tienen 1
+y 8 canicas, en total se tienen 9 canicas: +9.</p></listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Escritura de la adición de números enteros
+del mismo signo </destacadoTitulo><destacadoTexto>
+<p>Para adicionar números enteros del mismo signo se debe tener en
+cuenta que:  </p>
+<listaSinNumerar>
+<listaElemento>Cuando los <negrita>números</negrita> son <negrita
+>negativos</negrita>, los sumandos deben encerrarse en un paréntesis
+cada uno, excepto el primero que puede dejarse sin el paréntesis.
+Ejemplo: si se adicionan ‒3 y ‒12, la adición se escribe ‒3+ (‒12);
+si se adicionan 2, ‒12 y ‒9, se escribe 2 + (‒12) + (‒9).</listaElemento>
+<listaElemento>Cuando los <negrita>números</negrita> son <negrita
+>positivos</negrita> no es necesario escribir el signo + de los números,
+sólo se escribe la adición usual. Ejemplo: si se adicionan +3 y +12,
+la adición se escribe 3 + 12; si se adicionan +3, +12 y +9, se escribe
+3 + 12 + 9. </listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<p>En el siguiente recurso se muestra la representación gráfica de
+adiciones de números enteros del mismo signo.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso010&amp;IdRecurso=RES-194085DA90654D8589CB085C80E0AF37
+">Adición de números enteros del mismo signo</enlace>
+</profundiza>
+<p>Para definir analíticamente la <negrita>adición de números enteros
+del mismo signo</negrita>, es necesario el concepto de <negrita>valor
+absoluto</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>El <negrita>valor absoluto</negrita> de un número entero se representa
+escribiendo el número entre <negrita>dos líneas verticales</negrita
+> y representa la distancia que hay entre ese número y cero. Por ejemplo,
+el valor absoluto de ‒4 es 4 (| ‒4 | = 4) y el valor absoluto de +15
+es 15 (| 15 | = 15).</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Adición de
+números enteros del mismo signo</destacadoTitulo><destacadoTexto>
+<p>La <negrita>suma</negrita> de dos o más números <negrita>enteros
+del mismo signo</negrita> se halla adicionando los valores absolutos
+de los sumandos. A dicho resultado se le coloca el signo que poseen
+los números.</p>
+</destacadoTexto></destacado>
+<p>A continuación se expondrán algunos ejemplos de cómo se adicionan
+números enteros del mismo signo.</p>
+<table border="1" cellspacing="0"><colgroup><col/><col/><col/><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td align="center" colspan="5">Adición de números enteros del mismo
+signo</td>
+</tr>
+<tr valign="middle">
+<td align="center">Si los números son:</td>
+<td align="center">Ejemplo</td>
+<td align="center">Se calcula el valor absoluto de los números (sumandos)</td>
+<td align="center">Se halla la suma de los valores absolutos</td>
+<td align="center">Se coloca el signo de la suma (es el mismo de los
+sumandos)</td>
+</tr>
+<tr valign="middle">
+<td align="center">Negativos</td>
+<td align="center">−3 + (− 12)</td>
+<td align="center">| −3 | = 3 | − 12 | = 12</td>
+<td align="center">3 + 12 = 15</td>
+<td align="center">−3+ (− 12) = −15</td>
+</tr>
+<tr valign="middle">
+<td align="center">Positivos </td>
+<td align="center">57 + 72</td>
+<td align="center">| 57 | = 57 | 72 | = 72</td>
+<td align="center">57 + 72 = 129</td>
+<td align="center">57 + 72 = 129</td>
+</tr>
+</tbody>
+</table>
+<p>Como en el caso de las canicas de Pedro, existen muchas otras situaciones
+en las cuales se deben adicionar números enteros del mismo signo,
+observa algunas de ellas:</p>
+<listaSinNumerar>
+<listaElemento>Si le debo a un amigo $10 000 y a mi mamá le debo $15
+000, ¿cuánto dinero debo en total? <p>Se calcula el valor absoluto
+de los números: | −10 000 | = 10 000 y | −15 000 | = 15 000. Se halla
+la suma de los valores absolutos: 10 000 + 15 000 = 25 000. Se escribe
+el signo de la suma ‒10 000 + (‒15 000) = ‒25 000 (como ambos sumandos
+son negativos, la suma es negativa).</p><p>De este modo, debo en total
+$25 000, que se escribe ‒$25 000.</p></listaElemento>
+<listaElemento>El día de mi cumpleaños mi tío me regaló $20 000 y
+mis abuelos $50 000, ¿cuánto dinero tengo en total?<p>Se calcula el
+valor absoluto de los números: | 20 000 | = 20 000 y | 50 000 | =
+50 000. Se halla la suma de los valores absolutos: 20 000 + 50 000
+= 70 000. Se escribe el signo de la suma 20 000 + 50 000 = 70 000
+(como ambos sumandos son positivos, la suma es positiva). </p><p>Así,
+tengo en total $70 000, que se escribe +$70 000.</p></listaElemento>
+</listaSinNumerar>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_07_02_CO_4E2375A643204CCC8B06103969362318">
+<seccion2Titulo>La adición de números enteros de diferente signo</seccion2Titulo>
+<seccion2Texto>
+<p>Para comprender el proceso de adicionar números enteros de diferente
+signo se considerará la siguiente situación:</p>
+<p>Sergio debía 13 canicas a Luis y le ganó 8 a Sebastián, ¿cuántas
+canicas tiene o debe Sergio?</p>
+<p>Para saber si Sergio tiene o debe canicas, observa cómo se representa
+la adición de números enteros de diferente signo en la recta numérica.</p>
+<listaSinNumerar>
+<listaElemento>Se ubican las cantidades en la recta numérica como
+se aprecia en la imagen.</listaElemento>
+</listaSinNumerar>
+<imagen src="MA_07_02_CO_IMG02_zoom.jpg">
+<p>Al representar adiciones de números enteros de diferente signo
+en la recta numérica, el segundo sumando se ubica a partir de donde
+termina el primero. En caso de haber un tercer sumando, éste se ubica
+a partir de donde termina el segundo y así sucesivamente, según la
+cantidad de sumandos.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Para representar la suma de números enteros se debe tener presente
+que:  </p>
+<listaSinNumerar>
+<listaElemento>Los sumandos se representan con flechas.</listaElemento>
+<listaElemento>Los sumandos se ubican de forma consecutiva; donde
+termina una flecha comienza la otra y éstas cambian de sentido si
+los números tienen signos opuestos.</listaElemento>
+<listaElemento>La suma se representa con una flecha que parte del
+origen del primer sumando y termina en el extremo del segundo sumando.</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda>
+<listaSinNumerar>
+<listaElemento>Se resuelve la adición utilizando los valores absolutos.<p
+>Canicas que debe Sergio 13: ‒13. Valor absoluto de ‒13: | ‒13 | =
+13. </p><p>Canicas que ganó Sergio 8: +8. Valor absoluto de +8: |
++8 | = 8.  </p><p>Como es mayor el valor absoluto de ‒13 entonces
+la suma tendrá signo negativo: ‒13 + 8 = ‒5.</p></listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Adición de números enteros de diferente
+signo </destacadoTitulo><destacadoTexto>
+<p>La <negrita>suma</negrita> de dos o más números <negrita>enteros
+de diferente signo</negrita> se halla restando los valores absolutos
+de los sumandos. Al resultado se le coloca el signo del número entero
+que tenga el mayor valor absoluto.</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>Cuando se escribe la adición de números enteros de diferente signo
+es conveniente escribir cada sumando entre paréntesis. Por ejemplo:</p>
+<listaSinNumerar>
+<listaElemento>Si se adicionan 3 y ‒12, la adición se escribe 3+ (‒12);
+si se adicionan 3, ‒12 y ‒9, se escribe 3 + (‒12) + (‒9).</listaElemento>
+<listaElemento>Si se adicionan ‒3 y +12, la adición se escribe ‒3
++ 12 o también (‒3) + 12; si se adicionan ‒3, +12 y ‒9, se escribe
+‒3 + 12 + (‒9) o (‒3) + 12 + (‒9).</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda>
+<p>A continuación se expondrán algunos ejemplos de cómo se adicionan
+números enteros de diferente signo.</p>
+<table border="1" cellspacing="0"><colgroup><col/><col/><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td align="center" colspan="4"><negrita>Adición de números enteros
+de diferente signo</negrita></td>
+</tr>
+<tr valign="middle">
+<td align="center">Ejemplo</td>
+<td align="center">Se calcula el valor absoluto de los sumandos</td>
+<td align="center">Se calcula el valor absoluto de los números (sumandos)</td>
+<td align="center">Al resultado se le coloca el signo que tenga el
+número con mayor valor absoluto</td>
+</tr>
+<tr valign="middle">
+<td align="center">‒9 + 7</td>
+<td align="center">| ‒9 | = 9 | 7 | = 7</td>
+<td align="center">9 ‒ 7 = 2</td>
+<td align="center">‒9 + 7 = ‒2</td>
+</tr>
+<tr valign="middle">
+<td align="center">18 + (‒13)</td>
+<td align="center">| 18 | = 18 | ‒13 | = 13</td>
+<td align="center">18 ‒ 13 = 5</td>
+<td align="center">18 + (‒13) = 5</td>
+</tr>
+</tbody>
+</table>
+<p>Algunas situaciones en las cuales se deben adicionar números enteros
+de diferente signo, se mencionan a continuación:</p>
+<listaSinNumerar>
+<listaElemento>Si camino 3 m hacia adelante y luego camino 5 m hacia
+atrás, ¿en qué posición estaré con respecto al punto de partida? <p
+centrado="si">3 + (− 5) = −2</p><p>Estaré 2 m atrás del punto de partida.</p
+></listaElemento>
+<listaElemento>Si estoy en el sótano de un edificio, señalado como
+planta −2, y subo 6 pisos en el ascensor, ¿en qué piso quedaré?<p
+centrado="si">−2 + (+6) = −2 + 6 = 4</p><p>Quedaré en el piso 4.</p
+></listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso020&amp;IdRecurso=RES-DCBC0E9EFACE4CCEB30C60C5C65D1E91
+">Adición de números enteros</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_07_02_CO_6E9EC2A5F1184B5A899998BB8A0A67AA">
+<seccion2Titulo>Las propiedades de la adición de números enteros</seccion2Titulo>
+<seccion2Texto>
+<p>La adición de números enteros cumple cinco propiedades: las cuatro
+propiedades de la adición de números naturales (clausurativa, conmutativa,
+asociativa y modulativa) y la propiedad del inverso aditivo o del
+opuesto. </p>
+<recuerda><recuerdaTexto>
+<p>Si <cursiva>a</cursiva> es una cantidad positiva +<cursiva>a</cursiva
+>, <negrita>su opuesto</negrita> es ‒ <cursiva>a</cursiva>. Si la
+cantidad es negativa ‒<cursiva>a</cursiva>, <negrita>su opuesto</negrita
+> se escribe ‒ (‒ <cursiva>a </cursiva>) y es igual a +<cursiva> a</cursiva
+>.</p>
+</recuerdaTexto></recuerda>
+<p>Observa el uso de las propiedades de la adición de números enteros.</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Propiedad</negrita></td>
+<td><negrita>Descripción</negrita></td>
+<td><negrita>Ejemplos</negrita></td>
+</tr>
+<tr>
+<td valign="top">Clausurativa</td>
+<td align="left">Al adicionar dos o más números enteros, la suma siempre
+es un número entero.  <br/>Si a y b ∈ ℤ, entonces a + b ∈ ℤ.</td>
+<td>9 + 4 = 13 y 13 ∈ ℤ<br/> ‒6 + 3 = ‒3 y  ‒3 ∈ ℤ<br/> ‒27 + (‒183)
+= ‒210 y ‒210 ∈ ℤ</td>
+</tr>
+<tr>
+<td valign="top">Conmutativa</td>
+<td align="left">Al cambiar el orden de los sumandos, en una adición,
+el resultado no cambia.<br/> Si a y b ∈ ℤ, entonces a + b = b + a</td>
+<td>34 + (‒49) = ‒15 <br/>(‒49) + 34 = ‒15 <br/>De este modo <br/>34
++ (‒49) = (‒49) + 34</td>
+</tr>
+<tr>
+<td valign="top">Asociativa</td>
+<td align="left">El modo en el que se agrupan los sumandos de una
+adición, constituida por tres o más números, no cambia el resultado. <br
+/>Si a, b y c ∈ ℤ, entonces (a + b) + c = a + (b + c)</td>
+<td>5 + [(‒2) + 3] = 6<br/> [5 + (‒2)] + 3= 6  <br/>De este modo  <br
+/>5 + [(‒2) + 3] = [5 + (‒2)] + 3</td>
+</tr>
+<tr>
+<td valign="top">Modulativa</td>
+<td align="left">Siendo el cero el elemento neutro o módulo de la
+adición, se cumple que al adicionarlo con cualquier número entero
+el resultado es el mismo número entero.  <br/>Si a ∈ ℤ, entonces a
++ 0 = 0 + a = a</td>
+<td>‒97 + 0 = ‒97 <br/>0 + (‒97) = ‒97  <br/>De este modo <br/> ‒97
++ 0 = 0 + (‒97)</td>
+</tr>
+<tr>
+<td valign="top">Inverso aditivo</td>
+<td align="left">Para cada número entero, diferente de cero, existe
+otro tal que al adicionarlos su suma es cero. Al número que cumple
+la condición se le denomina el opuesto o elemento opuesto.  <br/>Si
+a ∈ ℤ, a ≠ 0 y ‒a es su opuesto, entonces a + (‒a) = 0</td>
+<td>‒12 + 12 = 0 <br/>34 + (‒34) = 0</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso030&amp;IdRecurso=RES-9CCF4C14D9344AE3B396A9B13EAA768D"
+>Aplicaciones de las propiedades de la adición en los números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso040&amp;IdRecurso=RES-490E32B627D346DE9AAF9757F6948347
+">Cuadrado mágico con números enteros</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_07_02_CO_3C4F8607285443838BE5B4136A25B57A">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso050&amp;IdRecurso=RES-AC81A6EF20E3484AB5A45E2C9FDD73A9
+">Refuerza tu aprendizaje: adición de números enteros </enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_02_CO_521C8C7F70C14CD487180A7C77FF82A4">
+<seccion1Titulo>La sustracción de números enteros</seccion1Titulo>
+<seccion1Texto>
+<p>En un comunicado del periódico el Tiempo del 8 de enero de 2015
+se anunció que en los primeros días del mes de enero del año en mención,
+en el municipio de Belén (Boyacá), se alcanzaron temperaturas de hasta
+7 grados bajo de cero, provocando con ello la destrucción de los pastos
+y cultivos de la zona. </p>
+<imagen src="MA_07_02_CO_IMG03_zoom.jpg">
+<p>Las temperaturas por debajo de cero provocan que los cultivos con
+los que se provee de alimentos a las personas y el pasto del que se
+alimentan los animales se dañen.</p>
+</imagen>
+<p>Suponiendo que las temperaturas alcanzadas ciertos días de una
+de esas semanas de enero son las que aparecen en la siguiente tabla,
+se determinará cuál fue la variación de las temperaturas, por día,
+para analizar el impacto que esto causó en la región.</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td colspan="3"><negrita>Temperaturas por día</negrita></td>
+</tr>
+<tr>
+<td><negrita>Día</negrita></td>
+<td><negrita>Temperatura máxima (°C)</negrita></td>
+<td><negrita>Temperatura mínima (°C)</negrita></td>
+</tr>
+<tr>
+<td align="left">Lunes</td>
+<td>11</td>
+<td>2</td>
+</tr>
+<tr>
+<td align="left">Martes</td>
+<td>16</td>
+<td>6</td>
+</tr>
+<tr>
+<td align="left">Miércoles</td>
+<td>14</td>
+<td>‒1</td>
+</tr>
+<tr>
+<td align="left">Jueves</td>
+<td>9</td>
+<td>‒5</td>
+</tr>
+<tr>
+<td align="left">Viernes</td>
+<td>13</td>
+<td>‒6</td>
+</tr>
+</tbody>
+</table>
+<p>Para conocer la <negrita>variación</negrita> de la temperatura,
+por día, se debe calcular la <negrita>diferencia</negrita> entre las
+temperaturas máxima y mínima registradas; en otras palabras, con cada
+pareja de temperaturas se debe hacer una <negrita>sustracción.</negrita
+>  </p>
+<p>De acuerdo con lo anterior, las variaciones de los días lunes y
+martes fueron de 9 °C y 6 °C, respectivamente, porque 11 ‒ 2 = 9 y
+16 ‒ 6 = 6. Sin embargo, para calcular las variaciones de los siguientes
+días se debe usar el significado del <negrita>opuesto</negrita> de
+un número.</p>
+<destacado><destacadoTitulo>Sustracción de números enteros</destacadoTitulo>
+<destacadoTexto>
+<p>Para<negrita> sustraer</negrita> dos <negrita>números enteros</negrita
+> se halla la<negrita> suma </negrita>del <negrita>minuendo</negrita
+> y el <negrita>opuesto del sustraendo</negrita>. Esto es: </p>
+<p centrado="si">Si <cursiva>a</cursiva> y <cursiva>b</cursiva> son
+números enteros <cursiva>a</cursiva> ‒ <cursiva>b</cursiva> se define
+como <cursiva>a</cursiva> + (‒ <cursiva>b</cursiva>).</p>
+</destacadoTexto></destacado>
+<p>Con base en esto, la variación de la temperatura de los días miércoles,
+jueves y viernes se calcula así:</p>
+<listaSinNumerar>
+<listaElemento>El día miércoles: 14 ‒ (‒1).  <p>En este caso <cursiva
+>a</cursiva> = 14 y <cursiva>b</cursiva> = ‒1 y 14 ‒ (‒1) = 14 + 1
+= 15. La variación de la temperatura fue de 15 °C.</p></listaElemento>
+<listaElemento>El día jueves: 9 – (–5).  <p>Aquí <cursiva>a</cursiva
+> = 9 y <cursiva>b</cursiva> = ‒5 y 9 ‒ (‒5) = 9 + 5 = 14. La variación
+de la temperatura fue de 14 °C.</p></listaElemento>
+<listaElemento>El día viernes: 13 – (–6).  <p>Aquí <cursiva>a</cursiva
+> = 13 y <cursiva>b</cursiva> = ‒6 y 13 ‒ (‒6) = 13 + 6 = 19. La variación
+de la temperatura fue de 19 °C.</p></listaElemento>
+</listaSinNumerar>
+<p>Variaciones de temperatura tan altas como las presentadas en la
+anterior situación hacen que el pasto se queme y los animales no tengan
+de qué alimentarse.</p>
+<imagen src="MA_07_02_CO_IMG04_zoom.jpg">
+<p>Las variaciones de temperatura pueden provocar la pérdida del pasto
+dejando sin alimento a los animales.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso060&amp;IdRecurso=RES-5F028062CB514ECBAB9F8FD392945984
+">Adición y sustracción de dos números enteros</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso070&amp;IdRecurso=RES-26680455B977435DA8CE324FDFCFAEE8
+">Aplicaciones de la adición y sustracción de números enteros</enlace>
+</practica><seccion2
+id="S2_MA_07_02_CO_9E4A1D9E15F3482ABA3420356EBD9BDE">
+<seccion2Titulo>Las propiedades de la sustracción de números enteros</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>sustracción</negrita> de números enteros sólo cumple
+la <negrita>propiedad clausurativa</negrita>, las demás propiedades
+(conmutativa, asociativa, modulativa y del inverso aditivo) no se
+cumplen.</p>
+<destacado><destacadoTitulo>Propiedad clausurativa</destacadoTitulo>
+<destacadoTexto>
+<p>Al sustraer dos o más números enteros, la diferencia siempre es
+un número entero: si a y b ∈ ℤ, entonces a ‒ b ∈ ℤ. </p>
+<p>Ejemplo:</p>
+<listaSinNumerar>
+<listaElemento>•	36 ‒ 100 = ‒64 y ‒64 ∈ ℤ.</listaElemento>
+<listaElemento>•	‒51 ‒ (‒8) = ‒43 y ‒43 ∈ ℤ.</listaElemento>
+<listaElemento>•	117 ‒ 22 = 95 y 95 ∈ ℤ.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<p>A continuación se presentarán algunos ejemplos en los que se puede
+apreciar por qué no se cumplen las demás propiedades en la sustracción.</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td colspan="3"><negrita>Propiedades que no se cumplen para la sustracción
+de números enteros</negrita></td>
+</tr>
+<tr>
+<td><negrita>Propiedad</negrita></td>
+<td><negrita>Descripción</negrita></td>
+<td><negrita>Ejemplos</negrita></td>
+</tr>
+<tr>
+<td align="left" valign="top">Conmutativa</td>
+<td>Si a y b ∈ ℤ, entonces  <br/>a ‒ b ≠ b ‒ a</td>
+<td>34 ‒ (‒49) = 34 + 49 = 83<br/> ‒49 ‒ 34 =  ‒49 + (‒34) = ‒83<br
+/> Entonces, 34 ‒ (‒49) ≠ ‒49 ‒ 34.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Asociativa</td>
+<td>Si a, b y c ∈ ℤ, entonces<br/> (a ‒ b) ‒ c ≠ a ‒ (b ‒ c)</td>
+<td>5 ‒ [(‒2) ‒ 3] = 5 ‒ [‒2 + ( ‒ 3)] = 5 ‒ (‒5)<br/> = 5 + 5 = 10<br
+/> [5 ‒ (‒2)] ‒ 3= [5 + 2] ‒ 3 = 7 ‒ 3 = 4 <br/>Entonces, 5 ‒ [(‒2)
+‒ 3] ≠ [5 ‒ (‒2)] ‒ 3.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Modulativa</td>
+<td>Si a ∈ ℤ, entonces  <br/>a ‒ 0 ≠ 0 ‒ a ≠ a <br/>a − 0 = a <br
+/>0 − a = 0 + (−a) = −a</td>
+<td>‒97 ‒ 0 = ‒97<br/> 0 ‒ (‒97) = 0 + 97  = 97 <br/>Entonces, ‒97
+‒ 0 ≠ 0 ‒ (‒97).</td>
+</tr>
+<tr>
+<td align="left" valign="top">Inverso aditivo</td>
+<td>Si a ∈ ℤ y  ‒a su opuesto, entonces <br/>a ‒ (‒a) ≠ 0</td>
+<td>‒12 ‒ 12 = ‒24 <br/>34 ‒ (‒34) = 68 <br/>Entonces, ‒12 ‒ 12 ≠
+0 y 34 ‒ (‒34) ≠ 0.</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso080&amp;IdRecurso=RES-A041050B891A45548666599B454A8DD1
+">Ejercicios para practicar la sustracción de números enteros.</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso090&amp;IdRecurso=RES-C5C2552A83094C2B996B67D663A44534
+">Practica la adición y sustracción de números enteros</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_07_02_CO_9E4A1D9E15F3482ABA3420356EBD0CEF">
+<seccion2Titulo>Reducción de signos de agrupación</seccion2Titulo>
+<seccion2Texto>
+<p>Al igual que con los números naturales se pueden realizar<negrita
+> operaciones </negrita>que contienen <negrita>adiciones</negrita
+> y <negrita>sustracciones</negrita>. Dichas operaciones se organizan
+con los siguientes <negrita>signos de agrupación:</negrita></p>
+<listaSinNumerar>
+<listaElemento><negrita>El paréntesis: ( )</negrita></listaElemento>
+<listaElemento><negrita>Los corchetes: [ ]</negrita></listaElemento>
+<listaElemento><negrita>Las llaves: { }</negrita></listaElemento>
+</listaSinNumerar>
+<p>Las operaciones combinadas y ordenadas con los signos de agrupación
+se resuelven teniendo en cuenta las operaciones que la componen. Ejemplo:
+ </p>
+<p>Operar {[‒25 + (32 ‒ 56)] ‒ (73 + 13)} + 5.</p>
+<listaNumerada>
+<listaElemento>La operación planteada indica que al valor obtenido
+al resolver las operaciones entre las llaves se le debe adicionar
+el número 5.</listaElemento>
+<listaElemento>Para hallar el resultado de las operaciones entre las
+llaves es necesario resolver primero las operaciones en los corchetes
+y los paréntesis. Dado que dentro del corchete hay un paréntesis primero
+se opera éste:<p centrado="si">32 ‒ 56 = 32 + (‒56) = ‒24</p><p>Con
+este número se halla el valor del corchete:  </p><p centrado="si"
+>‒25 + (32 ‒ 56) = ‒25 + (‒24) = ‒49  </p><p> Ahora, se calcula el
+valor del paréntesis (73 + 13):  </p><p centrado="si">73 + 13 = 86
+ </p><p>Con estos resultados hallamos el resultado de la operación
+entre las llaves: </p><p centrado="si">[‒25 + (32 ‒ 56)] ‒ (73 + 13)
+= ‒49 ‒ 86 = ‒49 + (‒86) = ‒135</p></listaElemento>
+<listaElemento>A este resultado se le adiciona el 5 y se obtiene el
+resultado de toda la operación combinada:   <p centrado="si">{[‒25
++ (32 ‒ 56)] ‒ (73 + 13)} + 5 = ‒135 + 5 = ‒130</p></listaElemento>
+</listaNumerada>
+<destacado><destacadoTitulo></destacadoTitulo><destacadoTexto>
+<p>Cuando hay adiciones y sustracciones en una misma expresión matemática,
+se debe operar según el orden de los signos de agrupación: primero
+los paréntesis ( ), después los corchetes [ ] y finalmente las llaves
+{ }.</p>
+</destacadoTexto></destacado>
+<p>Estudia el siguiente ejemplo para reforzar la comprensión del proceso
+de las operaciones combinadas:</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Ejercicio</negrita></td>
+<td><negrita>Proceso</negrita></td>
+</tr>
+<tr>
+<td>{‒9 + [<negrita>(70 ‒ 34)</negrita> + (‒11 ‒ 16)] + (‒41)} + 63
+=</td>
+<td rowspan="3">De izquierda a derecha se hacen las operaciones de
+los paréntesis:<br/> 70 ‒ 34 = 36 <br/>‒11 ‒ 16 = ‒27</td>
+</tr>
+<tr>
+<td>{‒9 +<negrita> [36 + (‒11 ‒ 16)]</negrita> + (‒41)} + 63 =</td>
+</tr>
+<tr>
+<td>{‒9 + [36 + (‒27)] + (‒41)} + 63 =</td>
+</tr>
+<tr>
+<td>{‒9 + <negrita>9</negrita> + (‒41)} + 63 =</td>
+<td>Luego, se hacen las operaciones que están dentro de los corchetes:<br
+/> [36 + (‒27)] = 9</td>
+</tr>
+<tr>
+<td><negrita>‒41</negrita> + 63 =</td>
+<td>Después se hacen las operaciones que están dentro de las llaves: <br
+/>{‒9 + 9 + (‒41)} = ‒41</td>
+</tr>
+<tr>
+<td><negrita>22</negrita></td>
+<td>Finalmente, se calcula el resultado de la última operación:<br
+/> ‒41 + 63 = 22</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso100&amp;IdRecurso=RES-E89DAC02A7AA4C6D94C98A17CEE8A118
+">Reducción de signos de agrupación</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso110&amp;IdRecurso=RES-83338EC6890040A5910F81B12AB30E80"
+>Crea estrategias para resolver polinomios aritméticos</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_MA_07_02_CO_9E4A1D9E15F3482ABA3420356EBD1DFG">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso120&amp;IdRecurso=RES-A493736CEED14104AA8E808334135728
+
+">Refuerza tu aprendizaje: operaciones combinadas de números enteros </enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_02_CO_A81E9A6AEB8E43E79A8B023A6D20C203">
+<seccion1Titulo>La multiplicación de números enteros</seccion1Titulo>
+<seccion1Texto>
+<p>Al multiplicar números enteros es importante tener en cuenta tres
+ideas: 1) cómo se escribe una multiplicación de números enteros, 2)
+que la multiplicación representa una adición de sumandos repetidos
+y 3) el significado del opuesto de un número.</p>
+<recuerda><recuerdaTexto>
+<p>En una multiplicación:</p>
+<listaSinNumerar>
+<listaElemento>Los números que se multiplican, se denominan <negrita
+>factores</negrita>. </listaElemento>
+<listaElemento>El resultado recibe el nombre de <negrita>producto</negrita
+>. </listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Escritura de
+la multiplicación de números enteros</destacadoTitulo><destacadoTexto>
+<p>Al escribir la multiplicación de números enteros se debe tener
+en cuenta que los factores negativos se deben encerrar entre paréntesis
+y se puede colocar o no un punto centrado entre cada pareja de factores
+en lugar del signo por (×).</p>
+<p>Ejemplos: </p>
+<listaSinNumerar>
+<listaElemento>•	‒3 × (‒2) = (‒3)(‒2) = (‒3) · (‒2).</listaElemento>
+<listaElemento>•	‒3 × (‒2) × (‒4) = (‒3)(‒2)(‒4) = (‒3) · (‒2) · (‒4).</listaElemento>
+<listaElemento>•	(+3) × (+2) = (3)(2) = (3) · (2) = 3 · (2)  = 3 ·
+2.</listaElemento>
+<listaElemento>•	(+3) × (+2) × (+4) = 3 · (2) · (4) = 3(2)(4) = 3
+· 2 · 4. </listaElemento>
+<listaElemento>•	(‒3) × (+2) = ‒3 · (2) = ‒3 · (2) = ‒3 · 2 </listaElemento>
+<listaElemento>•	(‒3) × (+2) × (‒4) = ‒3 · (2) · (‒4) = ‒3 · (2) ·
+(‒4) = ‒3 · 2 · (‒4).</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<imagen src="MA_07_02_CO_IMG05_zoom.jpg">
+<p>Es usual usar “·” en lugar del “×” de multiplicar.</p>
+</imagen>
+<p>Al multiplicar dos números enteros se tienen las siguientes opciones:</p>
+<listaSinNumerar>
+<listaElemento>Que ambos<negrita> factores</negrita> tengan el <negrita
+>mismo signo</negrita>.</listaElemento>
+<listaElemento>Que ambos <negrita>factores</negrita> tengan <negrita
+>signos diferentes</negrita>.</listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso130&amp;IdRecurso=RES-64195A72867A45D4B3E8D82223E42B5D"
+>Multiplicación de números enteros en la recta numérica</enlace>
+</profundiza><destacado><destacadoTitulo>Signo del producto de multiplicar
+dos números enteros</destacadoTitulo><destacadoTexto>
+<listaSinNumerar>
+<listaElemento>Al multiplicar dos números enteros del mismo signo
+el <negrita>producto</negrita> siempre es <negrita>positivo</negrita
+>. Ejemplo: ‒3 (‒2) = 6 y 5 (2) = 10.</listaElemento>
+<listaElemento>Al multiplicar dos números enteros de diferente signo
+el<negrita> producto</negrita> siempre es <negrita>negativo</negrita
+>. Ejemplo: ‒3 (2) = ‒ 6 y 5 (‒2) = ‒10.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<p>Para calcular el producto de dos números enteros, al igual que
+con la adición y sustracción se puede emplear el concepto de <negrita
+>valor absoluto</negrita>.</p>
+<destacado><destacadoTitulo>Multiplicación de dos números enteros</destacadoTitulo>
+<destacadoTexto>
+<p>El proceso para multiplicar dos números enteros empleando el concepto
+de valor absoluto es:</p>
+<listaNumerada>
+<listaElemento>Hallar el valor absoluto de los factores.</listaElemento>
+<listaElemento>Multiplicar los valores absolutos de los factores.</listaElemento>
+<listaElemento>Escribir el signo del producto:<listaSinNumerar>
+<listaElemento>Positivo, cuando los números tengan el mismo signo.</listaElemento>
+<listaElemento>Negativo, cuando los números tengan diferente signo.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaNumerada>
+<p>Se debe tener presente que cuando los números son positivos, la
+multiplicación es la usual, sin embargo, se puede emplear a su vez
+el concepto de valor absoluto.</p>
+</destacadoTexto></destacado>
+<p>En los siguientes ejemplos se observa el proceso de multiplicar
+números enteros usando su valor absoluto.</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col
+width="19*"/><col width="19*"/><col width="20*"/><col width="19*"/><col
+width="19*"/></colgroup>
+<tbody>
+<tr>
+<td colspan="5"><negrita>Multiplicación de dos números enteros</negrita
+></td>
+</tr>
+<tr>
+<td>Factores</td>
+<td>Ejemplo</td>
+<td>Se calcula el valor absoluto de los factores</td>
+<td>Se multiplican los valores absolutos</td>
+<td>Se coloca el signo al producto</td>
+</tr>
+<tr>
+<td>Positivos</td>
+<td>8 · 5 </td>
+<td>| 8 | = 8 <br/>| 5 | = 5</td>
+<td>8 · 5 = 40</td>
+<td>8 · 5 = 40</td>
+</tr>
+<tr>
+<td>Negativos</td>
+<td>(‒9)· (‒12)</td>
+<td>| ‒9 | = 9<br/> |‒12| = 12</td>
+<td>9 · 12 = 108</td>
+<td>(‒9) · (‒12) = 108</td>
+</tr>
+<tr>
+<td rowspan="2">De diferente signo</td>
+<td>6 · (‒3)</td>
+<td>| 6 | = 6<br/> |‒3 | = 3</td>
+<td>6 · 3 = 18</td>
+<td>6 · (‒3) = ‒18</td>
+</tr>
+<tr>
+<td>(‒7) · 21</td>
+<td>| ‒7 | = 7<br/> | 21 | = 21</td>
+<td>7 · 21 = 147</td>
+<td>(‒7) · 21 = ‒147</td>
+</tr>
+</tbody>
+</table>
+<p>Algunas situaciones en las cuales se deben multiplicar dos números
+enteros, se mencionan a continuación:</p>
+<listaSinNumerar>
+<listaElemento>¿Cuántos jugos hay en una caja que contiene 10 bolsas
+con 6 frascos de jugo cada una?<listaSinNumerar>
+<listaElemento>Se calcula el valor absoluto de los números: | 10 |
+= 10 y | 6 | = 6. </listaElemento>
+<listaElemento>Se multiplican los valores absolutos: 10 · 6 = 60. </listaElemento>
+<listaElemento>Se coloca el signo del producto 10 · 6 = 60, como los
+signos de los factores son iguales, el producto es positivo.</listaElemento>
+</listaSinNumerar><p>De este modo, se concluye que hay 60 jugos en
+la caja.</p></listaElemento>
+<listaElemento>¿Cuánto dinero sacó Edna de su cuenta si realizó 3
+retiros de $ 400 000 cada uno?<listaSinNumerar>
+<listaElemento>Se calcula el valor absoluto de los números: | 3 |
+= 3 y | ‒400 000 | = 400 000. </listaElemento>
+<listaElemento>Se multiplican los valores absolutos: 3 · 400 000 =
+1 200 000. </listaElemento>
+<listaElemento>Se coloca el signo del producto 3 · (‒400 000) = ‒1
+200 000, como los signos de los factores son diferentes, el producto
+es negativo.</listaElemento>
+</listaSinNumerar><p>Así, el estado de cuenta de Edna es ‒$1 200 000.
+El signo negativo del resultado indica que esa cantidad se retiró
+de la cuenta.</p></listaElemento>
+</listaSinNumerar>
+<imagen src="MA_07_02_CO_IMG06_zoom">
+<p>En los recibos de caja y estados de cuenta, los débitos están representados
+con números negativos.</p>
+</imagen>
+<p>Dado que la multiplicación de números enteros se puede realizar
+con más de dos números, el proceso para realizarla se indica a continuación.</p>
+<destacado><destacadoTitulo>¿Cómo multiplicar más de dos números enteros?</destacadoTitulo>
+<destacadoTexto>
+<p>En una <negrita>multiplicación</negrita> de números enteros con <negrita
+>más de dos factores</negrita>, se multiplican los valores absolutos
+de los números y se coloca el signo del producto teniendo en cuenta
+que:</p>
+<listaSinNumerar>
+<listaElemento>Si el número de <negrita>factores negativos es cero
+o par</negrita>, el producto es<negrita> positivo</negrita>.<listaSinNumerar>
+<listaElemento>8 · 5 · 3 = 120</listaElemento>
+<listaElemento>6 · (‒3) · (‒2) = 18</listaElemento>
+<listaElemento>‒3 · (‒5) · (‒4) · (‒1) = 120</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<listaSinNumerar>
+<listaElemento>Si el número de <negrita>factores negativos es impar</negrita
+>, el producto es <negrita>negativo</negrita>.<listaSinNumerar>
+<listaElemento>‒3 · (‒2) · (‒4) = ‒24</listaElemento>
+<listaElemento>‒5 · (‒4) · 2 · (‒3) = ‒120</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaSinNumerar>
+<p>Debe tenerse en cuenta que si todos los factores son positivos,
+el producto siempre es positivo.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso140&amp;IdRecurso=RES-F7D974DC898A48509DA21C03181C6124
+">Multiplica números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso150&amp;IdRecurso=RES-F8D87335743A4D1C8685797021739E1A
+">Aplicaciones de la multiplicación con números enteros</enlace>
+</practica><seccion2
+id="S2_MA_07_02_CO_3E7FE709C9D34C14B37BB0D7192DF475">
+<seccion2Titulo>Las propiedades de la multiplicación de números enteros</seccion2Titulo>
+<seccion2Texto>
+<p>La multiplicación de números enteros cumple las propiedades clausurativa,
+conmutativa, asociativa, modulativa y distributiva con respecto a
+la adición y sustracción.   </p>
+<p>En los siguientes ejemplos se puede identificar el uso de las propiedades
+de la multiplicación.</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Propiedad</negrita></td>
+<td><negrita>Descripción</negrita></td>
+<td><negrita>Ejemplos</negrita></td>
+</tr>
+<tr>
+<td>Clausurativa</td>
+<td>El producto de dos o más números enteros, siempre es un número
+entero.<br/>  Si a y b ∈ ℤ, entonces  a · b ∈ ℤ. </td>
+<td>9 (‒13) = ‒117 y ‒117 ∈ ℤ<br/> (‒6) · 3 = ‒18 y ‒18 ∈ ℤ<br/> (−2)
+· (−5) = 10 y 10 ∈ ℤ</td>
+</tr>
+<tr>
+<td>Conmutativa</td>
+<td>Al cambiar el orden de los factores, en una multiplicación, el
+producto es el mismo.  <br/>Si a y b ∈ ℤ, entonces  a · b = b · a </td>
+<td>(‒9) · 7 = ‒63 <br/>7 · (‒9) = ‒63 <br/>Así, <br/>(‒9) · 7 = 7
+· (‒9)</td>
+</tr>
+<tr>
+<td>Asociativa</td>
+<td>El modo en el que se agrupan los factores de una multiplicación,
+constituida por tres o más números, no cambia el producto.  <br/>Si
+a, b y c ∈ ℤ, entonces  (a · b) · c = a · (b · c)</td>
+<td>(‒2) · [(‒11) · 6] = 132<br/> [(‒2) · (‒11)] · 6 = 132<br/> Así,<br
+/> (‒2) · [(‒11) · 6] = [(‒2) · (‒11)] · 6</td>
+</tr>
+<tr>
+<td>Modulativa</td>
+<td>Siendo el uno (1) el elemento neutro o módulo de la multiplicación,
+se cumple que al multiplicarlo con cualquier número entero el resultado
+es el mismo número entero.  <br/>Si a ∈ ℤ, entonces  a · 1 = 1 · a
+= a </td>
+<td>(−81) · 1 = −81<br/> 1· (‒81) = ‒81<br/> Así,<br/> (−81) · 1 =
+1· (‒81)</td>
+</tr>
+<tr>
+<td>Del elemento nulo</td>
+<td>Al multiplicar un número entero por cero el resultado siempre
+es cero.  <br/>Si a · 0 = 0 · a = 0 </td>
+<td>(−32) · 0 = 0 <br/>0 · (‒32) = 0 <br/>Así, <br/>(‒32) · 0 = 0
+· (‒32) = 0</td>
+</tr>
+<tr>
+<td>Distributiva respecto a la adición</td>
+<td>La multiplicación de un número por la suma de otros es igual a
+la suma de los productos del número por cada sumando de la adición.
+  <br/>Si a, b y c ∈ ℤ, entonces a (b + c) = a · b + a ·  c</td>
+<td>‒4) · [5 + (‒6)] = (‒4) · (‒1) = 4<br/> (−4) · 5 + (−4)·(‒6) =
+‒20 + 24 = 4 <br/>Así,<br/> (‒4) · [5 + (‒6)] = (−4) · 5 + (−4)·(‒6)</td>
+</tr>
+<tr>
+<td>Distributiva respecto a la sustracción</td>
+<td>La multiplicación de un número por la resta de otros es igual
+a la resta de los productos del número por el minuendo y el sustraendo.
+ <br/>Si a, b y c ∈ ℤ, entonces a (b ‒ c) = a · b ‒ a ·  c</td>
+<td>3 · (7 ‒ 12) = 3 · (‒5) = ‒15<br/> 3 · 7 ‒ 3 · 12 = 21 ‒ 36 =
+‒15<br/> Así, <br/>3 · (7 ‒ 12) = 3 · 7 ‒ 3 · 12</td>
+</tr>
+</tbody>
+</table>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso160&amp;IdRecurso=RES-84EC112DB9D24B16AD8B012266A54D59"
+>Identifica las propiedades de la multiplicación de números enteros</enlace>
+</practica></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso180&amp;IdRecurso=RES-5549DF8FF18E4E28B53A83FC0A67233D
+">Refuerza tu aprendizaje: la multiplicación de números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso170&amp;IdRecurso=RES-6F7839A9F51F40E0903937F358D791A7
+">Refuerza tu aprendizaje: propiedades de la multiplicación</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_02_CO_A80F31423D33407EBA2B22538F0235D6">
+<seccion1Titulo>La división de números enteros</seccion1Titulo>
+<seccion1Texto>
+<p>Al dividir números enteros es importante tener en cuenta dos ideas:
+1) los elementos que constituyen la división y 2) el significado de
+dividir.</p>
+<recuerda><recuerdaTexto>
+<p>La división permite encontrar uno de los factores desconocidos
+de la multiplicación cuando se conoce el producto y el otro factor.</p>
+<p>Ejemplo: 15 ÷ 3 implica buscar el número que multiplicado por 3
+da 15: </p>
+<formula src="MA_07_02_082.gif"></formula>
+<p>, entonces 15 ÷ 3 = 5.</p>
+<p>En una división, el <negrita>dividendo</negrita> es la cantidad
+que va a ser dividida, el <negrita>divisor</negrita> es la cantidad
+que divide y el<negrita> cociente</negrita> es el <negrita>resultado</negrita
+> de la división. El divisor siempre debe ser diferente de 0 porque
+el producto de todo número por 0 es 0.  </p>
+<p>En algunos países, para indicar una división se usan los dos puntos
+“:” en lugar del símbolo “÷”, de este modo, <cursiva>a</cursiva> ÷ <cursiva
+>b</cursiva> se escribe a : b.</p>
+</recuerdaTexto></recuerda>
+<p>Puedes profundizar lo indicado en el anterior recuadro leyendo
+la información que aparece en el siguiente enlace<enlace
+destino="http://matematica.laguia2000.com/general/division-por-cero"
+> [VER]</enlace>.</p>
+<p>Al dividir dos números enteros se tienen las siguientes opciones:</p>
+<listaSinNumerar>
+<listaElemento>Si los <negrita>números enteros</negrita> son del <negrita
+>mismo signo</negrita> el <negrita>cociente</negrita> siempre es <negrita
+>positivo</negrita>.<p>‒15 ÷ (‒3) = 5 porque 5(‒3) = ‒15</p><p>345
+÷ 15 = 23 porque 23 · 15 = 345</p></listaElemento>
+<listaElemento>Si los <negrita>números enteros</negrita> son de <negrita
+>diferente signo</negrita> el <negrita>cociente</negrita> siempre
+es <negrita>negativo</negrita>.<p>‒15 ÷ 3 = ‒5 porque ‒5 · 3 = ‒15</p
+><p>345 ÷ (‒15) = ‒23 porque ‒23 · (‒15) = 345</p></listaElemento>
+</listaSinNumerar>
+<p>Para calcular el cociente de dividir dos números enteros se puede
+emplear el concepto de<negrita> valor absoluto</negrita>.</p>
+<destacado><destacadoTitulo>División de números enteros</destacadoTitulo>
+<destacadoTexto>
+<p>Para dividir dos números enteros empleando el concepto de valor
+absoluto se realiza el siguiente proceso:</p>
+<listaNumerada>
+<listaElemento>Se halla el valor absoluto del dividendo y del divisor.</listaElemento>
+<listaElemento>Se calcula el cociente de los valores absolutos.</listaElemento>
+<listaElemento>Se determina el signo del cociente: <listaSinNumerar>
+<listaElemento>Es positivo si los números tienen el mismo signo.</listaElemento>
+<listaElemento>Es negativo si los números tienen diferente signo.</listaElemento>
+</listaSinNumerar></listaElemento>
+</listaNumerada>
+<p>Se debe tener presente que cuando los números son positivos, la
+división es la usual, sin embargo, se puede emplear el concepto de
+valor absoluto.</p>
+</destacadoTexto></destacado>
+<imagen src="MA_07_02_CO_IMG07_zoom.jpg">
+<p>Las reglas de los signos para la multiplicación y la división de
+números enteros son iguales.</p>
+</imagen>
+<p>En los siguientes ejemplos se observa el proceso de dividir números
+enteros usando su valor absoluto.</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+<col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td colspan="5"><negrita>División de dos números enteros</negrita
+></td>
+</tr>
+<tr>
+<td>Divisor y dividendo</td>
+<td>Ejemplo</td>
+<td>Se calcula el valor absoluto del divisor y el dividendo</td>
+<td>Se halla la división de los valores absolutos</td>
+<td>Se coloca el signo al cociente</td>
+</tr>
+<tr>
+<td>Positivos</td>
+<td>28 ÷ 4</td>
+<td>| 28 | = 28 | 4 | = 4</td>
+<td>28 ÷ 4 = 7</td>
+<td>28 ÷ 4 = 7 Signos iguales el cociente es positivo</td>
+</tr>
+<tr>
+<td>Negativos</td>
+<td>‒150 ÷ (‒2) </td>
+<td>| ‒150 | = 150 | ‒2 | = 2</td>
+<td>150 ÷ 2 = 75</td>
+<td>‒150 ÷ (‒2) = 75 Signos iguales el cociente es positivo</td>
+</tr>
+<tr>
+<td rowspan="2">De diferente signo</td>
+<td>36 ÷ (‒3) </td>
+<td>| 36 | = 36 | ‒3 | = 3</td>
+<td>36 ÷ 3 = 12</td>
+<td>36 ÷ (‒3) = ‒12 Signos diferentes el cociente es negativo</td>
+</tr>
+<tr>
+<td>‒84 ÷ 12 </td>
+<td>| ‒84 | = 84 | 12 | = 12</td>
+<td>84÷12 = 7</td>
+<td>‒84 ÷ 12 = ‒7 Signos diferentes el cociente es negativo</td>
+</tr>
+</tbody>
+</table>
+<p>Las siguientes son situaciones en las cuales se requiere dividir
+dos números enteros:</p>
+<listaSinNumerar>
+<listaElemento>Un grupo de 120 personas se debe organizar en 6 filas
+con igual número de personas, ¿cuántas personas debe tener cada fila?<p
+>120 ÷ 6 = 20 porque 20 · 6 = 120; como el dividendo y el divisor
+tienen el mismo signo (positivos) el cociente es positivo. </p></listaElemento>
+<listaElemento>En las últimas 9 horas la temperatura ha tenido una
+variación de ‒18 ºC. ¿De cuánto ha sido la variación por hora?<p>‒18
+÷ 9 = ‒2 porque ‒2 · 9 = ‒18; como el dividendo y el divisor tienen
+signos diferentes, el cociente es negativo.</p> </listaElemento>
+</listaSinNumerar>
+<p>Para practicar el procedimiento de dividir números enteros y resolver
+problemas que lo requieran haz clic en el siguiente enlace <enlace
+destino="http://www.vitutor.com/di/e/a_6e.html">[VER]</enlace>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso190&amp;IdRecurso=RES-05E4C6EFD58240DBACCFBFC9304CCAA5
+">Leyes de los signos para la multiplicación y división de números
+enteros</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso200&amp;IdRecurso=RES-DD47BA0C44A2424D9571D2689F0CE1B2
+">Completa las operaciones con números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso210&amp;IdRecurso=RES-BF7D48473916496D8C78D386DA506870
+">Practica la multiplicación y división de números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso220&amp;IdRecurso=RES-16223D37ACD648E6A38864A4B7A71C1A
+">Aplicaciones de la división de números enteros</enlace>
+</practica><seccion2
+id="S2_MA_07_02_CO_A8BEC4BF7A7E486D8E5582176DEFBFF5">
+<seccion2Titulo>Las propiedades de la división de números enteros</seccion2Titulo>
+<seccion2Texto>
+<p>La división de números enteros se caracteriza por no cumplir las
+propiedades clausurativa, conmutativa, asociativa, modulativa ni distributiva
+respecto a la adición y sustracción. A continuación se expone el porqué.</p>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+<col/></colgroup>
+<tbody>
+<tr>
+<td colspan="3"><negrita>Propiedades que no se cumplen para la división
+de números enteros</negrita></td>
+</tr>
+<tr>
+<td><negrita>Propiedad</negrita></td>
+<td><negrita>Descripción</negrita></td>
+<td><negrita>Ejemplos</negrita></td>
+</tr>
+<tr>
+<td align="left" valign="top">Clausurativa</td>
+<td>Si <cursiva>a</cursiva> y <cursiva>b</cursiva> ∈ ℤ, <br/>entonces <br
+/> <cursiva>a</cursiva> ÷ <cursiva>b</cursiva> ∉ ℤ </td>
+<td>Aunque divisiones como 36 ÷ (‒9) = ‒4 cumplen que el cociente
+es entero, es decir, ‒4 ∈ ℤ, existen divisiones como ‒3 ÷ 15 = ‒0,2
+cuyo cociente no es un entero, es decir, ‒0,2 ∉ ℤ. De igual modo ocurre
+con la división ‒54 ÷ (‒48) = 1,125, en ella 1,125 ∉ ℤ.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Conmutativa</td>
+<td>Si <cursiva>a</cursiva> y <cursiva>b</cursiva> ∈ ℤ, <br/>entonces
+ <br/><cursiva>a</cursiva> ÷ <cursiva>b</cursiva> ≠ <cursiva>b</cursiva
+> ÷ <cursiva>a</cursiva> </td>
+<td>35 ÷ (‒5) = ‒7 pero ‒5 ÷ 35 ≠ ‒7, entonces  35 ÷ (‒5) ≠ ‒5 ÷ 35.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Asociativa</td>
+<td>Si <cursiva>a</cursiva>, <cursiva>b</cursiva> y <cursiva>c</cursiva
+> ∈ ℤ, <br/>entonces <br/>(<cursiva>a</cursiva> ÷ <cursiva>b</cursiva
+>) ÷ <cursiva>c</cursiva> ≠ <cursiva>a</cursiva> ÷ (<cursiva>b</cursiva
+> ÷ <cursiva>c</cursiva>)</td>
+<td>(‒18 ÷ 6) ÷ 3 = ‒3 ÷ 3 = ‒1 pero ‒18 ÷ (6 ÷ 3) = ‒18 ÷ 2 = ‒9,
+entonces  (‒18 ÷ 6) ÷ 3 ≠ ‒18 ÷ (6 ÷ 3).</td>
+</tr>
+<tr>
+<td align="left" valign="top">Modulativa</td>
+<td colspan="2">Si <cursiva>a</cursiva> ∈ ℤ, no hay un número en el
+conjunto de los enteros que sea el módulo de la división, es decir
+no existe un número entero <cursiva>b</cursiva> tal que  <cursiva
+>a</cursiva> ÷ <cursiva>b</cursiva> = 1 y que <cursiva>b</cursiva
+> ÷ <cursiva>a</cursiva> = 1.</td>
+</tr>
+<tr>
+<td align="left" valign="top">Distributiva respecto a la adición</td>
+<td>Si <cursiva>a</cursiva>, <cursiva>b</cursiva> y <cursiva>c</cursiva
+> ∈ ℤ, <br/>entonces<br/> <cursiva>a</cursiva> ÷ (<cursiva>b</cursiva
+> + <cursiva>c</cursiva>) ≠ <cursiva>a</cursiva> ÷ <cursiva>b</cursiva
+> + <cursiva>a</cursiva> ÷ <cursiva>c</cursiva></td>
+<td>‒16 ÷ [4 + (‒2)] = ‒16 ÷ (‒2) = 8<br/> −16 ÷ 4 + (−16) ÷ (‒2)
+= ‒4 + 8 = 4<br/> Así, <br/>‒16 ÷ [4 + (‒2)] ≠  −16 ÷ 4 + (−16) ÷
+(‒2)</td>
+</tr>
+<tr>
+<td align="left" valign="top">Distributiva respecto a la sustracción</td>
+<td>Si <cursiva>a</cursiva>, <cursiva>b</cursiva> y <cursiva>c</cursiva
+> ∈ ℤ, <br/>entonces <br/><cursiva>a</cursiva> ÷ (<cursiva>b</cursiva
+> ‒ <cursiva>c</cursiva>) ≠<cursiva> a</cursiva> ÷ <cursiva>b</cursiva
+> ‒ <cursiva>a</cursiva> ÷ <cursiva>c</cursiva></td>
+<td>18 ÷ (3 ‒ 9) = 18 ÷ (‒6) = ‒3 <br/>18 ÷ 3 ‒ 18 ÷ 9 = 6 ‒ 2 = 4 <br
+/>Así, <br/>18 ÷ (3 ‒ 9) ≠ 18 ÷ 3 ‒ 18 ÷ 9</td>
+</tr>
+</tbody>
+</table>
+<recuerda><recuerdaTexto>
+<listaSinNumerar>
+<listaElemento>Al dividir dos números enteros, su resultado no siempre
+es un número entero.</listaElemento>
+<listaElemento>Al cambiar el orden del dividendo y del divisor en
+una división, el cociente cambia.</listaElemento>
+<listaElemento>La forma en la que se agrupen el dividendo y el divisor
+de una división de tres números enteros cambia el cociente.</listaElemento>
+<listaElemento>En el conjunto de los números enteros no existe el
+módulo de la división y por ende no se cumple la propiedad modulativa.</listaElemento>
+<listaElemento>La división no es distributiva respecto de la adición
+ni de la sustracción.</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso230&amp;IdRecurso=RES-3EEE6CBD535A4AF5808AB7E8342A56DC
+">Las propiedades de la multiplicación y la división de números enteros</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso240&amp;IdRecurso=RES-15FF58AF76134D5C81E65E2EB6C4DF11
+">Refuerza tu aprendizaje: la división de números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso200&amp;IdRecurso=RES-DD47BA0C44A2424D9571D2689F0CE1B2"
+>?????????????????????WTF_Refuerza tu aprendizaje: divisiones y multiplicaciones</enlace><?Pub
+Caret 39?>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_02_CO_B288E3C980874B6E90779166507325C8">
+<seccion1Titulo>La jerarquía de las operaciones</seccion1Titulo>
+<seccion1Texto>
+<p>En matemáticas, a las expresiones que están constituidas por adiciones,
+sustracciones, multiplicaciones y divisiones se les denomina <negrita
+>polinomios aritméticos</negrita> y para resolverlos es necesario
+identificar la jerarquización de las operaciones, es decir, reconocer
+el orden en el que se deben realizar las adiciones, sustracciones,
+multiplicaciones y divisiones.</p>
+<recuerda><recuerdaTexto>
+<p>La palabra <negrita>jerarquía </negrita>significa disponer una
+serie de elementos en grados sucesivos que pueden ser ascendentes
+o descendentes y jerarquizar es determinar la organización de unas
+categorías siguiendo un orden de importancia o una secuencia.</p>
+</recuerdaTexto></recuerda>
+<imagen src="MA_07_02_CO_IMG08_zoom.jpg">
+<p>La clave para resolver un polinomio es pensar y operar según el
+orden de las operaciones.</p>
+</imagen>
+<p>Al resolver polinomios aritméticos existen dos opciones:</p>
+<listaSinNumerar>
+<listaElemento>Que el polinomio<negrita> tenga signos de agrupación</negrita
+>, en cuyo caso el proceso de resolución es:<listaNumerada>
+<listaElemento>Resolver las operaciones de acuerdo con los <negrita
+>signos de agrupación</negrita>: primero se resuelven los <negrita
+>paréntesis ( )</negrita>, luego los <negrita>corchetes [ ]</negrita
+> y por último las<negrita> llaves { }</negrita>.</listaElemento>
+<listaElemento>Efectuar las <negrita>multiplicaciones y divisiones</negrita
+> en orden de aparición de izquierda a derecha.</listaElemento>
+<listaElemento>Realizar las<negrita> adiciones y sustracciones </negrita
+>de izquierda a derecha.</listaElemento>
+</listaNumerada></listaElemento>
+</listaSinNumerar>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Ejemplo</negrita></td>
+<td><negrita>Proceso</negrita></td>
+</tr>
+<tr>
+<td><formula src="MA_07_02_116.gif"></formula></td>
+<td>De izquierda a derecha se hacen las operaciones de los paréntesis:
+2 ‒ 6 = <negrita>‒4</negrita><br/> 8 ‒ 4 = <negrita>4</negrita> <br
+/>2 + 10 = <negrita>12</negrita></td>
+</tr>
+<tr>
+<td><formula src="MA_07_02_117.gif"></formula></td>
+<td>Se ubican los resultados en el lugar correspondiente.</td>
+</tr>
+<tr>
+<td><formula src="MA_07_02_118.gif"></formula></td>
+<td>De izquierda a derecha se hacen las operaciones de los corchetes:
+ 3 ‒ 20 = <negrita>‒17</negrita></td>
+</tr>
+<tr>
+<td><formula src="MA_07_02_119.gif"></formula></td>
+<td>Se ubica el resultado de la operación en el lugar correspondiente.</td>
+</tr>
+<tr>
+<td><negrita>68 ‒ 4 =</negrita></td>
+<td>Se efectúan las multiplicaciones y divisiones en orden de aparición
+de izquierda a derecha y se escriben los resultados: <formula
+src="MA_07_02_120.gif"></formula> 12 ÷ 3 = <negrita>4</negrita></td>
+</tr>
+<tr>
+<td><negrita>64</negrita></td>
+<td>Se calcula y escribe el resultado de la última operación: 68 ‒
+4 = <negrita>64</negrita></td>
+</tr>
+</tbody>
+</table>
+<listaSinNumerar>
+<listaElemento>Que el polinomio <negrita>no tenga signos de agrupación</negrita
+>, en cuyo caso el proceso de resolución es:<listaNumerada>
+<listaElemento>Hacer las <negrita>multiplicaciones y divisiones</negrita
+> en orden de aparición de izquierda a derecha.</listaElemento>
+<listaElemento>Efectuar las <negrita>adiciones y sustracciones</negrita
+> de izquierda a derecha.</listaElemento>
+</listaNumerada></listaElemento>
+</listaSinNumerar>
+<table border="1" cellspacing="0"><colgroup align="center"><col/><col/>
+</colgroup>
+<tbody>
+<tr>
+<td><negrita>Ejemplo</negrita></td>
+<td><negrita>Proceso</negrita></td>
+</tr>
+<tr>
+<td><formula src="MA_07_02_121.gif"></formula></td>
+<td>De izquierda a derecha se hacen las multiplicaciones y divisiones:<formula
+src="MA_07_02_122.gif"></formula><formula src="MA_07_02_123.gif">
+</formula>45 ÷ (‒9) = <negrita>‒5</negrita></td>
+</tr>
+<tr>
+<td><negrita>‒48</negrita> + 21 – <negrita>21</negrita> ‒ (<negrita
+>‒5</negrita>) =</td>
+<td>Se ubican los resultados en el lugar correspondiente.</td>
+</tr>
+<tr>
+<td><negrita>‒27</negrita> ‒ 21 ‒ (‒5) =</td>
+<td>De izquierda a derecha se hacen las adiciones y sustracciones:
+ ‒48 + 21 = <negrita>‒27</negrita></td>
+</tr>
+<tr>
+<td><negrita>‒48 </negrita>+ 5 =</td>
+<td>De izquierda a derecha se hacen las adiciones y sustracciones:
+ ‒27 ‒ 21 = <negrita>‒48</negrita></td>
+</tr>
+<tr>
+<td><negrita>‒43</negrita></td>
+<td>De izquierda a derecha se hacen las adiciones y sustracciones:
+ ‒48 + 5 = <negrita>‒43</negrita></td>
+</tr>
+</tbody>
+</table>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso210&amp;IdRecurso=RES-BF7D48473916496D8C78D386DA506870"
+>Polinomios aritméticos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso220&amp;IdRecurso=RES-16223D37ACD648E6A38864A4B7A71C1A
+">Operaciones combinadas con números enteros</enlace>
+</practica>
+<p>Puedes reforzar el proceso de resolución de polinomios aritméticos
+y revisar algunos ejemplos resueltos haciendo clic en el siguiente
+enlace<enlace
+destino="http://www.vadenumeros.es/tercero/ejercicios-con-parentesis.htm"
+> [VER]</enlace>.</p>
+<imagen src="MA_07_02_CO_IMG09_zoom.jpg">
+<p>Al resolver un polinomio aritmético aplica la jerarquización de
+las operaciones.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso230&amp;IdRecurso=RES-3EEE6CBD535A4AF5808AB7E8342A56DC"
+>Refuerza tu aprendizaje: reglas de los signos y jerarquía de las
+operaciones </enlace>
+</practica><seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso240&amp;IdRecurso=RES-15FF58AF76134D5C81E65E2EB6C4DF11"
+>Refuerza tu aprendizaje: jerarquía de las operaciones </enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_07_02_CO_A083C428CA414BFFBC91291DFDA79743">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Prueba tus habilidades para usar las operaciones con números enteros
+en situaciones aditivas y multiplicativas a través de los siguientes
+recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso250&amp;IdRecurso=RES-C068C315040346E3A77CC171A4B6396F
+">Competencias: resuelve ejercicios utilizando la definición de adición
+y sustracción de números enteros</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso260&amp;IdRecurso=RES-6DEADDE4BB0844AFB7C8C90642D25D3B"
+>Competencias: resuelve problemas de situaciones aditivas, en diferentes
+contextos y dominios numéricos</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso270&amp;IdRecurso=RES-D1D03681534444FD8E15FE1FA39FCECF"
+>Competencias: justifica la pertinencia de un cálculo exacto o aproximado
+en el desarrollo de un polinomio</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso280&amp;IdRecurso=RES-B35DE3EBDEE643C98222639C8B9AE826"
+>Competencias: justifica procedimientos aritméticos utilizando las
+relaciones y propiedades de las operaciones</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso290&amp;IdRecurso=RES-43AA7D4F058F44059AEF96C31B044A78"
+>Competencias: realiza razonamientos lógicos para identificar y encontrar
+información que permita resolver un problema </enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_MA_07_02_CO_2A844C81EA4C48398F3DD1BBBB103333"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso320&amp;IdRecurso=RES-858A15E73B7C42D39B25DF618CA2D4FB
+">Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_07_02_CO_Recurso330&amp;IdRecurso=RES-51646A730F0348C08DC668483BE02005
+">Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://recursostic.educacion.es/descartes/web/materiales_didacticos/enteros1/index.htm"
+>Teoría, ejemplos y actividades relacionadas con la adición y la sustracción
+de números enteros.</enlace>
+<enlace
+destino="http://www.juntadeandalucia.es/averroes/html/adjuntos/2008/02/06/0004/unopuntotres.html"
+>Explicación del proceso para restar números enteros y ejercicios
+interactivos para practicar.</enlace>
+<enlace
+destino="http://www.juntadeandalucia.es/averroes/recursos_informaticos/proyectos2004/matematicas/Tema3/SumasRestas.htm"
+>Estrategias gráficas y numéricas para comprender mejor la adición
+y la sustracción de números enteros.</enlace>
+<enlace
+destino="http://web.educastur.princast.es/ies/pravia/carpetas/recursos/mates/Descartes/1y2_eso/enteros2/index.htm"
+>Teoría, ejemplos y actividades relacionadas con la multiplicación
+y la división de números enteros.</enlace>
+</enlacesreferencia></masinformacion></libro>
