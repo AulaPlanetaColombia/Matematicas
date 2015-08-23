@@ -3,38 +3,28 @@
   <version>1.0</version>
   <objeto>
     <ref>00</ref>
-    <texto>EL CONJUNTO DE LOS NÚMEROS REALES</texto>
-    <hijos>13,12,11,10</hijos>
+    <texto>Conjuntos numéricos</texto>
+    <hijos>10</hijos>
     <padre/>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto>Se definenoperacionescomo</texto>
+    <texto/>
     <hijos>23,22,21,20</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur>00000000000000000000000000000</negcur>
+    <negcur/>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>20</ref>
-    <texto>ADICIÓN</texto>
+    <texto>Númerosreales</texto>
     <hijos>30</hijos>
-    <padre>10</padre>
-    <siz>0</siz>
-    <negcur>00000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>21</ref>
-    <texto>MULTIPLICACIÓN</texto>
-    <hijos>31</hijos>
     <padre>10</padre>
     <siz>0</siz>
     <negcur>000000000000000</negcur>
@@ -42,352 +32,382 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>22</ref>
-    <texto>POTENCIACIÓN</texto>
-    <hijos/>
+    <ref>21</ref>
+    <texto>Númerosirracionales</texto>
+    <hijos>32,31</hijos>
     <padre>10</padre>
-    <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>23</ref>
-    <texto>RADICACIÓN</texto>
-    <hijos/>
-    <padre>10</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>30</ref>
-    <texto>Sus propiedades son</texto>
-    <hijos>40</hijos>
-    <padre>20</padre>
-    <siz>14</siz>
-    <negcur>00000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>40</ref>
-    <texto>Asociativa,conmutativa,elemento neutro</texto>
-    <hijos/>
-    <padre>30</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>31</ref>
-    <texto>Sus propiedades son</texto>
-    <hijos>41</hijos>
-    <padre>21</padre>
-    <siz>14</siz>
-    <negcur>00000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>41</ref>
-    <texto>Asociativa,conmutativa,elemento neutro,distributiva respectoa la adición</texto>
-    <hijos/>
-    <padre>31</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>11</ref>
-    <texto>Se caracterizapor ser</texto>
-    <hijos>28,27,26,25,24</hijos>
-    <padre>00</padre>
-    <siz>14</siz>
-    <negcur>00000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>24</ref>
-    <texto>INFINITO</texto>
-    <hijos/>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>25</ref>
-    <texto>DENSO</texto>
-    <hijos/>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>26</ref>
-    <texto>TOTALMENTEORDENADO</texto>
-    <hijos/>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>27</ref>
-    <texto>NO ESNUMERABLE</texto>
-    <hijos/>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>28</ref>
-    <texto>NO POSEEPRIMERELEMENTO</texto>
-    <hijos/>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>12</ref>
-    <texto>Se defineel ordencomo</texto>
-    <hijos>2B,2A,29</hijos>
-    <padre>00</padre>
-    <siz>14</siz>
-    <negcur>0000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>29</ref>
-    <texto>a=b IGUAL A</texto>
-    <hijos/>
-    <padre>12</padre>
-    <siz>0</siz>
-    <negcur>000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>2A</ref>
-    <texto>a&gt;b MAYOR QUE</texto>
-    <hijos/>
-    <padre>12</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>2B</ref>
-    <texto>a&lt;b MENOR QUE</texto>
-    <hijos/>
-    <padre>12</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>13</ref>
-    <texto>Estaformado por</texto>
-    <hijos>2D,2C</hijos>
-    <padre>00</padre>
-    <siz>14</siz>
-    <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>2C</ref>
-    <texto>NÚMEROSIRRACIONALES</texto>
-    <hijos>33,32</hijos>
-    <padre>13</padre>
     <siz>0</siz>
     <negcur>000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>2D</ref>
-    <texto>NÚMEROSRACIONALES</texto>
-    <hijos>34</hijos>
-    <padre>13</padre>
+    <ref>22</ref>
+    <texto>Operaciones con losnúmeros racionales</texto>
+    <hijos>34,33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>23</ref>
+    <texto>Númerosracionales</texto>
+    <hijos>35</hijos>
+    <padre>10</padre>
     <siz>0</siz>
     <negcur>0000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>32</ref>
-    <texto>Se clasifican en</texto>
-    <hijos>44,42</hijos>
-    <padre>2C</padre>
+    <ref>30</ref>
+    <texto>se define como</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
     <siz>14</siz>
-    <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>42</ref>
-    <texto>NO ALGEBRAICOS</texto>
-    <hijos/>
-    <padre>32</padre>
-    <siz>0</siz>
     <negcur>000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>33</ref>
-    <texto>Son</texto>
-    <hijos>43</hijos>
-    <padre>2C</padre>
-    <siz>14</siz>
-    <negcur>0000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>43</ref>
-    <texto>DECIMALESINFINITOSNO PERIÓDICOS</texto>
-    <hijos/>
-    <padre>33</padre>
+    <ref>40</ref>
+    <texto>el conjunto formadopor  los númerosracionales y losirracionales</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000</negcur>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>44</ref>
-    <texto>ALGEBRAICOS</texto>
-    <hijos/>
-    <padre>32</padre>
+    <ref>50</ref>
+    <texto>se definen</texto>
+    <hijos>61,60</hijos>
+    <padre>40</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>relaciones</texto>
+    <hijos>70</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>operaciones</texto>
+    <hijos>71</hijos>
+    <padre>50</padre>
     <siz>0</siz>
     <negcur>000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>34</ref>
-    <texto>Pueden ser</texto>
-    <hijos>46,45</hijos>
-    <padre>2D</padre>
+    <ref>70</ref>
+    <texto>se establecen</texto>
+    <hijos>80</hijos>
+    <padre>60</padre>
     <siz>14</siz>
-    <negcur>00000000000</negcur>
+    <negcur>00000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>45</ref>
-    <texto>DECIMALES</texto>
-    <hijos>50</hijos>
-    <padre>34</padre>
+    <ref>80</ref>
+    <texto>- relaciones de  orden- relaciones de  igualdad- relaciones de  desigualdad</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>se resuelven</texto>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>14</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>- adiciones- sustracciones- multiplicaciones- divisiones- potencias- notación  científica</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>se establecen</texto>
+    <hijos>41</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>procesos deaproximación</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>son</texto>
+    <hijos>42</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>números decimalesinfinitos no periódicos</texto>
+    <hijos>52</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>como</texto>
+    <hijos>62</hijos>
+    <padre>41</padre>
+    <siz>14</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>- aproximación- truncamiento- encajonamiento</texto>
+    <hijos/>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>se caracteriza por</texto>
+    <hijos>64,63</hijos>
+    <padre>42</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>no poderexpresarseen forma defracción</texto>
+    <hijos/>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>estarordenados yrepresentarseen la rectanumérica</texto>
+    <hijos/>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>tienen</texto>
+    <hijos>43</hijos>
+    <padre>22</padre>
+    <siz>14</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>jerarquía</texto>
+    <hijos>53</hijos>
+    <padre>33</padre>
     <siz>0</siz>
     <negcur>0000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>46</ref>
-    <texto>FRACCIONES</texto>
-    <hijos>51</hijos>
+    <ref>34</ref>
+    <texto>son</texto>
+    <hijos>44</hijos>
+    <padre>22</padre>
+    <siz>14</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>AdiciónSustracciónMultiplicaciónDivisiónPotenciación</texto>
+    <hijos/>
     <padre>34</padre>
     <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>se aplica así</texto>
+    <hijos>65</hijos>
+    <padre>43</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>se opera de izquierda aderecha: - realizar operaciones  entre paréntesis y  corchetes - resolver potencias y  raíces - realizar lasmultiplicaciones y  divisiones- efectuar las adiciones y sustracciones</texto>
+    <hijos/>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>35</ref>
+    <texto>se caracterizan porque</texto>
+    <hijos>46,45</hijos>
+    <padre>23</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>estánordenados y serepresentanen la rectanumérica</texto>
+    <hijos>54</hijos>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>puedenexpresarse enforma de fracciónde númerosenteros y serepresentan porsímbolo Q</texto>
+    <hijos/>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>pueden ser</texto>
+    <hijos>67,66</hijos>
+    <padre>45</padre>
+    <siz>14</siz>
     <negcur>00000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>50</ref>
-    <texto/>
-    <hijos>62,61,60</hijos>
-    <padre>45</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>60</ref>
-    <texto>INFINITOSPERIÓDICOSMIXTOS</texto>
-    <hijos/>
-    <padre>50</padre>
+    <ref>66</ref>
+    <texto>númerosfraccionarios</texto>
+    <hijos>72</hijos>
+    <padre>54</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000</negcur>
+    <negcur>0000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>61</ref>
-    <texto>INFINITOSPERIÓDICOS</texto>
+    <ref>72</ref>
+    <texto>pueden expresarsecomo</texto>
+    <hijos>82</hijos>
+    <padre>66</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>fracciones de númerosenteros (a/b)</texto>
+    <hijos>90</hijos>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>y susequivalentes en</texto>
+    <hijos>a1,a0</hijos>
+    <padre>82</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>decimalesperiódicos</texto>
     <hijos/>
-    <padre>50</padre>
+    <padre>90</padre>
     <siz>0</siz>
     <negcur>000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>62</ref>
-    <texto>FINITOS</texto>
+    <ref>a1</ref>
+    <texto>decimalesfinitos</texto>
     <hijos/>
-    <padre>50</padre>
+    <padre>90</padre>
     <siz>0</siz>
-    <negcur>00000000</negcur>
+    <negcur>000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>51</ref>
-    <texto/>
-    <hijos>65,64,63</hijos>
-    <padre>46</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>63</ref>
-    <texto>NÚMEROMIXTO</texto>
+    <ref>67</ref>
+    <texto>númerosenteros</texto>
     <hijos/>
-    <padre>51</padre>
+    <padre>54</padre>
     <siz>0</siz>
-    <negcur>0000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>64</ref>
-    <texto>IMPROPIAS</texto>
-    <hijos/>
-    <padre>51</padre>
-    <siz>0</siz>
-    <negcur>0000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>65</ref>
-    <texto>PROPIAS</texto>
-    <hijos/>
-    <padre>51</padre>
-    <siz>0</siz>
-    <negcur>00000000</negcur>
+    <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
