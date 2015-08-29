@@ -1,0 +1,454 @@
+<mapa>
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <objeto>
+    <ref>00</ref>
+    <texto>Los números complejos</texto>
+    <hijos>12,11,10</hijos>
+    <padre/>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto>se definen</texto>
+    <hijos>20</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Operaciones</texto>
+    <hijos>30</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>11</ref>
+    <texto>se construye</texto>
+    <hijos>21</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>El conjunto de losnúmeros complejos</texto>
+    <hijos>32,31</hijos>
+    <padre>11</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>12</ref>
+    <texto>se identifican</texto>
+    <hijos>22</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>22</ref>
+    <texto>Los númerosimaginarios</texto>
+    <hijos>33</hijos>
+    <padre>12</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>tales como</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>- adición- sustracción- Multiplicación- división</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>cumplen con</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>las propiedades:- clausurativa- conmutativa- asociativa- modulativa</texto>
+    <hijos>70</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>se definen</texto>
+    <hijos>81,80</hijos>
+    <padre>60</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>Inversomultiplicativo</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>Inversoaditivo</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>se establecen</texto>
+    <hijos>43,42,41</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>el modulo</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>el conjugado</texto>
+    <hijos>52</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>relación deigualdad</texto>
+    <hijos>53</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>se define</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>14</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto/>
+    <hijos/>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>MA_09_03_CO_FORM_1.gif</img>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>se representa</texto>
+    <hijos>62</hijos>
+    <padre>42</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto/>
+    <hijos/>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>MA_09_03_CO_FORM_2.gif</img>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>se define</texto>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>14</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>a + bi = c + di si y solo si  a = c y b = d</texto>
+    <hijos/>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>1100110001000111000000000000000010001100100110</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>se representan</texto>
+    <hijos>45,44</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>44</ref>
+    <texto>en formacartesiana</texto>
+    <hijos>54</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>En formabinomial</texto>
+    <hijos>55</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>54</ref>
+    <texto>indica</texto>
+    <hijos>64</hijos>
+    <padre>44</padre>
+    <siz>14</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>la escritura depareja ordenadas a + bi = (a, b)</texto>
+    <hijos>71</hijos>
+    <padre>54</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000001000110000100100</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>que corresponde a</texto>
+    <hijos>82</hijos>
+    <padre>64</padre>
+    <siz>14</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>la representación enel plano complejo</texto>
+    <hijos>90</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>en el que se define</texto>
+    <hijos>a0</hijos>
+    <padre>82</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>la norma de unnúmero complejo</texto>
+    <hijos>b0</hijos>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>b0</ref>
+    <texto>que significa</texto>
+    <hijos>c0</hijos>
+    <padre>a0</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c0</ref>
+    <texto>la distancia del punto que representaal número complejo hasta el punto (0, 0)</texto>
+    <hijos/>
+    <padre>b0</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>corresponde a</texto>
+    <hijos>65</hijos>
+    <padre>45</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>la escritura de laforma a + bi</texto>
+    <hijos/>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000001000110</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>son</texto>
+    <hijos>46</hijos>
+    <padre>22</padre>
+    <siz>14</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>números con loscuales se puederesolverecuaciones queno tienensolución en losreales, talescomo  x2 + 4 = 0</texto>
+    <hijos>56</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>se representan</texto>
+    <hijos>66</hijos>
+    <padre>46</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>con la letra i</texto>
+    <hijos>72</hijos>
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>000000000000010</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>cumplen que</texto>
+    <hijos>83</hijos>
+    <padre>66</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto/>
+    <hijos>91</hijos>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>Imagen1.gif</img>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>se establecen</texto>
+    <hijos>a1</hijos>
+    <padre>83</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>las reglas de laspotencias de i</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000010</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+</mapa>
