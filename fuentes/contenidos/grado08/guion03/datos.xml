@@ -1,0 +1,84 @@
+<mapa>
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <objeto>
+    <ref>00</ref>
+    <texto>Identidades notables</texto>
+    <hijos>10</hijos>
+    <padre/>
+    <siz>0</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto>se clasifican en</texto>
+    <hijos>21,20</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Cocientesnotables</texto>
+    <hijos>30</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Productosnotables</texto>
+    <hijos/>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>son</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>0</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>cocientes especiales  quepresentan regularidades quepueden generalizarse</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>se reconocen</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto/>
+    <hijos/>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+</mapa>
