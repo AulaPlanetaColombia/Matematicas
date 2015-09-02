@@ -34,7 +34,7 @@
   <objeto>
     <ref>21</ref>
     <texto>Productosnotables</texto>
-    <hijos/>
+    <hijos>32,31</hijos>
     <padre>10</padre>
     <siz>0</siz>
     <negcur>0000000000000000000</negcur>
@@ -46,7 +46,7 @@
     <texto>son</texto>
     <hijos>40</hijos>
     <padre>20</padre>
-    <siz>0</siz>
+    <siz>14</siz>
     <negcur>0000</negcur>
     <cen>1</cen>
     <img/>
@@ -64,9 +64,9 @@
   <objeto>
     <ref>50</ref>
     <texto>se reconocen</texto>
-    <hijos>60</hijos>
+    <hijos>62,61,60</hijos>
     <padre>40</padre>
-    <siz>0</siz>
+    <siz>14</siz>
     <negcur>0000000000000</negcur>
     <cen>1</cen>
     <img/>
@@ -74,11 +74,351 @@
   <objeto>
     <ref>60</ref>
     <texto/>
-    <hijos/>
+    <hijos>70</hijos>
     <padre>50</padre>
     <siz>0</siz>
     <negcur/>
     <cen>1</cen>
+    <img>mc_1.gif</img>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto/>
+    <hijos>71</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>mc_2.gif</img>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto/>
+    <hijos>72</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>mc_3.gif</img>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto/>
+    <hijos>80</hijos>
+    <padre>60</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
     <img/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>solo secumple sin es unnúmeroimpar</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000100000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto/>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>se cumple sin es unnúmero par.</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>000000000000010000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto/>
+    <hijos>82</hijos>
+    <padre>62</padre>
+    <siz>14</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>se cumplepara cualquierenteropositivo n.</texto>
+    <hijos/>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000100</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>se establece</texto>
+    <hijos>41</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>el teoremadel binomio</texto>
+    <hijos>51</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>son</texto>
+    <hijos>42</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>multiplicaciones especialesque permiten generalizar susresultados</texto>
+    <hijos>52</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>generaliza</texto>
+    <hijos>63</hijos>
+    <padre>41</padre>
+    <siz>14</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>la expansión de</texto>
+    <hijos>73</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img>mc_4.gif</img>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>se desarrolla usando</texto>
+    <hijos>83</hijos>
+    <padre>63</padre>
+    <siz>14</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>el triángulode Pascal</texto>
+    <hijos>90</hijos>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>algunas características son</texto>
+    <hijos>a0</hijos>
+    <padre>83</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>- cada término es la  suma  de los dos  términos de la fila  anterior.- si es la potencia de  una suma todos los  signos son  positivos- si es la potencia de  una diferencia los  signos van  intercalados</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>corresponden a</texto>
+    <hijos>68,67,66,65,64</hijos>
+    <padre>42</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>cuadrado deun trinomio</texto>
+    <hijos>74</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>producto dedos binomios con un términocomún</texto>
+    <hijos>75</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>el cubo deun binomio</texto>
+    <hijos>76</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>67</ref>
+    <texto>producto dela suma porla diferencia</texto>
+    <hijos>77</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>68</ref>
+    <texto>cuadrado deun binomio</texto>
+    <hijos>78</hijos>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>se expresa como</texto>
+    <hijos>84</hijos>
+    <padre>64</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto/>
+    <hijos/>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>mc_5.gif</img>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto>por ejemplo</texto>
+    <hijos>85</hijos>
+    <padre>65</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto/>
+    <hijos/>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>mc_6.gif</img>
+  </objeto>
+  <objeto>
+    <ref>76</ref>
+    <texto>se desarrolla</texto>
+    <hijos>86</hijos>
+    <padre>66</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto/>
+    <hijos/>
+    <padre>76</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>mc_7.gif</img>
+  </objeto>
+  <objeto>
+    <ref>77</ref>
+    <texto>por ejemplo</texto>
+    <hijos>87</hijos>
+    <padre>67</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>87</ref>
+    <texto/>
+    <hijos/>
+    <padre>77</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>mc_8.gif</img>
+  </objeto>
+  <objeto>
+    <ref>78</ref>
+    <texto>su generalización es</texto>
+    <hijos>88</hijos>
+    <padre>68</padre>
+    <siz>14</siz>
+    <negcur>000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>88</ref>
+    <texto/>
+    <hijos/>
+    <padre>78</padre>
+    <siz>0</siz>
+    <negcur/>
+    <cen>1</cen>
+    <img>mc_9.gif</img>
   </objeto>
 </mapa>
