@@ -3,7 +3,7 @@
   <version>1.0</version>
   <objeto>
     <ref>00</ref>
-    <texto>los números enteros</texto>
+    <texto>Los números enteros</texto>
     <hijos>10</hijos>
     <padre/>
     <siz>0</siz>
@@ -43,11 +43,11 @@
   </objeto>
   <objeto>
     <ref>22</ref>
-    <texto>Valor absoluto</texto>
+    <texto>Valor absoluto</texto>
     <hijos>32</hijos>
     <padre>10</padre>
     <siz>0</siz>
-    <negcur>000000000000000</negcur>
+    <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
@@ -92,18 +92,8 @@
     <img/>
   </objeto>
   <objeto>
-    <ref>41</ref>
-    <texto>las matemáticas</texto>
-    <hijos>51</hijos>
-    <padre>30</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
     <ref>50</ref>
-    <texto>para representar</texto>
+    <texto>pararepresentar</texto>
     <hijos>60</hijos>
     <padre>40</padre>
     <siz>14</siz>
@@ -113,7 +103,7 @@
   </objeto>
   <objeto>
     <ref>60</ref>
-    <texto>situaciones deaumento,disminución,desplazamientos,variaciones,entre otras</texto>
+    <texto>situacionesde aumento,disminución,desplazamientos,variaciones,entre otras</texto>
     <hijos/>
     <padre>50</padre>
     <siz>0</siz>
@@ -122,8 +112,18 @@
     <img/>
   </objeto>
   <objeto>
+    <ref>41</ref>
+    <texto>lasmatemáticas</texto>
+    <hijos>51</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
     <ref>51</ref>
-    <texto>permite identificar</texto>
+    <texto>permiteidentificar</texto>
     <hijos>61</hijos>
     <padre>41</padre>
     <siz>14</siz>
@@ -183,7 +183,7 @@
   </objeto>
   <objeto>
     <ref>62</ref>
-    <texto>en la recta numéricael número enteroque esté más a laderecha de otro seráel mayor</texto>
+    <texto>en la rectanuméricael númeroenteroque estémás a laderechade otroseráel mayor</texto>
     <hijos/>
     <padre>52</padre>
     <siz>0</siz>
@@ -203,7 +203,7 @@
   </objeto>
   <objeto>
     <ref>63</ref>
-    <texto>en la recta numérica elnúmero entero queesté más a la izquierdade otro será el menor</texto>
+    <texto>en la rectanuméricael númeroenteroque estémás a laizquierdade otro seráel menor</texto>
     <hijos/>
     <padre>53</padre>
     <siz>0</siz>
@@ -223,7 +223,7 @@
   </objeto>
   <objeto>
     <ref>44</ref>
-    <texto>la distancia quehay entre elnúmero entero yel cero en la rectanumérica</texto>
+    <texto>la distanciaque hay entreel númeroenteroy el ceroen la rectanumérica</texto>
     <hijos>54</hijos>
     <padre>32</padre>
     <siz>0</siz>
@@ -233,7 +233,7 @@
   </objeto>
   <objeto>
     <ref>54</ref>
-    <texto>por su definición</texto>
+    <texto>por sudefinición</texto>
     <hijos>64</hijos>
     <padre>44</padre>
     <siz>14</siz>
@@ -243,7 +243,7 @@
   </objeto>
   <objeto>
     <ref>64</ref>
-    <texto>representa unvalor positivo</texto>
+    <texto>representaun valorpositivo</texto>
     <hijos/>
     <padre>54</padre>
     <siz>0</siz>
@@ -263,7 +263,7 @@
   </objeto>
   <objeto>
     <ref>45</ref>
-    <texto>los númerosnaturales, susopuestos y el cero</texto>
+    <texto>los númerosnaturales,sus opuestosy el cero</texto>
     <hijos>55</hijos>
     <padre>33</padre>
     <siz>0</siz>
@@ -303,7 +303,7 @@
   </objeto>
   <objeto>
     <ref>80</ref>
-    <texto>en una recta numéricatomando comoreferencia el número0, a la derecha seubican los positivos ya la izquierda lospositivos</texto>
+    <texto>en unarecta numéricatomando comoreferenciael número 0,a la derechase ubicanlos positivosy a la izquierdalos negativos</texto>
     <hijos/>
     <padre>70</padre>
     <siz>0</siz>
@@ -323,7 +323,7 @@
   </objeto>
   <objeto>
     <ref>46</ref>
-    <texto>por la ubicación de unpunto de referencia</texto>
+    <texto>por la ubicaciónde un puntode referencia</texto>
     <hijos>56</hijos>
     <padre>34</padre>
     <siz>0</siz>
@@ -333,7 +333,7 @@
   </objeto>
   <objeto>
     <ref>56</ref>
-    <texto>sintetizan el uso de</texto>
+    <texto>sintetizanel uso de</texto>
     <hijos>66</hijos>
     <padre>46</padre>
     <siz>14</siz>
@@ -343,7 +343,7 @@
   </objeto>
   <objeto>
     <ref>66</ref>
-    <texto>expresiones como antes,después, por encima, pordebajo, más, menos,ganancias, perdidas,entre otras</texto>
+    <texto>expresiones comoantes, después,por encima,por debajo,más, menos,ganancias,perdidas,entre otras</texto>
     <hijos>71</hijos>
     <padre>56</padre>
     <siz>0</siz>
@@ -363,7 +363,7 @@
   </objeto>
   <objeto>
     <ref>81</ref>
-    <texto>utilizando númerosnaturales precedidosdel signo más (+) o delsigno menos (‒)</texto>
+    <texto>utilizandonúmerosnaturalesprecedidosdel signomás (+)o del signomenos (‒)</texto>
     <hijos/>
     <padre>71</padre>
     <siz>0</siz>
