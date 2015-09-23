@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f1">
+<css></css>
+<pantallas>
+<pantalla id="pantalla_5">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compImage' id='image_12' x='98' y='152' width='450' height='320' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='16' image='data/imagenes/stock_photo_man_drawing_on_white_wall_and_smiling_back_view_of_man_looking_at_camera_and_holdig_marker_254277727.jpg' />
+<component _type='_compRoundButton' id='roundbutton_17' x='569' y='288' width='198' height='58' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[Construye una recta numérica]]></content>
+<event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",1)]]></event>
+</component>
+<component _type='_compRoundButton' id='roundbutton_117' x='466' y='477' width='180' height='40' alpha='1' visible='1' enabled='1' cssClass='roundTextButton' group='-1'>
+<content><![CDATA[Actividad]]></content>
+<event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",2)]]></event>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_18">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_33' x='3' y='0' width='951' height='609' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_38' x='42' y='505' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_33' showHome='1' whiteButtons='0' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_33">
+<pantalla id="pantalla_41">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='308' y='160' width='333' height='65' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align: center;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Traza una l&iacute;nea recta horizontal.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_45">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_64' x='3' y='2' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img01.png' />
+<component _type='_compRichText' id='texto_22' x='308' y='160' width='333' height='65' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align: center;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Traza una l&iacute;nea recta horizontal.</span></span></p>
+]]></content>
+</component>
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+</components>
+<animaciones>
+<anim id='Entrada'><![CDATA[{}]]></anim>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_58">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_64' x='0' y='2' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img01.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='179' y='161' width='593' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Agrega puntas de flecha en los extremos de la l&iacute;nea.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_66">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_65' x='10' y='7' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img02.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='179' y='161' width='593' height='85' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Agrega puntas de flecha en los extremos de la l&iacute;nea.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_71">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_65' x='10' y='7' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img02.png' />
+<component _type='_compRichText' id='texto_22' x='170' y='164' width='610' height='103' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Ubica el punto que se asocia al n&uacute;mero 0, y a su izquierda coloca marcaciones equidistantes.</span></span></p>
+]]></content>
+</component>
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_75">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_110' x='7' y='5' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img03.png' />
+<component _type='_compRichText' id='texto_22' x='170' y='164' width='610' height='103' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Ubica el punto que se asocia al n&uacute;mero 0, y a su izquierda coloca marcaciones equidistantes.</span></span></p>
+]]></content>
+</component>
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_79">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_70' x='8' y='9' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img03.png' />
+<component _type='_compRichText' id='texto_22' x='170' y='164' width='610' height='103' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align: center;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Realiza el mismo procedimiento a la derecha de cero.</span></span></p>
+]]></content>
+</component>
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_87">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_91' x='6' y='9' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img04.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='170' y='164' width='610' height='103' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align: center;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Realiza el mismo procedimiento a la derecha de cero.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_92">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_91' x='12' y='7' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img04.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='121' y='116' width='709' height='151' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Asigna a cada marcaci&oacute;n, hecha sobre la l&iacute;nea a la izquierda de cero, un n&uacute;mero entero negativo siguiendo la secuencia decreciente: &ndash;1, &ndash;2, &ndash;3, y as&iacute; sucesivamente.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_96">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_100' x='6' y='6' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img05.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='121' y='116' width='709' height='151' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Asigna a cada marcaci&oacute;n, hecha sobre la l&iacute;nea a la izquierda de cero, un n&uacute;mero entero negativo siguiendo la secuencia decreciente: &ndash;1, &ndash;2, &ndash;3, y as&iacute; sucesivamente.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_101">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_100' x='6' y='6' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img05.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='121' y='116' width='709' height='151' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Un procedimiento similar se sigue para ubicar los n&uacute;meros enteros positivos a la derecha de cero, siguiendo una secuencia creciente: 1, 2, 3, y as&iacute; sucesivamente.</span></span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+<pantalla id="pantalla_105">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_109' x='10' y='9' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img06.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='121' y='116' width='709' height='151' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p style="text-align:center"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Un procedimiento similar se sigue para ubicar los n&uacute;meros enteros positivos a la derecha de cero, siguiendo una secuencia creciente: 1, 2, 3, y as&iacute; sucesivamente.</span></span></p>
+]]></content>
+</component>
+<component _type='_compIconButton' id='iconbutton_24' x='860' y='45' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+<pantalla id="pantalla_25">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compSlider' id='diaporama_35' x='-2' y='-5' width='953' height='615' alpha='1' visible='1' enabled='1' transMode='1' />
+<component _type='_compSliderNav' id='slidernav_39' x='43' y='516' width='162' height='37' alpha='1' visible='1' enabled='1' sliderId='diaporama_35' showHome='1' whiteButtons='0' mode='1' />
+</components>
+<animaciones>
+</animaciones>
+<slider id="diaporama_35">
+<pantalla id="pantalla_111">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compRichText' id='texto_115' x='136' y='226' width='681' height='270' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<ul>
+	<li style="text-align: justify;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">En tu cuaderno, construye una recta num&eacute;rica y en ella indica 10 marcaciones. </span></span></li>
+	<li style="text-align: justify;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Nombra cada marcaci&oacute;n con una letra, desde la A hasta la J. </span></span></li>
+	<li style="text-align: justify;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Reemplaza cada letra con un n&uacute;mero entero suponiendo que la letra D es el punto de referencia. </span></span></li>
+	<li style="text-align: justify;"><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px">Luego, repite el ejercicio, suponiendo que el punto de referencia es H.</span></span></li>
+</ul>
+]]></content>
+</component>
+<component _type='_compRichText' id='texto_116' x='115.5' y='130' width='300' height='300' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-family:verdana,geneva,sans-serif"><span style="font-size:20px"><span style="font-size:22px"><strong>Actividad</strong></span></span></span></p>
+]]></content>
+</component>
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compIconButton' id='iconbutton_24' x='859' y='43' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</slider>
+</pantalla>
+<pantalla id="pantalla_29">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compImage' id='image_24' x='13' y='48' width='950' height='608' alpha='1' visible='1' enabled='1' cssClass='' adjustMode='1' alignMode='0' image='data/imagenes/ma_07_01_rec30_img01.png' />
+<component _type='_compSimpleText' id='texto_10' x='155' y='36' width='640' height='35' alpha='1' visible='1' enabled='1' cssClass='defaultSimpleText' alignMode='17' >
+<content><![CDATA[Los números enteros en la recta numérica]]></content>
+</component>
+<component _type='_compRichText' id='texto_22' x='308' y='160' width='333' height='65' alpha='1' visible='1' enabled='1' scrollable='1' >
+<content><![CDATA[<p><span style="font-size:20px">Traza una l&iacute;nea recta horizontal.</span></p>
+]]></content>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</pantallas>
+<popups>
+<pantalla id="pantalla_119">
+<event id='onPrepare' language='DO'><![CDATA[]]></event>
+<event id='onShown' language='DO'><![CDATA[]]></event>
+<components>
+<component _type='_compIconButton' id='iconbutton_151' x='88' y='464' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconPrevButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",0)]]></event>
+</component>
+<component _type='_compIconButton' id='iconbutton_63' x='138' y='464' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconNextButton' group='-1'><event id='onClick' language='DO'><![CDATA[uiobject_set(rootSlider,"current",1)]]></event>
+</component>
+<component _type='_compIconButton' id='iconbutton_24' x='853' y='64' width='37' height='37' alpha='1' visible='1' enabled='1' cssClass='iconCloseButton' group='-1'><event id='onClick' language='DO'><![CDATA[popup_close()]]></event>
+</component>
+</components>
+<animaciones>
+</animaciones>
+</pantalla>
+</popups>
+</engine>
