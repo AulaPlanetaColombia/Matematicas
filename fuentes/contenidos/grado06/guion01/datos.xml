@@ -1,0 +1,504 @@
+<mapa>
+  <copyright>(c) Editorial Planeta</copyright>
+  <version>1.0</version>
+  <objeto>
+    <ref>00</ref>
+    <texto>Lógica y conjuntos</texto>
+    <hijos>11,10</hijos>
+    <padre/>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>10</ref>
+    <texto>utilizan</texto>
+    <hijos>20</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>20</ref>
+    <texto>Conectivoslógicos</texto>
+    <hijos>31,30</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>11</ref>
+    <texto>se definen</texto>
+    <hijos>21</hijos>
+    <padre>00</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Proposiciones</texto>
+    <hijos>32</hijos>
+    <padre>11</padre>
+    <siz>0</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>permiten</texto>
+    <hijos>40</hijos>
+    <padre>20</padre>
+    <siz>14</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>construir tablas de verdad</texto>
+    <hijos/>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>son</texto>
+    <hijos>41</hijos>
+    <padre>20</padre>
+    <siz>14</siz>
+    <negcur>0000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>expresiones que conectanlas proposiciones compuestas</texto>
+    <hijos>50</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>se identifican</texto>
+    <hijos>63,62,61,60</hijos>
+    <padre>41</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>equivalencia(&lt;--&gt;)</texto>
+    <hijos>70</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>implicación ocondicional(--&gt;)</texto>
+    <hijos>71</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>la disyunción(v)</texto>
+    <hijos>72</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>la conjunción(^)</texto>
+    <hijos>73</hijos>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>es</texto>
+    <hijos>80</hijos>
+    <padre>60</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>se establececuando elconectivológico es “si ysolo si” paraunir dosproposicionessimples</texto>
+    <hijos>90</hijos>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000022222222222200000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>90</ref>
+    <texto>se considera</texto>
+    <hijos>a0</hijos>
+    <padre>80</padre>
+    <siz>14</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a0</ref>
+    <texto>verdadera solo siambasproposiciones sonverdaderas oambas son falsas</texto>
+    <hijos/>
+    <padre>90</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>se determina</texto>
+    <hijos>81</hijos>
+    <padre>61</padre>
+    <siz>14</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>cuando se utilizael conectivo lógico“si…entonces”entre dosproposicionessimples</texto>
+    <hijos>91</hijos>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000222222222220000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>91</ref>
+    <texto>solo</texto>
+    <hijos>a1</hijos>
+    <padre>81</padre>
+    <siz>14</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a1</ref>
+    <texto>es falsa si laprimeraproposición esverdadera y lasegunda es falsa</texto>
+    <hijos/>
+    <padre>91</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>72</ref>
+    <texto>es</texto>
+    <hijos>82</hijos>
+    <padre>62</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>82</ref>
+    <texto>una operaciónlógica que usael conectivo “o”para unir dosproposicionessimples</texto>
+    <hijos>92</hijos>
+    <padre>72</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000200000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>92</ref>
+    <texto>se considera</texto>
+    <hijos>a2</hijos>
+    <padre>82</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a2</ref>
+    <texto>falsa si las dosproposicionesque forman ladisyuncióntambién lo son</texto>
+    <hijos>b0</hijos>
+    <padre>92</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>b0</ref>
+    <texto>se utiliza</texto>
+    <hijos>c0</hijos>
+    <padre>a2</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c0</ref>
+    <texto>en la definiciónde la unión dedos conjuntos porcomprensión</texto>
+    <hijos/>
+    <padre>b0</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000222222220000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>73</ref>
+    <texto>es</texto>
+    <hijos>83</hijos>
+    <padre>63</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>83</ref>
+    <texto>una operaciónlógica que usael conectivo “y”para unir dosproposicionessimples</texto>
+    <hijos>93</hijos>
+    <padre>73</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000200000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>93</ref>
+    <texto>solo</texto>
+    <hijos>a3</hijos>
+    <padre>83</padre>
+    <siz>14</siz>
+    <negcur>00000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a3</ref>
+    <texto>es verdadera si lasdos proposicionesque forman laconjuncióntambién lo son</texto>
+    <hijos>b1</hijos>
+    <padre>93</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>b1</ref>
+    <texto>se utiliza</texto>
+    <hijos>c1</hijos>
+    <padre>a3</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>c1</ref>
+    <texto>para definir porcomprensiónoperaciones como:la intersección yla diferencia dedos conjuntos</texto>
+    <hijos/>
+    <padre>b1</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000002222222222222222222222222222222000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>que corresponden a</texto>
+    <hijos>42</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>afirmaciones de lascuales se puede decirsi son verdaderas ofalsas</texto>
+    <hijos>51</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>pueden ser</texto>
+    <hijos>66,65,64</hijos>
+    <padre>42</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>negaciones</texto>
+    <hijos>74</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>compuestas</texto>
+    <hijos>75</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>simples</texto>
+    <hijos>76</hijos>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>74</ref>
+    <texto>corresponden a</texto>
+    <hijos>84</hijos>
+    <padre>64</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>84</ref>
+    <texto>proposicionesque cambianel valor deverdad deproposicionessimples ocompuestas</texto>
+    <hijos>94</hijos>
+    <padre>74</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>94</ref>
+    <texto>se representan</texto>
+    <hijos>a4</hijos>
+    <padre>84</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a4</ref>
+    <texto>anteponiendo lapalabra no esverdad que…</texto>
+    <hijos/>
+    <padre>94</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>75</ref>
+    <texto>cuando</texto>
+    <hijos>85</hijos>
+    <padre>65</padre>
+    <siz>14</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>85</ref>
+    <texto>se componede variasproposicionessimples</texto>
+    <hijos/>
+    <padre>75</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>76</ref>
+    <texto>si</texto>
+    <hijos>86</hijos>
+    <padre>66</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>86</ref>
+    <texto>consta deuna solaoración</texto>
+    <hijos>95</hijos>
+    <padre>76</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>95</ref>
+    <texto>se representan</texto>
+    <hijos>a5</hijos>
+    <padre>86</padre>
+    <siz>14</siz>
+    <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>a5</ref>
+    <texto>con letrasminúsculas lasmás utilizadasson: p, q, r</texto>
+    <hijos/>
+    <padre>95</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000011111110</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+</mapa>
