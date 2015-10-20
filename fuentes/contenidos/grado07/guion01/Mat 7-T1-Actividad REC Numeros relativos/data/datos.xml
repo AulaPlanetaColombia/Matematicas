@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Los números relativos</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[A continuación encontrarás situaciones en las que es necesario el uso de números relativos, para representar información.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[Un edificio tiene tres sótanos. ¿Qué número le asignarías al tercer sótano de manera que se comprenda que es subterraneo?]]></enunciado>
+      <explicacion><![CDATA[En este caso los números que indican pisos subterraneos se escriben acompañados del signo –.]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img01a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img01n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="33" correcta="0"/>
+        <respuesta contestacion="03" correcta="0"/>
+        <respuesta contestacion="– 3" correcta="1"/>
+        <respuesta contestacion="+ 3" correcta="0"/>
+        <respuesta contestacion="– 33" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Durante una excursión se ha logrado escalar a 300 msnm (metros sobre el nivel del mar). ¿Cuál es el número que mejor representa el ascenso logrado?]]></enunciado>
+      <explicacion><![CDATA[Al hablar de un ascenso se refiere a cantidades positivas, teniendo como punto de referencia el nivel del mar.]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img02a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img02n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="+300" correcta="1"/>
+        <respuesta contestacion="–300" correcta="0"/>
+        <respuesta contestacion="350" correcta="0"/>
+        <respuesta contestacion="–350" correcta="0"/>
+        <respuesta contestacion="0" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Al revisar el extracto bancario de una cuenta, se reporta una deuda de $120 000. ¿De que manera se puede representar esta cantidad?]]></enunciado>
+      <explicacion><![CDATA[Las cantidades que refieren a deudas suelenestar acompañadas del signo negativo. ]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img03a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img03n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="0,0120" correcta="0"/>
+        <respuesta contestacion="+120 000" correcta="0"/>
+        <respuesta contestacion="–120 000" correcta="1"/>
+        <respuesta contestacion="0,120" correcta="0"/>
+        <respuesta contestacion="–120 000 000" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En la mañana la temperatura de cierta ciudad era de –8 °C. Cuatro horas después era de –10 °C. ¿Subió o bajó la temperatura?]]></enunciado>
+      <explicacion><![CDATA[La temperatura bajó 2 °C. ]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img04a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img04n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Subió" correcta="0"/>
+        <respuesta contestacion="Se mantuvo igual." correcta="0"/>
+        <respuesta contestacion="Bajó" correcta="1"/>
+        <respuesta contestacion="Ninguna de las anteriores." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Desde el pico de una montaña, un excursionista inicia el descenso, En cada minuto desciende 30 pies. ¿Qué número representa la distancia que ha descendido en 5 minutos?]]></enunciado>
+      <explicacion><![CDATA[Como por cada minuto desciendde 30 pies, el excursionista  han descendido 5 veces 30 pies,  por tanto en total ha descendido –150 pies..]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_img01a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_img01n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="– 50 pies" correcta="0"/>
+        <respuesta contestacion="– 30 pies" correcta="0"/>
+        <respuesta contestacion="–150 pies" correcta="1"/>
+        <respuesta contestacion="–15 pies" correcta="0"/>
+        <respuesta contestacion="15 pies" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Amelia tenía una deuda de $1 347 000. Recibió uin bono de $1 100 000 que abonó a la deuda. ¿Qué número representa la cantidad que todavía debe?]]></enunciado>
+      <explicacion><![CDATA[La deudas se representan con cantidades negativas, en este caso – 247 000 representa la cantidad que todavía debe Camilo.  ]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img06a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img06n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="No quedó debiendo" correcta="0"/>
+        <respuesta contestacion="300 000" correcta="0"/>
+        <respuesta contestacion="–247 000" correcta="1"/>
+        <respuesta contestacion="247 000" correcta="0"/>
+        <respuesta contestacion="–300 000" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Augusto nació en el año 63 a. C. ¿ Qué número relativo permite representar esta fecha?]]></enunciado>
+      <explicacion><![CDATA[Es necesario establcer que el punto de referencia que divide el antes y despues de Cristo es el año 0, por lo tanto el año de nacimiento se puede representar con –63.]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img07a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img07n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="+63" correcta="0"/>
+        <respuesta contestacion="1963" correcta="0"/>
+        <respuesta contestacion="– 63" correcta="1"/>
+        <respuesta contestacion="2063" correcta="0"/>
+        <respuesta contestacion="–64" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En un juego se ganan 3 puntos y luego se pierden 4. ¿Cuántos puntos se tienen al final de la partida?]]></enunciado>
+      <explicacion><![CDATA[En este caso se tienen 3 puntos que puede ser una cantidad positiva y pierden 4 puntos que se considera como una cantidad negativa, por lo tanto, se perdió 1 punto.]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img08a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img08n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="+5 puntos" correcta="0"/>
+        <respuesta contestacion=" –1 punto " correcta="1"/>
+        <respuesta contestacion="–4 puntos " correcta="0"/>
+        <respuesta contestacion=" 0 puntos" correcta="0"/>
+        <respuesta contestacion="–5 puntos" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Luisa camina dos kilometros desde su casa hasta su oficina en la mañana y en la tarde 4 km desde su casa hasta el banco, en dirección opuesta. ¿Qué números representan las distancias recorridas por Luisa?]]></enunciado>
+      <explicacion><![CDATA[Los desplazamientos se relacionan con cantidades positivas y negativas según el sentido en que se realicen..]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img09a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img09n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="+2, –4" correcta="1"/>
+        <respuesta contestacion="+2, +4" correcta="0"/>
+        <respuesta contestacion="–2, –4" correcta="0"/>
+        <respuesta contestacion="+2, 0" correcta="0"/>
+        <respuesta contestacion="–4, 1" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Francisco, en un juego de azar, realiza los siguientes movimientos: avanza 7 casillas, retrocede 3, avanza 3 y retrocede 5. ¿Cuál es su posición actual?]]></enunciado>
+      <explicacion><![CDATA[Al avanzar 7 y retroceder 3 queda´ría en la casilla 4, luego avanza 3, vuelve a la casilla 7 y retrocede 5, quedando finalmente en la casilla 2.]]></explicacion>
+      <imagen><![CDATA[ma_07_01_rec20_nsig_img10a.png]]></imagen>
+      <ampliacion><![CDATA[ma_07_01_rec20_nsig_img10n.png]]></ampliacion>
+      <respuestas>
+        <respuesta contestacion="Casilla 12" correcta="0"/>
+        <respuesta contestacion="Casilla 2" correcta="1"/>
+        <respuesta contestacion="Casilla 5" correcta="0"/>
+        <respuesta contestacion="Casilla 3" correcta="0"/>
+        <respuesta contestacion="Casilla 8" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>10</temps>
+</motor>

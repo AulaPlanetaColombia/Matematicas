@@ -4,7 +4,7 @@
   <objeto>
     <ref>00</ref>
     <texto>Los números enteros</texto>
-    <hijos>10,11,12</hijos>
+    <hijos>10</hijos>
     <padre/>
     <siz>0</siz>
     <negcur>00000000000000000000</negcur>
@@ -13,281 +13,361 @@
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto>Conjunto formado por</texto>
-    <hijos>22,21,20</hijos>
-    <padre>00</padre>
-    <siz>14</siz>
-    <negcur>0000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>20</ref>
-    <texto>Los númerosnaturales</texto>
-    <hijos/>
-    <padre>10</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>21</ref>
-    <texto>El cero</texto>
-    <hijos/>
-    <padre>10</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>22</ref>
-    <texto>Los opuestosde losnaturales</texto>
-    <hijos/>
-    <padre>10</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>11</ref>
-    <texto>Presentan relaciones de orden</texto>
-    <hijos>23,24</hijos>
-    <padre>00</padre>
-    <siz>14</siz>
-    <negcur>000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>23</ref>
-    <texto>Sermayor que</texto>
-    <hijos/>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>24</ref>
-    <texto>Sermenor que</texto>
-    <hijos/>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>12</ref>
-    <texto>Se emplean en</texto>
-    <hijos>25,26</hijos>
-    <padre>00</padre>
-    <siz>14</siz>
-    <negcur>00000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>25</ref>
-    <texto>Las matemáticas</texto>
-    <hijos>32,31,30</hijos>
-    <padre>12</padre>
-    <siz>0</siz>
-    <negcur>0000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>26</ref>
-    <texto>La vidacotidiana</texto>
-    <hijos>34,33,35,36,37,38</hijos>
-    <padre>12</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>30</ref>
     <texto/>
-    <hijos>40</hijos>
-    <padre>25</padre>
+    <hijos>24,23,22,21,20</hijos>
+    <padre>00</padre>
     <siz>14</siz>
     <negcur/>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>40</ref>
-    <texto>El plano cartesiano</texto>
-    <hijos/>
-    <padre>30</padre>
+    <ref>20</ref>
+    <texto>Aplicaciones</texto>
+    <hijos>30</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>21</ref>
+    <texto>Relacionesde orden</texto>
+    <hijos>31</hijos>
+    <padre>10</padre>
     <siz>0</siz>
     <negcur>00000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>31</ref>
-    <texto/>
-    <hijos>41</hijos>
-    <padre>25</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>41</ref>
-    <texto>La recta numérica</texto>
-    <hijos/>
-    <padre>31</padre>
-    <siz>0</siz>
-    <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>32</ref>
-    <texto/>
-    <hijos>42</hijos>
-    <padre>25</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>42</ref>
-    <texto>Valor absoluto</texto>
-    <hijos/>
-    <padre>32</padre>
-    <siz>0</siz>
-    <negcur>000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>33</ref>
-    <texto/>
-    <hijos>43</hijos>
-    <padre>26</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>43</ref>
-    <texto>Temperatura</texto>
-    <hijos/>
-    <padre>33</padre>
-    <siz>0</siz>
-    <negcur>00000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>34</ref>
-    <texto/>
-    <hijos>44</hijos>
-    <padre>26</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>44</ref>
-    <texto>Altura</texto>
-    <hijos/>
-    <padre>34</padre>
-    <siz>0</siz>
-    <negcur>0000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>35</ref>
-    <texto/>
-    <hijos>45</hijos>
-    <padre>26</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>45</ref>
-    <texto>Crédito y débito</texto>
-    <hijos/>
-    <padre>35</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>36</ref>
-    <texto/>
-    <hijos>46</hijos>
-    <padre>26</padre>
-    <siz>14</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>46</ref>
-    <texto>Carga eléctrica</texto>
-    <hijos/>
-    <padre>36</padre>
+    <ref>22</ref>
+    <texto>Valor absoluto</texto>
+    <hijos>32</hijos>
+    <padre>10</padre>
     <siz>0</siz>
     <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>37</ref>
-    <texto/>
-    <hijos>47</hijos>
-    <padre>26</padre>
-    <siz>14</siz>
-    <negcur/>
+    <ref>23</ref>
+    <texto>El conjunto Z</texto>
+    <hijos>33</hijos>
+    <padre>10</padre>
+    <siz>0</siz>
+    <negcur>00000000000020</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>47</ref>
-    <texto>Subir y bajar</texto>
-    <hijos/>
-    <padre>37</padre>
+    <ref>24</ref>
+    <texto>Númerosrelativos</texto>
+    <hijos>34</hijos>
+    <padre>10</padre>
     <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>30</ref>
+    <texto>en</texto>
+    <hijos>41,40</hijos>
+    <padre>20</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>40</ref>
+    <texto>la vidacotidiana</texto>
+    <hijos>50</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>50</ref>
+    <texto>pararepresentar</texto>
+    <hijos>60</hijos>
+    <padre>40</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>60</ref>
+    <texto>situacionesde aumento,disminución,desplazamientos,variaciones,entre otras</texto>
+    <hijos/>
+    <padre>50</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>41</ref>
+    <texto>lasmatemáticas</texto>
+    <hijos>51</hijos>
+    <padre>30</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>permiteidentificar</texto>
+    <hijos>61</hijos>
+    <padre>41</padre>
+    <siz>14</siz>
+    <negcur>00000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>- números  opuestos- coordenadas  cartesianas</texto>
+    <hijos/>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000</negcur>
+    <cen>0</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>31</ref>
+    <texto>tales como</texto>
+    <hijos>43,42</hijos>
+    <padre>21</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>42</ref>
+    <texto>mayor que</texto>
+    <hijos>52</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>43</ref>
+    <texto>menor que</texto>
+    <hijos>53</hijos>
+    <padre>31</padre>
+    <siz>0</siz>
+    <negcur>0000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>en la cual</texto>
+    <hijos>62</hijos>
+    <padre>42</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>en la rectanuméricael númeroenteroque estémás a laderechade otroseráel mayor</texto>
+    <hijos/>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>53</ref>
+    <texto>en la cual</texto>
+    <hijos>63</hijos>
+    <padre>43</padre>
+    <siz>14</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>63</ref>
+    <texto>en la rectanuméricael númeroenteroque estémás a laizquierdade otro seráel menor</texto>
+    <hijos/>
+    <padre>53</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>32</ref>
+    <texto>corresponde a</texto>
+    <hijos>44</hijos>
+    <padre>22</padre>
+    <siz>14</siz>
     <negcur>00000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>38</ref>
-    <texto/>
-    <hijos>48</hijos>
-    <padre>26</padre>
-    <siz>14</siz>
-    <negcur/>
+    <ref>44</ref>
+    <texto>la distanciaque hay entreel númeroenteroy el ceroen la rectanumérica</texto>
+    <hijos>54</hijos>
+    <padre>32</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
-    <ref>48</ref>
-    <texto>Ganar y perder</texto>
+    <ref>54</ref>
+    <texto>por sudefinición</texto>
+    <hijos>64</hijos>
+    <padre>44</padre>
+    <siz>14</siz>
+    <negcur>000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>64</ref>
+    <texto>representaun valorpositivo</texto>
     <hijos/>
-    <padre>38</padre>
+    <padre>54</padre>
     <siz>0</siz>
+    <negcur>00000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>33</ref>
+    <texto>se forma</texto>
+    <hijos>45</hijos>
+    <padre>23</padre>
+    <siz>14</siz>
+    <negcur>000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>45</ref>
+    <texto>los númerosnaturales,sus opuestosy el cero</texto>
+    <hijos>55</hijos>
+    <padre>33</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>55</ref>
+    <texto>se simboliza</texto>
+    <hijos>65</hijos>
+    <padre>45</padre>
+    <siz>14</siz>
+    <negcur>0000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>65</ref>
+    <texto>Z = {… , -4, -3, -2, -1, 0, 1, 2, 3, 4,…}</texto>
+    <hijos>70</hijos>
+    <padre>55</padre>
+    <siz>0</siz>
+    <negcur>200000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>se representan</texto>
+    <hijos>80</hijos>
+    <padre>65</padre>
+    <siz>14</siz>
     <negcur>000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>en unarecta numéricatomando comoreferenciael número 0,a la derechase ubicanlos positivosy a la izquierdalos negativos</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>34</ref>
+    <texto>se determinan</texto>
+    <hijos>46</hijos>
+    <padre>24</padre>
+    <siz>14</siz>
+    <negcur>00000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>46</ref>
+    <texto>por la ubicaciónde un puntode referencia</texto>
+    <hijos>56</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>56</ref>
+    <texto>sintetizanel uso de</texto>
+    <hijos>66</hijos>
+    <padre>46</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>66</ref>
+    <texto>expresiones comoantes, después,por encima,por debajo,más, menos,ganancias,perdidas,entre otras</texto>
+    <hijos>71</hijos>
+    <padre>56</padre>
+    <siz>0</siz>
+    <negcur>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>71</ref>
+    <texto>se escriben</texto>
+    <hijos>81</hijos>
+    <padre>66</padre>
+    <siz>14</siz>
+    <negcur>000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>81</ref>
+    <texto>utilizandonúmerosnaturalesprecedidosdel signomás (+)o del signomenos (‒)</texto>
+    <hijos/>
+    <padre>71</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
