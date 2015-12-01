@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="MA_05_01_CO">
+<libroTitulo>Conjuntos</libroTitulo>
+<seccion1 id="S1_MA_05_01_CO_710A3C8C2A52423C91D4E9A483332125">
+<seccion1Titulo>Determinación y representación de conjuntos</seccion1Titulo>
+<seccion1Texto>
+<p>Un <negrita>conjunto</negrita> es una colección de elementos que
+tienen una característica en común. Los elementos pueden ser números,
+personas, animales, ciudades, entre otros. Los conjuntos se pueden
+nombrar con letras mayúsculas y sus elementos  con letras minúsculas.</p>
+<imagen src="MA_05_01_CO_IMG01.jpg">
+<p>En Matemáticas se habla de conjunto cuando se agrupan elementos
+u objetos que comparten características similares.</p>
+</imagen>
+<p>Los <negrita>conjuntos</negrita> están conformados por objetos
+que cumplen con una característica específica común entre ellos. Se
+dice que un <negrita>elemento pertenece</negrita> al conjunto cuando
+cumple con esa característica. Para indicar esta relación de pertenencia
+se usa el símbolo ∈.</p>
+<p>Por ejemplo, sea el conjunto B = {15, 30, 45, 60, 75, 90}. Entonces
+se cumple que</p>
+<p>15 ∈   B                                            60  ∈  B  
+                              90  ∈  B</p>
+<p>Cuando un elemento no cumple con la característica del conjunto
+se dice que no pertenece el conjunto y se utiliza el símbolo ∉.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso010&amp;IdRecurso=RES-029C92C07DA44B979E4087131B23F786"
+>Practica la relación de pertenencia y de no pertenencia</enlace>
+</practica>
+<imagen src="MA_05_01_CO_IMG02.jpg">
+<p>El lápiz y las tijeras pertenecen al conjunto de útiles de escritorio.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Para indicar que un elemento pertenece a un conjunto se usa el
+símbolo ∈ y para indicar que un elemento no pertenece se usa el símbolo
+∉.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso020&amp;IdRecurso=RES-57900A134BF249DD955600BB90868B28"
+>Escribe los elementos que pertenecen a un conjunto</enlace>
+</practica><seccion2
+id="S2_MA_05_01_CO_FFCA2C53B9CA4E2797EEB30515E20F66">
+<seccion2Titulo>Determinación de conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>Los conjuntos se pueden determinar por extensión y por comprensión. </p>
+<seccion3 id="S3_MA_05_01_CO_6BD692795E47405D8BE53AD575B6E4F1">
+<seccion3Titulo>Determinación de un conjunto por extensión</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando se determina un conjunto por extensión se nombran sus elementos
+uno a uno. Por ejemplo:</p>
+<p>A = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso030&amp;IdRecurso=RES-4CF8BE67D0C14CC194B4321E24498E95"
+>Practica la determinación de conjuntos por extensión</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_MA_05_01_CO_B3977C31D0364AF3BB1AFC87FB7B4756">
+<seccion3Titulo>Determinación de un conjunto por comprensión</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando se determina un conjunto por comprensión se describe la
+característica común a todos los elementos del conjunto. Por ejemplo:</p>
+<p><cursiva>A</cursiva> = {<cursiva>x/x</cursiva> es un número dígito}</p>
+<p>Se lee <cursiva>x</cursiva> tal que <cursiva>x</cursiva> es un
+número dígito; <cursiva>x</cursiva> representa cualquiera de los elementos
+que pertenecen al conjunto <cursiva>A</cursiva>.</p>
+<imagen src="MA_05_01_CO_IMG03.jpg">
+<p>Un pájaro puede agruparse con otros animales de su misma especie
+para formar un conjunto de aves.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Los conjuntos se nombran con letras mayúsculas.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso040&amp;IdRecurso=RES-6000F9C0902B466EA9869C1D30860EC3"
+>¿Cómo se determina un conjunto por extensión y por comprensión?</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_05_01_CO_7E7F4AC4704C464EA17D6E3ED98BD65B">
+<seccion2Titulo>Representación de conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>conjuntos</negrita> se pueden representar gráficamente
+mediante <negrita>diagramas de Venn</negrita>. Estos diagramas encierran
+con una línea los elementos del conjunto.</p>
+<imagen src="MA_05_01_CO_IMG04.jpg">
+<p>Representación gráfica de los números dígitos.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_FCBC745B66AB4EEB96B02D5B060BA84D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso050&amp;IdRecurso=RES-C6D85D47DB7E40A8ACD9D2E85BC7B048"
+>Ejemplos de determinación de conjuntos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso060&amp;IdRecurso=RES-6F9C12C2F6DF41D4A271CB20AB0585E2"
+>Refuerza tu aprendizaje: Determinación de conjuntos por comprensión
+y por extensión</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_05_01_CO_976A55B778654A8296F9409FCB34A854">
+<seccion1Titulo>Tipos de conjuntos</seccion1Titulo>
+<seccion1Texto>
+<p>Según la cantidad de elementos, un conjunto puede ser: </p>
+<p>Conjunto infinito</p>
+<p> Conjunto finito </p>
+<p>Conjunto vacío  </p>
+<p>Conjunto unitario </p>
+<p>Conjunto universal o referencial</p>
+<seccion2 id="S2_MA_05_01_CO_0D193A2125814B0D90AC65172F6BD6DC">
+<seccion2Titulo>Conjunto infinito</seccion2Titulo>
+<seccion2Texto>
+<p>Un conjunto es<negrita> infinito</negrita> cuando no es posible
+contar la cantidad de elementos que lo conforman. Este tipo de conjuntos
+se puede determinar por comprensión o por extensión; se mencionan
+los primeros elementos y se colocan puntos suspensivos para indicar
+que hay más elementos. Por ejemplo, el conjunto J conformado por los
+múltiplos de 2.</p>
+<p>Por comprensión <cursiva>J</cursiva> = {<cursiva>x/x</cursiva> es
+un múltiplo de 2}  </p>
+<p>Por extensión <cursiva>J</cursiva> = {2, 4, 6, 8, 10, 12, 14, 16,
+18,…}</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_A293B837A7444262A784EB7985A9688A">
+<seccion2Titulo>Conjunto finito</seccion2Titulo>
+<seccion2Texto>
+<p>Un conjunto finito es un conjunto que no es infinito.</p>
+<imagen src="MA_05_01_CO_IMG05.jpg">
+<p>De acuerdo con la cantidad de elementos un conjunto puede ser finito
+y, por lo tanto, sus elementos se pueden contar.</p>
+</imagen>
+<p>Los conjuntos son <negrita>finitos</negrita> cuando se pueden contar
+todos sus elementos y al determinarlos por extensión se pueden escribir
+todos los elementos que lo conforman.</p>
+<imagen src="MA_05_01_CO_IMG06.jpg">
+<p>Conjunto de las vocales. </p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso070&amp;IdRecurso=RES-2BF604194E6B428B99C6C28352432BE9"
+>Clasifica conjuntos en finitos o infinitos</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_BA00D22352A44BC0B960AC957E4B5D39">
+<seccion2Titulo>Conjunto vacío</seccion2Titulo>
+<seccion2Texto>
+<p>Un conjunto es vacío cuando no existen elementos que lo conformen.
+Por ejemplo, no existe un conjunto que contenga como elementos números
+pares e impares al mismo tiempo, es decir, </p>
+<p><cursiva>H</cursiva> = {<cursiva>x/x</cursiva> es un número par
+e impar}</p>
+<p>Los conjuntos vacíos se pueden representar así:</p>
+<p>Con corchetes, sin colocar elementos en su interior.  H = {   
+} </p>
+<p>	Con la letra griega phi.  H = { Φ }	 </p>
+<p>En un diagrama de Venn dejando el conjunto sin elementos. </p>
+<imagen src="MA_05_01_CO_IMG07.jpg">
+<p>El conjunto H es un conjunto vacío.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_5F9CACA7766E48BE9DB5C59F3EA1696A">
+<seccion2Titulo>Conjunto unitario</seccion2Titulo>
+<seccion2Texto>
+<p>Un conjunto unitario es aquel que tiene un solo elemento. Por ejemplo,
+el conjunto <cursiva>C</cursiva> es un conjunto unitario.</p>
+<p><cursiva>C</cursiva> = {<cursiva>x/x</cursiva> es un país llamado
+Colombia}</p>
+<p> <cursiva>C</cursiva> = {Colombia}</p>
+<imagen src="MA_05_01_CO_IMG08.jpg">
+<p>Un globo aerostático es un elemento que pertenece al conjunto de
+medios de transporte aéreo. </p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_333E7D33E4EC4066AD60B2F242A16731">
+<seccion2Titulo>Conjunto universal o referencial</seccion2Titulo>
+<seccion2Texto>
+<p>El conjunto <negrita>universal</negrita> o <negrita>referencial</negrita
+> es el conjunto conformado por todos los elementos que cumplen con
+una característica común de varios conjuntos. Por ejemplo, si se está
+hablando de las vocales y las consonantes, el conjunto universal es
+el alfabeto. Por lo general, este conjunto se simboliza con la letra <cursiva
+>U</cursiva>. </p>
+<p>En este caso, <cursiva>U</cursiva> = {<cursiva>x/x</cursiva> es
+una letra del alfabeto}</p>
+<imagen src="MA_05_01_CO_IMG09.jpg">
+<p>Un conjunto referencial o universal es el conjunto que se usa como
+referencia para otros conjuntos.</p>
+</imagen>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso080&amp;IdRecurso=RES-F70C7E003CC144239574D35CD3809C12"
+>Refuerza tu aprendizaje: Sopa de letras con los nombres de los tipos
+de conjuntos</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso090&amp;IdRecurso=RES-AECA86F8E6C4438D947EA9B9ECD1C981"
+>¿Cuántos elementos tienen el conjunto vacío, el unitario, el finito
+y el infinito?</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_05_01_CO_8CB0D0B6DF0F43A5BF02A7FB65E9AA1F">
+<seccion1Titulo>Operaciones entre conjuntos</seccion1Titulo>
+<seccion1Texto>
+<p>Entre los conjuntos se pueden efectuar operaciones como unión,
+intersección, diferencia, complemento y diferencia simétrica.</p>
+<seccion2 id="S2_MA_05_01_CO_A16A67EA8CFF49FE89F606B7E8E316EF">
+<seccion2Titulo>Unión de conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>unión</negrita> de dos conjuntos <cursiva>A</cursiva
+> y <cursiva>B</cursiva> se forma agrupando en un nuevo conjunto todos
+los elementos que pertenecen a <cursiva>A</cursiva> con todos los
+elementos que pertenecen a <cursiva>B</cursiva>. </p>
+<p>La unión entre los conjuntos <cursiva>A</cursiva> y <cursiva>B</cursiva
+> se simboliza<cursiva> A</cursiva> ∪ <cursiva>B</cursiva>. </p>
+<p>Por ejemplo, si <cursiva>A</cursiva> = {a, r, o} y<cursiva> B</cursiva
+> = {1, 2, 3, 4, 5}  </p>
+<p>Entonces, <cursiva>A</cursiva> ∪<cursiva> B</cursiva> = {a, r,
+o, 1, 2, 3, 4, 5}</p>
+<imagen src="MA_05_01_CO_IMG10.jpg">
+<p>El conjunto formado tanto por el conjunto de niñas como por el
+conjunto de niños se denomina conjunto unión.  </p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Si en los conjuntos que se van a unir se repite algún elemento,
+en el conjunto que representa la unión no se repite. Por ejemplo,
+sean <cursiva>C</cursiva> = {1, <negrita>3</negrita>, <negrita>5</negrita
+>, <negrita>7</negrita>, 9, 11} y <cursiva>D</cursiva> = {2, <negrita
+>3</negrita>, <negrita>5</negrita>, <negrita>7</negrita>}  Entonces,
+ <cursiva>C</cursiva> ∪ <cursiva>D</cursiva> =  {1, 2, <negrita>3</negrita
+>,<negrita> 5</negrita>, <negrita>7</negrita>, 9, 11}</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_4D1C5C3E7F694D93832D151DCD55A426">
+<seccion2Titulo>Intersección de conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>intersección</negrita> de dos conjuntos <cursiva>A</cursiva
+> y <cursiva>B</cursiva> es el conjunto de los elementos que se encuentran
+en <cursiva>A</cursiva> y también en <cursiva>B</cursiva>.  La intersección
+entre los conjuntos<cursiva> A</cursiva> y <cursiva>B</cursiva> se
+simboliza <cursiva>A</cursiva> ∩<cursiva> B</cursiva>.   Por ejemplo,
+sean <cursiva>A</cursiva> = <negrita>{</negrita>s, a, p, <negrita
+>o</negrita>} y<cursiva> B</cursiva> = {<negrita>s</negrita>, <negrita
+>o</negrita>, l}   Entonces,  <cursiva>A</cursiva> ∩ <cursiva>B</cursiva
+> = {<negrita>s</negrita>, <negrita>o</negrita>}</p>
+<p>Si quieres ampliar tus conocimientos sobre conjuntos, consulta
+este video publicado en la web<enlace
+destino="http://www.gcfaprendelibre.org/matematicas/curso/los_conjuntos/entender_los_conjuntos/1.do"
+> [VER]</enlace>. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso100&amp;IdRecurso=RES-75943C5949F4400D9FAF60C37E18DA14"
+>Practica la unión y la intersección entre conjuntos</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso110&amp;IdRecurso=RES-5E4C66B1918440AAA3CDEA2CF2DA7D70"
+>Practica las operaciones entre conjuntos a partir de una situación
+problema</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_A97F46BD15864A02B210CA363E502D0F">
+<seccion2Titulo>Diferencia entre conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>La<negrita> diferencia</negrita> de dos conjuntos <cursiva>A</cursiva
+> y<cursiva> B</cursiva> está formada por los elementos que pertenecen
+a <cursiva>A</cursiva> y no pertenecen a <cursiva>B</cursiva>.</p>
+<p>La diferencia entre los conjuntos <cursiva>A</cursiva> y<cursiva
+> B</cursiva> se nota <cursiva>A</cursiva> - <cursiva>B</cursiva>.</p>
+<imagen src="MA_05_01_CO_IMG11.jpg">
+<p>Diferencia entre los conjuntos <cursiva>A</cursiva> y<cursiva> B</cursiva
+>.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso120&amp;IdRecurso=RES-F4F69A82CC214829BBFC0642217CC627"
+>Diagramas de Venn y operaciones entre conjuntos</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_1D67F77C9596453299037135A019525F">
+<seccion2Titulo>Diferencia simétrica entre conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>La diferencia simétrica entre dos conjuntos <cursiva>M</cursiva
+> y <cursiva>P</cursiva> es el conjunto formado por los elementos
+que pertenecen a <cursiva>M</cursiva> o <cursiva>P</cursiva>, menos
+los elementos comunes a ambos conjuntos.</p>
+<destacado><destacadoTitulo>Diferencia simétrica entre conjuntos</destacadoTitulo>
+<destacadoTexto>
+<p>La diferencia simétrica entre dos conjuntos A y B es la unión de
+los dos conjuntos menos la intersección de los mismos.  </p>
+<p>La diferencia simétrica entre los conjuntos A y B se nota A Δ B.</p>
+</destacadoTexto></destacado>
+<imagen src="MA_05_01_CO_IMG12.jpg">
+<p>Diferencia simétrica entre los conjuntos C y D.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_C848251D49404E768C77571BFFABFDBC">
+<seccion2Titulo>Complemente de un conjunto</seccion2Titulo>
+<seccion2Texto>
+<p>El complemento de un conjunto <cursiva>A</cursiva> es el conjunto
+formado por todos los elementos que le hacen falta al conjunto <cursiva
+>A</cursiva> para ser igual al referencial. </p>
+<destacado><destacadoTitulo>Complemento de un conjunto</destacadoTitulo>
+<destacadoTexto>
+<p>El complemento de un conjunto <cursiva>A</cursiva> son todos aquellos
+elementos del conjunto referencial que no se encuentran en<cursiva
+> A</cursiva>. El complemento del conjunto <cursiva>A</cursiva> se
+nota:<cursiva> A</cursiva><superindice>C</superindice> o <cursiva
+>A</cursiva>’. </p>
+<p>Por ejemplo, si <cursiva>U</cursiva> = {<negrita>4</negrita>, 8, <negrita
+>12</negrita>, 16, <negrita>20</negrita>, 24, <negrita>28</negrita
+>, 32, <negrita>36</negrita>, 40} y  <cursiva>A</cursiva> = {8, 16,
+24, 32, 40}  Entonces,   <cursiva>A</cursiva><superindice>C</superindice
+> = {4, 12, 20, 28, 36}</p>
+</destacadoTexto></destacado>
+<imagen src="MA_05_01_CO_IMG13.jpg">
+<p>Complemento del conjunto Q.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso130&amp;IdRecurso=RES-22AEAE3B60AE4499AF52EA48D96788EE"
+>Resuelve un crucigrama con los nombres de los tipos de conjuntos
+y las operaciones entre conjuntos</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso140&amp;IdRecurso=RES-51036AFBF68E475A978236E275CE91FF"
+>Operaciones entre conjuntos</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso150&amp;IdRecurso=RES-E4536B6632A9425A97C7FF257BD509CE"
+>Situación problema que requiere para su solución las operaciones
+entre conjuntos</enlace>
+</practica>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso160&amp;IdRecurso=RES-3941E2A81723472C9E24F908ED742C31"
+>Conoce algunas propiedades de las operaciones entre conjuntos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso170&amp;IdRecurso=RES-C17E537D270748B6B068ADD971A1EBD9"
+>Refuerza tu aprendizaje: Situación problema que involucra la representación
+de las operaciones entre conjuntos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_05_01_CO_709A944539B04C118501819467683AC2">
+<seccion1Titulo>Relaciones entre conjuntos. Conjuntos disjuntos e
+intersecantes</seccion1Titulo>
+<seccion1Texto>
+<p>Entre dos conjuntos se pueden establecer <negrita>relaciones</negrita
+> de contenencia y de igualdad.</p>
+<imagen src="MA_05_01_CO_IMG14.jpg">
+<p>El conjunto de peces está contenido en el conjunto de especies
+marinas. </p>
+</imagen>
+<seccion2 id="S2_MA_05_01_CO_4FC2B24104DD4363BC82D906A0CA6DF3">
+<seccion2Titulo>Relación de contenencia entre conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>La relación de <negrita>contenencia</negrita> se da cuando todos
+los elementos de un conjunto <cursiva>A</cursiva> son también elementos
+de un conjunto <cursiva>B</cursiva>.</p>
+<p> En este caso,<cursiva> A</cursiva><negrita> es subconjunto </negrita
+>de <cursiva>B</cursiva>.  </p>
+<destacado><destacadoTitulo>Subconjunto</destacadoTitulo>
+<destacadoTexto>
+<p>Un conjunto S es subconjunto de otro conjunto M cuando todos los
+elementos que pertenecen a S también pertenecen a M. En este caso
+se simboliza S ⊂ M. Por ejemplo, si   M = {10, 20, 30 40, 50, 60,
+70, 80, 90, 100} y S = {20, 40, 60, 80, 100}, entonces S ⊂ M  Si T
+= {2, 3, 5, 7, 11} se dice que T no es subconjunto de M porque no
+tienen elementos comunes. Se simboliza  T ⊄ M.	</p>
+</destacadoTexto></destacado>
+<imagen src="MA_05_01_CO_IMG15.jpg">
+<p>El conjunto E es subconjunto del conjunto F.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso180&amp;IdRecurso=RES-9C0BF5BFE62A4DB598273E5580722812"
+>Subconjuntos</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_C5A4271E67EC4364894C206AA264A1E3">
+<seccion2Titulo>Relación de igualdad entre conjuntos</seccion2Titulo>
+<seccion2Texto>
+<p>Dos conjuntos son iguales cuando tienen exactamente los mismos
+elementos.</p>
+<imagen src="MA_05_01_CO_IMG16.jpg">
+<p>El conjunto <cursiva>R</cursiva> es igual al conjunto <cursiva
+>S</cursiva>.</p><?Pub Caret -2?>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_05_01_CO_4864D8B97388435580012809DED05252">
+<seccion2Titulo>Conjuntos disjuntos y conjuntos intersecantes</seccion2Titulo>
+<seccion2Texto>
+<p>De acuerdo con su intersección dos conjuntos <cursiva>A</cursiva
+> y <cursiva>B</cursiva> pueden ser disjuntos o intersecantes.</p>
+<seccion3 id="S3_MA_05_01_CO_173185DD59CB40128E3E7CDDA242ED38">
+<seccion3Titulo>Conjuntos disjuntos</seccion3Titulo>
+<seccion3Texto>
+<p>Dos conjuntos <cursiva>A</cursiva> y <cursiva>B</cursiva> son <negrita
+>disjuntos</negrita> o <negrita>disyuntos</negrita> cuando no tienen
+elementos en común. En este caso, la intersección entre <cursiva>A</cursiva
+> y <cursiva>B</cursiva> es igual al conjunto vacío, es decir,  <cursiva
+>A</cursiva> ∩ <cursiva>B</cursiva> = {   }.  Por ejemplo, los conjuntos<cursiva
+> A</cursiva> = {<cursiva>x/x</cursiva> es un múltiplo de 3} y  <cursiva
+>B</cursiva> = { <cursiva>x/x</cursiva> es un medio de comunicación}
+son disjuntos porque <cursiva>A</cursiva> ∩ <cursiva>B</cursiva> =
+{  }.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_MA_05_01_CO_11E396358903484BACE7FA0142027BA7">
+<seccion3Titulo>Conjuntos intersecantes</seccion3Titulo>
+<seccion3Texto>
+<p>Por ejemplo, los conjuntos <cursiva>P</cursiva> = {<cursiva>x/x</cursiva
+> es un múltiplo de 2 menor que 13} y <cursiva>Q</cursiva> = {<cursiva
+>x/x</cursiva> es un múltiplo de 3 menor que 13} son intersecantes
+porque tienen en común los elementos 6 y 12. Es decir, <cursiva>P</cursiva
+> ∩ <cursiva>Q</cursiva> = {6, 12}. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso190&amp;IdRecurso=RES-80E0106097CE4DBAA89856CB60CBE3F0"
+>Practica las relaciones que se dan entre conjuntos</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_MA_05_01_CO_1F9DC14FAE134184B7F308870844B8DD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso200&amp;IdRecurso=RES-2A86E7C1D5CC49838AA9FDD3E7C51D9D"
+>Refuerza tu aprendizaje: Relaciones entre conjuntos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_05_01_CO_3A28D386885B43A793494160042EB7E8">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso210&amp;IdRecurso=RES-5A080A0F9B644ADF9337031C45A68D14"
+>Proyecto: conjuntos de animales</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso220&amp;IdRecurso=RES-8F3E83D773824215B0FF3E79092467E7"
+>Competencias: repaso de conceptos básicos relacionados con conjuntos</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso230&amp;IdRecurso=RES-C952298B21534A8C94746579D811D8EE"
+>Competencias: aplicación de tipos de conjuntos y operaciones y relaciones
+entre conjuntos</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_MA_05_01_CO_AEC573E75DFE43B9ADBC6A984333673C"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso240&amp;IdRecurso=RES-F3F156CCF24D4352A5688418078CE9E8"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><?Pub Dtl?>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_05_01_CORecurso250&amp;IdRecurso=RES-C7B4ED503FCA4A0BBFA896115B50EAC2"
+>Evaluación</enlace></autoevaluate><enlacesreferencia><?Pub Dtl?>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+<enlace destino="http://zunal.com/webquest.php?w=23443">Clases de
+conjuntos</enlace>
+<enlace
+destino="http://www.gcfaprendelibre.org/matematicas/curso/los_conjuntos/entender_los_conjuntos/1.do"
+>Los conjuntos</enlace>
+<enlace
+destino="http://www.gcfaprendelibre.org/matematicas/curso/los_conjuntos/entender_los_conjuntos/1.do"
+>Teoría de conjuntos</enlace>
+</enlacesreferencia></masinformacion></libro>
