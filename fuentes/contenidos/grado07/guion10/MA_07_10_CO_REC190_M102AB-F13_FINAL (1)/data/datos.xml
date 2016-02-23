@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f13" title="Las funciones para modelar situaciones" >
+<section title="¿Qué es una función?" path="imagendummy_motorf.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="0" >
+<![CDATA[
+
+
+<p><span style="font-size:18px">Lee cuidadosamente la siguiente situaci&oacute;n:</span></p>
+
+<p><span style="font-size:18px">Martha por cada clase dictada ahorra el 20% del pago recibido, observa el dinero recibido y ahorrado cada semana.</span>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td style="text-align:center">Semana</td>
+			<td>
+			<p style="text-align:center">Semana 1</p>
+			</td>
+			<td style="text-align:center">Semana 2</td>
+			<td style="text-align:center">Semana 3</td>
+			<td style="text-align:center">&nbsp;Semana 4</td>
+			<td style="text-align:center">Semana 5&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">Dinero recibido</td>
+			<td style="text-align:center">$50.000</td>
+			<td style="text-align:center">$30.000</td>
+			<td style="text-align:center">$60.000</td>
+			<td style="text-align:center">$100.000</td>
+			<td style="text-align:center">$80.000</td>
+		</tr>
+		<tr>
+			<td style="text-align:center">Dinero ahorrado</td>
+			<td style="text-align:center">$10.000</td>
+			<td style="text-align:center">$6.000</td>
+			<td style="text-align:center">$12.000</td>
+			<td style="text-align:center">$20.000</td>
+			<td style="text-align:center">$16.000</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>En este caso la cantidad de dinero ahorrado depender&aacute; del dinero recibido por las clases dictadas semanalmente.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Este tipo de relaciones reciben el nombre de funci&oacute;n que indica&nbsp;la relaci&oacute;n entre dos conjuntos, donde a cada uno de los elementos de un conjunto le corresponde un &uacute;nico elemento del otro conjunto.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Es importante tener en cuenta que en una funci&oacute;n se establece una&nbsp;relaci&oacute;n&nbsp;entre las variables dependeinte e independiente; para el ejemplo la variable independiente corresponde a la cantidad de dinero recibido cada semana y la variable dependiente a la cantidad de dinero ahorrado.&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></section>
+<section title="Ejemplo I ¿Cómo modelar situaciones?" path="imagendummy_motorf.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="0" >
+<![CDATA[<p>Muchas situaciones de la cotidianidad se pueden modelar a partir de una funci&oacute;n, que se representa&nbsp;a trav&eacute;s&nbsp;de una expresi&oacute;n algebraica,&nbsp;un diagrama, una tabla&nbsp;o una gr&aacute;fica.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>La forma m&aacute;s usual de representar una funci&oacute;n es a partir de una expresi&oacute;n algebraica que indica la relaci&oacute;n entre las variables abordadas; observa.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Un almac&eacute;n por cada caja de cuadernos comprada se obsequia 2 agendas. &iquest;Cu&aacute;l es la expresi&oacute;n que representa la situaci&oacute;n?&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>En un primer momento se debe identificar la variable dependiente e independiente, en este caso la cantidad de agendas recibidas depende del n&uacute;mero de cajas solicitado.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Si establecemos los primeros t&eacute;rminos de la relaci&oacute;n entre las variables se tendr&iacute;a:</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td>
+			<p style="text-align: center;">Cantidad de cajas&nbsp;</p>
+			</td>
+			<td>
+			<p style="text-align: center;">1</p>
+			</td>
+			<td>
+			<p style="text-align: center;">2</p>
+			</td>
+			<td>
+			<p style="text-align: center;">3</p>
+			</td>
+			<td>
+			<p style="text-align: center;">4</p>
+			</td>
+			<td>
+			<p style="text-align: center;">5</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Cantidad de agendas</p>
+			</td>
+			<td>
+			<p style="text-align: center;">2</p>
+			</td>
+			<td>
+			<p style="text-align: center;">4</p>
+			</td>
+			<td>
+			<p style="text-align: center;">6</p>
+			</td>
+			<td>
+			<p style="text-align: center;">8</p>
+			</td>
+			<td>
+			<p style="text-align: center;">10</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Relaci&oacute;n</p>
+			</td>
+			<td>
+			<p style="text-align: center;">2●1&nbsp;</p>
+			</td>
+			<td>
+			<p style="text-align: center;">2●2</p>
+			</td>
+			<td>
+			<p style="text-align: center;">2●3</p>
+			</td>
+			<td>
+			<p style="text-align: center;">2●4</p>
+			</td>
+			<td>
+			<p style="text-align: center;">2●5</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<div style="clear:both;">Es decir que se establece una relaci&oacute;n entre las variables ya que se tiene para las agendas&nbsp;el doble de la cantidad de cajas solicitadas.&nbsp;</div>
+
+<p>&nbsp;</p>
+
+<p>Por lo tanto la funci&oacute;n ser&iacute;a:</p>
+
+<p style="text-align:center"><em>f(x) = 2x</em></p>
+
+<p>Donde&nbsp;<em>x&nbsp;</em>es el n&uacute;mero de cajas solicitadas y&nbsp;<em>f(x)</em>&nbsp;la cantidad de agendas recibidas.</p>
+]]></section>
+<section title="Ejemplo II ¿Cómo modelar situaciones?" path="imagendummy_motorf.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="0" >
+<![CDATA[<p>Analicemos otra situaci&oacute;n.</p>
+
+<p>&nbsp;</p>
+
+<p>Juana es vendedora de calzado en un almac&eacute;n. Ella tiene un sueldo de $800.000 mensualmente y su jefe le da una bonificaci&oacute;n de $2.000 por cada par de zapatos vendidos.</p>
+
+<p>En este caso podemos observar que Juana gana un sueldo mensual que no var&iacute;a, a su sueldo se aumentar&iacute;a la bonificaci&oacute;n recibida por la cantidad de pares de zapatos que vende en el mes.</p>
+
+<p>Para ello podr&iacute;amos tener la siguiente tabla:</p>
+
+<p>&nbsp;</p>
+
+<table align="center" border="1" cellpadding="0" cellspacing="1" style="width:576px">
+	<tbody>
+		<tr>
+			<td style="height:37px">
+			<p style="text-align: center;">Cantidad de pares&nbsp;</p>
+			</td>
+			<td style="height:37px">
+			<p style="text-align: center;">1</p>
+			</td>
+			<td style="height:37px">
+			<p style="text-align: center;">2</p>
+			</td>
+			<td style="height:37px">
+			<p style="text-align: center;">3</p>
+			</td>
+			<td style="height:37px">
+			<p style="text-align: center;">10</p>
+			</td>
+			<td style="height:37px">
+			<p style="text-align: center;">30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:19px">
+			<p>Bonificaci&oacute;n</p>
+			</td>
+			<td style="height:19px">
+			<p>$2.000</p>
+			</td>
+			<td style="height:19px">
+			<p>$4.000</p>
+			</td>
+			<td style="height:19px">
+			<p>$6.000</p>
+			</td>
+			<td style="height:19px">
+			<p>$20.000</p>
+			</td>
+			<td style="height:19px">
+			<p>$60.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:18px">
+			<p>Relaci&oacute;n</p>
+			</td>
+			<td style="height:18px">
+			<p>2.000●1&nbsp;</p>
+			</td>
+			<td style="height:18px">
+			<p>2.000●2</p>
+			</td>
+			<td style="height:18px">
+			<p>2.000●3</p>
+			</td>
+			<td style="height:18px">
+			<p>2.000●10</p>
+			</td>
+			<td style="height:18px">
+			<p>2.000●30</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="clear:both;">&nbsp;</div>
+
+<p>En este caso la bonificaci&oacute;n recibida depende de la cantidad de pares de zapatos vendidos, por lo tanto la relaci&oacute;n se puede expresar</p>
+
+<p style="text-align: center;">2.000 ● x</p>
+
+<p>Donde x corresponde a los pares de zapatos vendidos.</p>
+
+<p>Para definir entonces la funci&oacute;n que describe el sueldo recibido solo es necesario al sueldo recibido adicionar la expresi&oacute;n anterior.</p>
+
+<p>&nbsp;</p>
+
+<p>Por lo tanto la funci&oacute;n ser&iacute;a:</p>
+
+<p style="text-align: center;"><em>f(x) = 2.000x + 800.000</em></p>
+]]></section>
+<section title="Practica" path="imagendummy_motorf.jpg" pathAmp="" image1Text="" zoom1="false" zoom2a="false" zoom2b="false" layout="1" >
+<![CDATA[
+
+<p>Lee cada una de las situaciones problema que a continuaci&oacute;n se presentan, identifica en cada caso la variable dependiente e independiente y luego establecer la expresi&oacute;n que indica la relaci&oacute;n.&nbsp;&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>El costo de una factura si se sabe que el cargo fijo es de $10.000&nbsp;y por cada metro c&uacute;bico de agua consumido se debe pagar $7.000.&nbsp;</li>
+	<li>Por cada 10 kil&oacute;metros un autom&oacute;vil consume 2 galones de gasolina.&nbsp;</li>
+	<li>El alquiler de un autom&oacute;vil por 5 horas de $60.000 y por cada hora extra se deben cancelar $15.000.</li>
+	<li>En promedio una gallina pone en el d&iacute;a 6 huevos.&nbsp;</li>
+	<li>Se solicita un pr&eacute;stamo sabiendo que mensualmente se debe cancelar el 10% del dinero.&nbsp;</li>
+</ul>
+]]></section>
+</engine>
