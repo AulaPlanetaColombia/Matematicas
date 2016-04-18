@@ -1,0 +1,681 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
+<libro id="MA_09_13_CO">
+<libroTitulo>La probabilidad</libroTitulo>
+<seccion1 id="S1_MA_09_13_CO_54A20C78686940AEA846928D458155DC">
+<seccion1Titulo>Los experimentos aleatorios</seccion1Titulo>
+<seccion1Texto>
+<p>Se denominan <negrita>experimentos aleatorios</negrita> aquellas
+situaciones en las que no se puede determinar o predecir el resultado,
+ya que éste depende solamente del azar.  Extraer de una baraja de
+naipes una carta, lanzar un dado o una moneda al aire, son algunos
+ejemplos de experimentos aleatorios ya que no se puede determinar
+anticipadamente el resultado que se va a obtener.</p>
+<p>La <negrita>probabilidad</negrita> es una rama de las matemáticas
+que estudia cuantitativamente la posibilidad que un hecho ocurra o
+no. </p>
+<imagen src="MA_09_13_CO_IMG01_small.png">
+<p>La ruleta es un juego de azar, que consiste en lanzar una bola
+a la ruleta, mientras ésta gira. También es considerada un experimento
+aleatorio, pues el azar determina en que casilla de la ruleta va a
+caer la bola.</p>
+</imagen>
+<seccion2 id="S2_MA_09_13_CO_686DEEB17CC7453D97F70236BCC794EE">
+<seccion2Titulo>El espacio muestral</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>espacio muestral</negrita> es el conjunto de <negrita
+>todos</negrita> los posibles resultados que se pueden obtener de
+un experimento aleatorio. Generalmente, los espacios muestrales se
+denotan con la letra <negritacursiva>S</negritacursiva>.</p>
+<p>Los siguientes son ejemplos de espacios muestrales de algunos experimentos
+aleatorios:</p>
+<imagen src="MA_09_13_CO_IMG02_small.png">
+<p>Al lanzar una moneda al aire y anotar sus resultados, dado que
+c: cara, s: sello. El espacio muestral es <cursiva>S</cursiva> = {c,
+s}</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento>El lanzamiento de un dado al aire, tiene como espacio
+muestral: <cursiva>S</cursiva> = {1, 2, 3, 4, 5, 6}</listaElemento>
+<listaElemento>El espacio muestral de lanzar un dado y una moneda
+al aire dado que c representa cara y s sello es <cursiva>S</cursiva
+> = {(c, 1); (c, 2); (c, 3); (c, 4); (c, 5); (c, 6); (s, 1); (s ,2);
+(s, 3); (s, 4); (s, 5); (s, 6)}</listaElemento>
+<listaElemento>Entre Jorge, María, Diana, Cristian y Andres seleccionar
+una persona al azar como ganadora de una rifa <cursiva>S</cursiva
+> = {Jorge, María, Diana, Cristian y Andrés}</listaElemento>
+</listaSinNumerar>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_09_13_CO_686DEEB17CC7453D97F70236BCC772CC">
+<seccion2Titulo>El suceso aleatorio</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>sucesos</negrita> son los posibles resultados de un
+experimento aleatorio. En general se define como:</p>
+<destacado><destacadoTitulo>Suceso aleatorio</destacadoTitulo>
+<destacadoTexto>
+<p>Un subconjunto del espacio muestral se denomina <negrita>suceso</negrita
+> y se denota con letras mayúsculas como <cursiva>A</cursiva>, <cursiva
+>B</cursiva>, <cursiva>C</cursiva>.</p>
+</destacadoTexto></destacado>
+<p>Algunos <negrita>sucesos</negrita> que se pueden determinar al
+lanzar un dado son: obtener un número impar, obtener un número menor
+a 3, sacar el número 4, entre otros.</p>
+<p>Por ejemplo, dado el experimento aleatorio de lanzar al aire un
+dado y anotar el resultado, tiene como espacio muestral al conjunto <cursiva
+>S</cursiva> = {1, 2, 3, 4, 5, 6}.</p>
+<listaSinNumerar>
+<listaElemento>Sea <cursiva>A</cursiva> el suceso de obtener un número
+impar, por lo tanto <cursiva>A</cursiva> = {1, 3, 5}.</listaElemento>
+<listaElemento>Sea <cursiva>B</cursiva> el suceso de obtener un número
+menor que 3, así <cursiva>B</cursiva> = {1, 2, 3}.</listaElemento>
+<listaElemento>Sea <cursiva>C</cursiva> el suceso de obtener 4, de
+esta manera <cursiva>C</cursiva> = {4}.</listaElemento>
+</listaSinNumerar>
+<p>Un suceso aleatorio se clasifica en suceso elemental o simple,
+suceso compuesto, suceso seguro y suceso imposible como se muestra
+en la siguiente tabla:</p>
+<table border="1"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Tipos de sucesos</negrita></td>
+<td align="center"><negrita>Definición</negrita></td>
+<td align="center"><negrita>Ejemplo:</negrita></td>
+</tr>
+<tr>
+<td><negrita>Suceso elemental o simple</negrita></td>
+<td>Es aquel suceso conformado por un elemento del espacio muestral. </td>
+<td><cursiva>A</cursiva>: obtener el número 3 al lanzar el dado<br
+/><cursiva>A</cursiva> = {3}</td>
+</tr>
+<tr>
+<td><negrita>Suceso compuesto</negrita></td>
+<td>Es un subconjunto del espacio muestral que está conformado por
+dos o más elementos de este.</td>
+<td><cursiva>B</cursiva>: obtener un número par al lanzar un dado<br
+/><cursiva>B</cursiva> = {2, 4, 6}</td>
+</tr>
+<tr>
+<td><negrita>Suceso seguro</negrita></td>
+<td>Está formado por todos los posibles resultados del espacio muestral.</td>
+<td><cursiva>C</cursiva>: obtener un número menor que 7 al lanzar
+el dado.<br/><cursiva>C</cursiva> = {1, 2, 3, 4, 5, 6} = <cursiva
+>S</cursiva></td>
+</tr>
+<tr>
+<td><negrita>Suceso imposible</negrita></td>
+<td>Es aquel que no tiene posibilidad de ocurrencia, es decir, es
+el subconjunto vacío del espacio muestral.</td>
+<td><cursiva>D</cursiva>: obtener cara al lanzar un dado<br/><cursiva
+>D</cursiva> = ∅</td>
+</tr>
+</tbody>
+</table>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_09_13_CO_686DEEB17CC7453D97F70236BCC738FF">
+<seccion2Titulo>Las operaciones con sucesos</seccion2Titulo>
+<seccion2Texto>
+<p>Dado que los sucesos aleatorios son subconjuntos del espacio muestral,
+sobre ellos se pueden definir las operaciones de unión, intersección,
+diferencia y complemento entre conjuntos. Así:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Unión entre sucesos aleatorios:</negrita> dados
+los sucesos aleatorios <cursiva>A</cursiva> y <cursiva>B</cursiva
+>, la unión <negrita><cursiva>A</cursiva> ⋃ <cursiva>B</cursiva></negrita
+> se define como el conjunto de todos los elementos de <cursiva>A</cursiva
+>, de <cursiva>B</cursiva> o ambos.</listaElemento>
+</listaSinNumerar>
+<p>Por ejemplo, observa la siguiente ruleta</p>
+<imagen src="MA_09_13_CO_IMG06_small.jpg">
+<p>Al hacer girar la ruleta una vez y anotar el número de puntos obtenidos
+tiene como espacio muestral<br/><cursiva>S</cursiva> = {1, 2, 3, 4,
+5, 6, 7, 8, 9}.</p>
+</imagen>
+<p>Se consideran los siguientes eventos:</p>
+<p><cursiva>A</cursiva>: obtener un múltiplo de 3 en la ruleta.<br
+/><cursiva>B</cursiva>: obtener un mayor que 5.</p>
+<p>Para determinar <cursiva>A</cursiva> ⋃ <cursiva>B</cursiva>, primero
+se determinan los sucesos aleatorios <cursiva>A</cursiva> y <cursiva
+>B</cursiva><br/><cursiva>A</cursiva> = {3, 6, 9}<br/><cursiva>B</cursiva
+> = {6, 7, 8, 9}</p>
+<listaSinNumerar>
+<listaElemento><negrita>Intersección entre sucesos aleatorios:</negrita
+> dados dos sucesos aleatorios, la intersección <cursiva>A</cursiva
+> ⋂ <cursiva>B</cursiva> se define el conjunto de elementos que pertenecen
+a ambos conjuntos.</listaElemento>
+</listaSinNumerar>
+<p>En el ejemplo de la ruleta, cuyo espacio muestral es <cursiva>S</cursiva
+> = {1, 2, 3, 4, 5, 6, 7, 8, 9} y sus eventos son:</p>
+<p><cursiva>A</cursiva>: obtener un múltiplo de 3 en la ruleta.<br
+/><cursiva>B</cursiva>: obtener un mayor que 5.</p>
+<p>Dado que,<br/><cursiva>A</cursiva> = {3, 6, 9}<br/><cursiva>B</cursiva
+> = {6, 7, 8, 9}</p>
+<p>Se obtiene la intersección <cursiva>A</cursiva> ⋂ <cursiva>B</cursiva
+> = {6, 9}.</p>
+<p>De acuerdo con la intersección entre conjuntos, si los sucesos
+aleatorios tienen el mismo espacio muestral, se clasifican en compatibles
+o incompatibles.</p>
+<table border="1"><colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Tipos de sucesos</negrita></td>
+<td align="center"><negrita>Definición</negrita></td>
+<td align="center"><negrita>Ejemplo:</negrita></td>
+</tr>
+<tr>
+<td><negrita>Sucesos compatibles</negrita></td>
+<td>Dos sucesos aleatorios son compatibles si su intersección tiene
+uno o más elementos del espacio muestral.</td>
+<td>Al lanzar un dado al aire y anotar su resultado, los sucesos son<br
+/><br/><cursiva>A</cursiva>: obtener un múltiplo de 3.<br/><cursiva
+>B</cursiva>: obtener un número impar<br/><br/>Por lo tanto<br/><cursiva
+>A</cursiva> = {3, 6}<br/><cursiva>B</cursiva> = {1, 3, 5}<br/><br
+/>Los sucesos <cursiva>A</cursiva> y <cursiva>B</cursiva> son compatibles,
+puesto que <negrita>su intersección no es vacía</negrita>.<br/><cursiva
+>A</cursiva> ⋂ <cursiva>B</cursiva> = {3}</td>
+</tr>
+<tr>
+<td><negrita>Sucesos incompatibles</negrita></td>
+<td>Dos sucesos aleatorios son incompatibles si la intersección entre
+los sucesos es vacía.</td>
+<td>Al lanzar un dado al aire y anotar su resultado, los sucesos son<br
+/><br/><cursiva>C</cursiva>: obtener 5 al lanzar el dado<br/><cursiva
+>D</cursiva>: obtener un número par<br/><br/>Así<br/><cursiva>C</cursiva
+> = {5}<br/><cursiva>D</cursiva> = {2, 4, 6}<br/><br/>Los sucesos <cursiva
+>C</cursiva> y <cursiva>D</cursiva> son incompatibles, puesto que
+la intersección es vacía<br/><cursiva>C</cursiva> ⋂ <cursiva>D</cursiva
+> = ∅</td>
+</tr>
+</tbody>
+</table>
+<p><negrita>Suceso contrario:</negrita> dado un suceso aleatorio <cursiva
+>A</cursiva> el suceso contrario de <cursiva>A</cursiva> que se denota
+como <cursiva>A<superindice>C</superindice></cursiva> se define como
+el conjunto de elementos del espacio muestral que no pertenecen al
+conjunto <cursiva>A</cursiva></p>
+<p>En el ejemplo de la ruleta <cursiva>A<superindice>C</superindice
+></cursiva> = {1, 2, 4, 5, 7, 8} y <cursiva>B<superindice>C</superindice
+></cursiva> = {1, 2, 3, 4, 5}</p>
+<p>Diferencia entre sucesos aleatorios: dados dos sucesos aleatorios <cursiva
+>A</cursiva> y <cursiva>B</cursiva>, la diferencia <cursiva>A</cursiva
+> – <cursiva>B</cursiva> se define como el conjunto de elementos que
+pertenecen al suceso <cursiva>A</cursiva>, pero que no pertenecen
+al suceso <cursiva>B</cursiva>.</p>
+<p>En el ejemplo de la ruleta, dado que <cursiva>A</cursiva> = {3,
+6, 9} y <cursiva>B</cursiva> = {6, 7, 8, 9}</p>
+<p>El único elemento que está en <cursiva>A</cursiva> y que no está
+en <cursiva>B</cursiva> es 3, por lo tanto</p>
+<p><cursiva>A</cursiva> – <cursiva>B</cursiva> = {3}</p>
+<p>Asimismo, para determinar <cursiva>B</cursiva> – <cursiva>A</cursiva
+> es necesario identificar cuales elementos están en <cursiva>B</cursiva
+> y no pertenecen a <cursiva>A</cursiva>. Así</p>
+<p><cursiva>B</cursiva> – <cursiva>A</cursiva> = {7, 8}</p>
+<p>Mediante el diagrama de Venn las operaciones entre sucesos aleatorios
+se representan a continuación</p>
+<imagen src="MA_09_13_CO_IMG03_small.png">
+<p>La imagen presenta las operaciones entre sucesos aleatorios de
+acuerdo con la situación de la ruleta cuyo espacio muestral es<br
+/><cursiva>S</cursiva> = {1, 2, 3, 4, 5, 6, 7, 8, 9}<br/>Y los sucesos
+aleatorios son <br/><cursiva>A</cursiva> = {3, 6, 9}<br/><cursiva
+>B</cursiva> = {6, 7, 8, 9}</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso020&amp;IdRecurso=RES-90BD869201694033ABE6CE50415E1DEE"
+>La unión y la intersección de sucesos. Definición y ejemplos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso030&amp;IdRecurso=RES-4E9F72E239594A9B9746652109935483"
+>Práctica la unión y la intersección de sucesos</enlace>
+</practica>
+<p>En la siguiente sección, enfocaremos nuestra atención en las frecuencias
+de un suceso probabilístico.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_MA_09_13_CO_686DEEB17CC7453D97F70236BCC783DD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso040&amp;IdRecurso=RES-C477DB23AEBF438C95BDD92A04BD9228"
+>Refuerza tu aprendizaje: Los experimentos aleatorios</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0219071">
+<seccion1Titulo>Las frecuencias de un suceso</seccion1Titulo>
+<seccion1Texto>
+<p>Cuando un experimento aleatorio se lleva a cabo, es necesario registrar
+dos datos importantes que permiten calcular la probabilidad de que
+el suceso ocurra, esos son la frecuencia absoluta y la frecuencia
+relativa.</p>
+<destacado><destacadoTitulo>Frecuencia absoluta y frecuencia relativa</destacadoTitulo>
+<destacadoTexto>
+<p>La <negrita>frecuencia absoluta</negrita> de un suceso es el número
+de veces que ocurre este suceso cuando se repite un experimento aleatorio.
+Se representa por <negritacursiva>f<subindice>a</subindice></negritacursiva
+>.</p>
+<p>La <negrita>frecuencia relativa</negrita> es el cociente de la
+frecuencia absoluta <negritacursiva>f<subindice>a</subindice></negritacursiva
+> por el número de veces <cursiva>n</cursiva> que se repite el experimento
+aleatorio. Se representa:</p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_02.gif"></formula>
+</destacadoTexto></destacado>
+<p>La siguiente situación ejemplifica como determinar las frecuencias
+absoluta y relativa de un suceso:</p>
+<p>En una urna hay 7 balotas rojas, 5 azules y 9 verdes. Se extrae
+una balota y se anota el color, regresándola nuevamente a la urna,
+esta acción se realiza 35 veces. Sean los siguientes sucesos:</p>
+<p><cursiva>A</cursiva>: obtener una balota roja.</p>
+<p><cursiva>B</cursiva>: obtener una balota azul.</p>
+<p><cursiva>C</cursiva>: obtener una balota verde.</p>
+<p>Los resultados, del experimento fueron: 19 veces salió balota roja,
+10 veces salió balota azul y 6 veces salió balota verde. A continuación,
+se construye la tabla de frecuencias.</p>
+<table border="1"><caption>Tabla de frecuencias</caption><colgroup><col/>
+<col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Color de la balota</negrita></td>
+<td><negritacursiva>f<subindice>a</subindice></negritacursiva></td>
+<td><negritacursiva>f<subindice>r</subindice></negritacursiva></td>
+</tr>
+<tr>
+<td>Roja</td>
+<td align="center">19</td>
+<td align="center">0,54</td>
+</tr>
+<tr>
+<td>Azul</td>
+<td align="center">10</td>
+<td align="center">0,28</td>
+</tr>
+<tr>
+<td>Verde</td>
+<td align="center">6</td>
+<td align="center">0,17</td>
+</tr>
+<tr>
+<td><negrita>Total</negrita></td>
+<td align="center">35</td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso050&amp;IdRecurso=RES-27B0742D28A74FE1AACBFB3600FD467A"
+>La frecuencia de un suceso</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso060&amp;IdRecurso=RES-C05FC70E07AF4886A52CD32B59332511"
+>Calcula las frecuencias absolutas y relativas de diversos sucesos</enlace>
+</practica>
+<p>En la siguiente sección se presenta como calcular la probabilidad
+de que un suceso aleatorio ocurra. Es importante destacar que cuando
+se realiza un experimento aleatorio muchas veces el valor de la frecuencia
+relativa se aproxima al valor de la probabilidad del suceso, este
+hecho se denomina como <negrita>La ley de los grandes números</negrita
+>.</p>
+<seccion2>
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso070&amp;IdRecurso=RES-E3F398A4D8854952B6E3466971682056"
+>Refuerza tu aprendizaje: La frecuencia de un suceso</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_09_13_CO_DA8B7776781D489BACE47955AE35E9CD">
+<seccion1Titulo>La probabilidad de un suceso</seccion1Titulo>
+<seccion1Texto>
+<p>La probabilidad de un suceso es un número comprendido entre 0 y
+1, entre más se acerque a 1 es más probable que suceso ocurra y entre
+más se acerque a 0 es menos probable que suceda, también puede ser
+expresada en porcentajes, es decir entre 0% y 100%.  La probabilidad
+de un suceso se define como:</p>
+<destacado><destacadoTitulo>La probabilidad que ocurra un suceso <cursiva
+>A</cursiva></destacadoTitulo><destacadoTexto>
+<p>Es el cociente (división) entre el número de sucesos favorables
+que componen a <negritacursiva>A</negritacursiva> y el número de sucesos
+del espacio muestral. Se representa como <negritacursiva>P(A)</negritacursiva
+>.</p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_04.gif"></formula>
+<p>Este resultado es conocido como <negrita>Regla de Laplace</negrita
+> y solamente se aplica cuando todos los elementos del espacio muestral
+tienen la misma probabilidad de ocurrir.</p>
+</destacadoTexto></destacado>
+<p>Cuando todos los resultados de un experimento aleatorio, tienen
+la misma posibilidad de ocurrir se dice que son <negrita>equiprobables</negrita
+>.</p>
+<p>Por ejemplo,</p>
+<p><negritacursiva>A</negritacursiva>: Martín, tiene en su bolsillo
+5 monedas de $500 y 3 de $ 200. ¿Cuál es la probabilidad de sacar
+una moneda de $200?</p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_07.gif"></formula>
+<p>La probabilidad de sacar una moneda de $200, es 3 de 8; 0,375 o
+el 37,5 %</p>
+<p><negritacursiva>B</negritacursiva>: Extraer una carta de ases de
+una baraja de 40.</p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_08.gif"></formula>
+<p>En una baraja de 40 cartas, hay 4 ases, por lo tanto, la probabilidad
+de sacar un as, es 4 de 40; 0,1 o el 10%</p>
+<p><negritacursiva>C</negritacursiva>: Obtener un número par al lanzar
+un dado</p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_09.gif"></formula>
+<p>Al lanzar un dado, hay 3 posibilidades de obtener un número par
+de un total de 6. Entonces, la probabilidad de obtener un número par
+es 3 de 6; 0,5 o el 50%</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso080&amp;IdRecurso=RES-34695E8842D543D5998257841A7F3B15"
+>Sucesos equiprobables: La ley de Laplace</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso110&amp;IdRecurso=RES-E80EC8D558264A90BA8C0B148EBD2927"
+>Calcula la probabilidad de un suceso</enlace>
+</practica><seccion2
+id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0215295">
+<seccion2Titulo>Las propiedades de la probabilidad</seccion2Titulo>
+<seccion2Texto>
+<p>Sea <negritacursiva>S</negritacursiva> el espacio muestral de un
+experimento aleatorio, <negritacursiva>A</negritacursiva> y <negritacursiva
+>B</negritacursiva> sucesos del mismo.  En el cálculo de probabilidades
+se cumplen las siguientes propiedades:</p>
+<listaNumerada>
+<listaElemento><negrita>La probabilidad del suceso contrario:</negrita
+><formula alineacion="izquierda"
+src="cuadernoestudio/images_xml/MA_09_13_10.gif"></formula>Ejemplo:<br
+/>La probabilidad de sacar un as de una baraja de 40 cartas es 0,1.
+Por lo tanto, la probabilidad de no sacar un as será de:<br/>1 – 0,1
+= 0,9 o del 90%.</listaElemento>
+<listaElemento><negrita>La probabilidad de un suceso seguro:</negrita
+><br/><cursiva>P</cursiva>(<cursiva>S</cursiva>) = 1<br/>Por ejemplo,
+al lanzar un dado convencional, la probabilidad de obtener un número
+menor a 7 es igual a:<formula alineacion="izquierda"
+src="cuadernoestudio/images_xml/MA_09_13_11.gif"></formula></listaElemento>
+<listaElemento><negrita>La probabilidad de un suceso imposible:</negrita
+><br/><cursiva>P</cursiva>(∅) = 0<br/>Por ejemplo, en una urna hay
+dos balotas de color rojo y una de color negro, la probabilidad de
+sacar al azar una balota de color amarillo es<formula
+alineacion="izquierda" src="cuadernoestudio/images_xml/MA_09_13_12.gif">
+</formula></listaElemento>
+<listaElemento><negrita>La probabilidad y la contenencia de sucesos:</negrita
+><br/>Si <cursiva>A</cursiva> ⊂ <cursiva>B</cursiva> → <cursiva>P</cursiva
+>(<cursiva>A</cursiva>) ≤ <cursiva>P</cursiva>(<cursiva>B</cursiva
+>)<br/>Al lanzar un dado convencional, sea <cursiva>A</cursiva> el
+suceso de obtener un número mayor que 4 y <cursiva>B</cursiva> obtener
+un número mayor que 2. Como todos los elementos del suceso <cursiva
+>A</cursiva> están en el suceso <cursiva>B</cursiva> se dice que <cursiva
+>A</cursiva> ⊂ <cursiva>B</cursiva>, de esta manera<formula
+alineacion="izquierda" src="cuadernoestudio/images_xml/MA_09_13_13.gif">
+</formula></listaElemento>
+<listaElemento><negrita>La probabilidad de la diferencia de sucesos:</negrita
+><br/><cursiva>P</cursiva>(<cursiva>A</cursiva> – <cursiva>B</cursiva
+>) = <cursiva>P</cursiva>(<cursiva>A</cursiva>) – <cursiva>P</cursiva
+>(<cursiva>A</cursiva> ⋂ <cursiva>B</cursiva>)<br/>Al lanzar un dado
+convencional, sea <cursiva>A</cursiva>, el suceso de obtener un número
+menor que 6 y <cursiva>B</cursiva> obtener un número par, se tienen
+los siguientes sucesos:<br/><cursiva>A</cursiva> = {1, 2, 3, 4, 5},<br
+/><cursiva>B</cursiva> = {2, 4, 6}, <br/><cursiva>A</cursiva> – <cursiva
+>B</cursiva> = {1, 3, 5},<br/> <cursiva>A</cursiva> ⋂ <cursiva>B</cursiva
+> = {2, 4}<br/>La probabilidad de obtener un número menor que 6 que
+no sea par se define mediante el conjunto <cursiva>A</cursiva> – <cursiva
+>B</cursiva>. Así<formula alineacion="izquierda"
+src="cuadernoestudio/images_xml/MA_09_13_15.gif"></formula></listaElemento>
+<listaElemento><negrita>La probabilidad de la unión de dos sucesos
+compatibles:</negrita><br/><cursiva>P</cursiva>(<cursiva>A</cursiva
+> ⋃ <cursiva>B</cursiva>) = <cursiva>P</cursiva>(<cursiva>A</cursiva
+>) + <cursiva>P</cursiva>(<cursiva>B</cursiva>) – <cursiva>P</cursiva
+>(<cursiva>A</cursiva> ⋂ <cursiva>B</cursiva>)<br/>Para todo <cursiva
+>A</cursiva> y <cursiva>B</cursiva> sucesos incompatibles.<br/>Al
+lanzar un dado convencional, sea A el suceso de obtener un número
+impar, y B obtener un múltiplo de 3.<br/><cursiva>A</cursiva> = {1,
+3, 5},<br/><cursiva>B</cursiva> = {3, 6}, <br/><cursiva>A</cursiva
+> ⋂ <cursiva>B</cursiva> = {3} La probabilidad de obtener un número
+impar o un múltiplo de 3 esta dada por el suceso A ⋃ B, así:<formula
+alineacion="izquierda" src="cuadernoestudio/images_xml/MA_09_13_16.gif">
+</formula> La probabilidad aproximada a dos decimales es de 0,66</listaElemento>
+<listaElemento><negrita>La probabilidad de la unión dos sucesos incompatibles:</negrita
+><br/><cursiva>P</cursiva>(<cursiva>A</cursiva> ⋃ <cursiva>B</cursiva
+>) = <cursiva>P</cursiva>(<cursiva>A</cursiva>) + <cursiva>P</cursiva
+>(<cursiva>B</cursiva>)<br/>Para todo <cursiva>A</cursiva> y <cursiva
+>B</cursiva> sucesos incompatibles.</listaElemento>
+</listaNumerada>
+<recuerda><recuerdaTexto>
+<p>Dos sucesos son incompatibles cuando no tienen elementos en común.
+Es decir, que <cursiva>A</cursiva> ⋂ <cursiva>B</cursiva> = ∅</p>
+</recuerdaTexto></recuerda>
+<p>En una urna una balota roja, una azul, dos verdes y una negra,
+sea el suceso <cursiva>A</cursiva> de obtener una balota verde y el
+suceso <cursiva>B</cursiva> de obtener una balota azul. Así,</p>
+<p><cursiva>P</cursiva>(<cursiva>A</cursiva>) = 0,4 <br/><cursiva
+>P</cursiva>(<cursiva>B</cursiva>) = 0,2</p>
+<p>Por lo tanto, la probabilidad de obtener una balota verde o negra
+está dada por la expresión</p>
+<p><cursiva>P</cursiva>(<cursiva>A</cursiva> ⋃ <cursiva>B</cursiva
+>) = 0,2 + 0,4 = 0,6</p>
+<p>La probabilidad es de 0,6</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso100&amp;IdRecurso=RES-E1E3DEE94BBF4FD0ABE4C82AD99332FB"
+>Aprende las propiedades de la probabilidad</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso090&amp;IdRecurso=RES-50BE773DC09F418DB9D62B1738253533"
+>Enuncia las propiedades de las probabilidades</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso120&amp;IdRecurso=RES-1B863795221642DB864755B3DD014915"
+>Resuelve problemas de probabilidad</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0216306">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso130&amp;IdRecurso=RES-C050F96855BB4B0381B0DD065BF71582"
+>Refuerza tu aprendizaje: La probabilidad de un suceso</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_09_13_CO_2FD6C27C9BD54596AC9232CE322AC387">
+<seccion1Titulo>Los experimentos aleatorios compuestos</seccion1Titulo>
+<seccion1Texto>
+<p>Un <negrita>experimento aleatorio compuesto</negrita> es el que
+está formado por dos o más experimentos aleatorios simples, realizados
+consecutivamente.</p>
+<p>Es decir, si se lanza una moneda o un dado convencional, son experimentos
+aleatorios simples, pero si se realizan ambos eventos simples es un
+experimento compuesto, cuyo espacio muestral es:</p>
+<p><cursiva>c</cursiva>: cara</p>
+<p><cursiva>s</cursiva>: sello</p>
+<p><cursiva>S</cursiva> = {(<cursiva>c</cursiva>, 1); (<cursiva>c</cursiva
+>, 2); (<cursiva>c</cursiva>, 3); (<cursiva>c</cursiva>, 4); (<cursiva
+>c</cursiva>, 5); (<cursiva>c</cursiva>, 6); (<cursiva>s</cursiva
+>, 1); (<cursiva>s</cursiva>, 2); (<cursiva>s</cursiva>, 3); (<cursiva
+>s</cursiva>, 4); (<cursiva>s</cursiva>, 5); (<cursiva>s</cursiva
+>, 6)}</p>
+<p>A continuación se presenta una forma de representación que permite
+determinar todos los elementos del espacio muestral.</p>
+<seccion2 id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0215584">
+<seccion2Titulo>El diagrama de árbol</seccion2Titulo>
+<seccion2Texto>
+<p>El diagrama de árbol, es una técnica que permite obtener los posibles
+resultados de un experimento cuando se produce en pocas etapas. Cada
+paso del experimento se representa en una ramificación del árbol.
+Mediante este, se puede determinar el total de resultados posibles
+de un experimento y el número de resultados favorables de cualquier
+suceso del experimento compuesto.</p>
+<p>Los siguientes son algunos ejemplos de diagramas de árbol resultantes
+al realizar un experimento aleatorio compuesto</p>
+<listaSinNumerar>
+<listaElemento>Lanzar una moneda al aire 2 veces y sacar una balota,
+de una urna que contiene una balota roja, una morada y una amarilla:</listaElemento>
+</listaSinNumerar>
+<imagen src="MA_09_13_CO_IMG04_small.jpg">
+<p>Diagrama de árbol  del experimento lanzar una moneda al aire 2
+veces y sacar una balota, de una urna que contiene una balota roja,
+una morada y una amarilla.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento>Samuel, tiene 4 pantalones, 4 camisas y 2 pares de
+zapatos. ¿De cuantas maneras diferentes se puede vestir?</listaElemento>
+</listaSinNumerar>
+<imagen src="MA_09_13_CO_IMG05_small.jpg">
+<p>En este diagrama de árbol se presenta que:<br/><cursiva>P</cursiva
+>1: pantalón 1, <cursiva>P</cursiva>2: pantalón 2, <cursiva>P</cursiva
+>3: pantalón 3, <cursiva>P</cursiva>4: pantalón 4 <cursiva>C</cursiva
+>1: camisa 1, <cursiva>C</cursiva>2: camisa 2, <cursiva>C</cursiva
+>3: camisa 3, <cursiva>C</cursiva>4: camisa 4 <cursiva>Z</cursiva
+>1: zapatos 1, <cursiva>Z</cursiva>2: zapatos</p>
+</imagen>
+<p>En total tiene 32 forma distintas de vestirse.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso140&amp;IdRecurso=RES-5984C8D0ED304B5BB6490C438D4D50B5"
+>El diagrama de árbol y las permutaciones</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso150&amp;IdRecurso=RES-65EFFFB28459430FA79BF023A0D38315"
+>Calcula la probabilidad mediante diagramas de árbol y permutación</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso180&amp;IdRecurso=RES-196FB4AE0DB243ED86A03C765E6645A8"
+>La resolución de problemas mediante diagramas de árbol</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso190&amp;IdRecurso=RES-CCD0D9D4E829429C8E9EC689DBB702A8"
+>Resuelve problemas de experimentos compuestos</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0211157">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso160&amp;IdRecurso=RES-7151BD0575AB4595A7DCEF2A5CE666CD"
+>Refuerza tu aprendizaje: Los experimentos aleatorios compuestos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_09_13_CO_9F4C5969F29F471996D22DBD465F4A2D">
+<seccion1Titulo>La probabilidad condicionada</seccion1Titulo>
+<seccion1Texto>
+<p>La probabilidad condicionada o probabilidad condicional se define
+como</p>
+<destacado><destacadoTitulo>La probabilidad condicional</destacadoTitulo>
+<destacadoTexto>
+<p>Sean A y B sucesos de un mismo experimento aleatorio. Se denomina
+probabilidad condicionada a la probabilidad de que ocurra el suceso
+A si ha ocurrido el suceso B.</p>
+<p>Esta se calcula mediante la formula</p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_18.gif"></formula>
+</destacadoTexto></destacado>
+<p>El siguiente ejemplo, ayudará a aclarar un poco más el concepto
+y su aplicación.</p>
+<p>Una persona lanza una moneda 3 veces. Se debe determinar la probabilidad
+de obtener 3 caras, teniendo en cuenta que salió por lo menos una
+vez cara. El espacio muestral de lanzar las tres veces la moneda al
+aire es</p>
+<p><cursiva>S</cursiva> = {<cursiva>ccc</cursiva>, <cursiva>ccs</cursiva
+>, <cursiva>csc</cursiva>, <cursiva>css</cursiva>, <cursiva>scc</cursiva
+>, <cursiva>scs</cursiva>, <cursiva>ssc</cursiva>, <cursiva>sss</cursiva
+>}</p>
+<p>Sea <cursiva>B</cursiva> el suceso aleatorio de obtener por lo
+menos una vez cara</p>
+<p><cursiva>B</cursiva> = {<cursiva>ccc</cursiva>, <cursiva>ccs</cursiva
+>, <cursiva>csc</cursiva>, <cursiva>css</cursiva>, <cursiva>scc</cursiva
+>, <cursiva>scs</cursiva>, <cursiva>ssc</cursiva>}</p>
+<p>Así, la probabilidad de <cursiva>B</cursiva> está dada por la ecuación </p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_19.gif"></formula>
+<p>Sea <cursiva>A</cursiva> el suceso de obtener tres caras, por lo
+tanto</p>
+<p><cursiva>A</cursiva> = {<cursiva>ccc</cursiva>}</p>
+<p>Además, <cursiva>A</cursiva> ⋂ <cursiva>B</cursiva> = {<cursiva
+>ccc</cursiva>}</p>
+<p>Dado que la probabilidad de <cursiva>A</cursiva> ⋂ <cursiva>B</cursiva
+> es</p>
+<formula alineacion="izquierda"
+src="cuadernoestudio/images_xml/MA_09_13_20.gif"></formula>
+<p>Por lo tanto,</p>
+<formula alineacion="izquierda"
+src="cuadernoestudio/images_xml/MA_09_13_21.gif"></formula>
+<p>Bajo la condición de que al menos una vez cara al lanzar tres veces
+la moneda, la probabilidad de obtener tres caras es 0,14.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso170&amp;IdRecurso=RES-1AB20F4EA19F4EA79BEC200F3937B27B"
+>La probabilidad condicionada</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso200&amp;IdRecurso=RES-342D41142C45464D939F7207EABF06A7"
+>Calcula la probabilidad condicionada</enlace>
+</practica><seccion2
+id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0214473">
+<seccion2Titulo>Sucesos dependientes</seccion2Titulo>
+<seccion2Texto>
+<p>Sean <cursiva>A</cursiva> y <cursiva>B</cursiva> sucesos de un
+mismo experimento aleatorio, son <negrita>sucesos dependientes</negrita
+> si la realización de <cursiva>A</cursiva> condiciona la realización
+de <cursiva>B</cursiva>, es decir,  <cursiva>P</cursiva>(<cursiva
+>B</cursiva>|<cursiva>A</cursiva>) ≠ <cursiva>P</cursiva>(<cursiva
+>B</cursiva>).</p>
+<p>Es decir que <cursiva>B</cursiva> se ve afectada porque el suceso <cursiva
+>A</cursiva> haya sucedido o no, La probabilidad de sucesos independientes
+se determina mediante la fórmula</p>
+<formula alineacion="centrada"
+src="cuadernoestudio/images_xml/MA_09_13_22.gif"></formula>
+<p>Por ejemplo, extraer una de una baraja de 40 y luego sin hacer
+reposición de ella extraer una segunda carta, es un ejemplo de <negrita
+>suceso dependiente</negrita>, ya que el tamaño del espacio muestral
+para la primera es de 40, al no reponerse en la baraja la primera
+carta, se reduce a 39 para la segunda. Es decir, que un suceso se
+ve afectado por que ocurra o no el otro.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso210&amp;IdRecurso=RES-04226AE63DA0412FA10D432D8BBB4184"
+>Determina la probabilidad de sucesos independientes</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso220&amp;IdRecurso=RES-04226AE63DA0412FA10D432D8BBB4184"
+>Indica la probabilidad de sucesos independientes</enlace><?Pub Caret -3?>
+</practica></seccion2Texto></seccion2><seccion2
+id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0210182">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso230&amp;IdRecurso=RES-3B22D048517F4D32A4B50653B440DE8D"
+>Refuerza tu aprendizaje: La probabilidad condicionada</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_09_13_CO_D6E6ACFB8BAE4B4ABA3502038B441949">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso240&amp;IdRecurso=RES-8D3E96A3D3A94AB9B46EC71DB7A9C993"
+>Competencias: probabilidades con los grupos sanguíneos</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_MA_09_13_CO_F3FBA7647A744464B3411E50EC20FA29"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso260&amp;IdRecurso=RES-9D2E9ED42FB34534BB83410F29D89C0A"
+>Mapa conceptual sobre el tema La probabilidad</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso270&amp;IdRecurso=RES-94E6F76AA97A4373AEA74AAB0F914A6C"
+>Evalúa tus conocimientos sobre el tema La probabilidad</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://thales.cica.es/rd/Recursos/rd98/Matematicas/28/matematicas-28.html"
+>La probabilidad y los conceptos que la componen.</enlace>
+<enlace
+destino="http://www.ceibal.edu.uy/contenidos/areas_conocimiento/mat/probabilidad/index.html"
+>El concepto de  probabilidad por medio de ejemplos sencillos.</enlace>
+<enlace
+destino="http://datateca.unad.edu.co/contenidos/100402/moduloexe/anexo_1_resea_histrica_sobre_la_probabilidad.html"
+>La historia de la probabilidad.</enlace>
+</enlacesreferencia></masinformacion></libro>
