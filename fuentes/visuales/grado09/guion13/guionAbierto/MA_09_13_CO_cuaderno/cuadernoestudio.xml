@@ -23,7 +23,12 @@ a la ruleta, mientras ésta gira. También es considerada un experimento
 aleatorio, pues el azar determina en que casilla de la ruleta va a
 caer la bola.</p>
 </imagen>
-<seccion2 id="S2_MA_09_13_CO_686DEEB17CC7453D97F70236BCC794EE">
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso010&amp;IdRecurso=RES-CB509773FFA54860A6349F5383D1EA00"
+>Los experimentos aleatorios</enlace>
+</profundiza><seccion2
+id="S2_MA_09_13_CO_686DEEB17CC7453D97F70236BCC794EE">
 <seccion2Titulo>El espacio muestral</seccion2Titulo>
 <seccion2Texto>
 <p>El <negrita>espacio muestral</negrita> es el conjunto de <negrita
@@ -214,12 +219,12 @@ en <cursiva>B</cursiva> es 3, por lo tanto</p>
 <p><cursiva>B</cursiva> – <cursiva>A</cursiva> = {7, 8}</p>
 <p>Mediante el diagrama de Venn las operaciones entre sucesos aleatorios
 se representan a continuación</p>
-<imagen src="MA_09_13_CO_IMG03_small.png">
+<imagen ampliable="no" src="MA_09_13_CO_IMG03_small.png">
 <p>La imagen presenta las operaciones entre sucesos aleatorios de
 acuerdo con la situación de la ruleta cuyo espacio muestral es<br
 /><cursiva>S</cursiva> = {1, 2, 3, 4, 5, 6, 7, 8, 9}<br/>Y los sucesos
 aleatorios son <br/><cursiva>A</cursiva> = {3, 6, 9}<br/><cursiva
->B</cursiva> = {6, 7, 8, 9}</p>
+>B</cursiva> = {6, 7, 8, 9}</p><?Pub Caret -2?>
 </imagen>
 <profundiza>
 <enlace
@@ -259,8 +264,7 @@ Se representa por <negritacursiva>f<subindice>a</subindice></negritacursiva
 frecuencia absoluta <negritacursiva>f<subindice>a</subindice></negritacursiva
 > por el número de veces <cursiva>n</cursiva> que se repite el experimento
 aleatorio. Se representa:</p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_02.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_02.gif"></formula>
 </destacadoTexto></destacado>
 <p>La siguiente situación ejemplifica como determinar las frecuencias
 absoluta y relativa de un suceso:</p>
@@ -318,7 +322,7 @@ se realiza un experimento aleatorio muchas veces el valor de la frecuencia
 relativa se aproxima al valor de la probabilidad del suceso, este
 hecho se denomina como <negrita>La ley de los grandes números</negrita
 >.</p>
-<seccion2>
+<seccion2 id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0217307">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -341,8 +345,7 @@ de un suceso se define como:</p>
 que componen a <negritacursiva>A</negritacursiva> y el número de sucesos
 del espacio muestral. Se representa como <negritacursiva>P(A)</negritacursiva
 >.</p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_04.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_04.gif"></formula>
 <p>Este resultado es conocido como <negrita>Regla de Laplace</negrita
 > y solamente se aplica cuando todos los elementos del espacio muestral
 tienen la misma probabilidad de ocurrir.</p>
@@ -354,20 +357,17 @@ la misma posibilidad de ocurrir se dice que son <negrita>equiprobables</negrita
 <p><negritacursiva>A</negritacursiva>: Martín, tiene en su bolsillo
 5 monedas de $500 y 3 de $ 200. ¿Cuál es la probabilidad de sacar
 una moneda de $200?</p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_07.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_07.gif"></formula>
 <p>La probabilidad de sacar una moneda de $200, es 3 de 8; 0,375 o
 el 37,5 %</p>
 <p><negritacursiva>B</negritacursiva>: Extraer una carta de ases de
 una baraja de 40.</p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_08.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_08.gif"></formula>
 <p>En una baraja de 40 cartas, hay 4 ases, por lo tanto, la probabilidad
 de sacar un as, es 4 de 40; 0,1 o el 10%</p>
 <p><negritacursiva>C</negritacursiva>: Obtener un número par al lanzar
 un dado</p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_09.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_09.gif"></formula>
 <p>Al lanzar un dado, hay 3 posibilidades de obtener un número par
 de un total de 6. Entonces, la probabilidad de obtener un número par
 es 3 de 6; 0,5 o el 50%</p>
@@ -389,8 +389,7 @@ experimento aleatorio, <negritacursiva>A</negritacursiva> y <negritacursiva
 se cumplen las siguientes propiedades:</p>
 <listaNumerada>
 <listaElemento><negrita>La probabilidad del suceso contrario:</negrita
-><formula alineacion="izquierda"
-src="cuadernoestudio/images_xml/MA_09_13_10.gif"></formula>Ejemplo:<br
+><formula alineacion="izquierda" src="MA_09_13_10.gif"></formula>Ejemplo:<br
 />La probabilidad de sacar un as de una baraja de 40 cartas es 0,1.
 Por lo tanto, la probabilidad de no sacar un as será de:<br/>1 – 0,1
 = 0,9 o del 90%.</listaElemento>
@@ -398,13 +397,12 @@ Por lo tanto, la probabilidad de no sacar un as será de:<br/>1 – 0,1
 ><br/><cursiva>P</cursiva>(<cursiva>S</cursiva>) = 1<br/>Por ejemplo,
 al lanzar un dado convencional, la probabilidad de obtener un número
 menor a 7 es igual a:<formula alineacion="izquierda"
-src="cuadernoestudio/images_xml/MA_09_13_11.gif"></formula></listaElemento>
+src="MA_09_13_11.gif"></formula></listaElemento>
 <listaElemento><negrita>La probabilidad de un suceso imposible:</negrita
 ><br/><cursiva>P</cursiva>(∅) = 0<br/>Por ejemplo, en una urna hay
 dos balotas de color rojo y una de color negro, la probabilidad de
 sacar al azar una balota de color amarillo es<formula
-alineacion="izquierda" src="cuadernoestudio/images_xml/MA_09_13_12.gif">
-</formula></listaElemento>
+alineacion="izquierda" src="MA_09_13_12.gif"></formula></listaElemento>
 <listaElemento><negrita>La probabilidad y la contenencia de sucesos:</negrita
 ><br/>Si <cursiva>A</cursiva> ⊂ <cursiva>B</cursiva> → <cursiva>P</cursiva
 >(<cursiva>A</cursiva>) ≤ <cursiva>P</cursiva>(<cursiva>B</cursiva
@@ -413,8 +411,7 @@ suceso de obtener un número mayor que 4 y <cursiva>B</cursiva> obtener
 un número mayor que 2. Como todos los elementos del suceso <cursiva
 >A</cursiva> están en el suceso <cursiva>B</cursiva> se dice que <cursiva
 >A</cursiva> ⊂ <cursiva>B</cursiva>, de esta manera<formula
-alineacion="izquierda" src="cuadernoestudio/images_xml/MA_09_13_13.gif">
-</formula></listaElemento>
+alineacion="izquierda" src="MA_09_13_13.gif"></formula></listaElemento>
 <listaElemento><negrita>La probabilidad de la diferencia de sucesos:</negrita
 ><br/><cursiva>P</cursiva>(<cursiva>A</cursiva> – <cursiva>B</cursiva
 >) = <cursiva>P</cursiva>(<cursiva>A</cursiva>) – <cursiva>P</cursiva
@@ -426,8 +423,8 @@ los siguientes sucesos:<br/><cursiva>A</cursiva> = {1, 2, 3, 4, 5},<br
 >B</cursiva> = {1, 3, 5},<br/> <cursiva>A</cursiva> ⋂ <cursiva>B</cursiva
 > = {2, 4}<br/>La probabilidad de obtener un número menor que 6 que
 no sea par se define mediante el conjunto <cursiva>A</cursiva> – <cursiva
->B</cursiva>. Así<formula alineacion="izquierda"
-src="cuadernoestudio/images_xml/MA_09_13_15.gif"></formula></listaElemento>
+>B</cursiva>. Así<formula alineacion="izquierda" src="MA_09_13_15.gif">
+</formula></listaElemento>
 <listaElemento><negrita>La probabilidad de la unión de dos sucesos
 compatibles:</negrita><br/><cursiva>P</cursiva>(<cursiva>A</cursiva
 > ⋃ <cursiva>B</cursiva>) = <cursiva>P</cursiva>(<cursiva>A</cursiva
@@ -439,8 +436,8 @@ impar, y B obtener un múltiplo de 3.<br/><cursiva>A</cursiva> = {1,
 3, 5},<br/><cursiva>B</cursiva> = {3, 6}, <br/><cursiva>A</cursiva
 > ⋂ <cursiva>B</cursiva> = {3} La probabilidad de obtener un número
 impar o un múltiplo de 3 esta dada por el suceso A ⋃ B, así:<formula
-alineacion="izquierda" src="cuadernoestudio/images_xml/MA_09_13_16.gif">
-</formula> La probabilidad aproximada a dos decimales es de 0,66</listaElemento>
+alineacion="izquierda" src="MA_09_13_16.gif"></formula> La probabilidad
+aproximada a dos decimales es de 0,66</listaElemento>
 <listaElemento><negrita>La probabilidad de la unión dos sucesos incompatibles:</negrita
 ><br/><cursiva>P</cursiva>(<cursiva>A</cursiva> ⋃ <cursiva>B</cursiva
 >) = <cursiva>P</cursiva>(<cursiva>A</cursiva>) + <cursiva>P</cursiva
@@ -571,8 +568,7 @@ como</p>
 probabilidad condicionada a la probabilidad de que ocurra el suceso
 A si ha ocurrido el suceso B.</p>
 <p>Esta se calcula mediante la formula</p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_18.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_18.gif"></formula>
 </destacadoTexto></destacado>
 <p>El siguiente ejemplo, ayudará a aclarar un poco más el concepto
 y su aplicación.</p>
@@ -590,8 +586,7 @@ menos una vez cara</p>
 >, <cursiva>csc</cursiva>, <cursiva>css</cursiva>, <cursiva>scc</cursiva
 >, <cursiva>scs</cursiva>, <cursiva>ssc</cursiva>}</p>
 <p>Así, la probabilidad de <cursiva>B</cursiva> está dada por la ecuación </p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_19.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_19.gif"></formula>
 <p>Sea <cursiva>A</cursiva> el suceso de obtener tres caras, por lo
 tanto</p>
 <p><cursiva>A</cursiva> = {<cursiva>ccc</cursiva>}</p>
@@ -599,11 +594,9 @@ tanto</p>
 >ccc</cursiva>}</p>
 <p>Dado que la probabilidad de <cursiva>A</cursiva> ⋂ <cursiva>B</cursiva
 > es</p>
-<formula alineacion="izquierda"
-src="cuadernoestudio/images_xml/MA_09_13_20.gif"></formula>
+<formula alineacion="izquierda" src="MA_09_13_20.gif"></formula>
 <p>Por lo tanto,</p>
-<formula alineacion="izquierda"
-src="cuadernoestudio/images_xml/MA_09_13_21.gif"></formula>
+<formula alineacion="izquierda" src="MA_09_13_21.gif"></formula>
 <p>Bajo la condición de que al menos una vez cara al lanzar tres veces
 la moneda, la probabilidad de obtener tres caras es 0,14.</p>
 <profundiza>
@@ -627,8 +620,7 @@ de <cursiva>B</cursiva>, es decir,  <cursiva>P</cursiva>(<cursiva
 <p>Es decir que <cursiva>B</cursiva> se ve afectada porque el suceso <cursiva
 >A</cursiva> haya sucedido o no, La probabilidad de sucesos independientes
 se determina mediante la fórmula</p>
-<formula alineacion="centrada"
-src="cuadernoestudio/images_xml/MA_09_13_22.gif"></formula>
+<formula alineacion="centrada" src="MA_09_13_22.gif"></formula>
 <p>Por ejemplo, extraer una de una baraja de 40 y luego sin hacer
 reposición de ella extraer una segunda carta, es un ejemplo de <negrita
 >suceso dependiente</negrita>, ya que el tamaño del espacio muestral
@@ -640,8 +632,8 @@ ve afectado por que ocurra o no el otro.</p>
 destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso210&amp;IdRecurso=RES-04226AE63DA0412FA10D432D8BBB4184"
 >Determina la probabilidad de sucesos independientes</enlace>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso220&amp;IdRecurso=RES-04226AE63DA0412FA10D432D8BBB4184"
->Indica la probabilidad de sucesos independientes</enlace><?Pub Caret -3?>
+destino="/LoIdRedirect.aspx?LoId=MA_09_13_CO_Recurso220&amp;IdRecurso=RES-FBF84CA992A342ABABC7B3FBB27F555C"
+>Indica la probabilidad de sucesos independientes</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S1_MA_09_13_CO_C2C05A1CCF634084A6C6C824A0210182">
 <seccion2Titulo>Consolidación</seccion2Titulo>
