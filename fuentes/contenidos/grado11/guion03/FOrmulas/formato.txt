@@ -1,0 +1,5 @@
+Gif
+Verdana
+10pt
+120
+transparente
