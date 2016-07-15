@@ -1,0 +1,896 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
+<libro id="MA_10_01_CO">
+<libroTitulo>Las funciones de números reales</libroTitulo>
+<seccion1 id="S1_MA_10_01_CO_47B5E6228278406093454430D94C1F09">
+<seccion1Titulo>Las funciones reales</seccion1Titulo>
+<seccion1Texto>
+<p>Conjuntos de objetos pueden ser relacionados a través de reglas
+que definen la relación entre los elementos de los conjuntos; por
+ejemplo, la regla “ser madre de” relaciona el conjunto de mujeres
+que tienen hijos con el conjunto de personas.   </p>
+<p>En el caso de conjuntos numéricos también es posible definir reglas
+de relación, por ejemplo, una relación entre el conjunto de números
+naturales con él mismo está dada por la regla “ser el doble de”; esta
+regla puede representarse como una ecuación: <cursiva>y</cursiva> =
+2<cursiva>x</cursiva>, donde y será el doble de <cursiva>x</cursiva
+>.</p>
+<imagen src="MA_10_01_CO_IMG01">
+<p>La altura de las personas es una relación entre el conjunto de
+personas y el conjunto de los números reales.</p>
+</imagen>
+<p>Algunas relaciones entre conjuntos son llamadas funciones y son
+utilizadas para modelar situaciones en Ciencias, Economía y otras
+disciplinas.</p>
+<seccion2 id="S2_MA_10_01_CO_D16120CC08174D2D918886E51C111F5D">
+<seccion2Titulo>El concepto de función</seccion2Titulo>
+<seccion2Texto>
+<p>De las posibles relaciones entre dos conjuntos, las funciones son
+tipos particulares de relaciones que cumplen condiciones específicas.</p>
+<destacado><destacadoTitulo>Definición de función </destacadoTitulo>
+<destacadoTexto>
+<p>Una función es una relación entre dos conjuntos tal que a cada
+elemento del primer conjunto le corresponde un elemento del segundo
+conjunto. </p>
+</destacadoTexto></destacado>
+<p>Como se puede observar en la definición, es importante identificar
+que los conjuntos involucrados en la relación tienen un orden; el
+primer conjunto para el cual se hace corresponder un único elemento
+del segundo conjunto es denominado dominio de la función.   </p>
+<p>Las funciones que van de un conjunto <cursiva>A</cursiva> a un
+conjunto <cursiva>B</cursiva> se pueden escribir de la siguiente forma:
+ </p>
+<p centrado="si"><cursiva>f</cursiva>: <cursiva>A</cursiva> → <cursiva
+>B</cursiva> </p>
+<p>Donde <cursiva>A</cursiva> es el dominio de la función.</p>
+<imagen ampliable="no" src="MA_10_01_CO_IMG02">
+<p>En un diagrama conjuntista, la función <cursiva>A</cursiva> → <cursiva
+>B</cursiva> se representa como una flecha que parte de un conjunto <cursiva
+>A</cursiva> llamado dominio. En esta representación conjuntista,
+los elementos están relacionados por flechas. </p>
+</imagen>
+<p>No todas las relaciones son funciones; por ejemplo, la relación
+dada por la regla que asigna a cada número sus múltiplos no es función,
+dado que a un número le corresponden varios elementos relacionados:
+si se observa el número 3, tendría asignados los números 3, 6, 9,
+12, …  </p>
+<p>No se debe confundir el hecho de que dos conjuntos estén relacionados
+con que siempre debe haber una ecuación que presenta la relación entre
+ellos. Por ejemplo, la función dada por la regla “adicionar uno” se
+puede representar con la ecuación  <cursiva>y</cursiva> = <cursiva
+>x</cursiva> + 1; sin embargo, no toda función puede representarse
+con una ecuación.  </p>
+<p>Por otra parte, no toda expresión que relaciona variables es una
+función. Observa la expresión <cursiva>x</cursiva><superindice>2</superindice
+> + <cursiva>y</cursiva><superindice>2</superindice> = 1; esta representa
+una circunferencia de radio 1 y centro en el origen del plano cartesiano.
+Esta expresión no es una función porque para cada valor de <cursiva
+>x</cursiva> del diámetro horizontal se tienen dos posibles valores
+para la relación, por ejemplo, para el valor <cursiva>x</cursiva> =
+0 se tienen dos valores que hacen cierta la ecuación: 1 y –1.</p>
+<imagen src="MA_10_01_CO_IMG03">
+<p>La circunferencia <cursiva>x</cursiva><superindice>2</superindice
+> + <cursiva>y</cursiva><superindice>2</superindice> = 1 no es una
+función.</p>
+</imagen>
+<p>Algunas relaciones no tienen expresiones algebraicas como la circunferencia,
+por ejemplo, la función que relaciona cada número natural con su respectivo
+número en la sucesión de Fibonacci. Los números de Fibonacci se definen
+a partir de la siguiente expresión:  </p>
+<p centrado="si"><cursiva>F<subindice>n</subindice></cursiva> = <cursiva
+>F</cursiva><subindice><cursiva>n</cursiva>–2</subindice> + <cursiva
+>F</cursiva><subindice><cursiva>n</cursiva>–1</subindice>  </p>
+<p>Donde <cursiva>F</cursiva><subindice>1</subindice> = 1 y <cursiva
+>F</cursiva><subindice>2</subindice> = 1. Se observan a continuación
+los primeros números de la sucesión:</p>
+<p><cursiva>F</cursiva><subindice>1</subindice> = 1 </p>
+<p><cursiva>F</cursiva><subindice>2</subindice> = 1 </p>
+<p><cursiva>F</cursiva><subindice>3</subindice> = 2 </p>
+<p><cursiva>F</cursiva><subindice>4</subindice> = 3 </p>
+<p><cursiva>F</cursiva><subindice>5</subindice> = 5 </p>
+<p><cursiva>F</cursiva><subindice>6</subindice> = 8 </p>
+<p><cursiva>F</cursiva><subindice>7</subindice> = 13</p>
+<p>Esta función no se puede representar con una expresión algebraica.</p>
+<imagen src="MA_10_01_CO_IMG04">
+<p>La serie de Fibonacci modela comportamientos de poblaciones y de
+regularidades geométricas.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso040&amp;IdRecurso=RES-F2233DFDDD0E4F208BBC4955108204B6"
+>¿Sabes qué es una función?</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_MA_10_01_CO_D16120CC08174D2D918886E51C111F5D">
+<seccion2Titulo>La representación de funciones</seccion2Titulo>
+<seccion2Texto>
+<p>Las funciones están formadas por dos conjuntos y una regla que
+define la relación entre los conjuntos; estas se pueden representar
+de varias formas:</p>
+<listaSinNumerar>
+<listaElemento>Analítica, cuando se representan con una fórmula.</listaElemento>
+<listaElemento>Tabular, cuando se usan tablas de valores.</listaElemento>
+<listaElemento>Gráfica, cuando se representan en un plano cartesiano. </listaElemento>
+</listaSinNumerar>
+<p>La forma de representar funciones de forma analítica requiere una
+ecuación con dos variables; esta ecuación permite identificar propiedades
+generales de la función sin necesidad de conocer los valores que toma
+esta en cada punto. La función <cursiva>f</cursiva>: <cursiva>A</cursiva
+> → <cursiva>B</cursiva> como correspondencia entre variables se escribe:
+ </p>
+<p centrado="si"><cursiva>y</cursiva> = <cursiva>f</cursiva>(<cursiva
+>x</cursiva>)  </p>
+<p>donde <cursiva>f</cursiva> es el nombre de la función, <cursiva
+>y</cursiva> es la variable independiente, <cursiva>x</cursiva> la
+variable dependiente; los valores del conjunto de llegada, o valores
+de la variable dependiente <cursiva>y</cursiva>, se obtienen mediante
+una regla o ecuación a partir del valor de <cursiva>x</cursiva>. Lo
+anterior se expresa diciendo que <cursiva>y</cursiva> está en función
+de <cursiva>x</cursiva>. En general, se escribe <cursiva>f</cursiva
+>(<cursiva>x</cursiva>) = “expresión algebraica en términos de <cursiva
+>x</cursiva>”.</p>
+<table align="center" border="1" cellpadding="5" cellspacing="0">
+<caption>Ejemplos de representaciones analíticas de funciones</caption>
+<colgroup align="left"><col/><col align="center"/></colgroup>
+<tbody>
+<tr>
+<td align="center"><negrita>Función que asigna…</negrita></td>
+<td><negrita>Expresión analítica</negrita></td>
+</tr>
+<tr>
+<td>a un número su cuadrado.</td>
+<td><cursiva>f</cursiva>(<cursiva>x</cursiva>) = <cursiva>x</cursiva
+><superindice>2</superindice></td>
+</tr>
+<tr>
+<td>a un número positivo su raíz cuadrada positiva.</td>
+<td><cursiva>g</cursiva>(<cursiva>x</cursiva>) = √<cursiva>x</cursiva
+></td>
+</tr>
+<tr>
+<td>a un número natural el correspondiente número triangular.</td>
+<td><formula alineacion="centrada" src="FQ_MA_10_01_CO_001.gif">
+</formula>.</td>
+</tr>
+<tr>
+<td>a un número su cubo menos su cuadrado.</td>
+<td><cursiva>p</cursiva>(<cursiva>x</cursiva>) = <cursiva>x</cursiva
+><superindice>3</superindice> – <cursiva>x</cursiva><superindice>2</superindice
+></td>
+</tr>
+</tbody>
+</table>
+<p>Cuando en una función se asigna a la variable independiente <cursiva
+>x</cursiva> un valor fijo, este se transforma en un nuevo valor a
+través de la función. Cuando se calculan los valores numéricos de
+la función para varios valores de <cursiva>x</cursiva> se obtiene
+una tabla de datos que representa parejas que hacen parte de la función.
+  </p>
+<p>Las tablas numéricas no representan a toda la función, solo muestran
+el comportamiento de esta a partir de algunos valores. En la siguiente
+tabla se observan algunas tablas de funciones.</p>
+<table align="center" border="1" cellpadding="5" cellspacing="0">
+<caption>Ejemplos de tablas de valores para funciones</caption>
+<colgroup align="center"><col/><col span="2"/></colgroup>
+<tbody>
+<tr>
+<td><negrita>Expresión analítica</negrita></td>
+<td colspan="2"><negrita>Tabla para algunos valores de la función</negrita
+></td>
+</tr>
+<tr>
+<td rowspan="9" valign="top"><cursiva>f</cursiva>(<cursiva>x</cursiva
+>) = <cursiva>x</cursiva><superindice>2</superindice></td>
+<td><negritacursiva>x</negritacursiva></td>
+<td><negrita><cursiva>y</cursiva> = <cursiva>f</cursiva>(<cursiva
+>x</cursiva>)</negrita></td>
+</tr>
+<tr>
+<td>–√2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>–1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>–0,5</td>
+<td>0,25</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1,4142</td>
+<td>1,99996164</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>9</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td rowspan="10" valign="top"><cursiva>g</cursiva>(<cursiva>x</cursiva
+>) = √<cursiva>x</cursiva></td>
+<td><negritacursiva>x</negritacursiva></td>
+<td><negrita><cursiva>y</cursiva> = <cursiva>f</cursiva>(<cursiva
+>x</cursiva>)</negrita></td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0,25</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>√2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9</td>
+<td>3</td>
+</tr>
+<tr>
+<td>36</td>
+<td>6</td>
+</tr>
+<tr>
+<td>50</td>
+<td>√50</td>
+</tr>
+<tr>
+<td>100</td>
+<td>10</td>
+</tr>
+<tr>
+<td>121</td>
+<td>11</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td rowspan="10" valign="top"><formula alineacion="centrada"
+src="FQ_MA_10_01_CO_001.gif"></formula>.</td>
+<td><negritacursiva>x</negritacursiva></td>
+<td><negrita><cursiva>y</cursiva> = <cursiva>f</cursiva>(<cursiva
+>x</cursiva>)</negrita></td>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>10</td>
+</tr>
+<tr>
+<td>8</td>
+<td>36</td>
+</tr>
+<tr>
+<td>15</td>
+<td>120</td>
+</tr>
+<tr>
+<td>16</td>
+<td>136</td>
+</tr>
+<tr>
+<td>25</td>
+<td>325</td>
+</tr>
+<tr>
+<td>100</td>
+<td>5050</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td rowspan="10" valign="top"><cursiva>p</cursiva>(<cursiva>x</cursiva
+>) = <cursiva>x</cursiva><superindice>3</superindice> – <cursiva>x</cursiva
+><superindice>2</superindice></td>
+<td><negritacursiva>x</negritacursiva></td>
+<td><negrita><cursiva>y</cursiva> = <cursiva>f</cursiva>(<cursiva
+>x</cursiva>)</negrita></td>
+</tr>
+<tr>
+<td>–4</td>
+<td>48</td>
+</tr>
+<tr>
+<td>–1</td>
+<td>–2</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td>–0,125</td>
+</tr>
+<tr>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>18</td>
+</tr>
+<tr>
+<td>7</td>
+<td>294</td>
+</tr>
+<tr>
+<td>10</td>
+<td>900</td>
+</tr>
+</tbody>
+</table>
+<p>En la representación tabular, habitualmente, los valores en la
+tabla van de menor a mayor, lo que facilita su lectura y análisis.</p>
+<recuerda><recuerdaTexto>
+<p>Un sistema de coordenadas cartesianas permite medir las posiciones
+de los puntos en un plano a partir de dos ejes perpendiculares.  En
+un punto <cursiva>P</cursiva>(<cursiva>x, y</cursiva>) en un sistema
+de coordenadas cartesianas, también llamado plano cartesiano, la coordenada <cursiva
+>x</cursiva> es llamada abscisa y la coordenada <cursiva>y</cursiva
+> es llamada ordenada.</p>
+</recuerdaTexto></recuerda>
+<p>Dentro de un sistema de coordenadas cartesianas se puede representar
+una función como el conjunto de puntos (<cursiva>x, y</cursiva>) que
+cumplen que <cursiva>y</cursiva> = <cursiva>f</cursiva>(<cursiva>x</cursiva
+>). Una forma de graficar funciones es a través de tablas de datos:
+la primera columna será la coordenada de la abscisa y la segunda columna
+será la ordenada de los puntos que estas parejas ordenadas representan.
+ </p>
+<p>En el siguiente gráfico se observan puntos del gráfico de la función <cursiva
+>f</cursiva>(<cursiva>x</cursiva>) = <cursiva>x</cursiva><superindice
+>2</superindice></p>
+<imagen src="MA_10_01_CO_IMG05">
+<p>Representación gráfica de la función <cursiva>f</cursiva>(<cursiva
+>x</cursiva>) = <cursiva>x</cursiva><superindice>2</superindice> en
+la que se destacan los puntos (0, 0), (–1, 1), (1, 1), (√2, 2), (2,
+4).</p>
+</imagen>
+<p>Observa que el punto (2, 4) es parte de la función, ya que <cursiva
+>f</cursiva>(2) = 2<superindice>2</superindice> = 4.  </p>
+<p>Para identificar si una figura en un plano cartesiano es una función
+o no, basta verificar si todas las rectas <cursiva>x</cursiva> = <cursiva
+>a</cursiva> intersectan en un único punto la figura; en caso de ser
+así, la figura representa una función real.  </p>
+<p>Entre más puntos se calculen más preciso será el gráfico de la
+función; de hecho, el gráfico de la función consiste en el conjunto
+de parejas ordenadas (<cursiva>x</cursiva>, <cursiva>f</cursiva>(<cursiva
+>x</cursiva>)) que, en general, es infinito; por lo tanto, al usar
+los puntos a partir de una tabla nos da una aproximación de la gráfica
+que mejora en la proporción en que se aumente la cantidad de puntos;
+por ejemplo, si solo se usaran dos puntos para graficar obtendríamos
+siempre una línea recta.</p>
+<imagen src="MA_10_01_CO_IMG06">
+<p>Representación gráfica de la función <cursiva>p</cursiva>(<cursiva
+>x</cursiva>) = <cursiva>x</cursiva><superindice>3</superindice> – <cursiva
+>x</cursiva><superindice>2</superindice> destacando los puntos (–1,
+–2),  (0, 0), (1, 0), (2, 4). </p>
+</imagen>
+<p>En el gráfico anterior se observan unos pocos puntos destacados
+que estaban en la tabla que se construyó anteriormente; sin embargo,
+la curva que forma la función <cursiva>p</cursiva>(<cursiva>x</cursiva
+>) está formada por infinitos puntos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso060&amp;IdRecurso=RES-942B3335641749269001E4AD0DCD605E"
+>Determina qué relación es una función</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso080&amp;IdRecurso=RES-3BD2A1E596B549688E704115163E1B11"
+>Relaciona las distintas representaciones de una función</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_10_01_CO_D16120CC08174D2D918886E51C111F5D">
+<seccion2Titulo>El dominio y el rango de una función</seccion2Titulo>
+<seccion2Texto>
+<p>Para toda función se identifica el conjunto de salida, el conjunto
+de llegada y la regla que define la relación. Los conjuntos que la
+definen reciben nombres especiales. </p>
+<destacado><destacadoTitulo>Definiciones</destacadoTitulo>
+<destacadoTexto>
+<p>Dada la función <cursiva>f</cursiva> : <cursiva>A</cursiva> → <cursiva
+>B</cursiva> se definen los siguientes conjuntos:</p>
+<listaSinNumerar>
+<listaElemento>Dominio es el conjunto <cursiva>A</cursiva>, es decir,
+el conjunto de todos los valores que usa la función <cursiva>f</cursiva
+>.</listaElemento>
+<listaElemento>Codominio es el conjunto <cursiva>B</cursiva> de posibles
+resultados para la función.</listaElemento>
+<listaElemento>Rango es el conjunto de valores que resultan de evaluar
+los elementos del dominio, es decir, todos los valores <cursiva>f</cursiva
+>(<cursiva>x</cursiva>). Se tiene la relación Rango ⊂ <cursiva>B</cursiva
+>.</listaElemento>
+</listaSinNumerar>
+</destacadoTexto></destacado>
+<p>El siguiente diagrama muestra la relación entre los conjuntos definidos.</p>
+<imagen src="MA_10_01_CO_IMG07">
+<p>El rango de <cursiva>f</cursiva> es subconjunto del codominio;
+pueden ser iguales.</p>
+</imagen>
+<p>En el caso de la función costo de una llamada telefónica, que depende
+de la cantidad <cursiva>x</cursiva> de minutos de duración de la llamada <cursiva
+>C</cursiva>(<cursiva>x</cursiva>), el dominio corresponde a todos
+los números reales positivos que representan la cantidad de tiempo,
+y el rango serán los números enteros positivos que representan el
+costo en pesos de la llamada, dado que no hay fracciones de peso.
+ </p>
+<p>Observa en el ejemplo anterior que el dominio tiene restricciones:
+en este caso no puede tener valores negativos, ya que no hay tiempos
+negativos para una llamada telefónica.  </p>
+<p>Hay otros tipos de restricciones para el dominio; por ejemplo,
+dada la función </p>
+<formula alineacion="centrada" src="FQ_MA_10_01_CO_002.gif"></formula>
+<p>Los valores de <cursiva>x</cursiva> que puede tomar el dominio
+tienen la siguiente restricción:  </p>
+<p centrado="si">2 – <cursiva>x</cursiva> ≥ 0 </p>
+<p>Por lo tanto,  </p>
+<p centrado="si"><cursiva>x</cursiva> ≤ 2 </p>
+<p>En este caso, el dominio está restringido al intervalo (–∞, 2).</p>
+<imagen src="MA_10_01_CO_IMG08">
+<p>Gráfico de la función <cursiva>q</cursiva>(<cursiva>x</cursiva
+>). La función no está definida para <cursiva>x</cursiva> > 2.</p>
+</imagen>
+<p>Observa que el rango de la función <cursiva>q</cursiva>(<cursiva
+>x</cursiva>) es el intervalo (0, ∞).  </p>
+<p>Otro tipo de restricción que pueden tener las funciones es la restricción
+del dominio por denominadores en la expresión analítica. Por ejemplo,
+sea la función</p>
+<formula alineacion="centrada" src="FQ_MA_10_01_CO_003.gif"></formula>
+<p>La función tiene como restricción a todos los números que hagan
+que el denominador de la fracción sea cero, es decir, los valores
+de x tales que  </p>
+<p><cursiva>x</cursiva><superindice>2</superindice> + 3<cursiva>x</cursiva
+> – 40 = 0 </p>
+<p>Al resolver la ecuación se obtienen los valores <cursiva>x</cursiva
+> = –8 y <cursiva>x</cursiva> = 5; por lo tanto, el dominio debe excluir
+estos números. El dominio será (–∞, –8)∪(–8, 5)∪(5,∞); de manera equivalente
+se puede escribir: ℝ–{–8,5}.</p>
+<imagen src="MA_10_01_CO_IMG09">
+<p>Gráfico de la función <cursiva>t</cursiva>(<cursiva>x</cursiva
+>). La función no está definida para los valores <cursiva>x</cursiva
+> = –8 y <cursiva>x</cursiva> = 5.</p>
+</imagen>
+<p>Para la función <cursiva>t</cursiva>(<cursiva>x</cursiva>), el
+rango está dado por todos los reales; en el gráfico se observa que
+la función “alcanza” todos los posibles valores para <cursiva>y</cursiva
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso070&amp;IdRecurso=RES-3E9ECDAD0B8A4183B7A1AED4373C07C5"
+>Halla el dominio y el codominio de una función</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso090&amp;IdRecurso=RES-65F80424F7794E1E949A8B09FF712E5F"
+>Identifica variables dependientes e independientes en una situación</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_10_01_CO_D16120CC08174D2D918886E51C111F5D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para afianzar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso100&amp;IdRecurso=RES-B3354254079F459198109C0524A628E2"
+>Refuerza tu aprendizaje: Las funciones de números reales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_10_01_CO_BE8029B9E89C472DA0A280B7AB7A5C75">
+<seccion1Titulo>Las propiedades de las funciones</seccion1Titulo>
+<seccion1Texto>
+<p>Según la forma en que se relacionan dominio, codominio y rango,
+las funciones pueden clasificarse como inyectivas, sobreyectivas y
+biyectivas.</p>
+<seccion2 id="S2_MA_10_01_CO_47B5E6228278406093454430D94C1199">
+<seccion2Titulo>Las funciones inyectivas, sobreyectivas y biyectivas</seccion2Titulo>
+<seccion2Texto>
+<p>La definición de función permite que a varios elementos del dominio
+le corresponda el mismo elemento del rango.</p>
+<recuerda><recuerdaTexto>
+<p>El valor que toma <cursiva>x</cursiva> a través de la función es
+llamado imagen de <cursiva>x</cursiva>.</p>
+</recuerdaTexto></recuerda>
+<p>La función constante asigna la misma imagen para todos los elementos
+del dominio; por ejemplo, la función <cursiva>f</cursiva>(<cursiva
+>x</cursiva>) = –1 asigna el valor –1 a todos los elementos del dominio.
+En este caso, el dominio es ℝ y el rango es el conjunto unitario {–1}</p>
+<imagen src="MA_10_01_CO_IMG10">
+<p>Gráfico de la función constante <cursiva>f</cursiva>(<cursiva>x</cursiva
+>) = –1.</p>
+</imagen>
+<p>En la definición de función se anotó que para cada elemento del
+dominio se asigna un único elemento del rango, pero no se restringió
+la posibilidad de que varios elementos del dominio tuvieran la misma
+imagen, como se observó en las funciones constantes.</p>
+<destacado><destacadoTitulo>Función inyectiva</destacadoTitulo>
+<destacadoTexto>
+<p>Una función <cursiva>f</cursiva> es inyectiva si a cada elemento
+del rango corresponde un único elemento del dominio. </p>
+<p>En otras palabras, si <cursiva>x</cursiva><subindice>1</subindice
+> ≠ <cursiva>x</cursiva><subindice>2</subindice>, entonces <cursiva
+>f</cursiva>(<cursiva>x</cursiva><subindice>1</subindice>) ≠ <cursiva
+>f</cursiva>(<cursiva>x</cursiva><subindice>2</subindice>). Es decir,
+dos elementos diferentes tienen imágenes diferentes. </p>
+</destacadoTexto></destacado>
+<p>Las funciones constantes no son inyectivas. Por ejemplo, dada la
+función <cursiva>f</cursiva>(<cursiva>x</cursiva>) = –1 se tiene que
+2 ≠ 3, pero <cursiva>f</cursiva>(2) = <cursiva>f</cursiva>(3) = –1.
+Para que una función no sea inyectiva basta con que la imagen de dos
+puntos diferentes sea igual.  </p>
+<p>La función <cursiva>g</cursiva>(<cursiva>x</cursiva>) = <cursiva
+>x</cursiva><superindice>3</superindice> es inyectiva para cualquier
+par de valores <cursiva>a</cursiva> y <cursiva>b</cursiva> tales que <cursiva
+>a</cursiva> ≠ <cursiva>b</cursiva>; su cubo siempre es diferente.</p>
+<imagen src="MA_10_01_CO_IMG11">
+<p>Gráfico de la función inyectiva <cursiva>g</cursiva>(<cursiva>x</cursiva
+>) = <cursiva>x</cursiva><superindice>3</superindice>.</p>
+</imagen>
+<p>Gráficamente es fácil identificar funciones que son inyectivas,
+basta verificar que cada una de las líneas horizontales <cursiva>y</cursiva
+> = <cursiva>a</cursiva>, para a ∈ ℝ, cortan el gráfico de la función
+en un único punto. Este criterio también permite identificar a partir
+del gráfico de una función si esta no es inyectiva, basta encontrar
+una línea <cursiva>y</cursiva> = <cursiva>a</cursiva> que corte más
+de una vez el gráfico de la función.</p>
+<imagen src="MA_10_01_CO_IMG12">
+<p>La recta <cursiva>y</cursiva> = 2 corta en dos puntos a la función <cursiva
+>h</cursiva>(<cursiva>x</cursiva>) = <cursiva>x</cursiva><superindice
+>2</superindice>, por lo tanto, la función no es inyectiva.</p>
+</imagen>
+<p>Las funciones también pueden clasificarse en términos de la relación
+entre el codominio y el rango de estas.</p>
+<destacado><destacadoTitulo>Función sobreyectiva</destacadoTitulo>
+<destacadoTexto>
+<p>Una función <cursiva>f</cursiva> es sobreyectiva si su codominio
+y rango son iguales.</p>
+</destacadoTexto></destacado>
+<p>Para decidir si una función es sobreyectiva es necesario conocer
+cuál es su codominio. Por ejemplo, la función <cursiva>g</cursiva
+>: ℝ → ℝ definida por la relación <cursiva>g</cursiva>(<cursiva>x</cursiva
+>) = <cursiva>x</cursiva><superindice>2</superindice> – 4<cursiva
+>x</cursiva> no es sobreyectiva, de hecho, a partir del gráfico de
+la función se determina que el rango de la función está dado por (–4,
+∞) y, por lo tanto, los conjuntos codominio y rango son diferentes:
+(–4, ∞) ≠ ℝ. </p>
+<imagen src="MA_10_01_CO_IMG13">
+<p>La función <cursiva>g</cursiva>(<cursiva>x</cursiva>) = <cursiva
+>x</cursiva><superindice>2</superindice> – 4<cursiva>x</cursiva> no
+es sobreyectiva.</p>
+</imagen>
+<p><negrita>NOTA</negrita>: La función <cursiva>g</cursiva>(<cursiva
+>x</cursiva>) no es ni inyectiva ni sobreyectiva.   </p>
+<p>La función <cursiva>p</cursiva>: [0, ∞) → [0, ∞) definida por la
+relación  <cursiva>p</cursiva>(<cursiva>x</cursiva>) = √<cursiva>x</cursiva
+> es una función sobreyectiva. En este caso, para cada posible altura <cursiva
+>y</cursiva> ∈ [0, ∞) existe un número <cursiva>x</cursiva> tal que
+ √<cursiva>x</cursiva> = <cursiva>y</cursiva>; en otras palabras,
+el codominio coincide con el conjunto de valores que genera la función.</p>
+<imagen src="MA_10_01_CO_IMG14">
+<p>La función <cursiva>p</cursiva>(<cursiva>x</cursiva>) = √<cursiva
+>x</cursiva> es sobreyectiva cuando se define sobre los conjuntos
+ [0, ∞) → [0, ∞)  </p>
+</imagen>
+<p><negrita>¡IMPORTANTE!</negrita> Para decidir si una función es
+sobreyectiva es fundamental saber sobre qué conjuntos está definida.
+ </p>
+<p>La función <cursiva>q</cursiva>: [0, ∞) → ℝ definida por la relación
+ <cursiva>q</cursiva>(<cursiva>x</cursiva>) = √<cursiva>x</cursiva
+> <negrita>no</negrita> es una función sobreyectiva como se anotó
+anteriormente. El rango de la función así definida es [0, ∞), pero
+en este caso el codominio es el conjunto de los números reales; por
+lo tanto:  </p>
+<p centrado="si">[0, ∞) ≠ ℝ  </p>
+<p centrado="si">Rango ≠ Codominio   </p>
+<p>Una función puede ser o no inyectiva a la vez que puede ser o no
+sobreyectiva; cuando una función es tanto inyectiva como sobreyectiva
+se dice que es biyectiva.  </p>
+<p centrado="si">Inyectiva + sobreyectiva = biyectiva</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso120&amp;IdRecurso=RES-DE803B1E5ABD4AD789A8FF2B39C3754C"
+>Identifica si una función es inyectiva o biyectiva</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_MA_10_01_CO_47B5E6228278406093454430D94C2200">
+<seccion2Titulo>Las funciones inversas</seccion2Titulo>
+<seccion2Texto>
+<p>Para toda función biyectiva <cursiva>f</cursiva>: <cursiva>A</cursiva
+> → <cursiva>B</cursiva> existe una función <cursiva>g</cursiva>: <cursiva
+>B</cursiva> → <cursiva>A</cursiva> que permite “cancelar” la acción
+de la función <cursiva>f</cursiva> sobre un valor <cursiva>x</cursiva
+>; esta función se llama inversa de <cursiva>f</cursiva> y se define
+a continuación.</p>
+<destacado><destacadoTitulo>Función inversa</destacadoTitulo>
+<destacadoTexto>
+<p>Si una función <cursiva>f</cursiva>: <cursiva>A</cursiva> → <cursiva
+>B</cursiva> es biyectiva, la función <cursiva>g</cursiva>: <cursiva
+>B</cursiva> → <cursiva>A</cursiva> tal que: </p>
+<p><cursiva>f</cursiva>(<cursiva>x</cursiva>) = <cursiva>y</cursiva
+> si y solo si <cursiva>g</cursiva>(<cursiva>y</cursiva>) = <cursiva
+>x</cursiva>  </p>
+<p>Se denomina función inversa de <cursiva>f</cursiva>. </p>
+<p>La función inversa de <cursiva>f</cursiva> se denota <cursiva>f</cursiva
+> <superindice>–1</superindice>.</p>
+</destacadoTexto></destacado>
+<p>Observa que a partir de la definición se sigue que  </p>
+<p centrado="si"><cursiva>f</cursiva> <superindice>–1</superindice
+>(<cursiva>f</cursiva>(<cursiva>x</cursiva>))= <cursiva>x</cursiva
+> </p>
+<p>Es decir, que si se evalúa el resultado de la función f para un
+punto <cursiva>x</cursiva>, en la función inversa se “recupera” el
+valor de <cursiva>x</cursiva>.   </p>
+<p>La función definida por la regla <cursiva>f</cursiva>(<cursiva
+>x</cursiva>) = 3<cursiva>x</cursiva> – 2 es una función biyectiva.
+Para calcular analíticamente la función inversa procedemos como sigue: </p>
+<listaNumerada>
+<listaElemento>Plantear la expresión que define la función como una
+ecuación de dos variables: <p centrado="si"><cursiva>y</cursiva> =
+3<cursiva>x</cursiva> – 2</p></listaElemento>
+<listaElemento>Despejar la variable <cursiva>x</cursiva> de la ecuación:<formula
+alineacion="centrada" src="FQ_MA_10_01_CO_004.gif"></formula></listaElemento>
+<listaElemento>Intercambiar las variables <cursiva>x</cursiva> y <cursiva
+>y</cursiva>:<formula alineacion="centrada" src="FQ_MA_10_01_CO_005.gif">
+</formula></listaElemento>
+</listaNumerada>
+<p>La expresión obtenida es la inversa de la función <cursiva>f</cursiva
+>(<cursiva>x</cursiva>); por lo tanto</p>
+<formula alineacion="centrada" src="FQ_MA_10_01_CO_006.gif"></formula>
+<imagen src="MA_10_01_CO_IMG15">
+<p>Gráfico de función <cursiva>f</cursiva>(<cursiva>x</cursiva>) = <cursiva
+>3</cursiva>x – 2 y de su inversa  <cursiva>f</cursiva> <superindice
+>–1</superindice>(<cursiva>x</cursiva>).</p>
+</imagen>
+<p>Observa que la función <cursiva>f</cursiva> representa dos operaciones:
+multiplicar por tres y luego restar dos. La función inversa suma dos
+unidades y al resultado lo divide entre tres; como era de esperarse,
+“cancela” la acción de la función <cursiva>f</cursiva>. Analíticamente,
+lo anterior se verifica de la siguiente forma: </p>
+<formula alineacion="centrada" src="FQ_MA_10_01_CO_007.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_10_01_CO_008.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_10_01_CO_009.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_10_01_CO_010.gif"></formula>
+<p>La función <cursiva>p</cursiva>: [0, ∞) → [0, ∞) definida por la
+relación  <cursiva>p</cursiva>(<cursiva>x</cursiva>) = √<cursiva>x</cursiva
+> es una función biyectiva. La función <cursiva>p</cursiva><superindice
+>–1</superindice>: [0, ∞) → [0, ∞) estará definida por p–1(x) = x2.
+Observa que la función resultante es también biyectiva, ya que su
+dominio está restringido al intervalo [0, ∞), como se muestra en el
+gráfico.</p><?Pub Caret 156?>
+</seccion2Texto></seccion2></seccion1Texto></seccion1><seccion1
+id="S1_MA_10_01_CO_6327002DC4054446A81CC48F5CE64F27">
+<seccion1Titulo>Las características globales de las funciones</seccion1Titulo>
+<seccion1Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso210&amp;IdRecurso=RES-EB388761594F49B7BA275A4891F09FAE"
+>Recurso M101A-02</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso110&amp;IdRecurso=RES-17AC8F4CF6724490ACD0678E0F2FB410"
+>Recurso F10-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_13_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso130&amp;IdRecurso=RES-C89D28F7008046078D043E759B346A59"
+>Relaciona funciones con su inversa</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_14_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_15_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso150&amp;IdRecurso=RES-5EF964A49403473AA2C95323BBEE0EE2"
+>El crecimiento y el decrecimiento de una función</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_16_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso160&amp;IdRecurso=RES-8110DC481FC54B64B7F22097EBFD20C3"
+>Identifica si la función es creciente, decreciente o constante</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_17_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso170&amp;IdRecurso=RES-3B2B9571FCCD40D4B68ADC4F7FB6ADD8"
+>Recurso F13-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_18_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso140&amp;IdRecurso=RES-06DBED49B5C14D12B1488ABA321435CC"
+>Recurso M5A-03</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_19_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso190&amp;IdRecurso=RES-B7AD12BA60834C8D87B8370EBEFA16C8"
+>Recurso M4A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_20_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso200&amp;IdRecurso=RES-6C14DE70967A43BD9079FBDDE246F6ED"
+>Recurso F8-01</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_22_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_23_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_24_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_25_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_26_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso260&amp;IdRecurso=RES-64C1D7012C464FA79662B4B283F3F0E6"
+>Recurso M5D-01</enlace>
+</practica></seccion1Texto></seccion1><seccion1
+id="S1_MA_10_01_CO_31F955A295E84B70BCC97A692E9BB5E2">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion2 id="S2_MA_10_01_CO_7FB318188D774AA1BE0343A54723EC33">
+<seccion2Titulo>Competencias</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="MA_10_01_CO_img_28_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso280&amp;IdRecurso=RES-3453AE8DEBFC48999FD6A73F5001E0A1"
+>Recurso M102AB-02</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<masinformacion id="MI_MA_10_01_CO_02AC4A8790B24E61A411E55A0944C2F8">
+<mapaconceptual><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso300&amp;IdRecurso=RES-4AF631D5ADFB424EA4B1C58FE6816A68"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=MA_10_01_CO_Recurso310&amp;IdRecurso=RES-335E5C8BF11B48DFA07D23546C014158"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
