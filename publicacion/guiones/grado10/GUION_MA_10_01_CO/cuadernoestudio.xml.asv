@@ -861,7 +861,10 @@ la forma </p>
 >a</cursiva> </p>
 <p>donde a ∈ R. La función constante asigna a todos los elementos
 del dominio el mismo elemento en el codominio; de hecho, el rango
-de la función es {<cursiva>a</cursiva>}.</p><?Pub Caret 148?>
+de la función es {<cursiva>a</cursiva>}.</p>
+<imagen src="MA_10_01_CO_IMG23">
+<p></p><?Pub Caret -1?>
+</imagen>
 </seccion2Texto></seccion2></seccion1Texto></seccion1><seccion1
 id="S1_MA_10_01_CO_6327002DC4054446A81CC48F5CE64F27">
 <seccion1Titulo>Las características globales de las funciones</seccion1Titulo>
