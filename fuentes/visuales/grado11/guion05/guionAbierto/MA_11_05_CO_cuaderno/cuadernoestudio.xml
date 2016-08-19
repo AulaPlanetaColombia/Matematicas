@@ -87,14 +87,10 @@ de <cursiva>G</cursiva>(<cursiva>x</cursiva>) es igual a <cursiva
 > + 2<cursiva>x</cursiva>, entonces <cursiva>F</cursiva>(<cursiva
 >x</cursiva>) = (–sen 3<cursiva>x</cursiva>)(3) + 2 = –3(sen 3<cursiva
 >x</cursiva>) + 2.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso010&amp;IdRecurso=RES-41FDAFA472044095BCC2AAACA1EBEEB7"
->Recurso F6-01</enlace>
-</profundiza><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso020&amp;IdRecurso=RES-1921A03692034AECBF113ECB4B22C22A"
->Recurso M3A-01</enlace>
+>Identifica la función primitiva</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_11_05_CO_68FD4D01F745484AB28D4EED70964E46">
 <seccion2Titulo>La integral indefinida</seccion2Titulo>
@@ -250,7 +246,7 @@ indefinida de cada función.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso030&amp;IdRecurso=RES-20E557C60A8E4427AD9C601BAE4DD090"
->Recurso M7A-01</enlace>
+>Practica integración de funciones indefinidas</enlace>
 </practica></seccion3Texto></seccion3><seccion3
 id="S3_MA_11_05_CO_7DC4F999EF52414D9E8EF826557F96E7">
 <seccion3Titulo>Soluciones particulares</seccion3Titulo>
@@ -350,11 +346,11 @@ del tiempo <cursiva>t</cursiva>, entonces:</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso040&amp;IdRecurso=RES-7B390C1D3B6C43D1A7D85D180DB2118C"
->Recurso M10B-01</enlace>
+>Reconoce la derivada y antiderivada de una función</enlace>
 </practica><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso050&amp;IdRecurso=RES-778F10CA95D943D2A853AB2B09C0EC77"
->Recurso F6B-01</enlace>
+>El estudio de las integrales</enlace>
 </profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_MA_11_05_CO_7DC4F999EF52414D9E8EF826557F85D6">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -363,7 +359,7 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso050&amp;IdRecurso=RES-778F10
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso060&amp;IdRecurso=RES-9BD910D4877D4A12A0134BF1198F24C0"
->Recurso M101A-01</enlace>
+>Refuerza tu aprendizaje: La antiderivada</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_11_05_CO_9A53B78C00F0494791F7AD0D3E0F24C4">
 <seccion1Titulo>Métodos de integración</seccion1Titulo>
@@ -493,12 +489,8 @@ fórmulas de caída libre de un cuerpo.</p>
 >o</subindice></cursiva></p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso060&amp;IdRecurso=RES-9BD910D4877D4A12A0134BF1198F24C0"
->Recurso M101A-01</enlace>
-</practica><practica>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso070&amp;IdRecurso=RES-412742B74436428EB7621CD59EBB05D1"
->Recurso M5A-01</enlace>
+>Aplica el método de integración por sustitución</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_11_05_CO_DFC776DA258F433591CFBD8A2776C423">
 <seccion2Titulo>La integración por partes</seccion2Titulo>
@@ -621,7 +613,7 @@ fácil deducción.</p>
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso080&amp;IdRecurso=RES-F8F8ED368DF748B4A0D67EE3A174F4DA"
->Recurso M5A-02</enlace>
+>Ejercita el método de integración por partes</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_11_05_CO_DFC776DA258F433591CFBD8A27760127">
 <seccion2Titulo>Integrales de funciones trigonométricas</seccion2Titulo>
@@ -653,7 +645,7 @@ obtiene <cursiva>du</cursiva> = cos <cursiva>xdx</cursiva>.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso090&amp;IdRecurso=RES-D75FCDC5B5AD4140878AA607EF9DDFA4"
->Recurso M7A-02</enlace>
+>Integra funciones trigonométricas</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_11_05_CO_DFC776DA258F433591CFBD8A2776A1DC">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -662,7 +654,7 @@ id="S2_MA_11_05_CO_DFC776DA258F433591CFBD8A2776A1DC">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso100&amp;IdRecurso=RES-1E68A55FA391479DB7F223686965F499"
->Recurso M101A-02</enlace>
+>Refuerza tu aprendizaje: Los métodos de integración</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_11_05_CO_4CCE11135D3348FC9B5D72ED3F21462B">
 <seccion1Titulo>Áreas</seccion1Titulo>
@@ -877,26 +869,19 @@ de 2 cm y 6 cm.</p>
 <formula alineacion="izquierda" src="FQ_MA_11_05_156.gif"></formula>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso100&amp;IdRecurso=RES-1E68A55FA391479DB7F223686965F499"
->Recurso M101A-02</enlace>
-</practica><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso110&amp;IdRecurso=RES-40B6E367DE154A1BAA5127BC599FCB4C"
->Recurso F10-01</enlace>
-</profundiza><practica>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso120&amp;IdRecurso=RES-339D0079F7274B4E858F38F2CA97AF5F"
->Recurso M5A-03</enlace>
+>Reconoce propiedades de las integrales a partir de sus aproximaciones
+por área bajo la curva</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_11_05_CO_5A5C4AF4B0CD4FCE89EDDC7CACFD7AE4">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para afianzar lo aprendido en esta sección.</p>
-<profundiza>
+<practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso130&amp;IdRecurso=RES-B73082A77D1041BAAAE68CE4F7E1DFE3"
->Recurso F13-01</enlace>
-</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso140&amp;IdRecurso=RES-5F3910D654DB4ACCA44BF53F7D0C32A6"
+>Refuerza tu aprendizaje: El área bajo la curva</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_11_05_CO_6084D10E5B2C4AE09BAC9AEBFE4A1E2D">
 <seccion1Titulo>Relación entre integración y derivación</seccion1Titulo>
 <seccion1Texto>
@@ -989,22 +974,21 @@ se llega a:</p>
 <formula alineacion="izquierda" src="FQ_MA_11_05_171.gif"></formula>
 <formula alineacion="izquierda" src="FQ_MA_11_05_172.gif"></formula>
 <formula alineacion="izquierda" src="FQ_MA_11_05_173.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_174.gif"></formula>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso150&amp;IdRecurso=RES-279099557395450EA1D3B5F37BEE13E6"
->Recurso M2A-01</enlace>
-</practica><practica>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso160&amp;IdRecurso=RES-0F0A32A12995475EB00254C2E27D35FD"
->Recurso M7A-03</enlace>
+>Aplica la regla de Barrow</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_MA_11_05_CO_780A044E1F7C48BA88E36FE262A01094">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para afianzar lo aprendido en esta sección.</p>
-</seccion2Texto></seccion2></seccion1Texto></seccion1><seccion1
-id="S1_MA_11_05_CO_E6855B3AC4E24A0C8E47A0BEBED99D8A">
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso170&amp;IdRecurso=RES-1721678988044FF08BDF2C00D339A59B"
+>Refuerza tu aprendizaje: La relación entre las derivadas y las integrales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_MA_11_05_CO_E6855B3AC4E24A0C8E47A0BEBED99D8A">
 <seccion1Titulo>Cálculo de áreas por integración</seccion1Titulo>
 <seccion1Texto>
 <p>Una de las aplicaciones de la integral definida es el cálculo del
@@ -1101,19 +1085,7 @@ es negativa.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso200&amp;IdRecurso=RES-775637FE032549E3BABB55F710D5F015"
->Recurso M101A-03</enlace>
-</practica><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso210&amp;IdRecurso=RES-8EB3031A6D3D4062817736DD94E06724"
->Recurso F6B-02</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso180&amp;IdRecurso=RES-E5D9145B96F84972BDF281FEAE1AD07A"
->Recurso M9B-01</enlace>
-</practica><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso190&amp;IdRecurso=RES-F70AD4F81AB74F0F9748A16B610CE162"
->Recurso M4A-01</enlace>
+>Refuerza tu aprendizaje: El cálculo de áreas</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_MA_11_05_CO_92909CE066C24600A279F10A929A6E93">
 <seccion1Titulo>Competencias</seccion1Titulo>
@@ -1122,7 +1094,7 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso190&amp;IdRecurso=RES-F70AD4
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso220&amp;IdRecurso=RES-26A9C9045E7A4252B89FC13B3334CF8E"
->Recurso M102AB-01</enlace>
+>Competencias: El área entre dos funciones</enlace><?Pub Caret -2?>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_MA_11_05_CO_055ABACEBE1A4F829B2D893EE5EBD17E"><mapaconceptual>
 <enlace
@@ -1135,7 +1107,7 @@ destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso250&amp;IdRecurso=RES-B0924A
 <enlace
 destino="https://es.scribd.com/doc/126648100/Aplicacion-de-las-Integrales-en-la-Vida-Real"
 >Lee algunos ejemplos de aplicaciones de las integrales en la vida
-cotidiana. </enlace><?Pub Caret -2?>
+cotidiana. </enlace>
 <enlace destino="http://www.ecured.cu/Integral_Indefinida">Afianza
 el concepto de integral indefinida en la página de EcuRed.</enlace>
 <enlace
