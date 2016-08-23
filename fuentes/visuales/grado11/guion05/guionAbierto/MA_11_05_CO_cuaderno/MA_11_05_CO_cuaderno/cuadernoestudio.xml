@@ -179,13 +179,13 @@ cual su derivada es la función <cursiva>f’</cursiva> (<cursiva>x</cursiva
 >) = <cursiva>x</cursiva><superindice>2</superindice> – 3<cursiva
 >x</cursiva> + csc<superindice>2</superindice><cursiva>x</cursiva
 >.</p>
-<formula alineacion="izquierda" src="FQ_MA_11_05_029.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_030.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_031.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_029.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_030.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_031.gif"></formula>
 <p>Por tanto, se concluye que:</p>
-<formula alineacion="izquierda" src="FQ_MA_11_05_032.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_032.gif"></formula>
 <p>A continuación se presenta una primera lista de primitivas inmediatas
-que surgen directamente de derivadas ya conocidas.</p>
+que surgen directamente de derivadas ya conocidas.</p><?Pub Caret -2?>
 <table border="1"><caption>Primitiva de funciones algebraicas</caption>
 <tbody>
 <tr>
@@ -1112,8 +1112,7 @@ y los intervalos donde es negativa.</p>
 <formula alineacion="centrada" src="FQ_MA_11_05_185.gif"></formula>
 <formula alineacion="centrada" src="FQ_MA_11_05_186.gif"></formula>
 <formula alineacion="centrada" src="FQ_MA_11_05_187.gif"></formula>
-<formula alineacion="centrada" src="FQ_MA_11_05_188.gif"></formula><?Pub
-Caret -2?>
+<formula alineacion="centrada" src="FQ_MA_11_05_188.gif"></formula>
 <seccion2 id="S2_MA_11_05_CO_780A044E1F7C48BA88E36FE262A05463">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
