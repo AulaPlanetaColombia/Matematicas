@@ -185,64 +185,64 @@ cual su derivada es la función <cursiva>f’</cursiva> (<cursiva>x</cursiva
 <p>Por tanto, se concluye que:</p>
 <formula alineacion="centrada" src="FQ_MA_11_05_032.gif"></formula>
 <p>A continuación se presenta una primera lista de primitivas inmediatas
-que surgen directamente de derivadas ya conocidas.</p><?Pub Caret -2?>
+que surgen directamente de derivadas ya conocidas.</p>
 <table border="1"><caption>Primitiva de funciones algebraicas</caption>
 <tbody>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_034.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_034.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_035.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_035.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_036.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_036.gif"></formula>                     .</td>
 </tr>
 </tbody>
 </table>
 <table border="1"><caption>Primitiva de funciones trascendentes</caption>
 <tbody>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_037.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_037.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_038.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_038.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_039.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_039.gif"></formula>                     .</td>
 </tr>
 </tbody>
 </table>
 <table border="1"><caption>Primitiva de funciones trigonométricas</caption>
 <tbody>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_040.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_040.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_041.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_041.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_042.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_042.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_043.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_043.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_044.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_044.gif"></formula>                     .</td>
 </tr>
 <tr>
-<td><formula alineacion="izquierda" src="FQ_MA_11_05_045.gif"></formula
-> </td>
+<td>                       <formula alineacion="izquierda"
+src="FQ_MA_11_05_045.gif"></formula>                     .</td>
 </tr>
 </tbody>
 </table>
@@ -310,9 +310,10 @@ este tipo de información se le llama <negrita>condición inicial</negrita
 >2</superindice> – 0 + <cursiva>C</cursiva></p>
 <p>Al resolver la ecuación se obtiene que <cursiva>C</cursiva> = 2.</p>
 <p>Así, la solución particular para la integral es:</p>
-<p centrado="si"><cursiva>F</cursiva>(<cursiva>x</cursiva>) = 5/3<cursiva
->x</cursiva><superindice>3</superindice> + <cursiva>x</cursiva><superindice
->2</superindice> – 3<cursiva>x</cursiva> + 2</p>
+<p centrado="si">                 <cursiva>F</cursiva>(<cursiva>x</cursiva
+>) = 5/3<cursiva>x</cursiva><superindice>3</superindice> + <cursiva
+>x</cursiva><superindice>2</superindice> – 3<cursiva>x</cursiva> +
+2</p>
 <p>Al igual que la derivación, la integración resulta un método útil
 para encontrar la ecuación de una recta o solucionar problemas de
 física o de otras áreas.</p>
@@ -328,14 +329,14 @@ en <cursiva>x</cursiva> = 0 es 4, entonces <cursiva>f ’</cursiva> (0)
 con <cursiva>f ’</cursiva> (0) = 4, como sigue:</p>
 <formula alineacion="centrada" src="FQ_MA_11_05_064.gif"></formula>
 <p>Se sustituye <cursiva>x</cursiva> = 0:</p>
-<p centrado="si"><cursiva>f ’</cursiva> (0) = (0)2 – (0) + <cursiva
->C</cursiva></p>
+<p centrado="si">                 <cursiva>f ’</cursiva> (0) = (0)2
+– (0) + <cursiva>C</cursiva></p>
 <p>Se sustituye <cursiva>f ’</cursiva> (0) = 4:</p>
 <p centrado="si">4 = <cursiva>C</cursiva></p>
 <p>De esa forma:</p>
-<p centrado="si"><cursiva>f ’</cursiva> (<cursiva>x</cursiva>) = <cursiva
->x</cursiva><superindice>2</superindice> – <cursiva>x</cursiva> +
-4</p>
+<p centrado="si">                 <cursiva>f ’</cursiva> (<cursiva
+>x</cursiva>) = <cursiva>x</cursiva><superindice>2</superindice> – <cursiva
+>x</cursiva> + 4</p>
 <p>En el campo de la física es posible analizar lo siguiente: si una
 partícula se mueve en línea recta, la función de posición <cursiva
 >s</cursiva>(<cursiva>t</cursiva>) es una antiderivada de su función
@@ -486,36 +487,38 @@ hacia arriba. Entonces <cursiva>v</cursiva> = <cursiva>ds</cursiva
 <formula alineacion="centrada" src="FQ_MA_11_05_090.gif"></formula>
 <p>Como <cursiva>v</cursiva> = 15 en <cursiva>t</cursiva> = 0, entonces
 se obtiene que <cursiva>C</cursiva> = 15, y así:</p>
-<p centrado="si"><cursiva>v</cursiva> = –10<cursiva>t</cursiva> +
-15</p>
+<p centrado="si">             <cursiva>v</cursiva> = –10<cursiva>t</cursiva
+> + 15</p>
 <p>Ahora, <cursiva>v</cursiva> = <cursiva>ds</cursiva>/<cursiva>dt</cursiva
 >, entonces:</p>
-<p centrado="si"><cursiva>ds</cursiva>/<cursiva>dt</cursiva> = –10<cursiva
->t</cursiva> + 15</p>
-<p centrado="si"><cursiva>ds</cursiva> = (–10<cursiva>t</cursiva> +
-15) <cursiva>dt</cursiva></p>
+<p centrado="si">             <cursiva>ds</cursiva>/<cursiva>dt</cursiva
+> = –10<cursiva>t</cursiva> + 15</p>
+<p centrado="si">             <cursiva>ds</cursiva> = (–10<cursiva
+>t</cursiva> + 15) <cursiva>dt</cursiva></p>
 <p>Al integrar ambos términos se obtiene</p>
 <formula alineacion="centrada" src="FQ_MA_11_05_091.gif"></formula>
-<p centrado="si"><cursiva>s</cursiva> = –5<cursiva>t</cursiva><superindice
->2</superindice> + 15<cursiva>t</cursiva> + <cursiva>K</cursiva></p>
+<p centrado="si">             <cursiva>s</cursiva> = –5<cursiva>t</cursiva
+><superindice>2</superindice> + 15<cursiva>t</cursiva> + <cursiva
+>K</cursiva></p>
 <p>Como <cursiva>s</cursiva> = 300 en <cursiva>t</cursiva> = 0, se
 calcula que <cursiva>K</cursiva> = 300, por tanto:</p>
-<p centrado="si"><cursiva>s</cursiva> = –5<cursiva>t</cursiva><superindice
->2</superindice> + 15<cursiva>t</cursiva> + 300</p>
+<p centrado="si">             <cursiva>s</cursiva> = –5<cursiva>t</cursiva
+><superindice>2</superindice> + 15<cursiva>t</cursiva> + 300</p>
 <p>Finalmente, en <cursiva>t</cursiva> = 4:</p>
-<p centrado="si"><cursiva>v</cursiva> = –10(4) + 15 = –25 m/s</p>
-<p centrado="si"><cursiva>s</cursiva> = –5(4)<superindice>2</superindice
-> + 15(4) + 300 = 280 m</p>
+<p centrado="si">             <cursiva>v</cursiva> = –10(4) + 15 =
+–25 m/s</p>
+<p centrado="si">             <cursiva>s</cursiva> = –5(4)<superindice
+>2</superindice> + 15(4) + 300 = 280 m</p>
 <p>Observa que si <cursiva>v</cursiva> = <cursiva>v<subindice>o</subindice
 ></cursiva> y <cursiva>s</cursiva> = <cursiva>s<subindice>o</subindice
 ></cursiva> en <cursiva>t</cursiva> = 0, se obtienen las conocidas
 fórmulas de caída libre de un cuerpo.</p>
-<p centrado="si"><cursiva>a</cursiva> = –10</p>
-<p centrado="si"><cursiva>v</cursiva> = –5<cursiva>t</cursiva> + <cursiva
->v<subindice>o</subindice></cursiva></p>
-<p centrado="si"><cursiva>s</cursiva> = –5<cursiva>t</cursiva><superindice
->2</superindice> + <cursiva>v<subindice>ot</subindice></cursiva> + <cursiva
->s<subindice>o</subindice></cursiva></p>
+<p centrado="si">             <cursiva>a</cursiva> = –10</p>
+<p centrado="si">             <cursiva>v</cursiva> = –5<cursiva>t</cursiva
+> + <cursiva>v<subindice>o</subindice></cursiva></p>
+<p centrado="si">             <cursiva>s</cursiva> = –5<cursiva>t</cursiva
+><superindice>2</superindice> + <cursiva>v<subindice>ot</subindice
+></cursiva> + <cursiva>s<subindice>o</subindice></cursiva></p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso070&amp;IdRecurso=RES-412742B74436428EB7621CD59EBB05D1"
@@ -699,7 +702,7 @@ rectos, sino gráficas de funciones, es necesario utilizar un proceso
 que se fundamenta en el concepto de límite.</p>
 <p>Por ejemplo, la siguiente gráfica muestra una región <cursiva>S</cursiva
 > en un plano coordenado, limitada por segmentos de rectas verticales
-que intersecan al eje <cursiva>X</cursiva> en el punto<br/> <cursiva
+que intersecan al eje <cursiva>X</cursiva> en el punto<br/><cursiva
 >x</cursiva> = <cursiva>a</cursiva> y en el punto <cursiva>x</cursiva
 > = <cursiva>b</cursiva>, por el eje <cursiva>X</cursiva> y por la
 gráfica de la función <cursiva>y</cursiva> = <cursiva>f</cursiva>(<cursiva
@@ -883,17 +886,17 @@ de 2 cm y 6 cm.</p>
 <p>             <negrita>Ejemplo 3</negrita>           </p>
 <p>Determinar el valor de las siguientes integrales, si:</p>
 <formula alineacion="centrada" src="FQ_MA_11_05_141.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_144.gif"></formula>
 <formula alineacion="izquierda" src="FQ_MA_11_05_142.gif"></formula>
 <p>Entonces:</p>
 <formula alineacion="centrada" src="FQ_MA_11_05_143.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_145.gif"></formula>
+<formula alineacion="izquierda" src="FQ_MA_11_05_144.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_145.gif"></formula>
 <p>Luego:</p>
-<formula alineacion="izquierda" src="FQ_MA_11_05_146.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_146.gif"></formula>
 <formula alineacion="izquierda" src="FQ_MA_11_05_147.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_148.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_148.gif"></formula>
 <formula alineacion="izquierda" src="FQ_MA_11_05_149.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_150.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_150.gif"></formula>
 <formula alineacion="izquierda" src="FQ_MA_11_05_151.gif"></formula>
 <p>Con esa información calcular</p>
 <formula alineacion="izquierda" src="FQ_MA_11_05_152.gif"></formula>
@@ -982,16 +985,16 @@ en los límites de integración, es decir, <cursiva>F</cursiva>(<cursiva
 >F</cursiva>(<cursiva>a</cursiva>) – <cursiva>F</cursiva>(<cursiva
 >b</cursiva>).</listaElemento>
 </listaNumerada>
-<p><negrita>Ejemplo 2</negrita></p>
+<p>             <negrita>Ejemplo 2</negrita>           </p>
 <p>Usando la regla de Barrow, evaluar las siguientes integrales</p>
 <formula alineacion="izquierda" src="FQ_MA_11_05_161.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_162.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_163.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_164.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_162.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_163.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_164.gif"></formula>
 <formula alineacion="izquierda" src="FQ_MA_11_05_165.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_166.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_167.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_168.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_166.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_167.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_168.gif"></formula>
 <p>Al calcular ese valor se obtiene aproximadamente 65,68.</p>
 <p>En ocasiones, es necesario utilizar algunos de los métodos de integración,
 que ya hemos visto, para calcular la integral definida y aplicar la
@@ -1006,9 +1009,9 @@ regla de Barrow.</p>
 <formula alineacion="izquierda" src="FQ_MA_11_05_170.gif"></formula>
 <p>Entonces, aplicando el segundo teorema fundamental del cálculo,
 se llega a:</p>
-<formula alineacion="izquierda" src="FQ_MA_11_05_171.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_172.gif"></formula>
-<formula alineacion="izquierda" src="FQ_MA_11_05_173.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_171.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_172.gif"></formula>
+<formula alineacion="centrada" src="FQ_MA_11_05_173.gif"></formula>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=MA_11_05_CO_Recurso160&amp;IdRecurso=RES-0F0A32A12995475EB00254C2E27D35FD"
@@ -1112,7 +1115,8 @@ y los intervalos donde es negativa.</p>
 <formula alineacion="centrada" src="FQ_MA_11_05_185.gif"></formula>
 <formula alineacion="centrada" src="FQ_MA_11_05_186.gif"></formula>
 <formula alineacion="centrada" src="FQ_MA_11_05_187.gif"></formula>
-<formula alineacion="centrada" src="FQ_MA_11_05_188.gif"></formula>
+<p centrado="si"><cursiva>A</cursiva> = (1 – 0) + |-1 - 1| +  (1 +
+1) = 1 + 2 + 2 = 5</p><?Pub Caret -3?>
 <seccion2 id="S2_MA_11_05_CO_780A044E1F7C48BA88E36FE262A05463">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
